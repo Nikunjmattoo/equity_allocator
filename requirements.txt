@@ -1,0 +1,14 @@
+# Core dependencies for Equity Allocator
+yfinance>=0.2.18
+pandas>=2.0.0
+numpy>=1.24.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+
+# Optional: For enhanced functionality
+requests>=2.31.0
+python-dateutil>=2.8.0
+
+# Development and testing
+pytest>=7.4.0
