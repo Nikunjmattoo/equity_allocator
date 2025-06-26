@@ -1,0 +1,291 @@
+symbol,statement_type,period_end,line_item,value
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,184140000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,2410000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-832020000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1012520000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2252650000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,70590000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1310720000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-213480000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-38280000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-70000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-101130000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Dividend Paid,-101130000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,2410000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,2410000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-74710000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-74710000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2113400000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,56210000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-594780000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1283200000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1877980000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-743230000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-743230000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-831600000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,420000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-832020000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1016160000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-115580000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-181550000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,178300000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-22170000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,80210000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,15360000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-464690000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-54250000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,74540000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,21920000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,238260000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Depreciation,238260000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-17520000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,120000.0
+EMUDHRA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1073980000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-13300000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2005690000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-738510000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2252650000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,669800000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-10410000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1593260000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,1762530000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,36760000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-16820000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-94100000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Dividend Paid,-94100000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,0.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2005690000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2005690000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-81790000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-81790000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-894480000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,21170000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,292620000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,848060000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-555440000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-472190000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-472190000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-736080000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,2430000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-738510000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,725210000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-109350000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-393250000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,143070000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-256210000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,62360000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-19010000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-458080000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-39120000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,41460000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,4410000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,208090000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,112560000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Depreciation,208090000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-7200000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,3480000.0
+EMUDHRA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,926620000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-285060000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-86000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,2000000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-620700000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,669800000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,82550000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,43960000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,543280000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,1274880000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-20000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-94830000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Dividend Paid,-94830000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,-86000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,-86000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,2000000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,2000000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-387410000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-189720000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-197690000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1067240000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,33050000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-479690000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,75000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-554690000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-620600000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,100000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-620700000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,335640000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-150680000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-423600000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,11350000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-254060000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,37000000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,11040000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-224610000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-16380000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,31640000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,9240000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,158450000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,84880000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Depreciation,73570000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-1960000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-60000.0
+EMUDHRA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,733790000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-251080000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-630000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-23210000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,168680000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-467130000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,82550000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,77130000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,6580000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1160000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,159820000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,38570000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-16410000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-2720000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Dividend Paid,-2720000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,0.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-630000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-630000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,235810000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,259020000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,168680000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-23210000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-23210000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-377030000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1610000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,88490000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,138490000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-50000000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-76950000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-76950000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-206880000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,23630000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-230510000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-467130000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-467130000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,216050000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-45270000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-316230000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,46730000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-128440000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,112800000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-14240000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-297900000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,13300000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,5240000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,670000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,130700000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,78440000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Depreciation,130700000.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+EMUDHRA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,504580000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-79300000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-19420000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Dividend Paid,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-37860000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-41440000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-41440000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,4230000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,-26010000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,3020000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,-29030000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-120000.0
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+EMUDHRA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+ASIANPAINT.NS,maxAge,86400
+ASIANPAINT.NS,totalEsg,25.43
+ASIANPAINT.NS,environmentScore,11.29
+ASIANPAINT.NS,socialScore,7.96
+ASIANPAINT.NS,governanceScore,6.18
+ASIANPAINT.NS,ratingYear,2023
+ASIANPAINT.NS,ratingMonth,9
+ASIANPAINT.NS,highestControversy,1.0
+ASIANPAINT.NS,peerCount,7
+ASIANPAINT.NS,esgPerformance,AVG_PERF
+ASIANPAINT.NS,peerGroup,Chemicals
+ASIANPAINT.NS,relatedControversy,"['Customer Incidents', 'Society & Community Incidents']"
+ASIANPAINT.NS,peerEsgScorePerformance,"{'min': 8.64, 'avg': 26.479999999999997, 'max': 36.68}"
+ASIANPAINT.NS,peerGovernancePerformance,"{'min': 3.35, 'avg': 5.804285714285714, 'max': 8.0}"
+ASIANPAINT.NS,peerSocialPerformance,"{'min': 0.98, 'avg': 8.207142857142857, 'max': 13.0}"
+ASIANPAINT.NS,peerEnvironmentPerformance,"{'min': 4.31, 'avg': 12.468571428571428, 'max': 17.28}"
+ASIANPAINT.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.0, 'max': 3.0}"
+ASIANPAINT.NS,percentile,50.77
+ASIANPAINT.NS,environmentPercentile,
+ASIANPAINT.NS,socialPercentile,
+ASIANPAINT.NS,governancePercentile,
+ASIANPAINT.NS,adult,False
+ASIANPAINT.NS,alcoholic,False
+ASIANPAINT.NS,animalTesting,False
+ASIANPAINT.NS,catholic,False
+ASIANPAINT.NS,controversialWeapons,False
+ASIANPAINT.NS,smallArms,False
+ASIANPAINT.NS,furLeather,False
+ASIANPAINT.NS,gambling,False
+ASIANPAINT.NS,gmo,False
+ASIANPAINT.NS,militaryContract,False
+ASIANPAINT.NS,nuclear,False
+ASIANPAINT.NS,pesticides,False
+ASIANPAINT.NS,palmOil,False
+ASIANPAINT.NS,coal,False
+ASIANPAINT.NS,tobacco,False

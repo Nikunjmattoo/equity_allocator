@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+MARUTI.NS,maxAge,86400
+MARUTI.NS,totalEsg,25.8
+MARUTI.NS,environmentScore,8.51
+MARUTI.NS,socialScore,9.09
+MARUTI.NS,governanceScore,8.2
+MARUTI.NS,ratingYear,2023
+MARUTI.NS,ratingMonth,9
+MARUTI.NS,highestControversy,2.0
+MARUTI.NS,peerCount,37
+MARUTI.NS,esgPerformance,AVG_PERF
+MARUTI.NS,peerGroup,Automobiles
+MARUTI.NS,relatedControversy,"['Employee Incidents', 'Customer Incidents']"
+MARUTI.NS,peerEsgScorePerformance,"{'min': 12.18, 'avg': 25.234324324324326, 'max': 37.9}"
+MARUTI.NS,peerGovernancePerformance,"{'min': 5.73, 'avg': 8.134054054054054, 'max': 11.24}"
+MARUTI.NS,peerSocialPerformance,"{'min': 3.28, 'avg': 10.213783783783784, 'max': 17.95}"
+MARUTI.NS,peerEnvironmentPerformance,"{'min': 2.13, 'avg': 6.886216216216217, 'max': 12.06}"
+MARUTI.NS,peerHighestControversyPerformance,"{'min': 0.0, 'avg': 2.324324324324324, 'max': 4.0}"
+MARUTI.NS,percentile,52.38
+MARUTI.NS,environmentPercentile,
+MARUTI.NS,socialPercentile,
+MARUTI.NS,governancePercentile,
+MARUTI.NS,adult,False
+MARUTI.NS,alcoholic,False
+MARUTI.NS,animalTesting,False
+MARUTI.NS,catholic,False
+MARUTI.NS,controversialWeapons,False
+MARUTI.NS,smallArms,False
+MARUTI.NS,furLeather,False
+MARUTI.NS,gambling,False
+MARUTI.NS,gmo,False
+MARUTI.NS,militaryContract,False
+MARUTI.NS,nuclear,False
+MARUTI.NS,pesticides,False
+MARUTI.NS,palmOil,False
+MARUTI.NS,coal,False
+MARUTI.NS,tobacco,False

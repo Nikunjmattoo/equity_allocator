@@ -1,0 +1,266 @@
+symbol,statement_type,period_end,line_item,value
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,5758100000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2634100000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,169400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,34600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-685200000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,End Cash Position,3099800000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,5360200000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-14700000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-2245700000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-4333000000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-384400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1225800000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,34600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,34600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-2464700000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-488100000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-657500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,169400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-1976600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1976600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-4356000000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,212500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,2028600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,72530500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-70501900000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-5919400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-5919400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-677700000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,7500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-685200000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,6443300000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1635500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1030100000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,239400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,334400000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1442700000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,507600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1507700000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,320200000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,28500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-12500000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1214900000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Depreciation,1214900000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-196100000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-194600000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,3900000.0
+SONATSOFTW.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,5736600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2551500000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-5468000000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,7193900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,36200000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-253900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,End Cash Position,5360200000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4174000000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,8900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1177300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1085000000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-324300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-2189100000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,36200000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,36200000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1725900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,185600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-790000000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,975600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,1540300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-4678000000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,6218300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-543100000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,332400000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-149900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,57107500000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-57257400000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-726400000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-726400000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,800000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,254700000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-253900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2805400000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2622600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-2094200000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1593600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-943800000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1767500000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-691800000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-3878900000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,2205200000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,38300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-545000000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1319300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,847600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Depreciation,1319300000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-127600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-220600000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,4100000.0
+SONATSOFTW.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,4613800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2273200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1451200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,5986100000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-411000000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4174000000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,875900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,7336900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-37100000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-4001700000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,1867500000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-2324100000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-17700000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-2324100000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,4534900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,22100000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-1451200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1473300000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,4512800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,4512800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-8553400000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,380800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-3229300000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,49503500000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-52732800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-5293900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-5293900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-411000000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-411000000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2684200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1754300000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1766100000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,576700000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-1526800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2543200000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-259000000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-3125800000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-130000000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,67900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-46500000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,591300000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,229400000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Depreciation,361900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-152300000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-163900000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,2500000.0
+SONATSOFTW.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,5972800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,4405400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1203100000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,685800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-96400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,End Cash Position,7336900000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,6406600000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-32200000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,962500000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2706000000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1869300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-27300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-1869300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-517300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-517300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-1203100000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,685800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-833300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,168500000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-762400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,25161100000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-25923500000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-143000000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-143000000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-96400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-96400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-96300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,4501800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1559200000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,622800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-1154600000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,151400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Change In Payable,4080800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,55500000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2523800000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-130100000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,3400000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,473200000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Depreciation,473200000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-55300000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-12600000.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+SONATSOFTW.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,5003600000.0
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-121800000.0
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,400000.0
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-18800000.0
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SONATSOFTW.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

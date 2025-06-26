@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1401200000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-8612000000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,12948100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-9026700000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,End Cash Position,4129700000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,103500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4667500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,100800000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-742100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,1235500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,70000000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1757600000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1352300000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,4336100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,4336100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-8612000000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,12948100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-12405500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,638400000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-2660500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,48952200000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-51612700000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-1381200000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-1381200000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-9002200000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,24500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-9026700000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,10427900000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1861300000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1289400000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,5237200000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-3407700000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1547500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,775900000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-3293500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,741800000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,58400000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,73500000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1585100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Depreciation,1585100000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-1152700000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,41300000.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+THERMAX.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,8847100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-5966400000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-5379200000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,9685500000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-8439400000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4667500000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4477300000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-44700000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,234900000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2854000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,597500000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-820900000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1127500000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,4306300000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,4306300000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-5379200000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,9685500000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-5092100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,871600000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,1256600000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,39882000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-38625400000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-35000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-35000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-7185300000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1254100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-8439400000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2473000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1863300000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-4759500000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1050000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-2307000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Change In Payable,690100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-92700000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-4439800000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,433100000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,48800000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-16300000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1480800000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,119000000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Depreciation,1480800000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-821900000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-56400000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1261200000.0
+THERMAX.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,8697800000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-2046600000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-3623100000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,8104400000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-6642200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4477300000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,3034400000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,158700000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,1284200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,3485400000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,379100000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-255700000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-1021300000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,4481300000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,4481300000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-3623100000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,8104400000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-6796800000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,695500000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-892900000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,33379600000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-34272500000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-100000000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-100000000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-6499400000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,142800000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-6642200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,4595600000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1512400000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-628000000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,4637800000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-2130700000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Change In Payable,385800000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-286200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-3144200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-484300000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,25200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,29200000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1168600000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,146900000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Depreciation,1021700000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-410600000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2600000.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+THERMAX.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,6032900000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,2409300000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-837800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,End Cash Position,3034400000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,4188100000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,20800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1174500000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-205800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-134700000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-788300000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,761900000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,761900000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4215800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,885300000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-4198300000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-4198300000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-65000000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-65000000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-837800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-837800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,3247100000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1030000000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-5400000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,3253900000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1154200000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Change In Payable,3549500000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-3222700000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2497000000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-267000000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-139800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1132400000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,137600000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Depreciation,994800000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-483300000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,34600000.0
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+THERMAX.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4099700000.0
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,6506800000.0
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,128700000.0
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+THERMAX.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

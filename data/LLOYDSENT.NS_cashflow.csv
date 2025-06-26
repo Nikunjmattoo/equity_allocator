@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,753110000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1764398000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,25718000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-691942000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,455917000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,7251000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,550276000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-101610000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,1399065000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,108435000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-222872000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-260056000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,25718000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,25718000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1764398000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,1764398000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1764398000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2945727000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,242602000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,112552000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-2553898000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2553898000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,123166000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,123166000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-19717000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3294000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-23011000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,-668931000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1445052000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-461940000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,384502000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,2084211000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-2839664000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,465304000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Prepaid Assets,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,1052244000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-386927000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-26651000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,1900000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,106825000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Depreciation,106825000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,50593000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-239352000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-44000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-89000.0
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+LLOYDSENT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1631451000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-719039000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,536175000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2317975000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-519123000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,550276000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,572713000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,258555000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-280992000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2610895000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-562000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-38094000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-187118000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2317975000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2317975000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,536175000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,536175000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,536175000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-2691971000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,606954000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,168440000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,49747000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-4255769000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-4255769000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,837071000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,883850000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,-46779000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,606954000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,606954000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,77039000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,87909000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-10870000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-508253000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-199916000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-416230000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-779844000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2207250000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,2737116000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,33480000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Prepaid Assets,-21625000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-210464000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1121198000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-129010000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,0.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,53811000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Depreciation,53811000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,61316000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-155707000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-742000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-954743000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-2127000.0
+LLOYDSENT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2127524000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,280972000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,272126000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,260550000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-348660000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,258555000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,121591000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,136964000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,226029000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-26780000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-279867000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,260550000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,260550000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,272126000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,272126000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,272126000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-718697000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-30000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,46080000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-182117000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-182117000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-43000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-43000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-348617000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,629632000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-108331000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,148330000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,866640000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,133020000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,151136000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-731994000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-289697000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-29070000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,14818000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Depreciation,14818000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,23000000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,853000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,5777000.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+LLOYDSENT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,574253000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1932738000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-23604000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,206727000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,158514000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-118956000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,121590000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,14966000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,10705000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,95919000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,340493000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,206727000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1144000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-21194000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,158514000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,158514000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-23604000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-21194000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-23604000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-23604000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,206727000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,1569208000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,21742000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,1670982000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,0.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,0.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-118956000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-1813782000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-4177000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1916930000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-57190000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1559533000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,33924000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-302379000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-30372000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-12647000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,7311000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Depreciation,7311000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,171000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1499745000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,862000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,40000.0
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+LLOYDSENT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1611330000.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,0.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,21194000.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,0.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,11249000.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-60000000.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-11249000.0
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+LLOYDSENT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-975600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-40500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,40500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,46800000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1231200000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,299500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,918000000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-2500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-616000000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-502100000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-17800000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-502200000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,46800000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,46800000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-40500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,40500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-369500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,3300000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,209400000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,10100000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,616000000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,7676200000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-7060200000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-5700000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-5700000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1202600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,22900000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1225500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,255600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-344200000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-801200000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-93300000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-426600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,5100000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-585600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,304500000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-204700000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,30100000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-9300000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,5600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,535800000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Depreciation,535800000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-13700000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-78600000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,14100000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-19700000.0
+NOCIL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1141400000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1654600000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-220100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,220100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,500000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-354600000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,918000000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,235700000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-300000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,682600000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-553000000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-16200000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-500700000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-500700000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,500000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,500000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-220100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,220100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-773600000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,3700000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,122100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,200000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-730600000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,7031100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-7761700000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-9900000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-9900000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-159100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,185600000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-344700000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2009200000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-401800000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,481000000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,33300000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-132300000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-96200000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,621300000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,81200000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-162500000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,7800000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-17800000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,2100000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,528000000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Depreciation,528000000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-11200000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-41000000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1900000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-173400000.0
+NOCIL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1799900000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2522500000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-200000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,200000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,11500000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-297300000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,235700000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,121700000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-300000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,114300000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-537700000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-12000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-499900000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-499900000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,11500000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,11500000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-200000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,200000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2167800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,4100000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,25000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,300000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1903100000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,1287200000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-3190300000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-2800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-2800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-291300000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,3200000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-294500000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2819800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-505100000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,795900000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,10800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,144600000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-897100000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,478500000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,1061800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-36000000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,13800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-6600000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,-5600000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,556800000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,6400000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Depreciation,550400000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-3900000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-14400000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2200000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,1600000.0
+NOCIL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,2020900000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-664400000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-400600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,400600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,29100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-362200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,121700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,448500000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-326600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-336000000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-10700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-331700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-331700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,29100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,29100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-400600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,400600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,311600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,3900000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,16600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,653000000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,2445200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-1792200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-28600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-28600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-333400000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-333600000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-302200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-597100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-2560100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,89000000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-39700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,455000000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1670800000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1390900000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-4100000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,3700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-26800000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,0.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,483400000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,4500000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Depreciation,478900000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-6200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-16200000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1000000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,15700000.0
+NOCIL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2406200000.0
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,33600000.0
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-7100000.0
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,4400000.0
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+NOCIL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

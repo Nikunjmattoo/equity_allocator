@@ -1,0 +1,226 @@
+symbol,statement_type,period_end,line_item,value
+VMART.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2233400000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+VMART.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+VMART.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,41500000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1260600000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,End Cash Position,394200000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,272300000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,121900000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-2149200000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1357700000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+VMART.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,41500000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,41500000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,389600000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,389600000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+VMART.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+VMART.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+VMART.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1222900000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+VMART.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,13100000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,10000000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,2677300000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2667300000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1246000000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,14600000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1260600000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,3494000000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-14200000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-503700000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,44500000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-171400000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1309900000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1707600000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1032000000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,160800000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+VMART.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2329900000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+VMART.NS,cashflow,2025-03-31 00:00:00,Depreciation,2329900000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-6400000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,26500000.0
+VMART.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,439600000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2628700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+VMART.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+VMART.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,7400000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1230300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,End Cash Position,272300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,180600000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,91700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2589800000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1426700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+VMART.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,7400000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,7400000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-378300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-378300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+VMART.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+VMART.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+VMART.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1177500000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-100000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,6900000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,42800000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1182700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1139900000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1227100000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3200000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1230300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,3859000000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-25900000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,1715700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,18700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-354600000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1487700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,545600000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1238800000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,-66300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+VMART.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2221300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,116400000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Depreciation,2221300000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-4400000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,23700000.0
+VMART.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-1305000000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-973600000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+VMART.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1478264000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,35200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2783200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,End Cash Position,180600000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,330400000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-149800000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-373600000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1163800000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-14800000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-14825000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,35200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,35200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1478300000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1478300000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+VMART.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1478264000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,
+VMART.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+VMART.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1585800000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+VMART.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,5100000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1188100000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,3982600000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2794500000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2779000000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2783200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1809600000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-181900000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-854900000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,175400000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-1026100000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1985000000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-2024100000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1112200000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,45400000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+VMART.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1799800000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,35400000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Depreciation,1764400000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-24100000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,35100000.0
+VMART.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-130100000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1624100000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,75819000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1511577000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,End Cash Position,301795000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,222283000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,79512000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-1044675000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-771924000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+VMART.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,75819000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,75819000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,1236710000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,678964000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,53889000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,2676360000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,8594494000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-5918134000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1493539000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,18038000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1511577000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-112523000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-118121000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1984986000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,86345000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-683551000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Change In Payable,991904000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2399154000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,547891000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,70377000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+VMART.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1306966000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,11455000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Depreciation,1295511000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-56005000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,16985000.0
+VMART.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,103967000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VMART.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-10725000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VMART.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+VMART.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+VMART.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VMART.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VMART.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VMART.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VMART.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+VMART.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+VMART.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+VMART.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+VMART.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-10465000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-260000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-260000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-700878000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+VMART.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+VMART.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+VMART.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+VMART.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+VMART.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VMART.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+VMART.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VMART.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+VMART.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+VMART.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VMART.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+VMART.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VMART.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+VMART.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,2277000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VMART.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,11272000.0
+VMART.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VMART.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+VMART.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VMART.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,196 @@
+symbol,statement_type,period_end,line_item,value
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-600536000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-75250000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-122824000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,293277000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,253594000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1000094000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,168476000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,474681000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-306205000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1080000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-314904000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,-75250000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,-75250000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,253594000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,253594000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,170453000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,170453000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-122824000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,293277000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-704683000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,4909000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-709592000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,290502000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1000094000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,399558000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-369288000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-72657000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-198535000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,50841000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-219894000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,58838000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,311951000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,458021000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Depreciation,458021000.0
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MAGNUM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,5666000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-348564000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-77250000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1506919000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1457428000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,756720000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-557125000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,474681000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,43593000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,431088000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,776906000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-41429000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,-77250000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,-77250000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,756720000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,756720000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-49491000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-49491000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1506919000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1457428000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-554379000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,1000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2745000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-557125000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-557125000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,208561000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,0.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-384905000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-80766000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-280752000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,67510000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,149718000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-250441000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,42790000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,443896000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Depreciation,443896000.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+MAGNUM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,48093000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,944075000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-45000000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1059433000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,195313000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-47162000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,43593000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,52612000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-9019000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-954983000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-28650000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,-45000000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,-45000000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,195313000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,195313000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1059433000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1059433000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1059433000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-45273000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1889000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-47162000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-47162000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,991237000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,0.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,95784000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,182244000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-17051000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1546000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-239367000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,157337000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,34561000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,167517000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Depreciation,167517000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-91000.0
+MAGNUM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,266725000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,25624000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-216402000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-203888000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,52612000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,87865000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-35254000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-65604000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-14122000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-216402000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-216402000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-216402000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-199162000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,4726000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-203888000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-203888000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,229512000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,15123000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-2947000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,23392000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-7875000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-81950000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,78046000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,16846000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,150769000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Depreciation,150769000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-33000.0
+MAGNUM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,78813000.0
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,32410000.0
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,32410000.0
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,5608000.0
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+MAGNUM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

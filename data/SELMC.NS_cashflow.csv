@@ -1,0 +1,226 @@
+symbol,statement_type,period_end,line_item,value
+SELMC.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,670029000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,
+SELMC.NS,cashflow,2025-03-31 00:00:00,End Cash Position,25636000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,29734000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-4099000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-697039000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-697039000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,22911000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1620000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2433000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,13425000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,5433000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,5433000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+SELMC.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,670029000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,0.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,497228000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,680607000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,25424000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-439091000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,81305000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,149883000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,694606000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-132922000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,-11683000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,937434000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Depreciation,937434000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-9928000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,1937000.0
+SELMC.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-1307199000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,371909000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-84178000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,156800000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,
+SELMC.NS,cashflow,2024-03-31 00:00:00,End Cash Position,29734000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,29426000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,307000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-522947000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,156800000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-595569000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-84178000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-84178000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-84178000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,156800000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,151345000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-41065000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,10428000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,144318000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,37664000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,37664000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,0.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,371909000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,0.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,1061399000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,242078000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,244779000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Change In Payable,113424000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,355221000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,107451000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,585141000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-145587000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,30963000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,951564000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Depreciation,951564000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+SELMC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-37664000.0
+SELMC.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-1929533000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,441140000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-293260000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-583000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,End Cash Position,29431000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,28476000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,955000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-604652000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-429749000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-174902000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,118358000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-293260000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-293260000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,163884000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-14751000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,27528000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,151107000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,151690000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-583000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,441723000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,0.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,1136514000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-163773000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,214298000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Change In Payable,600572000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-169412000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,657010000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,402221000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-116402000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,14255000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1015905000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Depreciation,1015905000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+SELMC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-151650000.0
+SELMC.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-1859122000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,345888000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,334575000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-6097000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,End Cash Position,28476000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,70996000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-42521000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-429015000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-8654000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-293813000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-126548000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-461123000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+SELMC.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,334575000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,334575000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,34509000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,5654000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,15055000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,44000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,14961000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1205000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,4892000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-6097000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,351985000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,378273000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,259627000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,12873000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Change In Payable,111024000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-131246000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,129410000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,278758000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-32374000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,0.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1056491000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Depreciation,1056491000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-11917000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-3533000.0
+SELMC.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-1313625000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,10439093000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,328034000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-13577000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-9309000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,328034000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,328034000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,9359738000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,0.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,9359738000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,10439093000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,41000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-13577000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-41000.0
+SELMC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SELMC.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

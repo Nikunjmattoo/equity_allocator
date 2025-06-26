@@ -1,0 +1,411 @@
+symbol,statement_type,period_end,line_item,value
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,630000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,630000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,321875800000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,324414000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,-280200600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,54493700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,-76406600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,-280200600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,730600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,-269189700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,-34370400000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,-269189700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,-269189700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,-275489700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,6300000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,6300000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,371453000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,241516800000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,412400000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,56000000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,235363500000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,544200000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,234819300000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,4016600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,129936200000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,8657900000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,89050500000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,186400000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,88864100000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,779500000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Payables,10001600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,10001600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,102263300000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,48733700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,249800000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Assets,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,5008300000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,5008300000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,36200000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,657700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,11010900000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,26735600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,26735600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,319700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,26415900000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,53529600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,2577200000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,103600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,59400000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Inventories Adjustments Allowances,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,15800000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,0.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,5597900000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,45175700000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,43368100000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1807600000.0
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+MTNL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,630000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,630000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,299427500000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,301412800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,-250735800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,63837000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,-43753200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,-250735800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,1134600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,-236441200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,3616500000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,-236441200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,-236441200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,12262900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,-264027200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,6650000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,6300000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,6300000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,343614600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,245952500000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,53000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,-953100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,479200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,62400000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,240731400000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,673700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,240057700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,3852000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,97662100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,2819300000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,60681400000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,460900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,60220500000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,9394300000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,830200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Payables,23424800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,12645000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,0.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,10779800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,107173400000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,53263600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,39700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Assets,273600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,2264000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,2264000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,35100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,677600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,14294600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,14294600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,29238700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-191847200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,221085900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,882100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,83505600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,109730900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,23260300000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,3707000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,53908900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,2591000000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,40600000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,84900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,0.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,2478700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,56900000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Inventories Adjustments Allowances,-279100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,308800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,27200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,0.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,44759700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,1100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,5124200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-12615200000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,17739400000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1362800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,512100000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,850700000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,58800000.0
+MTNL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,791900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,630000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,630000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,280076200000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,283509500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,-226192500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,73190700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,-65438700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,-226192500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,1769400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,-208549400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,-13476000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,-208549400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,-208549400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,7287800000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,-231199700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,6650000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,6300000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,6300000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,324989300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,201613300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,70800000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,-906600000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,556000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,66000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,196175000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,1101600000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,195073400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,3786000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,123376000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,3199300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,87334500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,667800000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,86666700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,9665700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Payables,21904600000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,11587900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,10316700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,116439900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,58502600000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,2000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,41400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Assets,277900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,1945300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,1945300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,30600000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,680300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,17643100000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,17643100000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,31959900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-190028900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,221988800000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,611500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,83348200000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,110763400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,23523500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,3742200000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,57937300000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,2680400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,1800000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,409700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,1536000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,2242500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,50500000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Inventories Adjustments Allowances,-278100000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,299000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,28700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,45584000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,5871400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-11981000000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,17852400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2240700000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,576800000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1663900000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,252400000.0
+MTNL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,1411500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,630000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,630000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,265072000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,268196200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,-207662300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,79382000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,-78054300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,-207662300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,2131500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,-186682700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,-21027200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,-186682700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,-186682700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,-192982600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,-202003900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,6650000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,6300000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,6300000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,309850100000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,173709800000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,85900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,655200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,69900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,167100300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,1444800000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,165655500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,3857200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,136140300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,3571300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,101095900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,686700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,100409200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,9462500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,251900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Payables,20646800000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,10145900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,23200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,10477700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,123167400000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,65081300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-300000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,63400000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Assets,239600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,1910100000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1910100000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,30700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,686200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,20979600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,20979600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,35256400000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-188279200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,223535600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,739800000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,83163900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,112682500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,23194900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,3754500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,58086000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,3786900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,39600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,0.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,3708600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,74900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Inventories Adjustments Allowances,-257000000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,301100000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,29900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,46067500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,6709700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-11368900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,18078600000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1485200000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,492500000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,992700000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,80900000.0
+MTNL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,911800000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,-176593600000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,6650000000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,62300000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,853400000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,9680100000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,1714600000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,10818100000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,14000000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,276900000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Assets,16600000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,31700000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,24318200000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-184128200000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,112119100000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,23067400000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,3752800000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,0.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,1533200000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,3057200000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Inventories Adjustments Allowances,-246300000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,312300000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,23700000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,900000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,0.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-10170400000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,17887600000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,109200000.0
+MTNL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,1161800000.0

@@ -1,0 +1,396 @@
+symbol,statement_type,period_end,line_item,value
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,221206154.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,221206154.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,20651020000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,22463260000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,6145800000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,32705320000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,-1443920000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,6145800000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,1178480000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,11420540000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,31053970000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,11420540000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,11420540000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,11199330000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,221210000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,221210000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,25252360000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,21754500000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,246330000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Derivative Product Liabilities,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,757490000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,20662860000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,1029430000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,19633430000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,85870000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,3497860000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,436210000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,1800400000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,149050000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,1651350000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,75740000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Payables,954420000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,954420000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,36672900000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,34618960000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,112750000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,241600000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,1074000000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,1074000000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,0.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,5274740000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,56390000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,5218350000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,27600110000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,27600110000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,954070000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,26646040000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,2053940000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,460110000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Inventory,41510000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,673260000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,879060000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,245300000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,633760000.0
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+SAMHI.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,220006495.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,220006495.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,19439780000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,21227010000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,5829670000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,31148860000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,-4538590000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,5829670000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,463550000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,10385400000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,25982380000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,10385400000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,10385400000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,198690000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,-23840530000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,33169360000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,220010000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,220010000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,24065770000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,16714990000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,151740000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Derivative Product Liabilities,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,122440000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,391050000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,15971270000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,374290000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,15596980000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,76740000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,7350780000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,31120000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,5255740000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,89260000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,5166480000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,62780000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Payables,1834810000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,565900000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,1268910000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,34451170000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,31638980000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,125270000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,218630000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,1940000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,1940000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,143010000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,4555730000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,27690000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,4528040000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,25205020000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-10393810000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,35598830000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,398730000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,24806290000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,8079010000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,16930690000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,10190400000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,2812190000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,347130000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,0.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,0.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,383630000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Inventory,40400000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,40400000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,295170000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,586750000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1506240000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,182560000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1323680000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,73070000.0
+SAMHI.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,1250610000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,218035326.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,218035326.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,25714270000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,27440330000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,-8174900000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,18823300000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,-6864590000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,-8174900000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,540570000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,-8076460000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,12476350000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,-8076460000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,-8076460000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,-8161790000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,85330000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,85330000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,30706490000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,21369600000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,261520000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Derivative Product Liabilities,0.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,13640000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,21000910000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,448100000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,20552810000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,52540000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,9336890000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,359550000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,6439420000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,92470000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,6346950000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,30830000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Payables,1399830000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,1399830000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,22630030000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,20157730000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,87400000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,500130000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,500130000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,146090000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,98440000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,31480000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,66960000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,19113850000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,0.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,19113850000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,202130000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,18911720000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Properties,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,2472300000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,432340000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,70000000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Inventory,32790000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,32790000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,260000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,6610000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,512680000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1424230000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,238740000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1185490000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,87320000.0
+SAMHI.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,1098170000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,218035326.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,218035326.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,24419260000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,26461340000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,-6506310000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,19544840000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,-1446510000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,-6506310000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,528100000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,-6388400000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,17353810000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,-6388400000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,-6388400000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,76580000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,-18186010000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,11006890000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,76270000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,76270000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,30254160000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,26200940000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,283210000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Derivative Product Liabilities,1584700000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,80650000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,45310000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,24173190000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,430980000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,23742210000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,44350000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,4053220000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,22890000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,9410000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,2288150000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,97120000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,2191030000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,21340000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Payables,1637100000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,412050000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,9410000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,1225050000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,23865760000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,21259050000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,103000000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,153950000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets,0.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,11580000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,11580000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,149170000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,117910000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,50950000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,66960000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,20389760000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-7895390000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,28285150000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,234960000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,27803110000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,7280470000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,13360820000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,7408900000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,2606710000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,380490000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,370000000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,27790000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,312370000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Inventory,25150000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,25150000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,24960000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,630000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,247830000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-35100000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,282930000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1584550000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,70570000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,1513980000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,1372910000.0
+SAMHI.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,141070000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,-13752500000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,11006890000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Derivative Product Liabilities,20420000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,1270000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,879470000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,146400000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets,3300000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-7149930000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,7459170000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,13781140000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,7547900000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,70000000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,96700000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,344570000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,28710000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,12050000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-34160000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,213580000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,1323590000.0
+SAMHI.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,127090000.0

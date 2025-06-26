@@ -1,0 +1,281 @@
+symbol,statement_type,period_end,line_item,value
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,37610000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-107650000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,187280000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,-1040000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-206490000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,97950000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,118100000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1300000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-21450000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-18160000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-27300000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-40440000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-7780000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,-1040000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,-1040000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,62370000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-17260000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,79630000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-107650000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,187280000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-247390000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,2190000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,8190000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,380000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-72780000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-120000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-120000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-204040000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,2450000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-206490000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,244100000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-54670000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-23210000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,10370000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-5330000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Change In Payable,75080000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-71940000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-31390000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,21170000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,620000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,78810000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Depreciation,78810000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-9470000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-320000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-4860000000.0
+HINDALCO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,223370000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,83280000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-97610000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,39900000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,-990000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-157280000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,118100000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,128380000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,90000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-10370000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-108170000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-11660000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-39120000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-6670000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-990000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,-990000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-44730000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,12980000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-57710000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-97610000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,39900000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-142760000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,140000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,5510000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,340000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,18560000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,18990000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-430000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-300000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-300000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-156780000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,500000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-157280000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,240560000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-26750000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,20730000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1660000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,9760000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-17310000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,26610000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,10000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,26810000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,570000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,75210000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,7850000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Depreciation,75210000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-730000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-80000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,850000000.0
+HINDALCO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,140120000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,94710000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-1310000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-96250000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,7010000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,-1250000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-97370000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,128380000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,116390000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,4570000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,7420000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-104500000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,32140000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-39500000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-8900000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-1250000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-1310000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,-1250000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-81870000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,7370000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-89240000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-96250000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,7010000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-80160000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,130000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,4450000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,340000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2710000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2710000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,70000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,240000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-170000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-96370000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1000000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-97370000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,192080000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-27330000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-4570000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-14640000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-10560000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-65270000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,28390000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,57510000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,27720000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,480000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,70860000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,8730000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Depreciation,62130000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-8610000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-920000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,410000000.0
+HINDALCO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,132410000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,114120000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-940000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-179440000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,141970000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,-730000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-54260000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,116390000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,83390000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,3010000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,29990000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-67650000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,21610000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-32500000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-6670000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-730000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-940000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,-730000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-45990000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-8520000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-37470000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-179440000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,141970000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-70740000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,90000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2070000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,320000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,45890000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,45890000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-3470000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,660000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-4130000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-53550000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,710000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-54260000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,168380000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-37730000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-91320000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,14800000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-17190000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Change In Payable,126830000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-136900000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-78860000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,31640000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,350000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,67290000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,8720000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Depreciation,58570000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-720000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1080000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,1000000000.0
+HINDALCO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,195740000000.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-2220000000.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,0.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-28180000000.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-55650000000.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,8660000000.0
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+HINDALCO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

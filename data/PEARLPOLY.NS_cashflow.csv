@@ -1,0 +1,206 @@
+symbol,statement_type,period_end,line_item,value
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-52775000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-995000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-4532000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,End Cash Position,11069000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,27623000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-16554000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1554000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-559000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-995000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-995000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-995000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,33243000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,7627000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,1906000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,28084000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4374000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,158000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4532000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-48243000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,433000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,13439000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Change In Payable,9177000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,5218000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-956000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-6791000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,4863000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Depreciation,4863000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-324000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-7150000.0
+PEARLPOLY.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-52713000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-76601000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1287000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-5701000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,End Cash Position,27623000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,16520000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,11103000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1826000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-539000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1287000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,0.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1287000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1287000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,83829000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,10319000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,2001000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,77145000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-5636000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,65000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-5701000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-70900000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2166000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-4853000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-3824000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-3347000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,2318000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-10065000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,6036000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,295000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Depreciation,6036000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-1400000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-61723000.0
+PEARLPOLY.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,3271000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-54203000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1911000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-6367000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,End Cash Position,16520000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,81040000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-64520000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2585000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-674000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1911000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1911000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1911000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-14099000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,10107000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,860000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-18714000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-6352000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,15000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-6367000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-47836000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1210000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,31399000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-28792000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,13234000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,46957000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-9557000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,5653000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,230000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Depreciation,5423000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,1291000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,4905000.0
+PEARLPOLY.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-80317000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,274555000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-278981000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-14490000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,End Cash Position,81040000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,22896000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,58144000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-282179000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-3198000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-278981000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-181622000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-181622000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-97359000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-97359000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,51278000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,4949000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,50000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-274011000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,320290000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,334780000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-14490000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,289045000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-58370000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,59718000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-289166000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,128527000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,220357000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-5534000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,7280000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,260000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Depreciation,7020000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,2067000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,5232000.0
+PEARLPOLY.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,278652000.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,19351000.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,13979000.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,13979000.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,5372000.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,659000.0
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+PEARLPOLY.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

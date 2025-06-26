@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+KEI.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-7298760000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1509880000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1950800000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,20010800000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-6976630000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,End Cash Position,10517410000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,6660770000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,580000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,3856060000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,19185360000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,30000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-556480000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-417640000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-417640000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,20010800000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,20010800000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,440920000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,440920000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+KEI.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,440920000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1509880000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1509880000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-15007170000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+KEI.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,264180000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,80000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-8328930000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-8328930000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-770000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-770000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-6941730000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,34130000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-6975860000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-322130000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-2261330000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-8147060000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-283080000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1209510000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-3875800000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-2778670000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,37410000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,48360000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-106630000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,701400000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+KEI.NS,cashflow,2025-03-31 00:00:00,Depreciation,701400000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,36470000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-580000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,7540000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-6910000.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+KEI.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,9369700000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2100120000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-385250000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,376200000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,11030000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-4004910000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,End Cash Position,6660770000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4798960000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,460000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1861350000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-717640000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+KEI.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-439100000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-280520000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-280520000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,11030000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,11030000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-9050000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-10250000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-385250000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,375000000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,1200000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1200000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-3526040000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+KEI.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,208950000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,60000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,265240000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,265240000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-5980000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-5980000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3994310000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,4620000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3998930000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6105030000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2045430000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-688620000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-94020000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Change In Payable,3146150000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-2404550000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1336200000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,226480000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,102990000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,34710000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,613550000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,7460000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Depreciation,613550000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,23790000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-380000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1540000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-890000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,2050000.0
+KEI.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,7809680000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,4159690000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-2255780000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,294620000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,19580000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-979380000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4798960000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,3590250000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,270000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,1208440000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2559310000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+KEI.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-347070000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-270660000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-270660000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,19580000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,19580000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1961160000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-1759270000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-2053890000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,294620000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-201890000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-201890000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1371320000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,10000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,155430000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,80000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-550310000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,21540000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-571850000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-4560000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-4560000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-971970000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,2850000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-974820000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,5139070000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1775530000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-349040000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-34500000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-190100000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-228830000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,104390000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,180430000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,14660000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-20470000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,570790000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,8420000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Depreciation,562370000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,81630000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-330000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-60560000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-430000.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+KEI.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,6420070000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1688210000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-707000000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1383040000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,56250000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-597300000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,End Cash Position,3590250000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,2201620000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,220000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1388410000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-313540000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-407980000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-403940000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-224340000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,56250000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,56250000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,676040000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,867260000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-515780000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,1383040000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-191220000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-191220000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+KEI.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-583560000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,2900000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,19020000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,30000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-9210000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,70840000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-80050000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-12720000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-12720000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-583580000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1000000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-584580000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2285510000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1247100000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-2504990000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-120480000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1230200000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-3166560000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-448150000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,383690000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,16590000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-5650000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,554540000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,9860000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Depreciation,544680000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,11830000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,140000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-50260000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-260000.0
+KEI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+KEI.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,5074930000.0
+KEI.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KEI.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+KEI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+KEI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+KEI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KEI.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KEI.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KEI.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+KEI.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KEI.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,101780000.0
+KEI.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KEI.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+KEI.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+KEI.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+KEI.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-333790000.0
+KEI.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KEI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+KEI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+KEI.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+KEI.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+KEI.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KEI.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+KEI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+KEI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KEI.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+KEI.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+KEI.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KEI.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KEI.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KEI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+KEI.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KEI.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+KEI.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KEI.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+KEI.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+KEI.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+KEI.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KEI.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,11410000.0
+KEI.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KEI.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+KEI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+KEI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+KEI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+KEI.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

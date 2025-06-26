@@ -1,0 +1,406 @@
+symbol,statement_type,period_end,line_item,value
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,1488051.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,81323656.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,82811707.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,4408170000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,7453260000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,3288460000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,4408170000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,7453260000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Preferred Stock Equity,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,7453260000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,7472800000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,19540000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,7453260000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,7046640000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,406620000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,406620000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Preferred Stock,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,1208550000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,234940000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,29590000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,35250000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,114760000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,973610000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,103340000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,116340000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,0.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,198010000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Payables,314340000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,314340000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,8681350000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,4419280000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,21010000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Assets,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,33790000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,33790000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Trading Securities,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,3045090000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,1790490000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,1254600000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1319390000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1319390000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,171430000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,1147960000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,4262070000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,812780000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Inventory,13990000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,46400000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,49310000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1454670000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1884920000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,872400000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1012520000.0
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+EMUDHRA.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,82811707.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,82811707.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,76410000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,4941580000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,6637640000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,3637780000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,4941580000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,1700000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,6562930000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Preferred Stock Equity,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,6562930000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,6620750000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,57820000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,6562930000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,62300000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,1952740000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,4070450000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,404200000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,404200000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Preferred Stock,0.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,879250000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,121990000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,28820000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,25660000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,28820000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,67220000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,290000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,290000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,757260000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,78330000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,227090000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,76120000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,1410000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,74710000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,176160000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Payables,388720000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,149030000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,70000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,239620000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,7500000000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,3104960000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,55270000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,32890000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Assets,22380000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,17110000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,17110000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Trading Securities,
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,1621350000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,1109970000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,511380000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,1411230000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-232380000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,1643610000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,303340000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,1107890000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,530680000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,717590000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,92000000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,4395040000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,860000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,1230000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,1710000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,61220000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Inventory,29360000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,29360000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,752470000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,22430000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1032880000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4410000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1037290000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2492880000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,240230000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,2252650000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,1220530000.0
+EMUDHRA.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,1032120000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,78072371.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,78072371.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,253220000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,3189010000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,4072460000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1923140000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,3189010000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,96720000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,3915960000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Preferred Stock Equity,
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,3915960000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,3924140000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,8180000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,3915960000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,27190000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,1295960000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,2140860000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,374870000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,374870000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Preferred Stock,0.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,675310000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,115280000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,50000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,27610000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,50000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,25650000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,61970000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,61970000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,0.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,27610000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,560030000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,62300000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,66790000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,191250000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,34750000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,156500000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,39590000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Payables,257930000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,75750000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,40000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,182140000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,4599450000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,2116280000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,4900000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,10140000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Assets,0.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,18670000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,18670000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Trading Securities,
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,726950000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,687760000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,39190000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1365760000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-226840000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1592600000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,366050000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,999710000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,428500000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,708800000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,89250000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,2483170000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,300000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,0.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,5300000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,44380000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Inventory,10340000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,10340000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,562650000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,0.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,672240000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-8540000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,680780000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1187960000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,518160000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,669800000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,24000000.0
+EMUDHRA.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,645800000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,78072371.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,78072371.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,461360000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,671310000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,850720000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1985970000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,207630000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,936720000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,127400000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,1442060000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Preferred Stock Equity,86000000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,1725750000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,1541020000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,12960000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,1528060000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,5240000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,860020000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,197430000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,436900000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,350900000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Preferred Stock,86000000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,1050380000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,349350000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,27490000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,2980000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,17920000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,300960000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,103270000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,197690000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,701030000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,-10000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,67470000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,370350000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,24130000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,346220000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,780000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,44020000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Payables,180070000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,36350000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,0.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,143720000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,2591400000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,1682740000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-20000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,21490000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Assets,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,0.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Trading Securities,0.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,591340000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,562060000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,29280000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,1012510000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-153350000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,1165860000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,249350000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,274730000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,552530000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,89250000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,908660000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,50000000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,50170000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Inventory,21380000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,21380000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,262330000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,442230000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4740000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,446970000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,82550000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,82550000.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,0.0
+EMUDHRA.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,82550000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,281870000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Preferred Stock Equity,86000000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,447290000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,200890000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Preferred Stock,86000000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,14680000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,220910000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,5100000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,95430000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,15640000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,137870000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Trading Securities,0.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-100680000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,113780000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,688570000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,89250000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,10000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,970000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,48360000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,7130000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,0.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,149100000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,620000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,40000000.0
+EMUDHRA.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,37130000.0

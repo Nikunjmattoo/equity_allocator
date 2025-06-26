@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+IKIO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-608260000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-958930000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,118930000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,140600000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-21670000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-331570000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,83550000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-291390000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-8660000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-282730000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-40770000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,10000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,109060000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,791630000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-941470000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,17460000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-958930000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,350670000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-188440000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-139980000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,28470000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-63970000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Change In Payable,127130000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-64320000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-164890000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-21580000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,0.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,50720000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,242720000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Depreciation,242720000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-21480000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-250000.0
+IKIO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,424470000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-889040000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-695610000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,200000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,3500000000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-837020000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,140800000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,23060000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,117740000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2656680000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,200000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-95720000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,3500000000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,3500000000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-695610000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-241550000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-554440000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-454060000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-141170000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,200000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-2486920000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+IKIO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,88230000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1762240000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-812910000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,24110000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-837020000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-52020000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-297170000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-687990000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-68510000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-209600000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-27050000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-145370000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-225120000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-16440000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,0.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-4390000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,120000000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Depreciation,120000000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-14860000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1310000.0
+IKIO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,845100000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,371640000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-104340000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,118460000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+IKIO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-196500000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,23060000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,6500000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,16560000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,24390000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-77450000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+IKIO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-80480000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+IKIO.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,14120000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,82100000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-19280000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,101380000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-67980000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-85060000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,17080000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-498520000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+IKIO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,820000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,14020000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-319350000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-319350000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-194010000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,2490000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-196500000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,568140000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-189790000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-24700000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-24560000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,36780000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-271870000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,49580000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,181100000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,82090000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+IKIO.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-5140000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,57870000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Depreciation,57870000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-16480000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-110000.0
+IKIO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,658250000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-246550000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,330690000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-91710000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,21800000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,32830000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-11030000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,235890000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-76720000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,372050000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,330690000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,330690000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,41360000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,41360000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-92080000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1650000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2020000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-91710000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-154840000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-156030000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-790660000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,35170000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-83570000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1100000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-519210000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-231320000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,45920000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,190000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,50820000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Depreciation,50820000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+IKIO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,220000.0
+IKIO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,694700000.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,49080000.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+IKIO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-45140000.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,49080000.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,175890000.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+IKIO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

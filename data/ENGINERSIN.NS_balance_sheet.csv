@@ -1,0 +1,396 @@
+symbol,statement_type,period_end,line_item,value
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,562042373.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,562042373.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,221364000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,26624083000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,26692809000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,4753124000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,26624083000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,221364000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,26692809000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,26692809000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,26692809000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,0.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,26692809000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,23882596000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,25961852000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,305384000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,32463000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,96164000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,96164000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,151517000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,25656468000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,10342848000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,125200000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,125200000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,6496564000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Payables,4811523000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,52168000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,4759355000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,52654661000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,22245069000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,234231000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,3258288000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,9404375000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,9404375000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,4507910000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,312052000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,68726000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,68726000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,3023703000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,3023703000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,456734000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,2566969000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,30409592000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,4231752000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,16425000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Inventory,6961000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,246350000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,4444295000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,21463809000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,20077397000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1386412000.0
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+ENGINERSIN.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,562042373.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,562042373.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,330163000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,22504293000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,22553138000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,2540013000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,22504293000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,330163000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,22553138000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,22553138000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,22553138000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,0.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,22553138000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,19742925000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,262282000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,559154000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,24865574000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,454957000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,114616000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,123419000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,114616000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,193953000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,193953000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,123419000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,24410617000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,6147746000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,35942000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,136210000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,136210000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1006048000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,7527702000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Payables,5431250000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,223788000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,16755000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,753948000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,4436759000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,47418712000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,20468082000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,192825000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,321561000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,3491314000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,8839898000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,8839898000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,3519868000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,306388000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,48845000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,48845000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,2979940000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-1797389000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,4777329000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,359294000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,7872000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,1304635000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,2702007000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,123735000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Properties,279786000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,26950630000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,-1482000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,161000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,112453000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,3722669000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Inventory,40667000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,34493000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,6174000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,6345115000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,0.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,3358167000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1288059000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,4646226000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,13372880000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,10866274000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,2506606000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,447165000.0
+ENGINERSIN.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,2059441000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,562042373.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,562042373.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,188808000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,19592171000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,19615189000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1024749000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,19592171000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,188808000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,19615189000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,19615189000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,19615189000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,0.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,19615189000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,16804976000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,-671146000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,559154000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,24264767000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,280893000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,14051000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,114974000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,14061000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,128807000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,128807000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,114974000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,23983874000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,6602328000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,15523000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,60001000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,60001000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,808316000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,7349061000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Payables,4610675000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,161193000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,19593000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,963627000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,3466262000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,43879956000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,18871333000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,218428000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,1086001000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,3369489000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,7973366000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,7973366000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,2668393000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,2668393000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,304077000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,23018000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,23018000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,2720980000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-1660557000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,4381537000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,259193000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,7872000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,1123205000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,2542403000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,125088000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Properties,323776000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,25008623000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,-1815000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,906000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,277568000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,4063877000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Inventory,59056000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,47551000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,11505000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,5010770000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,4478000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,3678314000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1480828000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,5159142000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,11919947000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,11285144000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,634803000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,22500000.0
+ENGINERSIN.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,612303000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,562042373.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,562042373.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,37215000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,17681064000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,17700408000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,375496000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,17681064000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,37215000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,17700408000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,17700408000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,17700408000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,0.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,17700408000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,14890195000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,149304000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,559154000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,2810213000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,24073985000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,138926000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,3633000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,108729000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,3633000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,13011000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,13011000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,108729000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,23935059000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,7047622000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,17068000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,24204000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,24204000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,650483000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,7903179000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Payables,4094460000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,102346000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,20981000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,766236000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,3204897000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,41774393000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,17463838000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,235753000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,724355000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,3401079000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,7444000000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,7444000000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,2581148000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,2581148000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,312339000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,19344000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,19344000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,2362937000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-1496726000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,3859663000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,64629000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,7874000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,832509000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,2523482000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,126441000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Properties,304728000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,24310555000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,-1231000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,161000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,235189000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,1878123000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Inventory,51874000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,28641000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,23233000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,3987819000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,0.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,3861238000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1243953000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,5105191000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,14297382000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,13999269000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,298113000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,44003000.0
+ENGINERSIN.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,254110000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,69869047.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,1469811000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,559154000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,99604000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,16455000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,251912000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,854131000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,85199000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,23233000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,654748000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,4168546000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1052914000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,691139000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,2455050000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,29791000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,140466000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,2043754000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,10099000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,20949000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,19244000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1432057000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,6758491000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,439784000.0
+ENGINERSIN.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,250600000.0

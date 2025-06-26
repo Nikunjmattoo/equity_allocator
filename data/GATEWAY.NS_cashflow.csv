@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,3687764000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-889975000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-160920000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,End Cash Position,135727000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,60116000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,75611000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,5509000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-2670231000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-474427000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-999327000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-889975000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-889975000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-889975000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1108351000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,22515000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,77575000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-453594000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1927473000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2381067000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-603991000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-603991000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-150856000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,10064000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-160920000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,3848684000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-354132000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,283458000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,133722000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,99332000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Change In Payable,413533000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,1216000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-322577000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-1063214000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1151863000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,30972000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Depreciation,1120891000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-37406000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-5778000.0
+GATEWAY.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3869694000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2279357000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1860737000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,767650000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-755120000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,End Cash Position,60116000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,731314000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-671198000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2720583000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-465427000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-999288000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1093087000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1093087000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1860737000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,767650000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-985092000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,50672000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,69754000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-82141000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,741288000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-823429000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-464231000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-464231000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-559146000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,195974000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-755120000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,3034477000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-427759000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-409373000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-176324000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-200117000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Change In Payable,158274000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,0.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-202186000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,324300000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,40000000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,949175000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,27403000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Depreciation,921772000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-4448000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1125000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-9921000.0
+GATEWAY.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2612904000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1083665000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1272918000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,750000000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2158005000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,End Cash Position,731314000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1709080000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-977766000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2146782000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-167550000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-457026000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-999288000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-522918000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-522918000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1272918000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,750000000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2072654000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,44399000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,50441000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-20216000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,4961792000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-4982008000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2147278000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,10727000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2158005000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3241670000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-378860000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-104740000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-14612000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-157881000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Change In Payable,217739000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-189389000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,288879000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,12214000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1039351000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,26692000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Depreciation,1012659000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-29677000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10324000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-8887000.0
+GATEWAY.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,2462823000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,3062208000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-3667334000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,3202267000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-593445000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1709080000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,590362000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1118718000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2107681000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-361737000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-528096000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-624699000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-465067000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-465067000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-3667334000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,3202267000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-429254000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,41127000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-21650000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-21650000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-448731000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,144714000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-593445000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,3655653000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-330358000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,248541000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-148434000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,198374000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Change In Payable,107175000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,97116000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,453745000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,23116000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1276686000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,26312000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Depreciation,1250374000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-382000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-10581000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-98776000.0
+GATEWAY.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2101160000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,380689000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,1132803000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-500245000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,1132803000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,1132803000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,380689000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-388161000.0
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GATEWAY.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

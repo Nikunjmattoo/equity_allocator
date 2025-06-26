@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,5331430000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-4763210000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,301240000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1214740000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,End Cash Position,5416970000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,3539540000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,122260000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,1755170000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-6096040000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-876060000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-348900000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-46950000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,-4461970000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,-4763210000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,301240000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,1305040000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,250670000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,20710000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,2184990000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,24534940000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-22349950000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1151330000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,63410000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1214740000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,6546170000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1640120000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-821320000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-424210000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Change In Payable,214270000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,4180000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-929750000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,109060000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,405360000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,900000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1411930000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Depreciation,1411930000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-191710000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,80870000.0
+ECLERX.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,7185310000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,4585010000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-458650000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-9850000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,150220000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-673910000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,End Cash Position,3539540000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-5000000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4180070000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,44400000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-679930000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1065060000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-5740000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-234840000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-48220000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-308430000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-458650000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,150220000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-9850000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-9850000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-9850000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4873790000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,5000000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,205930000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,-10000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-4442210000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,16666940000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-21109150000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-642500000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,31410000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-673910000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,5258920000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1723130000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1348240000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-809670000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Change In Payable,46450000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1910000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-907280000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-51710000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,188440000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,2730000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1482720000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Depreciation,1482720000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-178770000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-13910000.0
+ECLERX.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,6893360000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,4018150000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-3341020000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,8190000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,218620000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-907590000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4180070000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,4203020000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,295940000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-318890000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-4400860000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-650950000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-211370000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-33290000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-3122400000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-3341020000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,218620000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,8190000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,8190000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,8190000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-843770000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,64570000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,20000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-7790000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,17190940000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-17198730000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-900570000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,7020000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-907590000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,4925740000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1782030000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-872590000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-31100000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Change In Payable,197930000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,690000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1124010000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,73770000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,74400000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,6720000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1140140000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,199950000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Depreciation,940190000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-147820000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-95790000.0
+ECLERX.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,6529900000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,3831200000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-3147090000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-3510000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,281960000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-608410000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,End Cash Position,4203020000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3490200000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,56770000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,656050000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-4163390000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-682380000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-215200000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-34160000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-2865130000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-3147090000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,281960000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-3510000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-3510000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-3510000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,379830000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,42650000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,-260000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,1080660000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,14112500000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-13031840000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-137980000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-137980000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-605240000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3170000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-608410000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,4439610000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1641700000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-703950000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-706940000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Change In Payable,150450000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2040000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-373840000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,152350000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,42260000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,3800000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1031930000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,195370000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Depreciation,836560000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-63700000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,12530000.0
+ECLERX.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,5604870000.0
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-8160000.0
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-8160000.0
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-2160710000.0
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-2160710000.0
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,99440000.0
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ECLERX.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

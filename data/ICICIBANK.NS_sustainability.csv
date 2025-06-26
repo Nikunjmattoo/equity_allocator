@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+ICICIBANK.NS,maxAge,86400
+ICICIBANK.NS,totalEsg,23.96
+ICICIBANK.NS,environmentScore,2.06
+ICICIBANK.NS,socialScore,9.81
+ICICIBANK.NS,governanceScore,12.09
+ICICIBANK.NS,ratingYear,2023
+ICICIBANK.NS,ratingMonth,9
+ICICIBANK.NS,highestControversy,3.0
+ICICIBANK.NS,peerCount,16
+ICICIBANK.NS,esgPerformance,AVG_PERF
+ICICIBANK.NS,peerGroup,Banks
+ICICIBANK.NS,relatedControversy,['Business Ethics Incidents']
+ICICIBANK.NS,peerEsgScorePerformance,"{'min': 16.14, 'avg': 26.053749999999997, 'max': 44.83}"
+ICICIBANK.NS,peerGovernancePerformance,"{'min': 6.81, 'avg': 12.520714285714288, 'max': 19.69}"
+ICICIBANK.NS,peerSocialPerformance,"{'min': 7.12, 'avg': 11.787142857142856, 'max': 22.64}"
+ICICIBANK.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 1.8957142857142855, 'max': 2.63}"
+ICICIBANK.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.375, 'max': 5.0}"
+ICICIBANK.NS,percentile,44.4
+ICICIBANK.NS,environmentPercentile,
+ICICIBANK.NS,socialPercentile,
+ICICIBANK.NS,governancePercentile,
+ICICIBANK.NS,adult,False
+ICICIBANK.NS,alcoholic,False
+ICICIBANK.NS,animalTesting,False
+ICICIBANK.NS,catholic,False
+ICICIBANK.NS,controversialWeapons,False
+ICICIBANK.NS,smallArms,False
+ICICIBANK.NS,furLeather,False
+ICICIBANK.NS,gambling,False
+ICICIBANK.NS,gmo,False
+ICICIBANK.NS,militaryContract,False
+ICICIBANK.NS,nuclear,False
+ICICIBANK.NS,pesticides,False
+ICICIBANK.NS,palmOil,False
+ICICIBANK.NS,coal,False
+ICICIBANK.NS,tobacco,False

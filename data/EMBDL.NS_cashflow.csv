@@ -1,0 +1,291 @@
+symbol,statement_type,period_end,line_item,value
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,14069240000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-21018020000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,4060210000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,3350000000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-539460000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1790190000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,662960000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1153000000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-25770000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-19707430000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-6099620000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,3350000000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,3350000000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-16957810000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-16957810000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-21018020000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,4060210000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,5072960000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,6601890000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,663230000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-6329430000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,231460000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-6560890000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,104680000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,104680000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,4572050000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,4572450000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-400000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-539460000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-539460000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,14608700000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-416220000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,15393560000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-7484590000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,2703390000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2737760000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,14493020000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,2943980000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,898380000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,96370000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,147600000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Depreciation,147600000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-2053900000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-13700000.0
+EMBDL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,553190000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,5985500000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-11151880000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,9439430000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-915660000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1153000000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1592680000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-439670000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2438530000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,3574820000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-4300900000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1712450000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,676000000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,676000000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1712450000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-11151880000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,9439430000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4902300000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-4566900000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,48540000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,8790000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,11550000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2760000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,100000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,100000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,522830000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,522830000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-915660000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-915660000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6901160000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-102250000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,6378420000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-5714770000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,1374510000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,165300000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,6060240000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,4493140000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,5794020000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,66810000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,65650000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1300000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Depreciation,65650000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,23400000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,308870000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,13500000.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+EMBDL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-5271780000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-3437300000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-13529000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,2880000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,8540700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-8600000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,367400000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,500000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-132600000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,-1400000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3310600000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1114000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,8540700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,8540700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-10649000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-10649000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-13529000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,2880000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,6608100000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,236300000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,432400000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,6382400000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-5950000000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,8527600000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,8527600000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1800000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,6800000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-8600000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-3428700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,857700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,634500000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-2356900000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,744500000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1082700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-810700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,1974900000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-214200000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,10900000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,138700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,121300000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Depreciation,121300000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,43300000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-57500000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,372200000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,7700000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-336100000.0
+EMBDL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-5626700000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2482500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-8505600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,9555000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,82500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-5300000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,500000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,811600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-311600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-638100000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1712200000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,82500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,82500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1049400000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1049400000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-8505600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,9555000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,2803700000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,900000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,188500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-549900000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,175100000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-725000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2200000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3100000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5300000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-2477200000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,240000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-3864500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-7462200000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-4031600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,436500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,7072600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,120200000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,889300000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,25000000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,206800000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,121500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Depreciation,121500000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,169600000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-35900000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,1900000.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+EMBDL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-269900000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-139322000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-139322000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-800000000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,800000000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,2067000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,1611000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,36852000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,3808000.0
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+EMBDL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

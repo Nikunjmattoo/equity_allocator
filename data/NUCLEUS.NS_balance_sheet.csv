@@ -1,0 +1,381 @@
+symbol,statement_type,period_end,line_item,value
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,26325306.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,26325306.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,20000000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,8128900000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,8142200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,2618100000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,8128900000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,20000000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,8142200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,8142200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,8142200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,0.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,8142200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,7878900000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,263300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,263300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,3387300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,561800000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,149900000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,8800000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,8800000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,403100000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,2825500000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,2016000000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,11200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,11200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,55600000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Payables,221500000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,92500000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,129000000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,11529500000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,6085900000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,93000000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,5291700000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,5291700000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Trading Securities,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,127100000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,13300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,13300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,472500000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,472500000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,2200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,470300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,5443600000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,449200000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,3400000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1374100000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3616900000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,3112300000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,504600000.0
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+NUCLEUS.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,26773324.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,26773324.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,45900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,7754500000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,7774400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,3164200000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,7754500000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,45900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,7774400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,7774400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,7774400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,0.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,7774400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,7506700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,7294700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,56100000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,267700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,267700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,3365800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,412400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,80300000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,18100000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,18100000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,314000000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,2953400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,2245700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,27800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,27800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,51200000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Payables,817900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,647300000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,2700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,3300000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,164600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,11140200000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,5022600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,88800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,113200000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,4186100000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,340000000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,1093500000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1423800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Trading Securities,1328800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,130000000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,19900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,19900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,442100000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-486400000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,928500000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,441200000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,592600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,281800000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,53200000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,6117600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,423500000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,4500000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,5700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,200600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,234000000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1661600000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-46100000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1707700000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4009900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,3554900000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,455000000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,72000000.0
+NUCLEUS.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,383000000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,26773324.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,26773324.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,62600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,6078400000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,6106600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,2504200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,6078400000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,62600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,6106600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,6106600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,6106600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,0.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,6106600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,5838900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,5680700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,56100000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,267700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,267700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,2635200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,305100000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,19800000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,38700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,38700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,246600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,2330100000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,1681800000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,23900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,23900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,50200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Payables,820400000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,571000000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,3200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,123400000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,122800000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,8741800000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,3907500000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,17900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,42100000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,3246000000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,346300000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,320600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1339100000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Trading Securities,1240000000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,133000000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,28200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,28200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,351800000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-456600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,808400000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,4300000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,114100000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,526600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,223600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,53900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,4834300000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,1700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,2600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,7400000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,161800000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,144300000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,3300000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,1746300000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-16700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,1763000000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2766900000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,2266200000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,500700000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,159600000.0
+NUCLEUS.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,341100000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,26773324.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,26773324.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,23300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,4864300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,4936000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,2377100000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,4864300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,23300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,4936000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,4936000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,4936000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,0.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,4936000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,4668300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,4559800000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,56100000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,267700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,267700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,2433400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,257200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,4700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,4700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,249400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,2176200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,18600000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,18600000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,53900000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Payables,699800000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,550200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,3400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,3500000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,142700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,7369400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,2816100000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,6400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,19300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,1300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,2038300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,614000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,127500000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1296800000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Trading Securities,0.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,135900000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,71700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,71700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,385300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-371200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,756500000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,75000000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,510500000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,167200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,3400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,4553300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,500000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,1100000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,2200000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,9600000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,116700000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,175400000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,6100000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,831900000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-14900000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,846800000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3409800000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,3058500000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,351300000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,107900000.0
+NUCLEUS.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,243400000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,6242800000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,43400000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,600000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,105200000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,44900000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,33800000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,441500000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,3600000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,37100000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,773700000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,939600000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Trading Securities,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-303100000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,364400000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,167200000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,3400000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,3700000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,400000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,8800000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,86500000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,5000000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-18100000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,910300000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,34600000.0
+NUCLEUS.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,282900000.0

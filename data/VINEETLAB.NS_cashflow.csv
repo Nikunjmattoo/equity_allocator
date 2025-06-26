@@ -1,0 +1,331 @@
+symbol,statement_type,period_end,line_item,value
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,104458000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-44524000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,2000000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-10451000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,End Cash Position,3068000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2278000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,789000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-82301000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-1000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-39776000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Dividend Paid,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-42524000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-38185000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-38185000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-4339000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-6339000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2000000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-31819000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-1500000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,-19868000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-10451000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-10451000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,114909000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1223000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,239516000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,13400000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,33490000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Change In Payable,13586000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-5769000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,183568000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,59644000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,25016000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Depreciation,25016000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-247000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-42000.0
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+VINEETLAB.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-207755000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-93996000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-58733000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,190841000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-27887000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2278000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,6307000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-4029000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,84298000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-47810000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Dividend Paid,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,0.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,132108000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,138961000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,138961000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-6853000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-58733000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,51880000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-22218000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,1037000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,4632000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,1037000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-27887000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-27887000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-66109000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2528000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-135035000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-98564000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-15510000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-26299000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-32199000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,35592000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,43178000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,25190000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Depreciation,25190000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-481000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-68000.0
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+VINEETLAB.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,3634000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-172504000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,45752000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-76342000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,End Cash Position,6307000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,166594000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-160287000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2731000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-33802000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-9219000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Dividend Paid,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-9219000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,45752000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,4061000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,4061000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,41691000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,41691000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-66856000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1230000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,8255000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,8256000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-76342000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-76342000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-96162000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-29892000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-146261000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,55776000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,34367000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-262551000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-26339000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,50696000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,32572000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,23726000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Depreciation,23726000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,22000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,3372000.0
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+VINEETLAB.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,20299000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,76322000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,140408000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,End Cash Position,166594000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,7509000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,159085000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,119551000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-20857000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Dividend Paid,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,140408000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,140408000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,140408000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-36788000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-1000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1624000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-38412000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-38412000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,76322000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-31833000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-24335000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-13251000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-98167000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Change In Payable,41042000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-38541000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,65156000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,18879000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-31833000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,20157000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Depreciation,20157000.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+VINEETLAB.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,93455000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,88090000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Dividend Paid,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,88090000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,88090000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-78513000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-78513000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,12787000.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+VINEETLAB.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,406 @@
+symbol,statement_type,period_end,line_item,value
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,395910.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,89894446.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,90290356.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,777036000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,16197684000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,17548436000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,13600151000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,16197684000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,235519000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,17006919000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,17408955000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,17359101000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,352182000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,17006919000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,16916629000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Treasury Stock,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,90290000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,90290000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,3131135000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,691429000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,4500000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,1500000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,573778000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,171742000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,402036000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,111651000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,2439706000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,656798000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,203258000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,63777000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,139481000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,198534000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Payables,283003000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,28320000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,254683000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,20490236000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,4450379000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,35882000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,44453000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Investments,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,2214885000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,2214885000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,809235000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,107429000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,701806000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1345027000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1345027000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,35538000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,1309489000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,16039857000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,512099000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Inventory,1192675000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,24303000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,129258000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,4104267000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,10077255000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,9335715000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,741540000.0
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+ZENTEC.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,517710.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,83526550.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,84044260.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,60338000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,4409993000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,4492432000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,3484361000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,4409993000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,54188000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,4486282000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,4486282000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,4662918000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,176636000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,4486282000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,28594000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Treasury Stock,126534000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,3023679000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,1120584000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,84044000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,84044000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,2842107000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,143041000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,-2000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,1500000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,62237000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,41353000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,41353000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,0.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,37953000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,2699066000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,2057934000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,18985000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,12835000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,6150000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,97533000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Payables,795041000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,111920000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,645000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,361464000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,321012000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,7505025000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,1321598000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,6543000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,267728000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Investments,
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,4696000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,4696000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,76289000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,46119000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,30170000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,966342000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-471250000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,1437592000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,100605000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,315610000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,366521000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,589961000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,64895000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,6183427000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,41000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,645000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,931398000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Inventory,1690787000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,-1000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,1900000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,863634000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,825254000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,107902000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,26549000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1845015000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-35234000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1880249000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1581090000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,1214005000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,367085000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,150103000.0
+ZENTEC.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,216982000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,481524.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,79028476.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,79510000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,67542000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,3105415000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,3220662000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1918836000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,3105415000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,8595000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,3161715000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,3161715000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,3302797000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,141082000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,3161715000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,777361000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Treasury Stock,96613000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,1761513000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,277155000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,79510000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,79510000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,1434156000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,32635000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,1000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,0.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,4338000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,4338000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,0.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,28296000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,1401521000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,-1000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,0.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,63204000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,4257000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,58947000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,128098000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Payables,191019000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,41462000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,710000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,81503000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,67344000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,4736953000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,1416596000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,5186000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,476828000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,140544000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Investments,22422000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,0.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,52039000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,56300000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,44720000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,11580000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,715316000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-384797000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1100113000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,19173000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,173456000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,286158000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,556431000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,64895000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,3320357000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,1000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,710000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,189585000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Inventory,489996000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,28517000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,336700000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,124779000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,104352000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,8866000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,853924000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4602000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,858526000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1672923000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,570388000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1102535000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,164642000.0
+ZENTEC.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,937893000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,79510000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,79510000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,147554000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,2768327000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,2965293000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,2030949000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,2768327000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,12432000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,2830171000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,2872151000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,2898952000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,68781000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,2830171000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,772940000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Treasury Stock,0.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,1342181000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,277155000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,79510000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,79510000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,790604000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,71003000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,2000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,50499000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,8519000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,41980000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,20502000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,719601000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,2000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,9162000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,97055000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,3913000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,93142000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,11260000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Payables,59580000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,3019000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,808000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,16436000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,39317000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,3689556000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,939006000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,5183000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,10269000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,202109000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Investments,22422000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,27247000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,27247000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,61844000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,50264000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,11580000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,637179000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-333530000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,970709000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,25228000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,74047000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,251299000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,555240000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,64895000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,2750550000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,1477000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,808000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,149109000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Inventory,249511000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,-1000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,70386000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,104635000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,74491000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,111210000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,20528000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,316872000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-719000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,317591000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1901035000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,1690556000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,210479000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,96244000.0
+ZENTEC.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,114235000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Treasury Stock,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,1330282000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,277155000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,9000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,289000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,8412000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,3942000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,842000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,8227000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Investments,22422000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-295438000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,238770000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,556559000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,64895000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,842000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,49768000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,5184000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,55269000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,19674000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,66732000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,186045000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,76000000.0
+ZENTEC.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,139440000.0

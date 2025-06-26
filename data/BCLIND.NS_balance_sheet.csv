@@ -1,0 +1,396 @@
+symbol,statement_type,period_end,line_item,value
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,295163340.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,295163340.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,5156741000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,5362799000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,7989855000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,13368147000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,3432282000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,7989855000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,10522000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,8015870000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,10606823000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,8313637000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,297767000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,8015870000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,7720707000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Fixed Assets Revaluation Reserve,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,295163000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,295163000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,7233094000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2979565000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Preferred Securities Outside Stock Equity,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,309549000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2601355000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,10402000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,2590953000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,34863000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,4253529000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,71315000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,2761444000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,120000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,2761324000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,11919000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Payables,1340445000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,45070000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,1295375000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,15546731000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,7860920000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,102669000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,320610000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,320610000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,203777000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,26015000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,6229000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,19786000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,7207849000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,7207849000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,1098954000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,6108895000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,7685811000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,1471800000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,0.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Inventory,4445910000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1317246000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,450855000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,255319000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,195536000.0
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+BCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,272350000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,272350000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,4738673000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,4770736000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,6511283000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,11276794000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,2811825000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,6511283000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,10635000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,6516693000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,9013496000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,6735512000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,218820000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,6516693000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,214320000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Fixed Assets Revaluation Reserve,4609000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,1863500000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,272350000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,272350000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,6271659000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2794404000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Preferred Securities Outside Stock Equity,0.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,216425000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2506657000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,9854000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,2496803000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,28692000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,3477255000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,72941000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,2264079000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,781000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,2263298000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,24606000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,9016000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Payables,1097862000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,110366000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,5293000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,22743000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,959460000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,13007171000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,6718091000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-3000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,41788000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,140908000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,140908000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,214404000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,5410000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,5410000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,6315584000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-1920526000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,8236110000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,127278000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,726000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,7091825000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,607863000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,408418000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,6289080000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,6465000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,0.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,160320000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,1010335000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Inventory,3848448000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,1673168000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,700236000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1475044000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,25338000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1216586000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4289000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1220875000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,21588000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,160000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,21428000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,69000.0
+BCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,21359000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,241500000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,241500000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,4299392000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,4316925000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,4799405000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,9121893000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1540869000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,4799405000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,4804968000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,7036285000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,4903112000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,98148000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,4804968000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,491970000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Fixed Assets Revaluation Reserve,4635000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,783750000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,241500000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,241500000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,6052119000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2439241000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Preferred Securities Outside Stock Equity,59154000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,85740000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2231317000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,2231317000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,26612000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,3612878000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,123401000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,2085608000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,2085608000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,22161000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,7135000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Payables,1402898000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,69260000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,4661000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,84949000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,1244028000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,10955231000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,5801484000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,-3000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,216012000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,72687000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,72687000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,224007000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,5563000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,5563000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,5283218000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-1577891000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,6861109000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,2123550000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,726000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,3923890000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,485754000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,327189000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,5153747000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,904089000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,0.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,58350000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,912120000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Inventory,3205062000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,1490992000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,444200000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,1269870000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,188000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,931460000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4289000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,935749000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,46567000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,29034000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,17533000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,68000.0
+BCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,17465000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,241500000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,241500000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,2394943000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,2574830000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,3664734000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,6241345000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,1258504000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,3664734000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,3666515000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,4676354000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,3783990000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,117482000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,3666515000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,-7000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Fixed Assets Revaluation Reserve,4667000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,783750000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,241500000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,241500000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,3791113000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1206033000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Preferred Securities Outside Stock Equity,30000000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,114779000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1009839000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,1009839000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,20840000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,2585080000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,1000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,1564991000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,1564991000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,19635000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,4862000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Payables,953041000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,103773000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,4615000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,57646000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,787007000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,7575103000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,3731519000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-2000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,483868000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,50227000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,50227000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,236569000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,1781000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,1781000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,2959076000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-1342315000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,4301391000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,1662955000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,726000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,2269260000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,222061000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,146389000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,3843584000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,395000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,0.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,30838000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,658377000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Inventory,1956410000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,-2000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,746984000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,411613000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,797813000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,41000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,1016732000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4430000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,1021163000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,180791000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,904000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,179887000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,166000.0
+BCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,179721000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Fixed Assets Revaluation Reserve,4706000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,783750000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,1000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Preferred Securities Outside Stock Equity,30000000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,11504000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,211495000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,1851000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,214947000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,0.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1200950000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,2119526000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,222061000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,144129000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,76831000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,220998000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,720264000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,416246000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1371923000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-137000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,1347744000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,60000.0
+BCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,61962000.0

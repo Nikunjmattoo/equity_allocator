@@ -1,0 +1,396 @@
+symbol,statement_type,period_end,line_item,value
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,119565000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,119565000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,7586500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,13809000000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,114471900000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,130476600000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,69808400000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,114471900000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,3181100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,119848700000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,122957800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,124336300000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,4487600000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,119848700000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,119609600000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,239100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,239100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,52574700000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,12924900000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,219500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,5783300000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,2674200000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,3109100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,3382200000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,39649800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,3057000000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,8025700000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,506900000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,7518800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,1591100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Payables,19004500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,611000000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,18393500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,176911000000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,67452800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,1233400000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,17382500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,13862200000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,13862200000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,323800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Associatesat Cost,323800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,5376800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,1145700000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,4231100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,28627000000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,28627000000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,4765500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,23861500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,109458200000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,8326700000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,1346300000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Inventory,29224100000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,90400000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,24662500000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,45808200000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,42766800000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,3041400000.0
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+ALKEM.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,119565000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,119565000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,7589000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,14184100000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,98377400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,115260300000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,64170300000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,98377400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,2044400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,103120600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,103520600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,107144000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,4023400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,103120600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,195400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,83097000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,239100000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,239100000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,48605000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,8659500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,258400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,258400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2292600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,1892600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,400000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,2998600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,39945500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,2296500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,11891500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,151800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,11739700000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,1268700000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Payables,22072300000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,4039500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,1700000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,549900000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,17481200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,155749000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,51633200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,839500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,1255700000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,15148300000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,4053800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,1704000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,705800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1644000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,4743200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,575800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,4167400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,25570300000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-13773500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,39343800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,1484000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,2471700000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,23690400000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,10226100000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,1471600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,104115800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,214200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,0.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,2205000000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,7784300000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Inventory,26611800000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,16452500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,1474100000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,8685200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,2075200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,22528100000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-913500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,23441600000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,42697200000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,38146500000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,4550700000.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,0.0
+ALKEM.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,4550700000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,119565000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,119565000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,10333500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,13966800000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,85527400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,103524400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,50225300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,85527400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,895300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,90452900000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,90452900000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,94350000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,3897100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,90452900000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,6000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,70519700000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,239100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,239100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,43216500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,6145000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,-200000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,88000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,703300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,703300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,0.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,3693600000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,37071500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,13263500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,192000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,13071500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,3727500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Payables,15383500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,3496800000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,2000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,234400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,11650300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,137566500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,50269700000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,-100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,815300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,13025000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,5646200000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,1426700000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,2600100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1619400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,4925500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,793800000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,4131700000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,25135500000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-11210800000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,36346300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,3102700000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,1378600000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,21709900000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,8786000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,1369100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,87296800000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,221100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,1232600000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,17909400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,7134900000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Inventory,26075300000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,16377000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,1639900000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,8058400000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,1970100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,21321800000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-438200000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,21760000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,11431600000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,8693600000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,2738000000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,742100000.0
+ALKEM.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,1995900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,119565000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,119565000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,23479400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,26681900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,81626200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,112180200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,36300900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,81626200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,880700000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,86379000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,86472800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,88473300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,2094300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,86379000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,6000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,65938900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,239100000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,239100000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,52218600000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4165200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,79200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,79200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,758500000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,664700000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,93800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,3327500000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,48053400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,1503200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,25923400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,216000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,25707400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,2736000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Payables,15096000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,3197200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,1800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,163200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,11733800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,140691900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,56337600000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,1011300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,13092600000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,9106500000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,1050800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,6789800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1265900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,4752800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,721900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,4030900000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,27659100000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-10727600000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,38386700000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,3394800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,1393500000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,22554200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,9671700000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,1372500000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,84354300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,226700000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,17300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,14048600000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,6187000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Inventory,30055300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,20812200000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,1343400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,7899700000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,1843100000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,18846000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-464400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,19310400000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,13130300000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,10808500000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,2321800000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,30000000.0
+ALKEM.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,2291800000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,53667500000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,88300000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,2705400000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,1600000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,766600000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,575500000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,964000000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-8213200000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,19731300000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,8807300000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,2013700000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,4155800000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,5349800000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,15415900000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,1087100000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,6621400000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-512200000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,16584300000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,95400000.0
+ALKEM.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,1646800000.0

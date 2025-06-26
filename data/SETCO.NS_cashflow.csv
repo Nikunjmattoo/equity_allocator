@@ -1,0 +1,286 @@
+symbol,statement_type,period_end,line_item,value
+SETCO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,769700000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-93600000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,97500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-122700000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,201900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,139500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-2400000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,64800000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-774100000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1365500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-2143000000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,3900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-57400000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-57400000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,61300000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-36200000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,97500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-53500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-100000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,10900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-17100000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-17100000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-47200000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,58400000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-105600000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,892400000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-42300000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-255900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,81500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,28900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Change In Payable,5700000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-91400000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-278800000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2163200000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,12000000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,320900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Depreciation,320900000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-9500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2600000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-6500000.0
+SETCO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-1291800000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,615400000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-337400000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,232700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-76300000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,139500000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,165500000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-2400000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-23700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-643700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1234800000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1775900000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-104700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-257800000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-257800000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,3000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,153100000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-79600000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,232700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-71700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-1000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1000000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-5900000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-5900000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-66800000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3600000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-70400000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,691700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-34900000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-64900000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1500000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-35700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Change In Payable,26300000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-30200000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-31300000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1782200000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,60900000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,346500000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+SETCO.NS,cashflow,2024-03-31 00:00:00,Depreciation,346500000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-13700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-4700000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1200000.0
+SETCO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-1413700000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,356808000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-49559000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,121771000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-118670000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,165537000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,208296000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-5570000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-37189000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-403135000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1036938000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1512285000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,72212000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,10873000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-38881000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,49754000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,61339000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-10678000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,72017000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-109532000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,100000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,8200000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-117732000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,938000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-118670000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,475478000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-31754000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,375379000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,40935000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,341641000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Change In Payable,87937000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-140092000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,45610000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1524028000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+SETCO.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,-307319000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,384465000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,142465000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Depreciation,242000000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-14601000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-15100000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,30309000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-859000.0
+SETCO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-1611451000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2445453000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-3438159000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,6185619000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,212647000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1177590000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,208296000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,141490000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-2067000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,68873000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,2316489000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,491324000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1041320000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,212647000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,212647000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2747460000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-1842037000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-2091941000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,249904000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,4589497000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1346218000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,5935715000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-979753000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,1260000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2659000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-349076000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,15350000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-364426000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-39332000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-39332000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-16869000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,580895000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-597764000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-578395000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1431000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-579826000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-1267863000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-12626000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-595834000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-156652000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-73353000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-150989000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-128453000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-15231000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,1065406000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,33264000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-31967000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,374467000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SETCO.NS,cashflow,2022-03-31 00:00:00,Depreciation,374467000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-6262000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-13899000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,5383000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,185000.0
+SETCO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-2541210000.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SETCO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,487855000.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-197500000.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-197500000.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,-2530000.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+SETCO.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SETCO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

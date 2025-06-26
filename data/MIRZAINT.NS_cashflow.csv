@@ -1,0 +1,201 @@
+symbol,statement_type,period_end,line_item,value
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-183500000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,127900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-465900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,198300000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,192000000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,6300000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,12600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,100000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-106100000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1000000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,123300000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,127900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,127900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-4600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-4600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-288700000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,152400000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,4500000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-4900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-4900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-440700000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,25200000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-465900000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,282400000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-22000000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-54600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-26500000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-75500000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-67600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,115000000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,99100000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,306100000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Depreciation,306100000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-10600000.0
+MIRZAINT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-35500000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,133400000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-165900000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,72200000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-368700000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,192000000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,157500000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,34400000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-216700000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-118000000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-600000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-93700000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,72200000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-50600000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,72200000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-165900000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-165900000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-251000000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,70800000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,6600000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-12100000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-12100000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-316300000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,52400000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-368700000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,502100000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-59400000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,25200000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-16700000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-182500000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,84900000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,139500000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,109200000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,283300000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Depreciation,283300000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-22100000.0
+MIRZAINT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,166000000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-66200000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-228900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-539600000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,157500000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,546900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-389400000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-328000000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-93800000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-500000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-500000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-228900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-174800000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-174800000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-54100000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-54100000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-534800000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,2200000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,2600000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-539600000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-539600000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,473400000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-121900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-78800000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,44800000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-91600000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-48900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,16900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,93100000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,255900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Depreciation,255900000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-34300000.0
+MIRZAINT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,359400000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-36400000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,108100000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-851700000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,546900000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,155700000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,391200000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-121400000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-234100000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-700000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-700000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,108100000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,549000000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,300000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,3100000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,545600000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,545600000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-851700000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-36400000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,10100000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1957200000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-768100000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,157200000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,2704200000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-4050500000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,237500000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,560900000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Depreciation,560900000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-6000000.0
+MIRZAINT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1125100000.0
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,300000.0
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-1352500000.0
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,0.0
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MIRZAINT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

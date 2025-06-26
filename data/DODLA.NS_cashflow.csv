@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+DODLA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,4097750000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-12500000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,178190000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1100120000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,897450000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1033830000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,25470000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-161850000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-77020000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-22470000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-180980000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-180980000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,178190000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,178190000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-12500000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-12500000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-12500000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-5282700000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1250000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,104320000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,1680000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-4310650000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,16464190000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-20774840000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1079300000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,20820000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1100120000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,5197870000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1099630000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,2410180000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,30800000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,53190000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,28640000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,2294020000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-26970000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-46490000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-94710000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,746340000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+DODLA.NS,cashflow,2025-03-31 00:00:00,Depreciation,746340000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-283080000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-6060000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,4200000.0
+DODLA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3557780000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-1072610000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,120000000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1065490000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1033830000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,750460000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,2820000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,280550000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-12500000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+DODLA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-9170000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+DODLA.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,120000000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+DODLA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,120000000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,120000000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,300170000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,4930000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,109830000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,1230120000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,14009960000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-12779840000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1044710000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,20780000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1065490000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-7120000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-632860000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-2333170000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,9230000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,48690000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,311060000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-2691830000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-22900000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-83470000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+DODLA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,700690000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,45140000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Depreciation,700690000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-94350000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-13400000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,6580000.0
+DODLA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2437920000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,523370000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,180000000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1084550000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,750460000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1098940000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,34430000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-382910000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,145910000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+DODLA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+DODLA.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,180000000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+DODLA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,180000000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,180000000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2136740000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,7520000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,91630000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-973130000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,10011200000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-10984330000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-207730000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-207730000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1055030000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,29520000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1084550000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1607920000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-446930000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,95500000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-45780000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-114650000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,263790000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,28940000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-46500000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-109000000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,2870000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,612270000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,39330000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Depreciation,572940000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-69330000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,650000.0
+DODLA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1518360000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,993840000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-869160000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,500000000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-717520000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1098940000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1241440000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,18350000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-160850000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-488780000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-11680000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-56040000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+DODLA.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,500000000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,500000000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-869160000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-869160000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-869160000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1383430000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,10580000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,44370000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-423710000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,5069330000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-5493040000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-300000000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-300000000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-714670000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2850000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-717520000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1711360000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-399460000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-38040000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,67010000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,10760000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,135390000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-244240000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-48720000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-3890000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,690000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,10110000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,523530000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,22720000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Depreciation,500810000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-41700000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DODLA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,2080000.0
+DODLA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1655600000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+DODLA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-8570000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-107490000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-107490000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-400000000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,3420000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,37610000.0
+DODLA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DODLA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

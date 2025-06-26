@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,3747600000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-7853600000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,5145600000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-10240200000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1721400000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,968900000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,752500000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-7819000000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-4516900000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-591300000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-2708000000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-652400000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-652400000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-2055600000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-7201200000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,5145600000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-5416300000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,96200000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,131500000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,10700000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,3757500000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,3769900000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-12400000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-9412200000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,828000000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-10240200000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,13987800000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-206200000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1624400000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,455800000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-327000000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,1495600000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2291700000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,229900000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,6950500000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Depreciation,6950500000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-90100000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-6000000.0
+RAMCOCEM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3193100000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-244100000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-10096700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,14354400000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-19225400000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,968900000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1377100000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-408200000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-280300000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-4062700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-473100000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,4257700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1658800000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-1658800000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,5916500000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-8437900000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,14354400000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-19109200000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,90600000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,77300000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,14300000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,26200000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,66700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-40500000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-175000000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,66700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-175000000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-19142600000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,82800000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-19225400000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,18981300000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-427600000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,3583200000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,7901700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-998700000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-3319800000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,3903600000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,162000000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,6463100000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,839900000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Depreciation,6463100000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-78600000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-2400000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-38600000.0
+RAMCOCEM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,5416600000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-3542900000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-11070100000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,16859800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-17657900000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1703300000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1784800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-81500000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2744800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-2333900000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-709600000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-709600000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,5789700000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-267300000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-267300000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,6057000000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-10802800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,16859800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-16941300000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,96200000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,59600000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,14200000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-5200000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-5200000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-17634500000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,23400000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-17657900000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,14115000000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-327000000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,2509800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,5098900000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-491300000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-2097800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,2055900000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,163400000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,5059800000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,446400000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Depreciation,4613400000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-61400000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-1100000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-4600000.0
+RAMCOCEM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,4719800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-6816900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-9403200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,15833000000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,22900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-18165800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1784800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1438300000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,346500000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,7154400000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1124600000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,22900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,22900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,8257200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,1827400000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,6429800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-9403200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,15833000000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-18156800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,97100000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,76900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,600000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-4300000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-4300000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-18105600000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,60200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-18165800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,11348900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1587200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-162600000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,2119500000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2351300000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,69200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,899900000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,57200000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,119300000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,4022300000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,241600000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Depreciation,3780700000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-34800000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1700000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,2100000.0
+RAMCOCEM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,8034400000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,15900000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-708400000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,15900000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,15900000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,195400000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,221300000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-2800000.0
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+RAMCOCEM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

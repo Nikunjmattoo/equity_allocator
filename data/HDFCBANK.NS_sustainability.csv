@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+HDFCBANK.NS,maxAge,86400
+HDFCBANK.NS,totalEsg,30.61
+HDFCBANK.NS,environmentScore,2.18
+HDFCBANK.NS,socialScore,13.36
+HDFCBANK.NS,governanceScore,15.07
+HDFCBANK.NS,ratingYear,2023
+HDFCBANK.NS,ratingMonth,9
+HDFCBANK.NS,highestControversy,2.0
+HDFCBANK.NS,peerCount,16
+HDFCBANK.NS,esgPerformance,OUT_PERF
+HDFCBANK.NS,peerGroup,Banks
+HDFCBANK.NS,relatedControversy,"['Product & Service Incidents', 'Customer Incidents', 'Business Ethics Incidents']"
+HDFCBANK.NS,peerEsgScorePerformance,"{'min': 16.14, 'avg': 26.053749999999997, 'max': 44.83}"
+HDFCBANK.NS,peerGovernancePerformance,"{'min': 6.81, 'avg': 12.520714285714288, 'max': 19.69}"
+HDFCBANK.NS,peerSocialPerformance,"{'min': 7.12, 'avg': 11.787142857142856, 'max': 22.64}"
+HDFCBANK.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 1.8957142857142855, 'max': 2.63}"
+HDFCBANK.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.375, 'max': 5.0}"
+HDFCBANK.NS,percentile,71.16
+HDFCBANK.NS,environmentPercentile,
+HDFCBANK.NS,socialPercentile,
+HDFCBANK.NS,governancePercentile,
+HDFCBANK.NS,adult,False
+HDFCBANK.NS,alcoholic,False
+HDFCBANK.NS,animalTesting,False
+HDFCBANK.NS,catholic,False
+HDFCBANK.NS,controversialWeapons,False
+HDFCBANK.NS,smallArms,False
+HDFCBANK.NS,furLeather,False
+HDFCBANK.NS,gambling,False
+HDFCBANK.NS,gmo,False
+HDFCBANK.NS,militaryContract,False
+HDFCBANK.NS,nuclear,False
+HDFCBANK.NS,pesticides,False
+HDFCBANK.NS,palmOil,False
+HDFCBANK.NS,coal,False
+HDFCBANK.NS,tobacco,False

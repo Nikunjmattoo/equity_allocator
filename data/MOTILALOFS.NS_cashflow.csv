@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,9303600000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-9216500000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,5929400000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,717100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2842500000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,66002300000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,4320900000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,52856700000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,8824700000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,7451400000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,351000000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-177700000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-2998500000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-2998500000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,717100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,717100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,9860100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,13147200000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-3287100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-9216500000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,5929400000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-10772800000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,4900000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,100100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-8035300000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,10739900000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-18775200000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-32200000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2810300000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,12146100000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-5546900000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-3531400000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-15957300000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,23982700000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-2429600000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Change In Prepaid Assets,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-8971300000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-7124000000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,587600000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,987600000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Depreciation,987600000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,170300000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-5766900000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,21200000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-900000.0
+MOTILALOFS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,32262600000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-5004100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-4138900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,25000800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,772800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1507700000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,52856700000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,25763100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,27093500000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,33057800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,447000000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-83100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-2523900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-2523900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,772800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,772800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,34696900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,9696100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,25000800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-4138900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,25000800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-2467900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,15800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,85800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1116000000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,4289100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-5405100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,54200000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,54200000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1507700000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1507700000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-3496400000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-4278000000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-16610100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,5728100000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-4963300000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,20614600000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Change In Prepaid Assets,0.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-37717900000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-12559800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,249300000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,825800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,146200000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Depreciation,825800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,112000000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-2109800000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,6400000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,9400000.0
+MOTILALOFS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,30318800000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-32116800000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-1984300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-7864300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,22269300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,103400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1537800000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,25763100000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,21375400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,4387700000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,37703900000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,3300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-42400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-1482500000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-1482500000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-1880900000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-1984300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,103400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,41244100000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,26839100000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,14405000000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-7864300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,22269300000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2737200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,6400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,88200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1294000000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,3534600000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-4828600000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,0.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1537800000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1537800000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-30579000000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-2743200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-40302200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,16116700000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-29908400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-2524500000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,7200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-23817100000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1606100000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,290400000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,583800000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,135600000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Depreciation,448200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,115200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-3045900000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,40200000.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+MOTILALOFS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,12422500000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,9561200000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-7159400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,3780000000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,339800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-545400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,21375400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,12920800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,8454600000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,2821900000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1196100000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-867300000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-867300000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,339800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,339800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,4586700000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,7966100000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-3379400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-7159400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,3780000000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4473900000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,12200000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1021100000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-4961800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,6163600000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-11125400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-545400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-545400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,10106600000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-2203400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,306800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,3257200000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-4611200000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,6751800000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,5300000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-5703100000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-4930300000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,240400000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,482600000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Depreciation,482600000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,85700000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1021100000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,17700000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-500000.0
+MOTILALOFS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,16158200000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-1485300000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-1485300000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,38900000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-646700000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,3300000.0
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MOTILALOFS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,165 @@
+symbol,statement_type,period_end,line_item,value
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,9520000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-31503000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,229676000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-43854000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,218432000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,30448000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,187983000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,176434000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-21738000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,229676000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,229676000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-31503000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-31503000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-31503000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-41825000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-1000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2467000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-617000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-617000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-43674000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,180000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-43854000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,53374000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-12250000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-16339000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,58634000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-2956000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-25127000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-14493000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-35125000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,19271000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,13801000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Depreciation,13801000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-140000.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+OMFURN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,49007000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,10058000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-14295000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-20377000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,30448000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,58330000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-27882000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-30854000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,4060000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-20619000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-14295000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-14295000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-14295000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-27463000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1733000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-9040000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-9040000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-20157000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,220000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-20377000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,30435000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-12952000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-50358000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-5106000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-8513000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,59363000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-27315000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-84120000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,18886000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,11152000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Depreciation,11152000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,646000.0
+OMFURN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,48674000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,6625000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2163000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4665000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,58330000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1007000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,64440000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-7117000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-18760000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-2886000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-13711000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2163000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-2163000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-2163000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,353000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,1000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,882000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,3504000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,3504000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4034000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,631000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4665000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,11290000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1372000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-18009000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,18456000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-108000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-10801000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,2976000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-29967000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,11975000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,11422000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Depreciation,11422000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-154000.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+OMFURN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,7517000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,28987000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,12875000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-305000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,64440000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-2085000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,22497000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,44028000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,-2937000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,1443000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-17255000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,12875000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,12875000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,12875000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,17673000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-1000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,1373000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,12688000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,12688000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,3613000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,3918000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-305000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,29292000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,10000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,10529000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,14305000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,2086000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-13383000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-26913000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,32601000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,15882000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,13716000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Depreciation,13716000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-1592000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,117000.0
+OMFURN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,-9870000.0

@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+DICIND.NS,cashflow,2024-12-31 00:00:00,Free Cash Flow,81000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Repayment Of Debt,-250000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Issuance Of Debt,100000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Capital Expenditure,-82826000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,End Cash Position,391273000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Beginning Cash Position,469636000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Changes In Cash,-78363000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Financing Cash Flow,-182457000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Interest Paid Cff,-15762000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Cash Dividends Paid,-356000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Common Stock Dividend Paid,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Issuance Payments Of Debt,-150000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Short Term Debt Issuance,-150000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Short Term Debt Payments,-250000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Short Term Debt Issuance,100000000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Long Term Debt Issuance,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Long Term Debt Payments,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Investing Cash Flow,-59732000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Other Investing Changes,-148000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Interest Received Cfi,4550000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Investment Purchase And Sale,-148000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Sale Of Investment,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Purchase Of Investment,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Investment Properties Purchase And Sale,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Sale Of Investment Properties,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net PPE Purchase And Sale,-64134000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Sale Of PPE,18692000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Purchase Of PPE,-82826000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Capital Expenditure Reported,
+DICIND.NS,cashflow,2024-12-31 00:00:00,Operating Cash Flow,163826000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Taxes Refund Paid,6399000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Change In Working Capital,-277852000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Change In Other Current Liabilities,40075000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Change In Other Current Assets,13165000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Change In Payable,51676000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Change In Inventory,-145944000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Change In Receivables,-228669000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Other Non Cash Items,-19660000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Provisionand Write Offof Assets,20302000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Depreciation And Amortization,190874000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Amortization Cash Flow,1007000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Depreciation,189867000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Gain Loss On Investment Securities,228000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-895000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Gain Loss On Sale Of PPE,-588000.0
+DICIND.NS,cashflow,2024-12-31 00:00:00,Net Income From Continuing Operations,258958000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Free Cash Flow,-280622000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Repayment Of Debt,0.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Issuance Of Debt,150000000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Capital Expenditure,-333192000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,End Cash Position,469636000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Beginning Cash Position,670740000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Changes In Cash,-201104000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Financing Cash Flow,46373000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Interest Paid Cff,-41016000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Cash Dividends Paid,-18568000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Common Stock Dividend Paid,
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Issuance Payments Of Debt,150000000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Short Term Debt Issuance,150000000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Short Term Debt Payments,0.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Short Term Debt Issuance,150000000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Long Term Debt Issuance,
+DICIND.NS,cashflow,2023-12-31 00:00:00,Long Term Debt Payments,
+DICIND.NS,cashflow,2023-12-31 00:00:00,Investing Cash Flow,-300047000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Other Investing Changes,167000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Interest Received Cfi,11115000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Investment Purchase And Sale,167000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Sale Of Investment,167000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Purchase Of Investment,0.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Investment Properties Purchase And Sale,
+DICIND.NS,cashflow,2023-12-31 00:00:00,Sale Of Investment Properties,
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net PPE Purchase And Sale,-311329000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Sale Of PPE,21863000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Purchase Of PPE,-333192000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Capital Expenditure Reported,
+DICIND.NS,cashflow,2023-12-31 00:00:00,Operating Cash Flow,52570000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Taxes Refund Paid,-18058000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Change In Working Capital,94749000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Change In Other Current Liabilities,39557000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Change In Other Current Assets,102028000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Change In Payable,-364098000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Change In Inventory,57503000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Change In Receivables,290180000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Other Non Cash Items,20756000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Provisionand Write Offof Assets,9772000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Depreciation And Amortization,182142000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Amortization Cash Flow,817000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Depreciation,181325000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Gain Loss On Investment Securities,2009000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-659000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Gain Loss On Sale Of PPE,-28265000.0
+DICIND.NS,cashflow,2023-12-31 00:00:00,Net Income From Continuing Operations,-282460000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Free Cash Flow,-325338000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Repayment Of Debt,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Issuance Of Debt,0.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Capital Expenditure,-695030000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,End Cash Position,670740000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Beginning Cash Position,727659000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Changes In Cash,-56919000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Financing Cash Flow,-84962000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Interest Paid Cff,-8505000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Cash Dividends Paid,-45895000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Common Stock Dividend Paid,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Issuance Payments Of Debt,0.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Short Term Debt Issuance,0.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Short Term Debt Payments,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Short Term Debt Issuance,0.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Long Term Debt Issuance,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Long Term Debt Payments,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Investing Cash Flow,-341649000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Other Investing Changes,8200000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Interest Received Cfi,18019000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Investment Purchase And Sale,-5178000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Sale Of Investment,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Purchase Of Investment,-5178000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Investment Properties Purchase And Sale,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Sale Of Investment Properties,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net PPE Purchase And Sale,-354490000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Sale Of PPE,340540000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Purchase Of PPE,-695030000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Capital Expenditure Reported,-695030000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Operating Cash Flow,369692000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Taxes Refund Paid,-41693000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Change In Working Capital,146129000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Change In Other Current Liabilities,36956000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Change In Other Current Assets,93753000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Change In Payable,-195215000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Change In Inventory,392723000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Change In Receivables,-176105000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Other Non Cash Items,12213000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Provisionand Write Offof Assets,3656000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Depreciation And Amortization,134278000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Amortization Cash Flow,740000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Depreciation,133538000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Gain Loss On Investment Securities,
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-173000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Gain Loss On Sale Of PPE,-329228000.0
+DICIND.NS,cashflow,2022-12-31 00:00:00,Net Income From Continuing Operations,443130000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Free Cash Flow,-306101000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Repayment Of Debt,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Issuance Of Debt,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Capital Expenditure,-234952000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,End Cash Position,727659000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Beginning Cash Position,330642000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Changes In Cash,397017000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Financing Cash Flow,-94901000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Interest Paid Cff,-5237000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Cash Dividends Paid,-55014000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Common Stock Dividend Paid,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Issuance Payments Of Debt,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Short Term Debt Issuance,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Short Term Debt Payments,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Short Term Debt Issuance,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Long Term Debt Issuance,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Long Term Debt Payments,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Investing Cash Flow,563067000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Other Investing Changes,590007000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Interest Received Cfi,32410000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Investment Purchase And Sale,590007000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Sale Of Investment,590007000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Purchase Of Investment,0.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Investment Properties Purchase And Sale,175000000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Sale Of Investment Properties,175000000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net PPE Purchase And Sale,-59350000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Sale Of PPE,175602000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Purchase Of PPE,-234952000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Capital Expenditure Reported,-234952000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Operating Cash Flow,-71149000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Taxes Refund Paid,-97642000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Change In Working Capital,-235334000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Change In Other Current Liabilities,29435000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Change In Other Current Assets,-96914000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Change In Payable,793306000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Change In Inventory,-466875000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Change In Receivables,-496886000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Other Non Cash Items,-30776000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Provisionand Write Offof Assets,-24081000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Depreciation And Amortization,143038000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Amortization Cash Flow,1249000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Depreciation,141789000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Gain Loss On Investment Securities,
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-471000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Gain Loss On Sale Of PPE,-89000.0
+DICIND.NS,cashflow,2021-12-31 00:00:00,Net Income From Continuing Operations,167613000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Free Cash Flow,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Repayment Of Debt,-351365000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Issuance Of Debt,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Capital Expenditure,
+DICIND.NS,cashflow,2020-12-31 00:00:00,End Cash Position,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Beginning Cash Position,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Changes In Cash,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Financing Cash Flow,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Interest Paid Cff,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Cash Dividends Paid,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Common Stock Dividend Paid,-41305000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Issuance Payments Of Debt,-351365000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Short Term Debt Issuance,-351365000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Short Term Debt Payments,-351365000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Short Term Debt Issuance,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Long Term Debt Issuance,-351365000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Long Term Debt Payments,-351365000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Investing Cash Flow,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Other Investing Changes,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Interest Received Cfi,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Investment Purchase And Sale,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Sale Of Investment,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Purchase Of Investment,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Investment Properties Purchase And Sale,1015000000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Sale Of Investment Properties,1015000000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net PPE Purchase And Sale,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Sale Of PPE,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Purchase Of PPE,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Capital Expenditure Reported,-60539000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Operating Cash Flow,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Taxes Refund Paid,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Change In Working Capital,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Change In Other Current Liabilities,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Change In Other Current Assets,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Change In Payable,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Change In Inventory,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Change In Receivables,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Other Non Cash Items,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Provisionand Write Offof Assets,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Depreciation And Amortization,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Amortization Cash Flow,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Depreciation,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Gain Loss On Investment Securities,-976253000.0
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Gain Loss On Sale Of PPE,
+DICIND.NS,cashflow,2020-12-31 00:00:00,Net Income From Continuing Operations,

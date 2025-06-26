@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+NESTLEIND.NS,maxAge,86400
+NESTLEIND.NS,totalEsg,28.28
+NESTLEIND.NS,environmentScore,13.02
+NESTLEIND.NS,socialScore,9.87
+NESTLEIND.NS,governanceScore,5.39
+NESTLEIND.NS,ratingYear,2023
+NESTLEIND.NS,ratingMonth,9
+NESTLEIND.NS,highestControversy,2.0
+NESTLEIND.NS,peerCount,9
+NESTLEIND.NS,esgPerformance,AVG_PERF
+NESTLEIND.NS,peerGroup,Food Products
+NESTLEIND.NS,relatedControversy,"['Customer Incidents', 'Business Ethics Incidents']"
+NESTLEIND.NS,peerEsgScorePerformance,"{'min': 13.95, 'avg': 27.547777777777778, 'max': 35.32}"
+NESTLEIND.NS,peerGovernancePerformance,"{'min': 3.65, 'avg': 4.662000000000001, 'max': 5.28}"
+NESTLEIND.NS,peerSocialPerformance,"{'min': 5.76, 'avg': 10.594, 'max': 15.42}"
+NESTLEIND.NS,peerEnvironmentPerformance,"{'min': 4.54, 'avg': 8.898, 'max': 14.39}"
+NESTLEIND.NS,peerHighestControversyPerformance,"{'min': 2.0, 'avg': 2.2222222222222223, 'max': 3.0}"
+NESTLEIND.NS,percentile,62.13
+NESTLEIND.NS,environmentPercentile,
+NESTLEIND.NS,socialPercentile,
+NESTLEIND.NS,governancePercentile,
+NESTLEIND.NS,adult,False
+NESTLEIND.NS,alcoholic,False
+NESTLEIND.NS,animalTesting,True
+NESTLEIND.NS,catholic,False
+NESTLEIND.NS,controversialWeapons,False
+NESTLEIND.NS,smallArms,False
+NESTLEIND.NS,furLeather,False
+NESTLEIND.NS,gambling,False
+NESTLEIND.NS,gmo,False
+NESTLEIND.NS,militaryContract,False
+NESTLEIND.NS,nuclear,False
+NESTLEIND.NS,pesticides,False
+NESTLEIND.NS,palmOil,False
+NESTLEIND.NS,coal,False
+NESTLEIND.NS,tobacco,False

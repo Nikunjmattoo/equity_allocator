@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,116266000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-323256000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,100000000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-932058000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,End Cash Position,-1082659000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,-1137633000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,54974000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-611090000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-353033000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-34801000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-34801000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-223256000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-223256000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-323256000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,100000000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-382260000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,234000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,53662000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-106560000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-106560000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-466000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-466000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-329130000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,602462000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-931592000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1048324000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-56533000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,90945000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-24281000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,101538000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Change In Payable,279785000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,95344000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-361485000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,261735000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,247796000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Depreciation,247796000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-1449000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,4044000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,8783000.0
+NELCAST.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,493003000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-431200000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-340195000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,300000000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-635691000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,End Cash Position,-1137633000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,-645852000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-491781000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-390830000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,78000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-315834000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-34801000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-34801000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-40195000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-40195000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-340195000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,300000000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-305442000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,47000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,63140000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-12610000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,7390000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-20000000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-356019000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,279672000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-635691000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,204491000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-159314000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-635313000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-46333000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-133236000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Change In Payable,310930000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-315030000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-449354000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,74715000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,241372000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1686000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Depreciation,241372000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-1883000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-6667000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,5418000.0
+NELCAST.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,686163000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,605240000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-367491000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-199125000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,End Cash Position,-645852000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,-510938000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-134914000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-705387000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-311796000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-26100000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-26100000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-367491000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-367491000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-367491000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-233892000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,78000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,39362000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-109857000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,236000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-110093000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-200000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-200000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-163275000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,35650000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-198925000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,804365000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-53594000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-70638000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,89860000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-43750000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Change In Payable,21146000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,5351000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-156770000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,272434000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,240105000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1992000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Depreciation,238113000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-5392000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,3820000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,14460000.0
+NELCAST.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,403170000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-542654000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-413410000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,End Cash Position,-510938000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,-86555000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-424383000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,23905000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-258236000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-17400000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-17400000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,299541000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,299541000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-319044000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,134000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,29770000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-294000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,134000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-428000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-1746000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-1746000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-346774000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,64890000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-411664000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-129244000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-5678000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-731161000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-129390000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,12703000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Change In Payable,526305000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-403157000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-740401000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,228466000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,226170000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1862000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Depreciation,224308000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-12038000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,4797000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-30299000.0
+NELCAST.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,190499000.0
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1760000.0
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+NELCAST.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-646900000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-869300000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1861800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-5027200000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,End Cash Position,3994200000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4633000000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,86900000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-725700000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-375400000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-578000000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-316700000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-316700000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,992500000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,992000000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,992000000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,500000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-869300000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,869800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-4730600000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,391300000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-272700000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,508900000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-781600000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4849200000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,178000000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-5027200000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,4380300000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-414100000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2670900000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-112500000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,319300000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-578800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1842700000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-494800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,56800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,313200000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2999800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Depreciation,2999800000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-126100000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-225900000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-7000000.0
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+POLYPLEX.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4453400000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-619300000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2348900000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1937200000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-5171600000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4633000000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,9645500000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-78800000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-4933700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1522100000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-459100000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-252200000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-252200000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-411700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,142700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,142700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-554400000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2348900000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1794500000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-7963900000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-2273600000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,362400000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-3214600000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,508900000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-3723500000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-5111700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,59900000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-5171600000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,4552300000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-676700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,648900000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,204800000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,138100000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Change In Payable,872600000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-120300000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-470300000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-24700000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,55100000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3071300000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,431000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Depreciation,3071300000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,27800000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,685800000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,5600000.0
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+POLYPLEX.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,759100000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,5286071000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1510305000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,20980000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2728952000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,End Cash Position,9645452000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,8043818000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,1305503000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,296131000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-6569617000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-352786000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-3234880000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-3234880000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1983216000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-493891000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1489325000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1510305000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,20980000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1149275000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1303400000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,225873000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1323893000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,11929757000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-10605864000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-609000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-609000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2698432000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,29911000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2728343000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,8015023000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1898242000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-557190000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-779676000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-368917000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-439945000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-736407000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,1740539000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,80660000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,11584000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2962838000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,861000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Depreciation,2961977000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-10658000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,122634000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-2733000.0
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+POLYPLEX.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,7108170000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1582258000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1011924000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,2276706000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4017942000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,End Cash Position,8043818000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,4358289000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,397039000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,3288490000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2322315000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,38242000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-183603000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-3347376000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-3347376000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2624947000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,1360165000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1264782000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1011924000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,2276706000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,10605000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,3703700000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,266877000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,3748205000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,18322479000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-14574274000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-132000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-132000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4004345000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,13465000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4017810000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,5600200000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1125671000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-6950678000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,563859000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,69926000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1747153000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-4957990000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-4370084000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-70341000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,2660000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2725206000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1042000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Depreciation,2724164000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,20333000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-486913000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-116000.0
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+POLYPLEX.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,11468675000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-266353000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,873000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,-266353000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-266353000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,612783000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,-285000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,-285000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1147000.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+POLYPLEX.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,236 @@
+symbol,statement_type,period_end,line_item,value
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1445330000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-70680000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,26000000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-213450000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,End Cash Position,452300000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,16640000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,435660000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1026080000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-34260000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-32480000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,26000000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,26000000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-361190000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-290510000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-70680000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-70680000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-197040000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,4690000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,17060000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-6870000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-400000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-400000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-211520000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1530000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-213050000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1658780000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-253810000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,101890000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,92410000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,35620000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Change In Payable,38260000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,231230000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-270260000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,187420000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,5760000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,1470000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,685640000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Depreciation,685640000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,11430000.0
+MUFTI.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,917920000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,203350000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-34200000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,18250000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,5620000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-359280000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,End Cash Position,16640000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,77240000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-60600000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-277680000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-46540000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,5620000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,5620000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,274560000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,290510000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,0.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,290510000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-15950000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-34200000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,18250000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-345550000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,4460000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,30000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,4110000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-354150000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,5130000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-359280000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,562630000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-246070000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-811710000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,258470000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-45850000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-176280000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-115360000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-757050000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,189290000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,5990000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,8100000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,621900000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1510000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Depreciation,621900000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,5820000.0
+MUFTI.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,788940000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,379560000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-33850000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,230000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-344540000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,End Cash Position,77240000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,362700000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-285460000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-818710000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-30960000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-321510000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,230000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,230000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-33850000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-33850000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-33850000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-190850000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,4250000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,9170000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,139740000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-3060000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-3060000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-340950000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,530000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-341480000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,724100000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-308020000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-646220000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,55080000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-178690000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Change In Payable,58920000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-476650000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-117630000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,115880000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,2290000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-18410000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,534300000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,670000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Depreciation,533630000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,4050000.0
+MUFTI.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1038120000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,631510000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-17630000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-152310000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,End Cash Position,362700000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,248780000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,113920000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-390360000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-30380000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-17630000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-17630000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-17630000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-17630000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-279540000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,2660000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,10000000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-140140000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-100000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-100000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-60000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-60000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-151900000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,350000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-152250000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,783820000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-197080000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-105760000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,135600000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-73500000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Change In Payable,21680000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-71290000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-115510000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,22950000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,11300000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,109000000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,458850000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,610000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Depreciation,458240000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,6310000.0
+MUFTI.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,478330000.0
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-287310000.0
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,0.0
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1500000.0
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MUFTI.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

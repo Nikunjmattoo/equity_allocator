@@ -1,0 +1,371 @@
+symbol,statement_type,period_end,line_item,value
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,23700000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,23700000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,545426000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,610064000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,1155963000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,1766027000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,705252000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,1155963000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,1155963000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,1281059000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,1155963000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,1155963000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,921963000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,234000000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,234000000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,1051145000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,142476000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,2000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,7092000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,125096000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,125096000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,10286000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,908669000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,108039000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,484968000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,484968000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,795000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Payables,296897000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,10178000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,286719000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,2207108000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,593186000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,2579000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,2579000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,494412000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,494412000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,254273000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,240139000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,1613921000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,314127000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Inventory,841081000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,0.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,392006000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,66707000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,2069000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,64638000.0
+HILTON.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,21000000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,21000000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,539623000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,540775000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,995197000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,1535972000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,623611000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,995197000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,995197000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,1135537000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,995197000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,995197000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,37125000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,58333000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,634459000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,210000000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,210000000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,850464000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,158327000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,9342000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,8645000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,140340000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,140340000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,9342000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,692137000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,36332000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,400435000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,400435000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,698000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,698000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Payables,229239000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,4169000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,13129000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,211941000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,1845661000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,529913000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,2529000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,50000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,50000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,8727000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,468559000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-340940000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,809499000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,211454000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,9705000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,489167000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,85414000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,13759000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,1315748000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,-1000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,10545000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,243438000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Inventory,789109000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,149818000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,29243000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,247062000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,362986000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,0.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,271505000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1152000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,2713000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1152000.0
+HILTON.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,1152000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,21000000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,21000000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,527725000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,528766000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,891214000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,1419980000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,566509000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,891214000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,891214000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,1042923000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,891214000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,891214000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,681214000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,-8525000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,634459000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,210000000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,210000000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,801072000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,160255000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,8547000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,151709000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,151709000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,8547000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,640817000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,15101000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,377057000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,377057000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,776000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,776000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Payables,211422000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,1159000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,210263000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,1692286000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,484958000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,2529000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,3149000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,50000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,50000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,8727000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,422169000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-318980000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,741149000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,145280000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,9603000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,487093000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,85414000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,13759000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,1207326000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,-2000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,10090000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,229393000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Inventory,664459000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,153941000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,15843000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,149243000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,345432000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,396000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,0.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,301949000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1041000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,15827000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1041000.0
+HILTON.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,1041000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,13238608.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,13238608.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,599712000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,602683000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,448769000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1051452000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,184551000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,448769000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,448769000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,634330000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,448769000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,448769000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,324339000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,-67122000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,336181000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,124430000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,124430000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,691432000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,193768000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,8207000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,185561000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,185561000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,8207000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,497664000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,35216000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,417122000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,417122000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1284000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,1284000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Payables,23480000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,2713000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,69000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,20698000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,1140201000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,457985000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,2529000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,14897000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,50000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,50000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,8727000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,384211000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-295344000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,679555000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,84838000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,9603000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,485941000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,85414000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,13759000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,682215000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,1000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,9348000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,109176000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Inventory,546415000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,154064000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,6131000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,118732000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,267488000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,352000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,0.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,13852000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3071000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,100000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,2971000.0
+HILTON.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,2971000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,-84743000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,336181000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,2000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,7985000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,0.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1270000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,729000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,115000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,2699000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,0.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-272001000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,484838000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,85414000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,13759000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,9017000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,107563000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,153428000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,6432000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,118343000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,261732000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,436000.0
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+HILTON.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,641000.0

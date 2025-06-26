@@ -1,0 +1,226 @@
+symbol,statement_type,period_end,line_item,value
+SATIA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1487940000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1168096000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,548093000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1364929000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,35807000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,-702000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,36509000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1091922000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-28976000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-245546000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-20000000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-743587000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-123584000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-620003000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1168096000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,548093000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1724438000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,18321000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,142000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-416844000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1326057000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,38872000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1364929000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2852869000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-214408000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,266420000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-40596000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,107867000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,220084000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-20935000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,151155000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,25207000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1573541000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SATIA.NS,cashflow,2025-03-31 00:00:00,Depreciation,1573541000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-9351000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,3960000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-8743000.0
+SATIA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1065088000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1824788000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1763374000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,718693000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1801335000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,-702000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SATIA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4103000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-4805000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1919939000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-260131000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-283640000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-120000000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1205002000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-160321000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SATIA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1044681000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1763374000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,718693000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1710989000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SATIA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,14699000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,51120000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,51120000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1776808000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,24527000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1801335000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,3626123000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-389121000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-292234000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,38435000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-329508000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-159057000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,157896000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,251586000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,5311000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1513612000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,4621000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Depreciation,1513612000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,10326000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,761000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1017000.0
+SATIA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2526899000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,791469000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1116857000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1012388000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2029563000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4103000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,9873000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-5771000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-882695000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-394942000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-349284000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-40000000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-64756000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,39713000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SATIA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,39713000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-104469000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1116857000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1012388000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1944108000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SATIA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,9577000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1953685000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,75878000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2029563000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2821032000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-373664000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1024673000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,8539000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-31643000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-135443000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-866126000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,279079000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,8709000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2071274000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,4492000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Depreciation,2066782000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-5793000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,32121000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1171000.0
+SATIA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1835150000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-593881000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-358729000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,901997000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2189585000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,9873000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,6846000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,3027000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,431173000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,139102000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-207867000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-10000000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,543268000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-358729000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-358729000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,106945000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,901997000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,901997000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2023850000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-43143000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,5611000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2029461000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,160124000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2189585000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1595704000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-233122000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-101411000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-7425000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,691919000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-534621000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-251284000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,111620000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,635761000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SATIA.NS,cashflow,2022-03-31 00:00:00,Depreciation,635761000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-22662000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-5266000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-15904000.0
+SATIA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1226688000.0
+SATIA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SATIA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,42326000.0
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-28762000.0
+SATIA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SATIA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

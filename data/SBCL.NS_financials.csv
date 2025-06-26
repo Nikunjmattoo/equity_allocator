@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+SBCL.NS,income,2025-03-31 00:00:00,Tax Effect Of Unusual Items,0.0
+SBCL.NS,income,2025-03-31 00:00:00,Tax Rate For Calcs,0.249785
+SBCL.NS,income,2025-03-31 00:00:00,Normalized EBITDA,1182369000.0
+SBCL.NS,income,2025-03-31 00:00:00,Total Unusual Items,0.0
+SBCL.NS,income,2025-03-31 00:00:00,Total Unusual Items Excluding Goodwill,0.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Reconciled Depreciation,117761000.0
+SBCL.NS,income,2025-03-31 00:00:00,Reconciled Cost Of Revenue,2893041000.0
+SBCL.NS,income,2025-03-31 00:00:00,EBITDA,1182369000.0
+SBCL.NS,income,2025-03-31 00:00:00,EBIT,1064608000.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Interest Income,-37499000.0
+SBCL.NS,income,2025-03-31 00:00:00,Interest Expense,37499000.0
+SBCL.NS,income,2025-03-31 00:00:00,Interest Income,
+SBCL.NS,income,2025-03-31 00:00:00,Normalized Income,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Total Expenses,3507511000.0
+SBCL.NS,income,2025-03-31 00:00:00,Rent Expense Supplemental,
+SBCL.NS,income,2025-03-31 00:00:00,Diluted Average Shares,
+SBCL.NS,income,2025-03-31 00:00:00,Basic Average Shares,
+SBCL.NS,income,2025-03-31 00:00:00,Diluted EPS,
+SBCL.NS,income,2025-03-31 00:00:00,Basic EPS,
+SBCL.NS,income,2025-03-31 00:00:00,Diluted NI Availto Com Stockholders,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Income Common Stockholders,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Income,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Income Including Noncontrolling Interests,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Net Income Continuous Operations,770553000.0
+SBCL.NS,income,2025-03-31 00:00:00,Tax Provision,256556000.0
+SBCL.NS,income,2025-03-31 00:00:00,Pretax Income,1027109000.0
+SBCL.NS,income,2025-03-31 00:00:00,Other Non Operating Income Expenses,-528110000.0
+SBCL.NS,income,2025-03-31 00:00:00,Special Income Charges,0.0
+SBCL.NS,income,2025-03-31 00:00:00,Other Special Charges,
+SBCL.NS,income,2025-03-31 00:00:00,Write Off,
+SBCL.NS,income,2025-03-31 00:00:00,Net Non Operating Interest Income Expense,-37499000.0
+SBCL.NS,income,2025-03-31 00:00:00,Total Other Finance Cost,
+SBCL.NS,income,2025-03-31 00:00:00,Interest Expense Non Operating,37499000.0
+SBCL.NS,income,2025-03-31 00:00:00,Interest Income Non Operating,
+SBCL.NS,income,2025-03-31 00:00:00,Operating Income,1575967000.0
+SBCL.NS,income,2025-03-31 00:00:00,Operating Expense,614470000.0
+SBCL.NS,income,2025-03-31 00:00:00,Other Operating Expenses,
+SBCL.NS,income,2025-03-31 00:00:00,Depreciation And Amortization In Income Statement,117761000.0
+SBCL.NS,income,2025-03-31 00:00:00,Depreciation Income Statement,117761000.0
+SBCL.NS,income,2025-03-31 00:00:00,Research And Development,
+SBCL.NS,income,2025-03-31 00:00:00,Selling General And Administration,
+SBCL.NS,income,2025-03-31 00:00:00,Selling And Marketing Expense,
+SBCL.NS,income,2025-03-31 00:00:00,General And Administrative Expense,
+SBCL.NS,income,2025-03-31 00:00:00,Rent And Landing Fees,
+SBCL.NS,income,2025-03-31 00:00:00,Gross Profit,2190437000.0
+SBCL.NS,income,2025-03-31 00:00:00,Cost Of Revenue,2893041000.0
+SBCL.NS,income,2025-03-31 00:00:00,Total Revenue,5083478000.0
+SBCL.NS,income,2025-03-31 00:00:00,Operating Revenue,5083478000.0
+SBCL.NS,income,2024-03-31 00:00:00,Tax Effect Of Unusual Items,1690111.862162
+SBCL.NS,income,2024-03-31 00:00:00,Tax Rate For Calcs,0.245978
+SBCL.NS,income,2024-03-31 00:00:00,Normalized EBITDA,1262281000.0
+SBCL.NS,income,2024-03-31 00:00:00,Total Unusual Items,6871000.0
+SBCL.NS,income,2024-03-31 00:00:00,Total Unusual Items Excluding Goodwill,6871000.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Reconciled Depreciation,120520000.0
+SBCL.NS,income,2024-03-31 00:00:00,Reconciled Cost Of Revenue,2979828000.0
+SBCL.NS,income,2024-03-31 00:00:00,EBITDA,1269152000.0
+SBCL.NS,income,2024-03-31 00:00:00,EBIT,1148632000.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Interest Income,-27557000.0
+SBCL.NS,income,2024-03-31 00:00:00,Interest Expense,31087000.0
+SBCL.NS,income,2024-03-31 00:00:00,Interest Income,15822000.0
+SBCL.NS,income,2024-03-31 00:00:00,Normalized Income,837473111.862162
+SBCL.NS,income,2024-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Total Expenses,4031859000.0
+SBCL.NS,income,2024-03-31 00:00:00,Rent Expense Supplemental,23392000.0
+SBCL.NS,income,2024-03-31 00:00:00,Diluted Average Shares,63167466.0
+SBCL.NS,income,2024-03-31 00:00:00,Basic Average Shares,63167466.0
+SBCL.NS,income,2024-03-31 00:00:00,Diluted EPS,13.34
+SBCL.NS,income,2024-03-31 00:00:00,Basic EPS,13.34
+SBCL.NS,income,2024-03-31 00:00:00,Diluted NI Availto Com Stockholders,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Income Common Stockholders,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Income,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Income Including Noncontrolling Interests,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Income Continuous Operations,842654000.0
+SBCL.NS,income,2024-03-31 00:00:00,Tax Provision,274891000.0
+SBCL.NS,income,2024-03-31 00:00:00,Pretax Income,1117545000.0
+SBCL.NS,income,2024-03-31 00:00:00,Other Non Operating Income Expenses,2325000.0
+SBCL.NS,income,2024-03-31 00:00:00,Special Income Charges,5035000.0
+SBCL.NS,income,2024-03-31 00:00:00,Other Special Charges,-5144000.0
+SBCL.NS,income,2024-03-31 00:00:00,Write Off,109000.0
+SBCL.NS,income,2024-03-31 00:00:00,Net Non Operating Interest Income Expense,-27557000.0
+SBCL.NS,income,2024-03-31 00:00:00,Total Other Finance Cost,12292000.0
+SBCL.NS,income,2024-03-31 00:00:00,Interest Expense Non Operating,31087000.0
+SBCL.NS,income,2024-03-31 00:00:00,Interest Income Non Operating,15822000.0
+SBCL.NS,income,2024-03-31 00:00:00,Operating Income,1057431000.0
+SBCL.NS,income,2024-03-31 00:00:00,Operating Expense,1052031000.0
+SBCL.NS,income,2024-03-31 00:00:00,Other Operating Expenses,253248000.0
+SBCL.NS,income,2024-03-31 00:00:00,Depreciation And Amortization In Income Statement,120520000.0
+SBCL.NS,income,2024-03-31 00:00:00,Depreciation Income Statement,120520000.0
+SBCL.NS,income,2024-03-31 00:00:00,Research And Development,42468000.0
+SBCL.NS,income,2024-03-31 00:00:00,Selling General And Administration,300720000.0
+SBCL.NS,income,2024-03-31 00:00:00,Selling And Marketing Expense,262542000.0
+SBCL.NS,income,2024-03-31 00:00:00,General And Administrative Expense,38178000.0
+SBCL.NS,income,2024-03-31 00:00:00,Rent And Landing Fees,23392000.0
+SBCL.NS,income,2024-03-31 00:00:00,Gross Profit,2109462000.0
+SBCL.NS,income,2024-03-31 00:00:00,Cost Of Revenue,2979828000.0
+SBCL.NS,income,2024-03-31 00:00:00,Total Revenue,5089290000.0
+SBCL.NS,income,2024-03-31 00:00:00,Operating Revenue,5089290000.0
+SBCL.NS,income,2023-03-31 00:00:00,Tax Effect Of Unusual Items,10238369.80809
+SBCL.NS,income,2023-03-31 00:00:00,Tax Rate For Calcs,0.226814
+SBCL.NS,income,2023-03-31 00:00:00,Normalized EBITDA,1119961000.0
+SBCL.NS,income,2023-03-31 00:00:00,Total Unusual Items,45140000.0
+SBCL.NS,income,2023-03-31 00:00:00,Total Unusual Items Excluding Goodwill,45140000.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Reconciled Depreciation,105474000.0
+SBCL.NS,income,2023-03-31 00:00:00,Reconciled Cost Of Revenue,2591030000.0
+SBCL.NS,income,2023-03-31 00:00:00,EBITDA,1165101000.0
+SBCL.NS,income,2023-03-31 00:00:00,EBIT,1059627000.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Interest Income,-44259000.0
+SBCL.NS,income,2023-03-31 00:00:00,Interest Expense,36545000.0
+SBCL.NS,income,2023-03-31 00:00:00,Interest Income,5432000.0
+SBCL.NS,income,2023-03-31 00:00:00,Normalized Income,756131369.80809
+SBCL.NS,income,2023-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Total Expenses,3718552000.0
+SBCL.NS,income,2023-03-31 00:00:00,Rent Expense Supplemental,21401000.0
+SBCL.NS,income,2023-03-31 00:00:00,Diluted Average Shares,57604200.0
+SBCL.NS,income,2023-03-31 00:00:00,Basic Average Shares,57604200.0
+SBCL.NS,income,2023-03-31 00:00:00,Diluted EPS,13.73221
+SBCL.NS,income,2023-03-31 00:00:00,Basic EPS,13.73221
+SBCL.NS,income,2023-03-31 00:00:00,Diluted NI Availto Com Stockholders,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Income Common Stockholders,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Income,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Income Including Noncontrolling Interests,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Income Continuous Operations,791033000.0
+SBCL.NS,income,2023-03-31 00:00:00,Tax Provision,232049000.0
+SBCL.NS,income,2023-03-31 00:00:00,Pretax Income,1023082000.0
+SBCL.NS,income,2023-03-31 00:00:00,Other Non Operating Income Expenses,3626000.0
+SBCL.NS,income,2023-03-31 00:00:00,Special Income Charges,12224000.0
+SBCL.NS,income,2023-03-31 00:00:00,Other Special Charges,-12224000.0
+SBCL.NS,income,2023-03-31 00:00:00,Write Off,0.0
+SBCL.NS,income,2023-03-31 00:00:00,Net Non Operating Interest Income Expense,-44259000.0
+SBCL.NS,income,2023-03-31 00:00:00,Total Other Finance Cost,13146000.0
+SBCL.NS,income,2023-03-31 00:00:00,Interest Expense Non Operating,36545000.0
+SBCL.NS,income,2023-03-31 00:00:00,Interest Income Non Operating,5432000.0
+SBCL.NS,income,2023-03-31 00:00:00,Operating Income,985169000.0
+SBCL.NS,income,2023-03-31 00:00:00,Operating Expense,1127522000.0
+SBCL.NS,income,2023-03-31 00:00:00,Other Operating Expenses,225515000.0
+SBCL.NS,income,2023-03-31 00:00:00,Depreciation And Amortization In Income Statement,105474000.0
+SBCL.NS,income,2023-03-31 00:00:00,Depreciation Income Statement,105474000.0
+SBCL.NS,income,2023-03-31 00:00:00,Research And Development,58689000.0
+SBCL.NS,income,2023-03-31 00:00:00,Selling General And Administration,338512000.0
+SBCL.NS,income,2023-03-31 00:00:00,Selling And Marketing Expense,287238000.0
+SBCL.NS,income,2023-03-31 00:00:00,General And Administrative Expense,51274000.0
+SBCL.NS,income,2023-03-31 00:00:00,Rent And Landing Fees,21401000.0
+SBCL.NS,income,2023-03-31 00:00:00,Gross Profit,2112691000.0
+SBCL.NS,income,2023-03-31 00:00:00,Cost Of Revenue,2591030000.0
+SBCL.NS,income,2023-03-31 00:00:00,Total Revenue,4703721000.0
+SBCL.NS,income,2023-03-31 00:00:00,Operating Revenue,4703721000.0
+SBCL.NS,income,2022-03-31 00:00:00,Tax Effect Of Unusual Items,483071.731541
+SBCL.NS,income,2022-03-31 00:00:00,Tax Rate For Calcs,0.248111
+SBCL.NS,income,2022-03-31 00:00:00,Normalized EBITDA,806691000.0
+SBCL.NS,income,2022-03-31 00:00:00,Total Unusual Items,1947000.0
+SBCL.NS,income,2022-03-31 00:00:00,Total Unusual Items Excluding Goodwill,1947000.0
+SBCL.NS,income,2022-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Reconciled Depreciation,63783000.0
+SBCL.NS,income,2022-03-31 00:00:00,Reconciled Cost Of Revenue,1693028000.0
+SBCL.NS,income,2022-03-31 00:00:00,EBITDA,808638000.0
+SBCL.NS,income,2022-03-31 00:00:00,EBIT,744855000.0
+SBCL.NS,income,2022-03-31 00:00:00,Net Interest Income,-16367000.0
+SBCL.NS,income,2022-03-31 00:00:00,Interest Expense,11872000.0
+SBCL.NS,income,2022-03-31 00:00:00,Interest Income,4790000.0
+SBCL.NS,income,2022-03-31 00:00:00,Normalized Income,549658071.731541
+SBCL.NS,income,2022-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Total Expenses,2567412000.0
+SBCL.NS,income,2022-03-31 00:00:00,Rent Expense Supplemental,32102000.0
+SBCL.NS,income,2022-03-31 00:00:00,Diluted Average Shares,57604200.0
+SBCL.NS,income,2022-03-31 00:00:00,Basic Average Shares,57604200.0
+SBCL.NS,income,2022-03-31 00:00:00,Diluted EPS,9.567393
+SBCL.NS,income,2022-03-31 00:00:00,Basic EPS,9.567393
+SBCL.NS,income,2022-03-31 00:00:00,Diluted NI Availto Com Stockholders,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Net Income Common Stockholders,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SBCL.NS,income,2022-03-31 00:00:00,Net Income,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Net Income Including Noncontrolling Interests,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Net Income Continuous Operations,551122000.0
+SBCL.NS,income,2022-03-31 00:00:00,Tax Provision,181861000.0
+SBCL.NS,income,2022-03-31 00:00:00,Pretax Income,732983000.0
+SBCL.NS,income,2022-03-31 00:00:00,Other Non Operating Income Expenses,4086000.0
+SBCL.NS,income,2022-03-31 00:00:00,Special Income Charges,1947000.0
+SBCL.NS,income,2022-03-31 00:00:00,Other Special Charges,-1947000.0
+SBCL.NS,income,2022-03-31 00:00:00,Write Off,
+SBCL.NS,income,2022-03-31 00:00:00,Net Non Operating Interest Income Expense,-16367000.0
+SBCL.NS,income,2022-03-31 00:00:00,Total Other Finance Cost,9285000.0
+SBCL.NS,income,2022-03-31 00:00:00,Interest Expense Non Operating,11872000.0
+SBCL.NS,income,2022-03-31 00:00:00,Interest Income Non Operating,4790000.0
+SBCL.NS,income,2022-03-31 00:00:00,Operating Income,672463000.0
+SBCL.NS,income,2022-03-31 00:00:00,Operating Expense,874384000.0
+SBCL.NS,income,2022-03-31 00:00:00,Other Operating Expenses,179542000.0
+SBCL.NS,income,2022-03-31 00:00:00,Depreciation And Amortization In Income Statement,63783000.0
+SBCL.NS,income,2022-03-31 00:00:00,Depreciation Income Statement,63783000.0
+SBCL.NS,income,2022-03-31 00:00:00,Research And Development,7443000.0
+SBCL.NS,income,2022-03-31 00:00:00,Selling General And Administration,321757000.0
+SBCL.NS,income,2022-03-31 00:00:00,Selling And Marketing Expense,295702000.0
+SBCL.NS,income,2022-03-31 00:00:00,General And Administrative Expense,26055000.0
+SBCL.NS,income,2022-03-31 00:00:00,Rent And Landing Fees,32102000.0
+SBCL.NS,income,2022-03-31 00:00:00,Gross Profit,1546847000.0
+SBCL.NS,income,2022-03-31 00:00:00,Cost Of Revenue,1693028000.0
+SBCL.NS,income,2022-03-31 00:00:00,Total Revenue,3239875000.0
+SBCL.NS,income,2022-03-31 00:00:00,Operating Revenue,3239875000.0
+SBCL.NS,income,2021-03-31 00:00:00,Tax Effect Of Unusual Items,
+SBCL.NS,income,2021-03-31 00:00:00,Tax Rate For Calcs,
+SBCL.NS,income,2021-03-31 00:00:00,Normalized EBITDA,
+SBCL.NS,income,2021-03-31 00:00:00,Total Unusual Items,
+SBCL.NS,income,2021-03-31 00:00:00,Total Unusual Items Excluding Goodwill,
+SBCL.NS,income,2021-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,
+SBCL.NS,income,2021-03-31 00:00:00,Reconciled Depreciation,
+SBCL.NS,income,2021-03-31 00:00:00,Reconciled Cost Of Revenue,
+SBCL.NS,income,2021-03-31 00:00:00,EBITDA,
+SBCL.NS,income,2021-03-31 00:00:00,EBIT,
+SBCL.NS,income,2021-03-31 00:00:00,Net Interest Income,
+SBCL.NS,income,2021-03-31 00:00:00,Interest Expense,
+SBCL.NS,income,2021-03-31 00:00:00,Interest Income,2317000.0
+SBCL.NS,income,2021-03-31 00:00:00,Normalized Income,
+SBCL.NS,income,2021-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,
+SBCL.NS,income,2021-03-31 00:00:00,Total Expenses,
+SBCL.NS,income,2021-03-31 00:00:00,Rent Expense Supplemental,7399000.0
+SBCL.NS,income,2021-03-31 00:00:00,Diluted Average Shares,57604200.0
+SBCL.NS,income,2021-03-31 00:00:00,Basic Average Shares,57604200.0
+SBCL.NS,income,2021-03-31 00:00:00,Diluted EPS,4.424903
+SBCL.NS,income,2021-03-31 00:00:00,Basic EPS,4.424903
+SBCL.NS,income,2021-03-31 00:00:00,Diluted NI Availto Com Stockholders,
+SBCL.NS,income,2021-03-31 00:00:00,Net Income Common Stockholders,
+SBCL.NS,income,2021-03-31 00:00:00,Otherunder Preferred Stock Dividend,
+SBCL.NS,income,2021-03-31 00:00:00,Net Income,
+SBCL.NS,income,2021-03-31 00:00:00,Net Income Including Noncontrolling Interests,
+SBCL.NS,income,2021-03-31 00:00:00,Net Income Continuous Operations,
+SBCL.NS,income,2021-03-31 00:00:00,Tax Provision,
+SBCL.NS,income,2021-03-31 00:00:00,Pretax Income,
+SBCL.NS,income,2021-03-31 00:00:00,Other Non Operating Income Expenses,
+SBCL.NS,income,2021-03-31 00:00:00,Special Income Charges,
+SBCL.NS,income,2021-03-31 00:00:00,Other Special Charges,-1203000.0
+SBCL.NS,income,2021-03-31 00:00:00,Write Off,
+SBCL.NS,income,2021-03-31 00:00:00,Net Non Operating Interest Income Expense,
+SBCL.NS,income,2021-03-31 00:00:00,Total Other Finance Cost,6586000.0
+SBCL.NS,income,2021-03-31 00:00:00,Interest Expense Non Operating,
+SBCL.NS,income,2021-03-31 00:00:00,Interest Income Non Operating,2317000.0
+SBCL.NS,income,2021-03-31 00:00:00,Operating Income,
+SBCL.NS,income,2021-03-31 00:00:00,Operating Expense,
+SBCL.NS,income,2021-03-31 00:00:00,Other Operating Expenses,166578000.0
+SBCL.NS,income,2021-03-31 00:00:00,Depreciation And Amortization In Income Statement,
+SBCL.NS,income,2021-03-31 00:00:00,Depreciation Income Statement,
+SBCL.NS,income,2021-03-31 00:00:00,Research And Development,7641000.0
+SBCL.NS,income,2021-03-31 00:00:00,Selling General And Administration,206580000.0
+SBCL.NS,income,2021-03-31 00:00:00,Selling And Marketing Expense,183942000.0
+SBCL.NS,income,2021-03-31 00:00:00,General And Administrative Expense,22638000.0
+SBCL.NS,income,2021-03-31 00:00:00,Rent And Landing Fees,7399000.0
+SBCL.NS,income,2021-03-31 00:00:00,Gross Profit,
+SBCL.NS,income,2021-03-31 00:00:00,Cost Of Revenue,
+SBCL.NS,income,2021-03-31 00:00:00,Total Revenue,
+SBCL.NS,income,2021-03-31 00:00:00,Operating Revenue,

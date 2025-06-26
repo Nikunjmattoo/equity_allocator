@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+TAKE.NS,income,2025-03-31 00:00:00,Tax Effect Of Unusual Items,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Tax Rate For Calcs,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Normalized EBITDA,27440000.0
+TAKE.NS,income,2025-03-31 00:00:00,Total Unusual Items,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Total Unusual Items Excluding Goodwill,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,7380000.0
+TAKE.NS,income,2025-03-31 00:00:00,Reconciled Depreciation,450000.0
+TAKE.NS,income,2025-03-31 00:00:00,Reconciled Cost Of Revenue,0.0
+TAKE.NS,income,2025-03-31 00:00:00,EBITDA,27440000.0
+TAKE.NS,income,2025-03-31 00:00:00,EBIT,26990000.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Interest Income,-19610000.0
+TAKE.NS,income,2025-03-31 00:00:00,Interest Expense,19610000.0
+TAKE.NS,income,2025-03-31 00:00:00,Interest Income,
+TAKE.NS,income,2025-03-31 00:00:00,Normalized Income,7380000.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,374670000.0
+TAKE.NS,income,2025-03-31 00:00:00,Total Expenses,75200000.0
+TAKE.NS,income,2025-03-31 00:00:00,Rent Expense Supplemental,
+TAKE.NS,income,2025-03-31 00:00:00,Diluted Average Shares,146355469.0
+TAKE.NS,income,2025-03-31 00:00:00,Basic Average Shares,146355469.0
+TAKE.NS,income,2025-03-31 00:00:00,Diluted EPS,2.56
+TAKE.NS,income,2025-03-31 00:00:00,Basic EPS,2.56
+TAKE.NS,income,2025-03-31 00:00:00,Diluted NI Availto Com Stockholders,374670000.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income Common Stockholders,374670000.0
+TAKE.NS,income,2025-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income,374670000.0
+TAKE.NS,income,2025-03-31 00:00:00,Minority Interests,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income Including Noncontrolling Interests,374670000.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income Discontinuous Operations,367290000.0
+TAKE.NS,income,2025-03-31 00:00:00,Net Income Continuous Operations,7380000.0
+TAKE.NS,income,2025-03-31 00:00:00,Tax Provision,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Pretax Income,7380000.0
+TAKE.NS,income,2025-03-31 00:00:00,Other Non Operating Income Expenses,102190000.0
+TAKE.NS,income,2025-03-31 00:00:00,Special Income Charges,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Other Special Charges,
+TAKE.NS,income,2025-03-31 00:00:00,Write Off,
+TAKE.NS,income,2025-03-31 00:00:00,Impairment Of Capital Assets,
+TAKE.NS,income,2025-03-31 00:00:00,Net Non Operating Interest Income Expense,-19610000.0
+TAKE.NS,income,2025-03-31 00:00:00,Total Other Finance Cost,
+TAKE.NS,income,2025-03-31 00:00:00,Interest Expense Non Operating,19610000.0
+TAKE.NS,income,2025-03-31 00:00:00,Interest Income Non Operating,
+TAKE.NS,income,2025-03-31 00:00:00,Operating Income,-75200000.0
+TAKE.NS,income,2025-03-31 00:00:00,Operating Expense,75200000.0
+TAKE.NS,income,2025-03-31 00:00:00,Other Operating Expenses,63800000.0
+TAKE.NS,income,2025-03-31 00:00:00,Depreciation And Amortization In Income Statement,450000.0
+TAKE.NS,income,2025-03-31 00:00:00,Amortization,
+TAKE.NS,income,2025-03-31 00:00:00,Depreciation Income Statement,450000.0
+TAKE.NS,income,2025-03-31 00:00:00,Selling General And Administration,
+TAKE.NS,income,2025-03-31 00:00:00,Selling And Marketing Expense,
+TAKE.NS,income,2025-03-31 00:00:00,General And Administrative Expense,
+TAKE.NS,income,2025-03-31 00:00:00,Rent And Landing Fees,
+TAKE.NS,income,2025-03-31 00:00:00,Gross Profit,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Cost Of Revenue,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Total Revenue,0.0
+TAKE.NS,income,2025-03-31 00:00:00,Operating Revenue,0.0
+TAKE.NS,income,2024-03-31 00:00:00,Tax Effect Of Unusual Items,-117300000.0
+TAKE.NS,income,2024-03-31 00:00:00,Tax Rate For Calcs,0.3
+TAKE.NS,income,2024-03-31 00:00:00,Normalized EBITDA,-131220000.0
+TAKE.NS,income,2024-03-31 00:00:00,Total Unusual Items,-391000000.0
+TAKE.NS,income,2024-03-31 00:00:00,Total Unusual Items Excluding Goodwill,-391000000.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,-663760000.0
+TAKE.NS,income,2024-03-31 00:00:00,Reconciled Depreciation,78750000.0
+TAKE.NS,income,2024-03-31 00:00:00,Reconciled Cost Of Revenue,31490000.0
+TAKE.NS,income,2024-03-31 00:00:00,EBITDA,-522220000.0
+TAKE.NS,income,2024-03-31 00:00:00,EBIT,-600970000.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Interest Income,-22700000.0
+TAKE.NS,income,2024-03-31 00:00:00,Interest Expense,22700000.0
+TAKE.NS,income,2024-03-31 00:00:00,Interest Income,4940000.0
+TAKE.NS,income,2024-03-31 00:00:00,Normalized Income,-390060000.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,-1196200000.0
+TAKE.NS,income,2024-03-31 00:00:00,Total Expenses,254580000.0
+TAKE.NS,income,2024-03-31 00:00:00,Rent Expense Supplemental,26260000.0
+TAKE.NS,income,2024-03-31 00:00:00,Diluted Average Shares,146234719.0
+TAKE.NS,income,2024-03-31 00:00:00,Basic Average Shares,146234719.0
+TAKE.NS,income,2024-03-31 00:00:00,Diluted EPS,-8.18
+TAKE.NS,income,2024-03-31 00:00:00,Basic EPS,-8.18
+TAKE.NS,income,2024-03-31 00:00:00,Diluted NI Availto Com Stockholders,-1196200000.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income Common Stockholders,-1196200000.0
+TAKE.NS,income,2024-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income,-1196200000.0
+TAKE.NS,income,2024-03-31 00:00:00,Minority Interests,0.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income Including Noncontrolling Interests,-1196200000.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income Discontinuous Operations,-532440000.0
+TAKE.NS,income,2024-03-31 00:00:00,Net Income Continuous Operations,-663760000.0
+TAKE.NS,income,2024-03-31 00:00:00,Tax Provision,40090000.0
+TAKE.NS,income,2024-03-31 00:00:00,Pretax Income,-623670000.0
+TAKE.NS,income,2024-03-31 00:00:00,Other Non Operating Income Expenses,8590000.0
+TAKE.NS,income,2024-03-31 00:00:00,Special Income Charges,-391000000.0
+TAKE.NS,income,2024-03-31 00:00:00,Other Special Charges,391000000.0
+TAKE.NS,income,2024-03-31 00:00:00,Write Off,559740000.0
+TAKE.NS,income,2024-03-31 00:00:00,Impairment Of Capital Assets,
+TAKE.NS,income,2024-03-31 00:00:00,Net Non Operating Interest Income Expense,-22700000.0
+TAKE.NS,income,2024-03-31 00:00:00,Total Other Finance Cost,
+TAKE.NS,income,2024-03-31 00:00:00,Interest Expense Non Operating,22700000.0
+TAKE.NS,income,2024-03-31 00:00:00,Interest Income Non Operating,4940000.0
+TAKE.NS,income,2024-03-31 00:00:00,Operating Income,-218560000.0
+TAKE.NS,income,2024-03-31 00:00:00,Operating Expense,223090000.0
+TAKE.NS,income,2024-03-31 00:00:00,Other Operating Expenses,195300000.0
+TAKE.NS,income,2024-03-31 00:00:00,Depreciation And Amortization In Income Statement,7170000.0
+TAKE.NS,income,2024-03-31 00:00:00,Amortization,4500000.0
+TAKE.NS,income,2024-03-31 00:00:00,Depreciation Income Statement,7170000.0
+TAKE.NS,income,2024-03-31 00:00:00,Selling General And Administration,79330000.0
+TAKE.NS,income,2024-03-31 00:00:00,Selling And Marketing Expense,680000.0
+TAKE.NS,income,2024-03-31 00:00:00,General And Administrative Expense,78650000.0
+TAKE.NS,income,2024-03-31 00:00:00,Rent And Landing Fees,26260000.0
+TAKE.NS,income,2024-03-31 00:00:00,Gross Profit,4530000.0
+TAKE.NS,income,2024-03-31 00:00:00,Cost Of Revenue,31490000.0
+TAKE.NS,income,2024-03-31 00:00:00,Total Revenue,36020000.0
+TAKE.NS,income,2024-03-31 00:00:00,Operating Revenue,36020000.0
+TAKE.NS,income,2023-03-31 00:00:00,Tax Effect Of Unusual Items,-154995000.0
+TAKE.NS,income,2023-03-31 00:00:00,Tax Rate For Calcs,0.3
+TAKE.NS,income,2023-03-31 00:00:00,Normalized EBITDA,303280000.0
+TAKE.NS,income,2023-03-31 00:00:00,Total Unusual Items,-516650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Total Unusual Items Excluding Goodwill,-516650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,-468640000.0
+TAKE.NS,income,2023-03-31 00:00:00,Reconciled Depreciation,168400000.0
+TAKE.NS,income,2023-03-31 00:00:00,Reconciled Cost Of Revenue,830110000.0
+TAKE.NS,income,2023-03-31 00:00:00,EBITDA,-213370000.0
+TAKE.NS,income,2023-03-31 00:00:00,EBIT,-381770000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Interest Income,-66240000.0
+TAKE.NS,income,2023-03-31 00:00:00,Interest Expense,70960000.0
+TAKE.NS,income,2023-03-31 00:00:00,Interest Income,8300000.0
+TAKE.NS,income,2023-03-31 00:00:00,Normalized Income,-106985000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,-1002650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Total Expenses,1832510000.0
+TAKE.NS,income,2023-03-31 00:00:00,Rent Expense Supplemental,23460000.0
+TAKE.NS,income,2023-03-31 00:00:00,Diluted Average Shares,146224984.0
+TAKE.NS,income,2023-03-31 00:00:00,Basic Average Shares,146224984.0
+TAKE.NS,income,2023-03-31 00:00:00,Diluted EPS,-6.86
+TAKE.NS,income,2023-03-31 00:00:00,Basic EPS,-6.86
+TAKE.NS,income,2023-03-31 00:00:00,Diluted NI Availto Com Stockholders,-1002650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income Common Stockholders,-1002650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income,-1002650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Minority Interests,890000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income Including Noncontrolling Interests,-1003540000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income Discontinuous Operations,-534010000.0
+TAKE.NS,income,2023-03-31 00:00:00,Net Income Continuous Operations,-469530000.0
+TAKE.NS,income,2023-03-31 00:00:00,Tax Provision,16800000.0
+TAKE.NS,income,2023-03-31 00:00:00,Pretax Income,-452730000.0
+TAKE.NS,income,2023-03-31 00:00:00,Other Non Operating Income Expenses,16490000.0
+TAKE.NS,income,2023-03-31 00:00:00,Special Income Charges,-516650000.0
+TAKE.NS,income,2023-03-31 00:00:00,Other Special Charges,-2600000.0
+TAKE.NS,income,2023-03-31 00:00:00,Write Off,519250000.0
+TAKE.NS,income,2023-03-31 00:00:00,Impairment Of Capital Assets,
+TAKE.NS,income,2023-03-31 00:00:00,Net Non Operating Interest Income Expense,-66240000.0
+TAKE.NS,income,2023-03-31 00:00:00,Total Other Finance Cost,3580000.0
+TAKE.NS,income,2023-03-31 00:00:00,Interest Expense Non Operating,70960000.0
+TAKE.NS,income,2023-03-31 00:00:00,Interest Income Non Operating,8300000.0
+TAKE.NS,income,2023-03-31 00:00:00,Operating Income,58190000.0
+TAKE.NS,income,2023-03-31 00:00:00,Operating Expense,1002400000.0
+TAKE.NS,income,2023-03-31 00:00:00,Other Operating Expenses,228540000.0
+TAKE.NS,income,2023-03-31 00:00:00,Depreciation And Amortization In Income Statement,168400000.0
+TAKE.NS,income,2023-03-31 00:00:00,Amortization,7830000.0
+TAKE.NS,income,2023-03-31 00:00:00,Depreciation Income Statement,160570000.0
+TAKE.NS,income,2023-03-31 00:00:00,Selling General And Administration,102860000.0
+TAKE.NS,income,2023-03-31 00:00:00,Selling And Marketing Expense,3090000.0
+TAKE.NS,income,2023-03-31 00:00:00,General And Administrative Expense,99770000.0
+TAKE.NS,income,2023-03-31 00:00:00,Rent And Landing Fees,23460000.0
+TAKE.NS,income,2023-03-31 00:00:00,Gross Profit,1060590000.0
+TAKE.NS,income,2023-03-31 00:00:00,Cost Of Revenue,830110000.0
+TAKE.NS,income,2023-03-31 00:00:00,Total Revenue,1890700000.0
+TAKE.NS,income,2023-03-31 00:00:00,Operating Revenue,1890700000.0
+TAKE.NS,income,2022-03-31 00:00:00,Tax Effect Of Unusual Items,-16242000.0
+TAKE.NS,income,2022-03-31 00:00:00,Tax Rate For Calcs,0.3
+TAKE.NS,income,2022-03-31 00:00:00,Normalized EBITDA,503340000.0
+TAKE.NS,income,2022-03-31 00:00:00,Total Unusual Items,-54140000.0
+TAKE.NS,income,2022-03-31 00:00:00,Total Unusual Items Excluding Goodwill,-54140000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,-828090000.0
+TAKE.NS,income,2022-03-31 00:00:00,Reconciled Depreciation,958890000.0
+TAKE.NS,income,2022-03-31 00:00:00,Reconciled Cost Of Revenue,1928540000.0
+TAKE.NS,income,2022-03-31 00:00:00,EBITDA,449200000.0
+TAKE.NS,income,2022-03-31 00:00:00,EBIT,-509690000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Interest Income,-285510000.0
+TAKE.NS,income,2022-03-31 00:00:00,Interest Expense,270360000.0
+TAKE.NS,income,2022-03-31 00:00:00,Interest Income,7290000.0
+TAKE.NS,income,2022-03-31 00:00:00,Normalized Income,-790192000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,-7822530000.0
+TAKE.NS,income,2022-03-31 00:00:00,Total Expenses,7127540000.0
+TAKE.NS,income,2022-03-31 00:00:00,Rent Expense Supplemental,29800000.0
+TAKE.NS,income,2022-03-31 00:00:00,Diluted Average Shares,146224984.0
+TAKE.NS,income,2022-03-31 00:00:00,Basic Average Shares,146224984.0
+TAKE.NS,income,2022-03-31 00:00:00,Diluted EPS,-53.5
+TAKE.NS,income,2022-03-31 00:00:00,Basic EPS,-53.5
+TAKE.NS,income,2022-03-31 00:00:00,Diluted NI Availto Com Stockholders,-7822530000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income Common Stockholders,-7822530000.0
+TAKE.NS,income,2022-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income,-7822530000.0
+TAKE.NS,income,2022-03-31 00:00:00,Minority Interests,-410000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income Including Noncontrolling Interests,-7822940000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income Discontinuous Operations,-6994440000.0
+TAKE.NS,income,2022-03-31 00:00:00,Net Income Continuous Operations,-828500000.0
+TAKE.NS,income,2022-03-31 00:00:00,Tax Provision,48450000.0
+TAKE.NS,income,2022-03-31 00:00:00,Pretax Income,-780050000.0
+TAKE.NS,income,2022-03-31 00:00:00,Other Non Operating Income Expenses,93120000.0
+TAKE.NS,income,2022-03-31 00:00:00,Special Income Charges,-54140000.0
+TAKE.NS,income,2022-03-31 00:00:00,Other Special Charges,-10000.0
+TAKE.NS,income,2022-03-31 00:00:00,Write Off,54150000.0
+TAKE.NS,income,2022-03-31 00:00:00,Impairment Of Capital Assets,
+TAKE.NS,income,2022-03-31 00:00:00,Net Non Operating Interest Income Expense,-285510000.0
+TAKE.NS,income,2022-03-31 00:00:00,Total Other Finance Cost,22440000.0
+TAKE.NS,income,2022-03-31 00:00:00,Interest Expense Non Operating,270360000.0
+TAKE.NS,income,2022-03-31 00:00:00,Interest Income Non Operating,7290000.0
+TAKE.NS,income,2022-03-31 00:00:00,Operating Income,-601080000.0
+TAKE.NS,income,2022-03-31 00:00:00,Operating Expense,5199000000.0
+TAKE.NS,income,2022-03-31 00:00:00,Other Operating Expenses,537780000.0
+TAKE.NS,income,2022-03-31 00:00:00,Depreciation And Amortization In Income Statement,756250000.0
+TAKE.NS,income,2022-03-31 00:00:00,Amortization,212020000.0
+TAKE.NS,income,2022-03-31 00:00:00,Depreciation Income Statement,544230000.0
+TAKE.NS,income,2022-03-31 00:00:00,Selling General And Administration,793350000.0
+TAKE.NS,income,2022-03-31 00:00:00,Selling And Marketing Expense,24050000.0
+TAKE.NS,income,2022-03-31 00:00:00,General And Administrative Expense,769300000.0
+TAKE.NS,income,2022-03-31 00:00:00,Rent And Landing Fees,29800000.0
+TAKE.NS,income,2022-03-31 00:00:00,Gross Profit,4597920000.0
+TAKE.NS,income,2022-03-31 00:00:00,Cost Of Revenue,1928540000.0
+TAKE.NS,income,2022-03-31 00:00:00,Total Revenue,6526460000.0
+TAKE.NS,income,2022-03-31 00:00:00,Operating Revenue,6526460000.0
+TAKE.NS,income,2021-03-31 00:00:00,Tax Effect Of Unusual Items,
+TAKE.NS,income,2021-03-31 00:00:00,Tax Rate For Calcs,
+TAKE.NS,income,2021-03-31 00:00:00,Normalized EBITDA,
+TAKE.NS,income,2021-03-31 00:00:00,Total Unusual Items,
+TAKE.NS,income,2021-03-31 00:00:00,Total Unusual Items Excluding Goodwill,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,
+TAKE.NS,income,2021-03-31 00:00:00,Reconciled Depreciation,
+TAKE.NS,income,2021-03-31 00:00:00,Reconciled Cost Of Revenue,
+TAKE.NS,income,2021-03-31 00:00:00,EBITDA,
+TAKE.NS,income,2021-03-31 00:00:00,EBIT,
+TAKE.NS,income,2021-03-31 00:00:00,Net Interest Income,
+TAKE.NS,income,2021-03-31 00:00:00,Interest Expense,
+TAKE.NS,income,2021-03-31 00:00:00,Interest Income,9010000.0
+TAKE.NS,income,2021-03-31 00:00:00,Normalized Income,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,
+TAKE.NS,income,2021-03-31 00:00:00,Total Expenses,
+TAKE.NS,income,2021-03-31 00:00:00,Rent Expense Supplemental,80370000.0
+TAKE.NS,income,2021-03-31 00:00:00,Diluted Average Shares,
+TAKE.NS,income,2021-03-31 00:00:00,Basic Average Shares,
+TAKE.NS,income,2021-03-31 00:00:00,Diluted EPS,
+TAKE.NS,income,2021-03-31 00:00:00,Basic EPS,
+TAKE.NS,income,2021-03-31 00:00:00,Diluted NI Availto Com Stockholders,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income Common Stockholders,
+TAKE.NS,income,2021-03-31 00:00:00,Otherunder Preferred Stock Dividend,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income,
+TAKE.NS,income,2021-03-31 00:00:00,Minority Interests,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income Including Noncontrolling Interests,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income Discontinuous Operations,
+TAKE.NS,income,2021-03-31 00:00:00,Net Income Continuous Operations,
+TAKE.NS,income,2021-03-31 00:00:00,Tax Provision,
+TAKE.NS,income,2021-03-31 00:00:00,Pretax Income,
+TAKE.NS,income,2021-03-31 00:00:00,Other Non Operating Income Expenses,
+TAKE.NS,income,2021-03-31 00:00:00,Special Income Charges,
+TAKE.NS,income,2021-03-31 00:00:00,Other Special Charges,2250400000.0
+TAKE.NS,income,2021-03-31 00:00:00,Write Off,323340000.0
+TAKE.NS,income,2021-03-31 00:00:00,Impairment Of Capital Assets,684445000.0
+TAKE.NS,income,2021-03-31 00:00:00,Net Non Operating Interest Income Expense,
+TAKE.NS,income,2021-03-31 00:00:00,Total Other Finance Cost,78210000.0
+TAKE.NS,income,2021-03-31 00:00:00,Interest Expense Non Operating,
+TAKE.NS,income,2021-03-31 00:00:00,Interest Income Non Operating,9010000.0
+TAKE.NS,income,2021-03-31 00:00:00,Operating Income,
+TAKE.NS,income,2021-03-31 00:00:00,Operating Expense,
+TAKE.NS,income,2021-03-31 00:00:00,Other Operating Expenses,
+TAKE.NS,income,2021-03-31 00:00:00,Depreciation And Amortization In Income Statement,
+TAKE.NS,income,2021-03-31 00:00:00,Amortization,495750000.0
+TAKE.NS,income,2021-03-31 00:00:00,Depreciation Income Statement,
+TAKE.NS,income,2021-03-31 00:00:00,Selling General And Administration,757040000.0
+TAKE.NS,income,2021-03-31 00:00:00,Selling And Marketing Expense,58650000.0
+TAKE.NS,income,2021-03-31 00:00:00,General And Administrative Expense,698390000.0
+TAKE.NS,income,2021-03-31 00:00:00,Rent And Landing Fees,80370000.0
+TAKE.NS,income,2021-03-31 00:00:00,Gross Profit,
+TAKE.NS,income,2021-03-31 00:00:00,Cost Of Revenue,
+TAKE.NS,income,2021-03-31 00:00:00,Total Revenue,
+TAKE.NS,income,2021-03-31 00:00:00,Operating Revenue,

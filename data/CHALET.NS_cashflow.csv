@@ -1,0 +1,266 @@
+symbol,statement_type,period_end,line_item,value
+CHALET.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-187350000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-160000000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-9974310000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,7366520000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,9903440000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-9691200000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,End Cash Position,881340000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,304660000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,-29300000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,605980000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,4955910000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-700000000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1386640000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Dividend Paid,0.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,-160000000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,-160000000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,9903440000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,9903440000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-2607790000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-2607790000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-9974310000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,7366520000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-13853780000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-411540000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,114870000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-3917630000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-3917630000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-9639480000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,51720000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-9691200000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,9503850000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-866690000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,2829930000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Change In Payable,4110220000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-887590000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-392700000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1392880000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,67770000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,3670000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1787960000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Depreciation,1787960000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+CHALET.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-90060000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,20420000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-840000.0
+CHALET.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4343110000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2531920000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-4467560000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,4848170000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,134870000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-4362450000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,End Cash Position,-29300000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,148540000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,354300000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-532140000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1077960000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,250000000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1745900000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Dividend Paid,0.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,0.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,134870000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,134870000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,380610000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+CHALET.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+CHALET.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,380610000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-4467560000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,4848170000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-6348550000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,265360000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,199040000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2535760000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+CHALET.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2535760000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-4277190000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,85260000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-4362450000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6894370000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-553190000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,1366010000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Change In Payable,3728730000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1313440000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1049280000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1845070000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,100450000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,27360000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+CHALET.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1383700000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,16940000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Depreciation,1383700000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,
+CHALET.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-8300000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,14000000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1130000.0
+CHALET.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2693530000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,3020670000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+CHALET.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-7951350000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,9976130000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,251320000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1748170000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,End Cash Position,354300000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,17530000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,231510000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,105260000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,1260450000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,450000000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1376980000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Dividend Paid,
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,250000000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,
+CHALET.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,250000000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,1320000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,1320000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,2024780000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,2024780000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-7951350000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,9976130000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-5924030000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-92120000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,29230000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-4146390000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-4146390000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1714750000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,33420000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1748170000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,4768840000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,31460000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-35310000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Change In Payable,746650000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-373060000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-408900000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1187070000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,78980000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-416530000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+CHALET.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1173090000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,10300000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Depreciation,1162790000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-36910000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-2740000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,30310000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-5780000.0
+CHALET.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,2728290000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,206280000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+CHALET.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2283730000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,7234660000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,500000000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-415920000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,End Cash Position,231510000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,-539180000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,770680000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,4109460000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+CHALET.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1301770000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Dividend Paid,
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,500000000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,
+CHALET.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,500000000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,4950930000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-1740000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-2740000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,1000000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,4952670000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-2280990000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,7233660000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3960980000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-3130000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,56010000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-3617450000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,310000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-3617760000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-396410000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,19510000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-415920000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,622200000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,37670000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-452160000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-219430000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-10330000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-222400000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,1368510000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,1020000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,53080000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,
+CHALET.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1184230000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+CHALET.NS,cashflow,2022-03-31 00:00:00,Depreciation,1184230000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-59420000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-12300000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,18490000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-3660000.0
+CHALET.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-1534220000.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+CHALET.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Dividend Paid,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,3550000.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-100450000.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,104000000.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,810720000.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,0.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,-21660000.0
+CHALET.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+CHALET.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

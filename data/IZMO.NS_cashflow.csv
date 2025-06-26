@@ -1,0 +1,196 @@
+symbol,statement_type,period_end,line_item,value
+IZMO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-289335000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+IZMO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,155000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,62422000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-334068000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,245178000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,169196000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,75983000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,52500000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+IZMO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-10077000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,62422000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,62422000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,155000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,155000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+IZMO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,155000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-21250000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1832000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,956000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+IZMO.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-24038000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,310030000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-334068000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,44733000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-51062000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-337279000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,177653000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-2105000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-512827000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,21900000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,14309000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,164430000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+IZMO.NS,cashflow,2025-03-31 00:00:00,Depreciation,164430000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-305356000.0
+IZMO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,537791000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,11835000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-15391000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+IZMO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,59447000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-293577000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,169196000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,116365000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,52831000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,34351000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-9704000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,59447000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,59447000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-15391000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-15391000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-15391000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+IZMO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-286932000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,4958000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1687000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,
+IZMO.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-293577000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-293577000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,305412000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-8561000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-127231000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,85711000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,495000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-213437000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,3059000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,14450000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,154367000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,141331000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Depreciation,154367000.0
+IZMO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+IZMO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,269326000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-381000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-381000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+IZMO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,327000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-299492000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,116366000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,113193000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,3173000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3474000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-3421000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,327000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,327000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-381000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-381000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-381000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+IZMO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-292464000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,4958000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1955000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,
+IZMO.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-299377000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,115000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-299492000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,299111000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-5071000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-21020000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,38539000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,
+IZMO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-59559000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-3493000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,5081000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,116252000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,103529179.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Depreciation,116252000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-115000.0
+IZMO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,207477000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-91027993.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-52510000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+IZMO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,1672000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-247161702.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,113193222.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,228834525.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-115641303.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-55519315.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-4681548.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,1672000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,1672000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-52509767.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-52509767.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-52510000.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+IZMO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-216255697.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,5107763.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,993905.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+IZMO.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-222357365.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,24804337.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-247161702.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,156133709.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-3022655.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-131623639.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-6709666.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,
+IZMO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-124913973.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-1420119.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,5945261.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,124778423.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,114717962.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Depreciation,10060461.0
+IZMO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+IZMO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,161476439.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,67456000.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+IZMO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,67456000.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,0.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,212012773.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+IZMO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-135592.0
+IZMO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

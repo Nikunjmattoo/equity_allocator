@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-501685000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,620934000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-8082000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,118354000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,63117000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,55237000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,600188000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-11738000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-11738000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,620934000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,620934000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,620934000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-51348000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-49377000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,6111000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-8082000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-8082000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-493603000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-38061000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,458128000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,-182892000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-640211000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,261000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-1913000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1258000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-639512000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-295582000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,12355000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Depreciation,12355000.0
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+MANCREDIT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,182054000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-544007000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-70000000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,576490000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,70125000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-4163000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,63117000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,113112000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-49995000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,562041000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-70000000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-9657000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-9657000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,70125000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,70125000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,576490000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,576490000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-70000000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,576490000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,506490000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-70000000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,576490000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-72192000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-89441000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,595000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,20817000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,20817000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-4163000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-4163000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-539844000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-30516000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,312158000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,-94152000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-659217000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,8261000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,3220000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,3724000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-677137000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-225922000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,7137000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,106000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Depreciation,7137000.0
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+MANCREDIT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,143250000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-464065000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1265909000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,575897000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2996000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,113112000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,14091000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,99021000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,562956000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-43031000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-9657000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-9657000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,575897000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,575897000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-1265909000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,575897000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,575897000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1265909000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,575897000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2866000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-312000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,442000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2996000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2996000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-461069000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-25796000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,183102000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,-45163000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-536378000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,6080000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-4866000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1699000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-540724000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-153394000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,5277000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,133000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Depreciation,5144000.0
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+MANCREDIT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,107784000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-108424000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-414487000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,565989000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-942000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,14091000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3996000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,10095000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,119199000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-20452000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-9657000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-9657000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,151502000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,151502000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-414487000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,565989000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,151502000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-414487000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,565989000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1622000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-720000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,40000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-942000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-942000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-107482000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-17693000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-217373000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,250000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,396000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-2096000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-215923000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,17431000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,4003000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Depreciation,4003000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-355000.0
+MANCREDIT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,86825000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-54932000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-1000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-4519000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-54932079.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,68145000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-54932000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,123077000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,-11956000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,0.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,-11956000.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+MANCREDIT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

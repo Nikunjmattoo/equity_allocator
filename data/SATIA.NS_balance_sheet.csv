@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,100000000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,100000000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,2231358000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,2436773000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,10473574000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,12754375000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,2316350000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,10473574000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,169608000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,10487210000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,11868659000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,10487210000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,10487210000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,10387210000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,100000000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,100000000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,3963407000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1967752000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,891000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Derivative Product Liabilities,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1504077000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,122628000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,1381449000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,145462000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,1995655000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,61143000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,932696000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,46980000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,885716000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,14186000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Payables,770426000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,20609000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,749817000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,14450617000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,10138612000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,6395000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,674955000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,432401000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,432401000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,13636000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,13636000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,9011225000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,9011225000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,1519065000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,7492160000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,4312005000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,237502000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Inventory,2048233000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1211202000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,815068000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,779261000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,35807000.0
+SATIA.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,100000000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,100000000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,3003491000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,3191386000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,9304759000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,12329149000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,1861150000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,9304759000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,185162000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,9322925000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,10878359000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,9322925000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,9322925000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,9222925000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,9068224000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,100000000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,100000000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,4721806000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2164851000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,1080000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Derivative Product Liabilities,4385000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,124231000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,1080000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1691931000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,136497000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1555434000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,124231000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,2556955000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,127503000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,1499455000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,48665000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,1450790000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,12720000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,12720000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Payables,894324000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,202771000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,893000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,49344000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,641316000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,14044731000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,9626626000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,5020000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,7372000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,367286000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,0.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,7372000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,0.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,18166000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,18166000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,9228782000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-6353785000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,15582567000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,696409000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,2602740000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,10951544000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,1225378000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,106496000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,4418105000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,198815000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,337559000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Inventory,2221032000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,473030000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,110221000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,41059000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1596722000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,24263000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,0.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1631366000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-7131000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1638497000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,5069000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,2336000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,2733000.0
+SATIA.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,2733000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,100000000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,100000000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,4200521000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,4357791000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,7309986000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,11536599000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1405709000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,7309986000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,153167000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,7331975000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,9910402000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,7331975000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,7331975000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,7231975000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,7094878000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,100000000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,100000000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,6413044000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3420987000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,1000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Derivative Product Liabilities,8017000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,105990000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,1308000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2702546000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,124119000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,2578427000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,105990000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,2992057000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,1000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,1655245000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,29048000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,1626197000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,11982000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,11982000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Payables,1178674000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,205902000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,767000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,972005000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,13745019000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,9347252000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,8449000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,2752000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,344824000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,65249000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,65249000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,65249000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,21989000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,21989000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,8903989000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-4904905000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,13808894000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,1884386000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,1743970000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,9118478000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,959122000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,102938000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,4397766000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,840000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,180205000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,235121000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Inventory,2040070000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,443563000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,157108000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,104358000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,1335041000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,17076000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,45578000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,1915122000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4496000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,1919618000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,9332000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,5229000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,4103000.0
+SATIA.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,4103000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,100000000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,100000000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,4266245000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,4427061000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,5425280000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,9726098000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,607601000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,5425280000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,150943000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,5449980000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,8399896000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,5449980000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,5449980000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,5349980000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,5232727000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,100000000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,100000000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,6920397000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4259078000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,234533000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Derivative Product Liabilities,17035000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,98338000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,1585000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,55969000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3088359000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,138443000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,2949916000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,98338000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,2661319000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,104937000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,1338702000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,12500000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,1326202000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,11095000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,11095000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Payables,1156678000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,35379000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,751000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,13749000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,1106799000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,12370377000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,9101457000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,6822000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,2513000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,74550000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,74550000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,74550000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,24700000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,24700000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,8992872000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-2899556000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,11892428000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,873615000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,1740957000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,8291100000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,883902000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,102854000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,3268920000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,1297000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,117217000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,216486000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Inventory,1840861000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,374155000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,117195000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,92457000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1257054000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,10653000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,0.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,1064609000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,1064609000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,17797000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,7924000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,9873000.0
+SATIA.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,9873000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,4351994000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Derivative Product Liabilities,36507000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,102558000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,1920000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,31152000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,14300000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,16918000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,1050000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,10640000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,37949000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-2409021000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,4239931000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,516132000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,182589000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,104729000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,137940000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,299711000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,160332000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,70741000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,686678000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,9236000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,6906000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,908007000.0
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+SATIA.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,6846000.0

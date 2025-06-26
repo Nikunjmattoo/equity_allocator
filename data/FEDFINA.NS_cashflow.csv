@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-9984700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-53065700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,73383300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,33300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-189500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,7246000000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,20000000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1855400000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,5370600000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,11874200000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,154800000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-8318700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,33300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,33300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,20317600000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,20317600000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-53065700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,73383300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,3291600000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,256300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,3223500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,216223700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-213000200000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-12500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-12500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-175700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-177000000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-9795200000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-797500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-21952300000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-2877700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-130700000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-18500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-18969800000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,7504200000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,13000000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,488500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Depreciation,488500000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-255600000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,3400000.0
+FEDFINA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3037600000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-7892400000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-54311200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,64817000000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,474800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-137200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1866400000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,11000000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,939600000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,915800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,9671900000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,5517600000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-6514700000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,474800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,474800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,10505800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,8505800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-54311200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,62817000000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,10505800000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-54311200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,64817000000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1000900000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,307900000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1172300000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,122903200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-124075500000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-23300000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-23300000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-113200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,700000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-113900000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-7755200000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-752300000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-17328700000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1016100000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-198100000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-139400000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-18034300000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,6170700000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,45600000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,373500000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Depreciation,373500000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-203300000.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+FEDFINA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,3280800000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-14890900000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-251580200000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,272548000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,17100000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-150900000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,939600000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,659600000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,280000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,16315200000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,13100000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-4451100000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,17100000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,17100000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,20967800000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,20967800000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-251580200000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,272548000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-251580210000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1295200000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,123400000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1268000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,100652400000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-101920400000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-17000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-17000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-133600000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,300000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-133900000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-14740000000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-574300000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-21747500000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1695800000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-59600000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,196600000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-23612500000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,4287500000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,79600000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,418700000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Depreciation,418700000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-123400000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,200000.0
+FEDFINA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,2430200000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-6047790000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-84200000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-11500990000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,18500000000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,478300000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-268860000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,659630000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,5260320000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-4600690000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,5347440000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-360000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-3581900000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,105460000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,-84200000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,189660000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,288640000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,288640000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,6999010000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,6999010000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-11500990000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,18500000000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4169200000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,106980000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-4007840000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,50973130000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-54980970000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-22780000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-22780000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-245560000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,520000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-246080000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-5778930000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-491610000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-11211870000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,729000000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-84030000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-35300000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-11831810000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,3338380000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,24860000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,366970000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Depreciation,366970000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-44030000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,7500000.0
+FEDFINA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1392090000.0
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,0.0
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,8600000.0
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+FEDFINA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

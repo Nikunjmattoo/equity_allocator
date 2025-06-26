@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+ERIS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,9100100000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-18336500000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,14364400000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,72200000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1550000000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1997400000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,17700000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,942500000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,1037200000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-8813200000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-2375000000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1450600000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1000500000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,72200000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,72200000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-3972100000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-3972100000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-18336500000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,14364400000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-799700000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,38800000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,44300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,12870300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,12870300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-12204300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-12204300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1546300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3700000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1550000000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,10650100000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-978800000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1259700000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,177700000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,1194600000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,679400000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-943600000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-91100000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2256000000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,91300000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3154600000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ERIS.NS,cashflow,2025-03-31 00:00:00,Depreciation,3154600000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-30000000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,9200000.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ERIS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4888700000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3568500000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+ERIS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1594000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,16231000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,45400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1291600000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,942500000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,269600000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,560200000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,112700000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,13797800000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-102700000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-773000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+ERIS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,45400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+ERIS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,45400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,14637000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,14637000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1594000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,16231000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-18545200000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-12123090000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,69900000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-11639000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,484100000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-12123100000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-5668000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-5668000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1291600000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1291600000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,4860100000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1007500000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-987400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-958800000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-162200000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,909800000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-169400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-570900000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,773400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,7500000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1825100000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1270730000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Depreciation,1825100000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-93800000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,21400000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,8000000.0
+ERIS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,4313400000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-5496830000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+ERIS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-3500000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,11678000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,22780000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-8414210000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,560220000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,74900000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,508700000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-23380000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,6880250000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+ERIS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-234300000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-999110000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,22780000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+ERIS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,22780000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,8178000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,8178000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-3500000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,11678000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-9821010000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-5150000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,40760000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,4904390000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,5204390000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-300000000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-6554910000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-6554910000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-8412840000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1370000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-8414210000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2917380000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-772080000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1755360000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,21150000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-764590000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-104970000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,47440000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1171380000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,225920000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,31210000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,1990000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1170880000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,826580000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Depreciation,344300000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-71320000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,20180000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,18860000.0
+ERIS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,4046430000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,2572310000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+ERIS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,450010000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,71960000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1210330000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,508700000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ERIS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,369150000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,139550000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-446990000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,780000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-38500000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-816230000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,71960000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+ERIS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,71960000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,450010000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,450010000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,450010000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3196100000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-960000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,50280000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1881860000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,795870000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-2677730000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1202750000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,7580000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1210330000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,3782640000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-832850000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-299010000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,27110000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-146870000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,151590000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-234450000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-204800000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-43030000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,13550000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-1520000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,647050000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,449280000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Depreciation,197770000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-166090000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,42540000.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ERIS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4421980000.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ERIS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-746790000.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-746790000.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-3733920000.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,65100000.0
+ERIS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+ERIS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

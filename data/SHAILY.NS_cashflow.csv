@@ -1,0 +1,266 @@
+symbol,statement_type,period_end,line_item,value
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,378435000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-382286000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,179855000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,175000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-722210000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,End Cash Position,190839000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,222174000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-31335000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-418721000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-168326000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-45904000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,175000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,175000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-202431000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,179855000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,179855000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-382286000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-382286000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-713259000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,7024000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,868000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-42026000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-42026000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-679125000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1059000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-680184000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1100645000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-175470000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-482570000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,408992000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,988000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Change In Payable,358603000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-561527000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-689626000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,156662000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,8320000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,421565000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Depreciation,421565000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,13841000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-33866000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-529000.0
+SHAILY.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1192753000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-28010000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-431295000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,641717000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-950657000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,End Cash Position,222174000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,191377000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,30797000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,46368000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-159112000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,210422000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,147717000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,147717000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,62705000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-431295000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,494000000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-938218000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,14251000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2347000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-80304000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-80304000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-869818000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,535000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-870353000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,922647000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-87818000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-269815000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-97975000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,21533000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Change In Payable,195032000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-149288000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-239117000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,148628000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,102690000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,356888000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,27320000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Depreciation,356888000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,5561000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-31620000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-381000.0
+SHAILY.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,698471000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-216587000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-381724000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,499737000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1116400000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,End Cash Position,191376000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,351472000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-4000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-160091000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-51273000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-163244000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,0.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,118013000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,499737000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,499737000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-381724000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-381724000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1008631000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,26965000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,80068000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,80068000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-172240000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-172240000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-943424000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,736000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-944160000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,899813000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-59836000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-6086000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-63892000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,20055000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-327638000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,371680000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-6291000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,136360000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,16362000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,333056000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,15256000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Depreciation,317800000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,14929000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,12872000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,83000.0
+SHAILY.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,452072000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-657746000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-270609000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,138000000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,1496651000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1207830000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,End Cash Position,351472000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,9825000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,154000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,341493000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1082860000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-158142000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,1496651000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,1496651000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,1496651000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,1496651000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-250739000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-118130000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-118130000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-132609000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-270609000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,138000000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1291451000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,15507000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-99778000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-99778000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-97094000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-97094000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1110086000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,650000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1110736000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,550084000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-64089000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-266335000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,143964000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,16677000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Change In Payable,389726000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-452615000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-364087000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,139138000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,26709000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,265374000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,12946000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Depreciation,252428000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-15781000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-270000.0
+SHAILY.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,465338000.0
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,200000.0
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,8844000.0
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,8844000.0
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SHAILY.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

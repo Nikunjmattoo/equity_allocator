@@ -1,0 +1,296 @@
+symbol,statement_type,period_end,line_item,value
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,3580590000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-3442990000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,2956250000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,23931530000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-4171320000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,10475110000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,910050000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,30570000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,9534490000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,19436410000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-33450000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-256270000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1892030000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-1892030000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,23931530000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,23931530000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-2199040000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1712300000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-486740000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-3442990000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2956250000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-17653830000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,601960000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-14100720000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,23650770000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-37751490000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4155070000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,16250000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4171320000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,7751910000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1739700000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-555690000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,55540000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-263210000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,245740000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-26130000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-549280000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-515630000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,294340000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,112100000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2543960000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Depreciation,2543960000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-380320000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,8200000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,1300000.0
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+SONACOMS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,7983350000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3732200000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-100760000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,40000000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3195310000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,910050000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,441080000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,4140000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,464840000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1747460000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,232280000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-260160000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1792940000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-1792940000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,40000000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,40000000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,94390000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,195150000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,195150000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-100760000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-100760000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4715210000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,204030000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1728000000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,5240950000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-6968950000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3191240000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,4070000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3195310000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6927510000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1552660000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-644350000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,198380000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-765580000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,354640000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-214290000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-387790000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,68940000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,158850000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,2180000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2202250000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,584720000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Depreciation,2202250000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-11680000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-11070000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,2000000.0
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+SONACOMS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,6713050000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1980480000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-12500000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1483920000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,40340000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-3352410000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,441080000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,536060000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,13730000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-108710000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,187450000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-89790000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-1199270000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-1199270000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,40340000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,40340000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1471420000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1333920000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1333920000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,137500000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-12500000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,150000000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-5629050000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,30910000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2309110000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,2719690000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-5028800000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-3350850000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1560000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-3352410000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,5332890000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1102470000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-629770000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,51050000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,118660000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,306110000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,434820000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1553280000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,47400000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,30180000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,74890000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1780050000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,542380000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Depreciation,1237670000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,60110000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-17930000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-610000.0
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+SONACOMS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,5091050000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,973680000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2505670000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,450000000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,3040750000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3472130000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,536060000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,249480000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,11810000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,274760000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-636600000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-21050000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-92030000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-449950000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-449950000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,3040750000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,3040750000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2953690000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-898020000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-2055670000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-2505670000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,450000000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3534450000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-210190000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,179210000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-275460000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-275460000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3438200000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,33930000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3472130000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,4445810000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-543670000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-890450000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,42330000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-112320000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-21350000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-598380000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-213280000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,2800000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,66600000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,15060000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1419650000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Depreciation,1419650000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,117330000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-72050000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,8750000.0
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+SONACOMS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4321750000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-12470000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,298520000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,597790000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,597790000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-2189370000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,344440000.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+SONACOMS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

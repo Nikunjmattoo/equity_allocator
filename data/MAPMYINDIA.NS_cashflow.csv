@@ -1,0 +1,266 @@
+symbol,statement_type,period_end,line_item,value
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,637700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,92300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,4200000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-493800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,673700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,734700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-62700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-172300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-23400000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-189300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,4200000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,4200000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,92300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,92300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,92300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1021900000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,210600000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,6700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-454200000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1034000000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1488200000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-383100000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,16700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-399800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,90400000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,90400000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-493100000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-493800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1131500000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-439300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-272500000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,109300000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-45000000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,51500000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-63700000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-324600000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-207400000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,24500000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,41400000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,195800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Depreciation,195800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-276800000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,8900000.0
+MAPMYINDIA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2096000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,451100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-25000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,59200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,5000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-304100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,734700000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,760900000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,600000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-26800000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-194600000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-15500000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-162100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,5000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,5000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,34200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,34200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-25000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,59200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-587400000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,3800000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,163200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-320600000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1074300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1394900000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-130000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-130000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-30300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-30300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-273800000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-273800000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,755200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-365000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-506100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-102000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-83300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,119800000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,42300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-482900000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-191000000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,39900000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,15200000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,148100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,59300000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Depreciation,148100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-137100000.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+MAPMYINDIA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1766400000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,673500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,143200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,5100000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-225400000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,760900000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,405700000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,6100000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,349200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,83200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-9400000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,5100000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,5100000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,143200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,143200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,143200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-632900000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,203200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,2300000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-483000000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,128500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-611500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-130000000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-130000000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-71800000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-71800000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-153600000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-153600000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,898900000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-421900000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,110000000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,252500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-28500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,70000000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-49500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-134500000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-178400000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,34200000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-5900000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,99000000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,32600000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Depreciation,66400000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-130800000.0
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MAPMYINDIA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1395400000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,247700000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,25600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,8000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-39900000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,405700000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,336300000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,3400000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,66000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-109400000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,0.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-106500000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,8000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,8000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,25600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,25600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,25600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-112200000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-100000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,128900000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-68600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,140400000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-209000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-135000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-135000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,0.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-39000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,900000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-39900000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,287600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-356900000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-274100000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,5000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-84900000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,16400000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-52100000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-158500000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-140800000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,29700000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,6000000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,82600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,16114000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Depreciation,82600000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-232100000.0
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MAPMYINDIA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1173300000.0
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,100000.0
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,10400000.0
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,0.0
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,22390000.0
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MAPMYINDIA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

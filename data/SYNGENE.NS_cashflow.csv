@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,3975000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,5000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-7701000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,End Cash Position,3671000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,857000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,3000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,2811000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1418000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-138000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-503000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-503000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,5000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,5000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-246000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,171000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-417000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-7447000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,503000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-249000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,35285000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-35534000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-98000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-98000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-7603000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-7603000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,11676000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1153000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1521000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-126000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1843000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,743000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-939000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-13000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,373000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,137000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,1589000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,4326000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Depreciation,4326000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-133000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,37000000.0
+SYNGENE.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4962000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,5313000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,6000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-5108000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,End Cash Position,857000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,895000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,11000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-49000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-5514000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-288000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-503000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-503000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,6000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,6000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-4362000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-458000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-3904000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4956000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,815000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,4648000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,45155000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-40507000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-5532000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-5532000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-188000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-188000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-4699000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,221000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-4920000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,10421000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1251000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,1560000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,826000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-1026000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,893000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,867000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-152000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,5000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,99000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,950000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,4259000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,79000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Depreciation,4259000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-119000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-36000000.0
+SYNGENE.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,5100000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,3052000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-5183000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,End Cash Position,895000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2618000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,31000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1754000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3425000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-345000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-401000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-401000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-2581000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-2581000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-6564000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,540000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1739000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,25928000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-27667000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-182000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-182000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-117000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-117000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-5066000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-5066000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,8235000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1368000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-182000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-739000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2022000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1534000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,69000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-259000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,236000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-17000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,1292000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3665000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,58000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Depreciation,3607000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-31000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,245000000.0
+SYNGENE.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,4644000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1051000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4755000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2618000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3233000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,7000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-622000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-313000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-175000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-58000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-58000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-6115000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,263000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1623000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,43031000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-44654000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-2000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-2000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4753000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4753000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,5806000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1058000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1797000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-783000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Change In Payable,546000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1198000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-362000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,17000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,371000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,46000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,886000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3097000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Depreciation,3097000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-43000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,224000000.0
+SYNGENE.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,3958000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-3811000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,5153000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,8000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,8000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,8000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-3811000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,5153000000.0
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SYNGENE.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

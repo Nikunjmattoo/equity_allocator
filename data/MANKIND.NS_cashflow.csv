@@ -1,0 +1,296 @@
+symbol,statement_type,period_end,line_item,value
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,18932700000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-50730700000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,124512800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,29632300000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-5201100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,End Cash Position,4038800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,669700000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,3820100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,13100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-464100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,-94000000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,102325600000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-981300000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,29632300000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,29632300000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,73782100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,20822800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-44799300000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,65622100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,52959300000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-5931400000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,58890700000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-126829500000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,679100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,8849800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,63878200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-55028400000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,79900000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,79900000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-131346100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,5624600000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-137027000000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-593200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-593200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4488100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,119800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4607900000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,24133800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-5667500000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1464200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,2667200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-971400000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1460400000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-2207000000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1235500000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2727600000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,266400000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,86100000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,6212200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Depreciation,6212200000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-3275600000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-23800000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,53700000.0
+MANKIND.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,25247800000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,17701100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3667400000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,4007000000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3823300000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,End Cash Position,3820100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,3048200000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,11700000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,760200000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,52700000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-261700000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,339600000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,348000000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-3398100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,3746100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-8400000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-269300000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,260900000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-20816900000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-6675858000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,400500000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,24000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-17530800000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,5448900000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-22979700000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,73900000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-670000000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-670000000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3078200000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,75100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3153300000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,21524400000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-4415300000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-175700000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,536300000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,1185600000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Change In Payable,974600000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-550000000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-2899100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-835100000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,231900000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,79600000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3982500000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1623819000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Depreciation,3982500000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-1335300000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-35900000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-4800000.0
+MANKIND.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,23993500000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,9812327000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-17938231000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,10985799000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-8320690000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,End Cash Position,3048207000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2830604000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,23154000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,194449000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-7397281000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-419311000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-6952432000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-6694172000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-17641520000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,10947348000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-258260000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-296711000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,38451000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-10541287000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-449711000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,127640000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,24000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1854220000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,7122427000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-8976647000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-100715000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-38273000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-430485000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-430485000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-7829726000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,60479000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-7890205000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,18133017000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-3230967000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,1667289000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-441883000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,1662640000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-650193000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,2617799000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-2053148000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-92688000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,591000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,91504000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3259195000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1588347000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Depreciation,1670848000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-374334000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,39584000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-16649000.0
+MANKIND.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,16712391000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-14257470000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-6539420000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,12781880000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-23455230000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2830590000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1273280000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,4780000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1552530000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,6046200000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-177870000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,6242460000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,6269770000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-6453510000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,12723280000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-27310000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-85910000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,58600000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-13691430000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,4301950000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,129230000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,10000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,4921450000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,16779000000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-11857550000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,207030000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,207450000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-420000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-18806570000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-18806570000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4617160000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,31500000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4648660000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,9197760000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-4995090000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-5861220000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,1920160000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-5921960000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Change In Payable,4198190000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-5767000000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-659530000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-277970000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,96530000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1666200000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,252160000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Depreciation,1414040000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-874360000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-46930000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,37430000.0
+MANKIND.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,19745990000.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-1000620000.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-3397580000.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,4240000.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,0.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,102700000.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,140900000.0
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MANKIND.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

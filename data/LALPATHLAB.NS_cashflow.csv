@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,5149000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-833000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,127000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-539000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2926000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,3609000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-683000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-3340000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-223000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-2073000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-2073000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,127000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,127000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-833000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-833000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-833000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3031000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,35000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,631000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-3165000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,12556000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-15721000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-96000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-96000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-436000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,7000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-443000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,5688000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1639000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,60000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,121000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-37000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Change In Payable,123000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,12000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-151000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-480000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,272000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,34000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,1325000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1419000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Depreciation,1419000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-49000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-209000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,22000000.0
+LALPATHLAB.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4922000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,4779000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1533000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,35000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-575000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,End Cash Position,3609000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2637000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,972000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-4139000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-294000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-2012000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-2012000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,35000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,35000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1533000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1533000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1533000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-243000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,20000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,453000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-146000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,9671000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-9817000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-4000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-4000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-63000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-63000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-503000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,9000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-512000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,5354000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1320000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,357000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,94000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-22000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Change In Payable,305000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-35000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-72000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-289000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,217000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-3000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,1432000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1436000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,601460000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Depreciation,1436000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-5000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-104000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,2000000.0
+LALPATHLAB.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,3623000000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,4114610000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1089790000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,8720000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-445660000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2637310000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,3781950000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1144640000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2831830000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1430000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-377230000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-1030130000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-1030130000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,8720000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,8720000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1089790000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1089790000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1089790000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2873080000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,306260000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2560520000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,8786450000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-11346970000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-178190000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-178190000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-80510000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-80510000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-360120000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,5030000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-365150000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,4560270000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1064340000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,354750000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-9340000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,32690000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Change In Payable,92270000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,187350000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,30900000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,39190000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,228110000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,75890000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,1027500000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1501930000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,604140000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Depreciation,897790000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,26120000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-64210000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-3840000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-8070000.0
+LALPATHLAB.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,2410770000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-294000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,3454000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,2000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4761000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,End Cash Position,3782000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,2443000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1339000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1364000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-304000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-1167000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-1166600000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,0.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,2000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,2000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,3454000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,3454000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,3454000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4492000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,496000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,4333000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,12809000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-8476000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-4576000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-4576000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-3820000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-3820000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-925000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,16000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-941000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,4467000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1300000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-167000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,160000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-177000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Change In Payable,34000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-100000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-182000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-170000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,323000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-13000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,1246000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1081000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Depreciation,1081000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-17000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-31000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,6000000.0
+LALPATHLAB.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,3503000000.0
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,0.0
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-10000.0
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,1500000.0
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,1500000.0
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,0.0
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LALPATHLAB.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

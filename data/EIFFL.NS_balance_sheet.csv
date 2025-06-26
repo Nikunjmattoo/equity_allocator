@@ -1,0 +1,346 @@
+symbol,statement_type,period_end,line_item,value
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,24800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,24800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,416300000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,419700000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,724000000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,1143800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,490000000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,724000000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,724100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,803600000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,724100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,724100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,476100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,248000000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,248000000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,565100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,110000000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,26200000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,79500000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,79500000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,4200000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,455100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,14200000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,340200000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,340200000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,10600000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Payables,74600000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,74600000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,1289200000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,344100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,4900000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,8300000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,8300000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Trading Securities,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,330800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,330800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,48700000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,282100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,945100000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,30500000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,727800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,300000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,167700000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,18800000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,15400000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,3400000.0
+EIFFL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,24800000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,24800000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,391600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,393100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,666900000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,1060200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,443600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,666900000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,667100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,772600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,667100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,667100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,419000000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,102500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,315300000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,248000000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,248000000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,535700000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,136500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,4400000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,26600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,105500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,105500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,4400000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,399200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,4600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,287600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,287600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,900000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Payables,79400000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,1100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,0.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,6200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,72100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,1202800000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,360100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,9500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,5200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,8100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,8100000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Trading Securities,
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,336900000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-237300000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,574200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,33500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,6700000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,375900000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,142400000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,15700000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,842800000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,21800000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,22600000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,639200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,5500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,284700000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,349000000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,4900000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,171400000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,171400000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4700000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,3200000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1500000.0
+EIFFL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,1500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,24800000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,24800000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,384000000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,385200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,644700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,1030100000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,451200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,644700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,644900000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,765700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,644900000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,644900000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,396900000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,80400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,315300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,248000000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,248000000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,575500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,151700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,3400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,27300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,120800000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,120800000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,423800000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,5700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,264400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,264400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Payables,122500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,900000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,0.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,15300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,106300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,1220400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,345400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,4000000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,1600000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,1600000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Trading Securities,
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,326200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-209500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,535700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,6700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,370600000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,142400000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,15700000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,875000000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,11900000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,624800000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,5200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,228300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,391300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,9300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,224500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,224500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4500000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,3300000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1200000.0
+EIFFL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,1200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,24800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,24800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,367900000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,371700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,632600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1004600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,441700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,632600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,632900000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,765400000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,632900000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,632900000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,68200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,315300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,248000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,248000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,522300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,161600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2500000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,26800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,132500000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,132500000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,360700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,239200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,239200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,2100000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Payables,86300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,1000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,4500000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,80800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,1155200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,352800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,3800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,1700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Trading Securities,0.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,332000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-181400000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,513400000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,6700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,348700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,142000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,15700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,802400000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,12000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,622900000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,5200000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,179000000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,438700000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,3800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,153600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,153600000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,10100000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,6300000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,3800000.0
+EIFFL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,3800000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,53300000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,315300000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,200000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,3200000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,2221658.09
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,800000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,4800000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,1.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,3600000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Trading Securities,0.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,400000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-154100000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,340200000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,142000000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,17700000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,1.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,4200000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,5800000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,166900000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,391100000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,159100000.0
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+EIFFL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,6500000.0

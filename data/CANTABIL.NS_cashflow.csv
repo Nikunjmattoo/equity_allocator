@@ -1,0 +1,236 @@
+symbol,statement_type,period_end,line_item,value
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1017464000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-97502000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-487332000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,279206000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,380927000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-101721000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1024521000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-334648000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-83639000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-97502000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-97502000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-97502000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-581996000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-53140000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,3419000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-50278000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-50278000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,1343000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,1343000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-483340000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3992000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-487332000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1504796000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-271583000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-328104000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,46911000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-18761000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,108336000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-490752000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,6895000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,301056000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,10866000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,802409000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Depreciation,802409000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-1105000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,3910000.0
+CANTABIL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,982106000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,776546000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-136166000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,504000000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-550626000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,380927000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,14288000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,366639000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-414298000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-286245000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-74274000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,504000000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,504000000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-136166000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-136166000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-136166000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-546235000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-36163000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1114000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2964000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2964000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,41564000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,41564000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-549786000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,840000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-550626000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1327172000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-205513000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-121744000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,67637000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-13565000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,8348000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-131067000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-37436000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,271816000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,623514000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2795000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Depreciation,623514000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-1347000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-14954000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1705000.0
+CANTABIL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,767999000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,407270000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-344017000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,14288000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,32318000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-18030000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-428343000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-19187000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-57147000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,233668000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,233668000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-340974000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,795000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,620000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1554000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,795000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,795000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-340835000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,3182000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-344017000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,751287000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-269197000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-651308000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,65543000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-31833000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,58048000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-711505000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-61849000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,256028000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,525044000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Depreciation,525044000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-3171000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-13000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,1161000.0
+CANTABIL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,892743000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,447759000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-143650000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-454952000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,32318000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,83204000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-50886000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-543709000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-24788000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-16328000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-143650000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-143650000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-143650000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-409888000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,41296000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,3438000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-574000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-454047000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,905000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-454952000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,902711000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-151362000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-72987000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,35459000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-26250000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,136715000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-232342000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,1475000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,103205000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,432953000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,2745000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Depreciation,432953000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-5460000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,112000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,398000.0
+CANTABIL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,595852000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-234682000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-192339000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-42343000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-42343000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,3000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,646000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,-5966000.0
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+CANTABIL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,684600000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,1623300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-102900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,End Cash Position,729200000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,886300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-157100000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-365800000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-1000000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-231800000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1500000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,1623300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,1623300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-1248900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1248900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-578800000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,63400000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,89300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,290000000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,317600000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-27600000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-10900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-10900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-60600000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,31400000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-92000000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,787500000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,16300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-26300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-106200000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-7300000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Change In Payable,343500000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1100000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-239600000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-67000000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,95700000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,734900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Depreciation,734900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,7900000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-55700000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,100000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,5600000.0
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+ACLGATI.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,54600000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,480200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1100000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-245700000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,End Cash Position,886300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,189300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,697000000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-547200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-13200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-299800000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1800000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,207400000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,208500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1100000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1100000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,518300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,777900000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,61300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-91700000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-91700000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-39500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-39500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-189700000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,16500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-206200000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-245700000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,725900000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,65500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,77500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-30300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-39800000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-68900000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,2900000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,225300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-44800000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,4400000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,689400000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,13800000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Depreciation,689400000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,41300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-99600000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1500000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,5300000.0
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+ACLGATI.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-10600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,250200000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-101200000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,525000000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-331600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,End Cash Position,189300000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,158100000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,31200000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-387300000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-30500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-294600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,525000000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,525000000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-247800000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-146600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-101200000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-101200000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-163300000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,777600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,29500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-650500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,111900000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-762400000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-2100000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-2100000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,11700000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,11700000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-329500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-331600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,581800000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-70700000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-406500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,95800000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,6400000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Change In Payable,500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,3600000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-548100000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,75800000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,255500000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,0.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,592100000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,13800000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Depreciation,578300000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,92400000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-71200000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1700000.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ACLGATI.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,53000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-157200000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-180100000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,273700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-91800000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,End Cash Position,158100000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1300000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,424700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-265300000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-469300000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-29700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-320700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,273700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,273700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-225000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-44900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-180100000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-180100000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,269400000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-130500000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,4700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,15000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,554900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-539900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-5900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-5900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,386100000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,472000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-85900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-65400000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-158000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-442500000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-72900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-33000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Change In Payable,206700000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,4800000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-360800000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,145000000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,177300000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,118900000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,349200000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Depreciation,349200000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,3300000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,128500000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-200000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,31600000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,-601200000.0
+ACLGATI.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-5000000.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,132700000.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-14600000.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,132700000.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,100000.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,0.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,112700000.0
+ACLGATI.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

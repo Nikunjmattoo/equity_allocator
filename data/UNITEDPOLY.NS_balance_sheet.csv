@@ -1,0 +1,305 @@
+symbol,statement_type,period_end,line_item,value
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,22951550.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,22951550.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,1253394000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,1254908000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,796308000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,2051216000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,538811000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,796308000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,796308000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,1504576000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,796308000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,0.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,796308000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,-1000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,307510000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,257734000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,229516000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,229516000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,1631729000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,790319000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,10000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,77050000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,708268000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,708268000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,4991000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,841410000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,-1000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,546640000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,546640000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,128000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,9822000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Payables,235903000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,2291000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,11875000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,221737000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,2428037000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,1047816000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-2000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,24000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Investments,
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,0.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,297000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,3522000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,1044118000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-771183000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,1815301000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,246822000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,126091000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,1209338000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,226750000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,6300000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,1380221000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,2000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,46823000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,5149000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Inventory,255270000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,897000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,90678000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,55156000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,108539000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,5707000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,82486000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,983270000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-5257000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,988527000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1514000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,49109000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1514000.0
+UNITEDPOLY.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,1514000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,20951550.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,20951550.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,1065727000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,1140850000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,636902000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,1777752000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,357768000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,636902000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,0.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,636902000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,1249110000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,636902000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,636902000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,30999000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,241425000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,153734000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,209516000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,209516000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,1341301000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,658040000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,41583000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,612208000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,612208000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,4249000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,683261000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,1000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,528642000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,0.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,528642000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,12729000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Payables,99600000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,2489000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,97111000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,1978203000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,937173000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,-2000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,609000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Investments,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,609000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,609000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,3705000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,933470000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-643340000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1576810000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,2932000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,119604000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,1215962000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,232012000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,6300000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,1041029000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,-2000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,12548000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,5435000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Inventory,153893000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,15486000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,20513000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,55941000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,61953000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,21668000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,58291000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,714073000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-10094000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,724167000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,75123000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,13016000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,75123000.0
+UNITEDPOLY.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,75123000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,20951550.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,20951550.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,1086897000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,1213703000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,551124000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1764827000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,308423000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,551124000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,0.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,551124000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,1260875000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,551124000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,551124000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,-1000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,186646000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,153734000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,209516000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,209516000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,1548873000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,743567000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,31356000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,709751000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,709751000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,2460000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,805306000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,1000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,503952000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,0.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,503952000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,9897000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Payables,241167000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,2127000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,1621000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,237419000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,2099997000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,986268000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,2720000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Investments,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,0.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,3888000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,982380000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-517247000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,1499627000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,15338000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,50596000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,1195381000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,232012000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,6300000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,1113729000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,-2000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,31658000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,6831000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Inventory,44167000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,2739000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,18503000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,13865000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,9060000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,5809000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,48557000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,849903000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-3889000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,853792000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,126806000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,36710000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,126806000.0
+UNITEDPOLY.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,126806000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,20951550.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,20951550.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,1071505000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,1081195000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,455451000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,1536646000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,270017000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,455451000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,455451000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,1326944000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,455451000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,455451000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,-1000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,92602000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,153734000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,209516000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,209516000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,1241849000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,897907000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,17554446.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,180631581.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,23045000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,871493000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,871493000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,3369000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,343942000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,1000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,209702000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,209702000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,23000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Payables,134216000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,2435000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,2096000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,129685000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,1697300000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,1083342000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,-2000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Investments,5881358.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,39970457.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,39970457.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,4080000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,1079264000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-393336000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,1472600000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,2086000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,50475000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,1181727000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,232012000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,6300000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,613959000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,1000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,39970000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,4129000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Inventory,30502000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,2267000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,6277000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,10197000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,11761000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,28084000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,14993000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,486590000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4176000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,490766000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,9690000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,9690000.0
+UNITEDPOLY.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,9689942.0

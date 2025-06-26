@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+JBMA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2718000000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-20000000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2581700000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,8110900000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1221200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1007200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,386900000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,620200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,2241800000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+JBMA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-2584700000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-192000000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,-20000000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,-20000000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,5089900000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-439300000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,5529200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2581700000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,8110900000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-5560800000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,19900000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,80100000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-625800000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-625800000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1134100000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,87100000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1221200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+JBMA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,3939200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-526100000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2369100000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2718400000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,1335400000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-6422900000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2002800000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+JBMA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1747300000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+JBMA.NS,cashflow,2025-03-31 00:00:00,Depreciation,1747300000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,11200000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-4700000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-4500000.0
+JBMA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2731900000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-228100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1869000000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,3122700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2276100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,386900000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+JBMA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,290300000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,96600000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2475300000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,137200000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1762100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-153700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,0.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,4302800000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,3049100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,3049139000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,1253700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1869000000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,3122700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4426700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,15100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,50900000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-547000000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-547000000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-2700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-2700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2242600000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,33500000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2276100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+JBMA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2048000000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-471300000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-3383900000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1154400000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-3197700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1340600000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1879400000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+JBMA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1714700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,324825000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Depreciation,1714700000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-48400000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,8100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-8100000.0
+JBMA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2461000000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1425793000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1791052000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,4857394000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-6267265000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,290341000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,313630000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-23290000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,1591195000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+JBMA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1356900000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-118247000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,0.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,3066342000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1444043000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1444043000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1622299000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1791052000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,3413351000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-6455957000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,15085000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,159267000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-453291000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,3000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-453294000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-6177018000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,90247000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-6267265000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+JBMA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,4841472000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-508821000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,1285472000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-1506652000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-104134000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,2896258000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1075246000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1303149000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,257650000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Depreciation,1045499000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-17331000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,14452000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-2883000.0
+JBMA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1695317000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-4121622000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-300000000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-465646000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,3634300000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2702701000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,313630000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,149706000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,163924000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,4537016000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-100000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-737617000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-70948000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,-300000000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,-300000000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,5645581000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,2476927000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,3168654000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-465646000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,3634300000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2954171000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,13560000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,37585000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-220424000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-220424000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2669892000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,32809000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2702701000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+JBMA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-1418921000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-200996000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-4818002000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,631972000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-514547000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-4935427000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,690459000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,24200000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,914336000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,174843000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Depreciation,739493000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-2859000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,4971000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-6028000.0
+JBMA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1870354000.0
+JBMA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+JBMA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+JBMA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-82773000.0
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-3492000000.0
+JBMA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,149038000.0
+JBMA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+JBMA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

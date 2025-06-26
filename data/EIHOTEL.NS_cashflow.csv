@@ -1,0 +1,286 @@
+symbol,statement_type,period_end,line_item,value
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,3405000000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-4845800000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,3778500000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-472500000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,845800000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,3405200000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1128300000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-145400000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-832500000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,0.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3717300000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,284800000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,629600000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,67300000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,91200000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,681300000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-590100000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-10300000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-10300000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4779900000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,55600000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4835500000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,8250800000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1918900000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-374700000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,310700000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-565600000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,245900000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,26400000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-398000000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-739200000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,30900000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1344700000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Depreciation,1344700000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-95100000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1100000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,211600000.0
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+EIHOTEL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,10279800000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,4893100000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-565500000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2223500000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,845800000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-46600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,859800000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,32600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1669100000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-146200000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-772900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-565500000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-205600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-205600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-359900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-359900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-5414900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,266300000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,330800000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,63700000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-3900900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,205700000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-4106600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-1400000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-1400000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2173400000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,48700000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2222100000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,7116600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1702900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1494900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-70900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-1330600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-121100000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-9800000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,156100000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-475600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,683600000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1314900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,19380000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Depreciation,1314900000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-47400000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2400000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,2000000.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+EIHOTEL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,9172400000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,4763920000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-2769640000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1378930000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,859760000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-19200000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,704220000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,155540000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,-19200000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2988060000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,83360000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-274160000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-4960000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-2769640000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-1073930000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-1073930000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1695710000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1695710000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2980050000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,250620000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,117660000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,24790000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2448730000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,349000000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2797730000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,448830000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,448830000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-14050000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-14050000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1359170000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,5710000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1364880000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,6142850000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-512680000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,838430000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-255220000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,944290000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1359510000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-150110000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1073010000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-94650000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,225160000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1261800000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,21510000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Depreciation,1240290000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,155830000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,41720000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,20620000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-171970000.0
+EIHOTEL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,4639000000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-856340000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-492410000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1043620000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-669420000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,704220000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-410000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,453460000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,250760000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,-540000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,203150000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,12460000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-233750000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-4850000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,551210000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,903620000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,903620000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-352410000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-492410000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,140000000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,235070000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,244360000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,102340000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,20000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-431660000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,117000000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-548660000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-11400000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-11400000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,331410000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,989430000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-658020000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-186920000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-36190000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-521710000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,371750000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-476500000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-16010000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,19160000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-407540000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-28620000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-65190000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1242960000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,23240000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Depreciation,1219720000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,96230000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2380000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-519820000.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+EIHOTEL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-823080000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,2645700000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,3496660000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,33710000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,3496660000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,3496660000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,0.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,2645700000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,-110000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,-110000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,35740000.0
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+EIHOTEL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

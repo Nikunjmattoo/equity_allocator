@@ -1,0 +1,209 @@
+symbol,statement_type,period_end,line_item,value
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,146800000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-6325320000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,5142390000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,5513320000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-436450000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1044930000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1290090000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-245160000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,3836910000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-222540000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-71240000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,12390000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,12390000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,5500930000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,5500930000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-1182930000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1432970000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-6215360000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,4782390000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,250040000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-109960000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,360000000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-4665320000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,253660000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-5432560000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,18305830000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-23738390000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,948130000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,948130000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-434550000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1900000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-436450000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,583250000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,115760000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-505280000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,228000000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-295030000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-34920000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-408050000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-263360000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,4002570000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,339470000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Depreciation,339470000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-273640000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-690000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-408320000.0
+BLACKBUCK.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-2532980000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,202180000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-9042740000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,9038480000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-243330000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1290090000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,790940000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,499150000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-138210000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-104550000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-4260000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-51380000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-9039860000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,8988480000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,47120000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2880000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,50000000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,191850000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,115390000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,316240000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,19934690000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-19618450000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-239780000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3550000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-243330000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,445510000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,64250000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,342740000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,126870000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,146990000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Change In Payable,40380000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,19150000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-64500000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,1524150000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,21620000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,253660000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,330000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Depreciation,253660000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,3420000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-970000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-870000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,530000.0
+BLACKBUCK.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-1938730000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1448020000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-9721450000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,9487250000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-256200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,End Cash Position,790940000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,665880000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,125060000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-369180000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-106370000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,0.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-234200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-114200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-9601450000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,9487250000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-120000000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-120000000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,1686060000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,196100000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1696280000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,13315560000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-11619280000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,46200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,46200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,0.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-252520000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,3680000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-256200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-1191820000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,26200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,429870000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,37700000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,40100000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Change In Payable,34660000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,311310000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-60890000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,578500000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,49090000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,204070000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,450000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Depreciation,203620000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,9090000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-10430000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-3200000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,39700000.0
+BLACKBUCK.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-2903300000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1005640000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-11256670000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,9309400000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,5081200000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-224000000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,End Cash Position,665880000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,812670000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-146790000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,2820850000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-288350000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,5081200000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,5081200000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-1947270000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-846370000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-10155770000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,9309400000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-1100900000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1100900000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2186000000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,146700000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2112410000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,9894590000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-12007000000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-1000000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-1000000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-219290000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3710000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-223000000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-781640000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,55800000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,668790000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,4220000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,196270000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Change In Payable,81650000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,361160000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,64440000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,906500000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,23690000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,152500000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1260000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Depreciation,151240000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-151130000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,6430000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,7460000.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+BLACKBUCK.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-2843260000.0

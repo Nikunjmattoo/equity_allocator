@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-537588000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,481620000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-195454000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,End Cash Position,34305000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,24224000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,10081000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,550217000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-20821000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,481620000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,481620000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,89418000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,89418000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-198002000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,4646000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,1257000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-8523000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,63868000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-72391000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-195382000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,72000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-195454000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-342134000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-43957000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-451881000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-87838000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,37115000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2760000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Prepaid Assets,-45231000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-326638000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-32332000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,12577000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,6292000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Depreciation,6292000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,2082000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-6238000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-50000.0
+INVENTURE.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,59717000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-2509000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-2875000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2519000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,End Cash Position,24225000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,45619000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-21394000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-55903000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,6000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-10033000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-2875000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-2875000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-42995000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-42995000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,34499000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,17187000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,623000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-5401000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,97167000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-102568000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,0.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,22090000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,24609000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2519000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,10000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-39248000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-185407000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,347954000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-130250000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Payable,978000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Prepaid Assets,21672000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-103931000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-322793000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-6993000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,7418000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2706000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Depreciation,7418000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,1598000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-861000.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+INVENTURE.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,217408000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-55995000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-600000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,17000000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1224000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,End Cash Position,45619000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,39033000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,6586000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,13843000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,624000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-3260000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,16479000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,16479000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-600000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,17000000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,47514000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,17536000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,289000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,6420000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,156114000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-149694000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,24493000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,24493000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,0.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,0.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1224000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1224000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-54771000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-21627000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-129230000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,2063000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-25845000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-89035000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,7178000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1617000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-21974000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-14687000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,8093000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,3112000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Depreciation,4981000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,1340000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-960000.0
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,
+INVENTURE.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,125234000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,239248000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-289200000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-14527000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,End Cash Position,39033000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,184774000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-145741000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-294205000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1533000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-6558000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-289180000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-289180000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-289200000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-105311000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,16208000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,475000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-144165000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,173278000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-317443000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,36698000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,39378000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,-2680000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-10000000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-10000000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4527000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4527000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,253775000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-29501000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,129885000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-6805000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-226606000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Payable,87004000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,6283000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,8326000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,261683000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-10841000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,6468000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Depreciation,6468000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,3048000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1559000.0
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+INVENTURE.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,190441000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-3599338.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,22795000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,817000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,22795000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-3599338.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,22795000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-1000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,24493000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,24493000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,0.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,-1326000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,-1326000.0
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+INVENTURE.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

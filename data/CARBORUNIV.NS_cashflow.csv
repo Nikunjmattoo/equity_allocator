@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,265900000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-63000000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,45400000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,54500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2776400000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,End Cash Position,3779300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,5548800000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,113300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1882800000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1099300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-10300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-93200000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-761300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,54500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,54500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,23000000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,40600000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-17600000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-63000000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,45400000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3825800000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-936100000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,285200000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,173200000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,3500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,3500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-584300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-584300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-35900000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-35900000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2731400000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,9100000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-2740500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,3042300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1977700000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2217400000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-76500000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-192900000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Change In Payable,44700000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1560000000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-556900000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,890100000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,106400000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-162900000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2120300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Depreciation,2120300000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,34800000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,800000.0
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+CARBORUNIV.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4678700000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3662500000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-52800000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,136600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2352600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,End Cash Position,5548800000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,3963700000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-425200000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,2010300000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2140100000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-11000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-152000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-665300000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,136600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,136600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1190400000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1137600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-52800000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-52800000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1864700000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,173400000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,251100000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,53400000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,53400000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-159000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-159000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2183600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,10000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2193600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6015100000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2096500000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-205900000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-41200000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,140600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Change In Payable,404100000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,147000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-896000000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,4900000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,45200000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,115400000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1907500000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,278890000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Depreciation,1907500000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,10500000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,157600000.0
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,
+CARBORUNIV.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,6502500000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1284270000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,255600000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,28050000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-3017400000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,End Cash Position,3963710000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,3475040000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,92800000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,395870000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-1334140000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-11640000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-220010000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-664620000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-664620000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,28050000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,28050000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-313070000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-568660000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,255590000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,255600000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2571660000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,159830000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,139540000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,137790000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2490000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2490000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,159830000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,159830000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-88850000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-88850000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2917480000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,11070000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2928550000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,4301670000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1625220000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1530950000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-310370000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,15010000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-160460000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-805130000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-524520000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-155910000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,66500000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,233810000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1873360000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,273490000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Depreciation,1599870000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,21230000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-15430000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,30940000.0
+CARBORUNIV.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,5799090000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,801900000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,62390000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1643390000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,End Cash Position,3475040000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,4783270000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-45060000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1263170000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,894250000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-100000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-56440000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-569220000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-569220000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,62390000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,62390000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1575610000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,1575600000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1575610000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4602710000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,190030000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,177360000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1891510000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,2076610000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-3968120000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-1447550000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-1447550000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-11140000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-11140000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1619900000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,12350000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1632250000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2445290000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1325870000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-2065230000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,173290000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-391020000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Change In Payable,466410000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2187980000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-296120000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-144180000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,55400000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,186930000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1145650000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,88510000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Depreciation,1057140000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-12710000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10640000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,30670000.0
+CARBORUNIV.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4765450000.0
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-284270000.0
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-2100790000.0
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,21220000.0
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,-31190000.0
+CARBORUNIV.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

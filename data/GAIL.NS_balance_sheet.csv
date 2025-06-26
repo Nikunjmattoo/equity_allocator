@@ -1,0 +1,391 @@
+symbol,statement_type,period_end,line_item,value
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,20000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,6575079643.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,6575099643.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,149901900000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,215953800000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,816729900000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,1013049200000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,-3978100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,816729900000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,52880100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,849975500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,957785900000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,852404800000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,2429300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,849975500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,784224500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,65751000000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,65751000000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,479082500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,260087400000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,42337500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,6923000000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,42598100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,150190100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,42379700000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,107810400000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,9944300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,218995100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,9859800000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,65763700000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,10500400000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,55263300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,9796500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Payables,78668400000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,1069900000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,77598500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,1331487300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,1116470300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,11396600000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Investments,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,82332300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,82332300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,146385600000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,33245600000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,829320100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,829320100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,274210600000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,555109500000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,215017000000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,18454800000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,62499200000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,744700000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,238800000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,94364400000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,38715100000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,25543300000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,13171800000.0
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+GAIL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,20000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,6575079643.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,6575099643.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,174619700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,217937700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,738618300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,956051800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,-13687300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,738618300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,31857700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,769971800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,898032000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,771957800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,1986000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,769971800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,704220800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,581756000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,1267400000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,65751000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,65751000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,475214500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,258809100000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,-2800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,379700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,49796100000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,41357000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,151373700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,23313500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,128060200000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,9420500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,216405400000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,885500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,66564000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,8544200000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,58019800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,10760600000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Payables,109000600000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,42550200000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,53700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,66396700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,1247172300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,1044454200000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,11467600000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,13120300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Investments,
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,87923700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,87923700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,131207600000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,31353500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,31353500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,764732500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-202523900000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,967256400000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,248417000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,5933300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,643458300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,21152600000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,21099900000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Properties,27195300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,202718100000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,13964300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,2482500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,12384500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,59700000000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,42956100000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,96100000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,16647800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,10763900000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,6924100000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,95802700000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-847800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,96650500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,14638800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,3178500000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,11460300000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,8545800000.0
+GAIL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,2914500000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,0.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,6575099643.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,6575099643.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,160311300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,178161800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,620711400000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,812023300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,-11803300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,620711400000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,15412800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,649274300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,738071200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,651069800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,1795500000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,649274300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,583523300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,521689600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,1267400000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,65751000000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,65751000000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,426737700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,209627500000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,45421900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,460200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,50660700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,43950900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,99974100000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,11177200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,88796900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,8091300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,217110200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,887700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,78187700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,4235600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,73952100000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,9285600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Payables,104026800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,32505600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,85600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,71435600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,1077807500000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,872500600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,10342300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,12183200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Investments,50843300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,51057300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,51057300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,121639700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,28562900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,28562900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,640887700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-165475000000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,806362700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,175230800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,5424900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,563443400000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,18949300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,16864800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Properties,26449500000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,205306900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,9384100000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,2976100000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,12006400000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,59179200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,42253900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,174500000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,16750800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,13355800000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,2918400000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,106796100000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1082200000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,107878300000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,8053600000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,5615900000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,2437700000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,995100000.0
+GAIL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,1442600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,0.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,6660577837.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,6660577837.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,63105200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,92157200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,615776700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,719446000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,12138200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,615776700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,13854000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,641142800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,695823400000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,643054600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,1911800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,641142800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,596738900000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,493569800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,697600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,44403900000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,44403900000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,322539400000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,171606100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,300000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,47000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,51616400000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,41991700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,64699600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,10019000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,54680600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,6760800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,150933300000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,876300000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,27457600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,3835000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,23622600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,8732000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Payables,92274200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,38580400000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,81200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,53612600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,965594000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,802522500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,9627400000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Investments,54299700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,54846700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,54846700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,109781800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,25366100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,25366100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,578434700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-138595100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,717029800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,160361600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,7115500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,502624500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,16358600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,10394100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Properties,20175500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,163071500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,2816700000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,9799500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,35766100000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,21818800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,69800000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,13877500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,12836500000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,2142600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,74465300000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-980900000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,75446200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,25223600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,10025600000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,15198000000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,13863200000.0
+GAIL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,1334800000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,418777100000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,1745400000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,19300000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,28930700000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,60300000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,9790400000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Investments,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,23006800000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-115840200000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,451721200000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,15052600000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,9122500000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Properties,19675400000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,1964800000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,9883000000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,16859900000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,135100000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,12902300000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-519100000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,35534100000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,11691400000.0
+GAIL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,3374500000.0

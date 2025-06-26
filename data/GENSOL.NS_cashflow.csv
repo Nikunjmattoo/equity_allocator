@@ -1,0 +1,193 @@
+symbol,statement_type,period_end,line_item,value
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-5765600000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1295500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,5437800000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-4784600000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2182700000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1253500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-10200000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,939500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,8587300000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,647000000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1081500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,8640000000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,4497700000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,4533700000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,4142300000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1295500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,5437800000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-6666800000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-435000000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,291100000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-904700000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-904700000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,37400000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,37400000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-4784600000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-4784600000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-981000000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-34500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-3304400000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,762200000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-2979700000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,441500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,11500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1572100000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,790400000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,6000000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,742500000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,400000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Depreciation,742100000.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+GENSOL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,779000000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1669600000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-161600000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,4205500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,1328500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2820000000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1253500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,73100000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,1180400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,7086500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1017500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-234300000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,1328500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,1328500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,4413400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,369500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,333600000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,4043900000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-161600000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,4205500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-7056500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-1364800000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,33100000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2648400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2648400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2820000000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2820000000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1150400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-31400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,362500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,489300000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-438400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,206100000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,499400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-390400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,221600000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,253700000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,500000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Depreciation,253200000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,3200000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,3200000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-1400000.0
+GENSOL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,331500000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1005700000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-10300000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,369100000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-509400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,73100000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,79300000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-6200000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1090100000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,424800000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-53400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,718700000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,359900000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,359900000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,358800000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-10300000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,369100000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-600000000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-68400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,6000000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-28200000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-28200000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-509400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-509400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-496300000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,3000000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-693700000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,52800000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-247400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,60900000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-494500000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-63800000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,47400000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,13100000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,2100000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Depreciation,11000000.0
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+GENSOL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,143700000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,56300000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-34600000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,14000000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-2200000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,79300000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,69300000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,10100000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,-41300000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-1000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-17600000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,-23700000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-3100000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-1638000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,0.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-20600000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-34600000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,14000000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-7100000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,4100000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-9000000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-9000000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-2200000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-2200000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,58500000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-4800000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-3600000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,-11100000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-65400000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-26300000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-36900000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,144200000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,13500000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,13500000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1500000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Depreciation,12000000.0
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+GENSOL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,37500000.0

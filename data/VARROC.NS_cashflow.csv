@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+VARROC.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,4478300000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4588770000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,45730000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2888900000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1114770000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1104370000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,10940000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-540000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-4904490000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1712090000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-2737510000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,1805530000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-4543040000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-4588770000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,45730000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2463250000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,50390000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,207520000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,625440000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-417920000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,0.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-100910000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-100910000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2620250000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,167740000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-2787990000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,7367200000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,91320000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-538050000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,775760000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-398690000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1519920000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-551700000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1883340000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1628190000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,6950000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3233210000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+VARROC.NS,cashflow,2025-03-31 00:00:00,Depreciation,3233210000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-36580000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-120390000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-26320000.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+VARROC.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3165960000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3642170000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-8221690000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,4500000000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+VARROC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2742500000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1104360000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VARROC.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,3023130000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,2540000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-1921310000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-6640990000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-26860000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-2079260000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-47050000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+VARROC.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-4274720000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-553030000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-3721690000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-8221690000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,4500000000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1664990000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,10000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,80330000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,13460000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-732570000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,47620000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-780190000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,1158430000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,1158430000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-168160000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-168160000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2016490000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,557850000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2574340000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6384670000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-557190000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-824320000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-550400000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-1363420000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Change In Payable,272060000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-23500000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,840940000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1821820000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,220280000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3368180000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,366840000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Depreciation,3368180000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-18750000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-145610000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-64290000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,89110000.0
+VARROC.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2939400000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,880130000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-7469480000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,7065460000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+VARROC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-5981620000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,End Cash Position,3023130000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1525080000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2801920000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-98980000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,1845270000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2160290000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,432160000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-2632590000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+VARROC.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,324050000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,728070000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-404020000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-7469480000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,7065460000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2856190000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,255670000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,16720000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-526710000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+VARROC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-526710000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,3358820000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,3358820000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-675800000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-675800000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-5029220000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,276600000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-5305820000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,6861750000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-920660000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,2908040000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,6797160000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,722090000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-3680470000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-676810000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-253930000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,2329890000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,250360000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3367410000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,417760000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Depreciation,2949650000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-90000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1075960000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-76370000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,5709120000.0
+VARROC.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-7728630000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2179450000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-7096120000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,5723290000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-8535200000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2801920000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VARROC.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,7414350000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,5520000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-4617950000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3348630000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1931340000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1757700000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-58800000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2628670000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-1255840000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-1372830000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-7096120000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,5723290000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-7625070000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,521700000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,11890000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,199680000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,77460000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,77460000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-1998510000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-1998510000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-6437290000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,99400000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-6536690000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,6355750000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-735680000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,5956380000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,3243540000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-69360000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Change In Payable,5525130000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1674640000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1068290000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,1604010000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,149000000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,9738640000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+VARROC.NS,cashflow,2022-03-31 00:00:00,Depreciation,9738640000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1440000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,278150000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,11820000.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+VARROC.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-10649450000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,6851920000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+VARROC.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,6851920000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,6851920000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,841390000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,58470000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-78590000.0
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+VARROC.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

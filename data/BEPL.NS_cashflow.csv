@@ -1,0 +1,153 @@
+symbol,statement_type,period_end,line_item,value
+BEPL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2085011000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-213741000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1037796000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1523052000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-485255000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-3235160000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,0.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-3235160000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+BEPL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,451153000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+BEPL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,356050000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,11280000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,254480000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,254480000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+BEPL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+BEPL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+BEPL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-211613000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,2128000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-213741000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2298752000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-623340000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,767873000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,27267000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,31954000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,282457000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,349802000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,80317000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-356050000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,96972000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,0.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Depreciation,96972000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+BEPL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2463000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-601000.0
+BEPL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2424025000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1348828000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-52302000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1523052000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BEPL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,772840000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,750212000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-497718000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,0.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-497718000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+BEPL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-153200000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+BEPL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,284178000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,45840000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,45840000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+BEPL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-50678000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1624000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-52302000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1401130000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-589169000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,208606000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-204946000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-197378000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-95067000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,266068000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,444434000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-284178000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,99164000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,55000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Depreciation,99109000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+BEPL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,20053000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1270000.0
+BEPL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1956219000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,2842624000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-134938000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,772840000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BEPL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1294863000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-522023000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-497718000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,0.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-497718000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+BEPL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3001867000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-54000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,152064000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+BEPL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1072782000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+BEPL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-1072782000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,4948000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,4948000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-134938000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-134938000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2977562000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1218102000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-478841000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-10199000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-5182000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,329150000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-845551000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,83307000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-152064000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,99633000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,518000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Depreciation,99115000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1228000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,7300000.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+BEPL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4720864000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,1033386000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+BEPL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,1294863000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BEPL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,556763000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,738100000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,-88051000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-5098000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-82953000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-82953000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-207235000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+BEPL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,56599000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+BEPL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-159416000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+BEPL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-159416000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,1290000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,1290000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+BEPL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,1033386000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-1117752000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-2364492000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,345701000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,78891000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-2366028000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,954886000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-1369986000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,-51501000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,101866000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,273000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Depreciation,101593000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+BEPL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,4753000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,747000.0
+BEPL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,4459765000.0

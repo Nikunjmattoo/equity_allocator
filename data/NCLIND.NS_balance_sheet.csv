@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,45232790.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,45232790.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,2339791000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,2524700000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,8481970000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,11071128000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,570241000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,8481970000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,35993000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,8582421000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,10049471000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,8582421000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,8582421000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,8130093000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,452328000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,452328000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,7765613000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3722658000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1310314000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1490252000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,23202000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,1467050000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,102953000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,4042955000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,432871000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,1034448000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,12791000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,1021657000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,32079000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Payables,1645067000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,130533000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,1514534000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,16348034000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,11734838000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,92744000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,631104000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,631104000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,100451000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,100451000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,10910539000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,10910539000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,1483389000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,9427150000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,4613196000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,461170000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Inventory,2481054000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,95000000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1357853000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,218119000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,69203000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,148916000.0
+NCLIND.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,45232790.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,45232790.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,1733878000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,2179965000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,8390560000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,10670976000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,1134195000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,8390560000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,8491011000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,9950194000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,8491011000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,8491011000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,8038683000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,1692005000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,2122284000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,452328000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,452328000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,6898650000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3603062000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,62991000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1268263000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1459183000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1459183000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,77094000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,3295588000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,659994000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,720782000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,720782000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,35177000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Payables,1507545000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,84430000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,16684000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,478666000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,927765000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,15389661000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,10959880000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,44677000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,460979000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,526863000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,526863000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,44115000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,44115000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,100451000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,100451000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,100451000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,10287889000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-3261794000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,13549683000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,385668000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,232241000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,9724158000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,2303501000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,904115000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,4429783000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,7849000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,16684000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,423258000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Inventory,1769963000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,219046000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,351345000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,131404000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1068168000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,35204000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,228340000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1425953000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-141332000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1567285000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,522532000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,76445000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,446087000.0
+NCLIND.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,446087000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,45232790.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,45232790.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,2611232000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,2923274000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,7698631000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,10621905000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,948595000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,7698631000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,7698631000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,9773986000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,7698631000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,7698631000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,7246305000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,1199625000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,2122284000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,452328000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,452328000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,7363507000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4192791000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,61024000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,67060000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1150618000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2075355000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,2075355000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,73923000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,3170716000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,706592000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,847919000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,847919000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,24342000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,24342000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Payables,1410738000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,92102000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,17812000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,404177000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,896647000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,15062138000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,10942829000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,44677000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,376560000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,555897000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,555897000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,54602000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,54602000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,0.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,10342255000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-2816486000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,13158741000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,282527000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,232241000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,9573975000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,2211992000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,858006000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,4119311000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,716887000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,17811000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,520316000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Inventory,1496077000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,233188000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,326722000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,44560000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,891607000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,96071000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,188333000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,1416173000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-189770000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,1605943000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,384530000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,72488000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,312042000.0
+NCLIND.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,312042000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,45232790.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,45232790.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,3334076000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,3353746000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,7408365000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,10762111000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,1046317000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,7408365000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,7408365000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,9534924000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,7408365000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,7408365000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,6956038000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,1409359000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,2122284000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,452328000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,452328000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,7297016000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3823900000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,58522000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,34877000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,917943000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2126559000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,2126559000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,34877000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,3473116000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,586907000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,1227187000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,1227187000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,23010000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,23010000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Payables,1362624000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,93724000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,16976000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,539149000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,712775000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,14705381000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,10185948000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,44294000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,182537000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,0.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,211168000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,202172000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,202172000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,9728314000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-2544824000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,12273138000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,1712698000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,232241000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,7798898000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,1721106000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,808195000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,4519433000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,1372422000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,16976000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,1010321000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Inventory,1288573000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,224346000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,343373000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,26899000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,693955000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,249828000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,155193000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,1708347000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-37800000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,1746147000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,90195000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,70525000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,19670000.0
+NCLIND.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,19670000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,1147989000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,2122284000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,20457000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,32833000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,94265000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,13010000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,173811000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-2085402000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,7609245000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,1658147000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,782684000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,10380000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,378821000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,118925000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,293237000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,77575000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,561509000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,182812000.0
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+NCLIND.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,592801000.0

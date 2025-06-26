@@ -1,0 +1,226 @@
+symbol,statement_type,period_end,line_item,value
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-715820000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,57630000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-46050000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,360520000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,723730000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-363210000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,390080000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-510000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-9720000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,57630000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,57630000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,342680000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,342680000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-83520000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,530000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-37940000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-37940000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-60000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-60000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-46050000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-46050000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-669770000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1040000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-775440000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,20740000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-55510000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-740670000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,9190000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,890000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,23140000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Depreciation,23140000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-7260000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1080000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,20000.0
+SPECTSTM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,81810000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-96550000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,790330000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-48510000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,723730000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,62220000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,661510000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,757930000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-10000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-3500000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,790330000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,790330000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-28890000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-28890000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-48380000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,10000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,130000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-48510000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-48510000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-48040000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,24260000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-192740000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,162160000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,26270000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-381170000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,3370000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,0.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,14550000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Depreciation,14550000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1650000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,510000.0
+SPECTSTM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,100360000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,70610000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-20910000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,62220000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,54270000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,7960000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-71720000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-6590000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-65130000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-65130000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-11840000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,10000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,40000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,9020000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,9020000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-20910000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-20910000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,91520000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1330000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-150530000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,102890000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-26320000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-227100000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,6590000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,15030000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Depreciation,15030000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-950000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,920000.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+SPECTSTM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,221790000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-91203000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-57000000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-18121000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,54271000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,77496000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-23225000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,25642000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-12780000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1194000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-57000000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-57000000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,96616000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,96266000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,350000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,24215000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,51000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,42285000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,42285000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-18121000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-18121000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-73082000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,24775000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-261435000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-3698000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-19959000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,5090000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-20036000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-224212000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,1194000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,676000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,8788000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Depreciation,8788000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1522000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,115000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,12000.0
+SPECTSTM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,154290000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-33160000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-1000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,15000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-46019000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,33266000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-1681000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,676000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-2919000.0
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SPECTSTM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

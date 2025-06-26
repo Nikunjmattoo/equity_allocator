@@ -1,0 +1,209 @@
+symbol,statement_type,period_end,line_item,value
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,391053000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-75890000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,4579315000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-6164275000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,End Cash Position,10322989000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,8325126000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1997863000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2564304000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-976308000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-2380823000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,6718839000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,2215414000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,4503425000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-75890000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,4579315000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-7121769000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-2886200000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1168942000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2886295000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,731250000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,731250000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-6135666000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,28609000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-6164275000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,6555328000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2290287000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-703423000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,166464000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-647232000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-4348081000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,838901000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,3245593000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-39803000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,6075000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1352620000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,3546000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Depreciation,1349074000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-6349000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-231192000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-226000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-146200000.0
+AEGISLOG.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,8613051000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1795904000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1314546000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,9660728000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-5379996000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,End Cash Position,8325126000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,942010000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,7383116000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,13109396000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,10983450000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-485763000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-2145183000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,5504638000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-2841544000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,8346182000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1314546000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,9660728000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-9310372000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-3740056000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,433710000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-5659961000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1999207000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,1294790000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,3293997000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-1999207000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-5378911000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1085000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-5379996000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3584092000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-4026016000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,786788000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,260088000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,122300000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1903815000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-559281000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-943197000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,361142000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,4122000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1257954000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,3734000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Depreciation,1254220000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,6801000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-1265942000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,2009000.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+AEGISLOG.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,6447512000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1131296000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1257119000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,290223000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3931841000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,End Cash Position,942010000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,2968276000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-2026266000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3035566000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-130153000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-2211307000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-337630000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,629266000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,629266000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-966896000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1257119000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,290223000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1791245000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-171805000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,267542000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,532198000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,532198000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3931577000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,264000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3931841000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2800545000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-871321000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1779654000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-64253000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-959188000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Change In Payable,6023871000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-382526000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-6438829000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-62633000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-10346000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,793563000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,3288000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Depreciation,790275000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,1746000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,2000000.0
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+AEGISLOG.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4719906000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,827737000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-125514000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,1758976000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,11333000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-3587781000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,End Cash Position,2968276000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,2224747000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,743529000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,607857000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-247868000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-486159000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,11333000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,11333000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,1633462000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,636638000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,636638000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,996824000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-125514000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,1122338000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-4279846000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,262467000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,1147000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,72981000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,72981000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,20000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,20000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-3586922000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,859000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-3587781000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,4415518000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-503039000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-71047000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,212548000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-513694000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-3219139000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-102779000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,3573240000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,-96114000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,983237000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,-11888000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,715997000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,3454000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Depreciation,712543000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,6049000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-1147000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,9000.0
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+AEGISLOG.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,3356034000.0

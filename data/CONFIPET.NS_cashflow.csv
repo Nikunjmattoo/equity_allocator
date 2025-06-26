@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,96300000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1038900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,701400000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1472500000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1208900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,263600000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,1515300000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,274900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-554800000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,701400000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,0.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,701400000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1038900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,1038900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1038900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1348000000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-1405500000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,402300000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-43100000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-43100000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,243900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,243900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,96300000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-288300000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2876700000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-105900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-1217500000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Change In Payable,623100000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-461200000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1597100000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,392900000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1747800000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Depreciation,1747800000.0
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+CONFIPET.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1133300000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2629500000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-807000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1015700000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2752200000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1208900000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,109500000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1099400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2222000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,67400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-738000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-32100000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2752200000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2752200000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,208700000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,458400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,458400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-249700000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-807000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,557300000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-3752100000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-2582000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,150300000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-728000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-49500000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-49500000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2629500000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-444400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-480400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,564100000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-741700000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-865300000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,886400000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-316100000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,587700000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1603000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Depreciation,1603000000.0
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+CONFIPET.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1402700000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1248100000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,3185100000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,317500000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,End Cash Position,109500000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-17400000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,103600000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,5900000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,3296400000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,35800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-273600000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-37800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-37800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,317500000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,317500000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,3185100000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,560200000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,560200000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,2624900000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,2624900000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2042400000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-2350400000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,91200000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-523700000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,57700000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,10700000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-1248100000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-285400000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-3092000000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,143600000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-2192900000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1382700000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1798500000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-583000000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,181800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,840800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Depreciation,840800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-32800000.0
+CONFIPET.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1138500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1029000000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,815200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,End Cash Position,140500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-34700000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,145500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,29700000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,692400000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-29900000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-92900000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-29900000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-29900000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,815200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,815200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,815200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1691700000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-2080800000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,64000000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-175300000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,629200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-175300000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,785500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,785500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1029000000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-288100000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-523800000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,38900000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-357200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Change In Payable,96700000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-336600000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-18200000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,92900000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,667500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Depreciation,667500000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-64000000.0
+CONFIPET.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1163800000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-1092216000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-33000000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-33000000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,0.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,12700000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-43462000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-1092200000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-1092200000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-1092216000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-12700000.0
+CONFIPET.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

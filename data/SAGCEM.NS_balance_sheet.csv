@@ -1,0 +1,411 @@
+symbol,statement_type,period_end,line_item,value
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,130707548.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,130707548.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,13575100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,14458000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,16807500000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,31508100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,-5016100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,16807500000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,178000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,17228100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,27143200000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,17943300000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,715200000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,17228100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,16966700000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,261400000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,261400000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,23822700000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,11832000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,77200000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,556000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,10046900000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,131800000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,9915100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,158300000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,11990700000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,1078000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,4411100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,46200000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,4364900000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,48700000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Payables,5842500000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,59500000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,5783000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,41766000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,34791400000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,274100000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,1545800000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,492000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,492000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,420600000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,4400000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,416200000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,31897000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,31897000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,1232400000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,29851400000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Properties,813200000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,6974600000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,445000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,0.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Inventory,2736000000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Inventories Adjustments Allowances,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,7900000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,8300000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,2041700000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1735700000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,1030800000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,704900000.0
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+SAGCEM.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,130707548.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,130707548.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,12747000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,14440800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,18139400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,33831000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,-1404800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,18139400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,22000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,19412200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,30331300000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,20196900000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,784700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,19412200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,19150800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,6216500000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,8835100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,261400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,261400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,23365200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,13339200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,1205200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,118600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1079900000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,10935500000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,16400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,10919100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,118600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,10026000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,514200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,3505300000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,5600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,3499700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,54700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,54700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Payables,5492600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,204500000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,3800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,101800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,5182500000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,43562100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,34940900000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,261100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,675100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,1404600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,460900000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,460900000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,1272800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,856600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,416200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,31377000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-15900200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,47277200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,147000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,3212800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,30998600000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,8300700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,4618100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,8621200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,734200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,13700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,949400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,639500000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Inventory,3075400000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Inventories Adjustments Allowances,-22500000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,1041800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,214700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,946200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,895200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,169200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,25000000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,2077200000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-139700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,2216900000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1671800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,1034700000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1671800000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,1649100000.0
+SAGCEM.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,22700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,130707548.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,130707548.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,13000500000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,14785000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,18639400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,34695800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,-169000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,18639400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,35400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,19946200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,31494100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,20647900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,701700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,19946200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,16113500000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,6741600000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,8835100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,261400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,261400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,21154300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,13599400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,895700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,102900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1035500000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,11565300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,17400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,11547900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,102900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,7554900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,252500000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,3219700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,18000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,3201700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,44200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,44200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Payables,3507000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,414200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,4800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,3088000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,41802200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,34416300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,361000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,596300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,945700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,0.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,0.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,387500000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,1306800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,890600000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,416200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,31366500000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-14390300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,45756800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,991800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,2997700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,30072100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,7113300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,4581900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,7385900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,1327300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,0.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,355700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,961400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Inventory,2709400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Inventories Adjustments Allowances,-78200000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,1349900000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,187600000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,297100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,953000000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,250800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,27400000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,1332100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-139700000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,1471800000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1749100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,408300000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1749100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,1700100000.0
+SAGCEM.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,49000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,117500000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,117500000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,13631300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,15110800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,11580700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,27616200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,-322200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,11580700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,48900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,12554300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,23868000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,13094400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,540100000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,12554300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,12319300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,6531600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,5432700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,235000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,235000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,20548900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,13075300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,679700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,75100000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,976900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,11343600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,29900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,11313700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,75100000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,7473600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,356900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,3767200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,19000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,3748200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,30800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,30800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Payables,2647800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,304900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,5500000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,127500000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,2209900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,33643300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,26491900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,1352900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,1538600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,154000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,3146800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,3146800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,3451200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,973600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,557400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,416200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,20512200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-6810200000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,27322400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,1005000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,2175800000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,17279400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,5753900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,1108300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,7151400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,2179000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,0.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,196300000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,1886900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Inventory,2085700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Inventories Adjustments Allowances,0.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,786500000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,147900000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,484700000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,666600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,329400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,19400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,1203100000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-110400000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,1313500000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1430600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,253000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,1430600000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,1250000000.0
+SAGCEM.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,180600000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,5898900000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,5432700000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,62400000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,44300000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,172700000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,6400000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,1279600000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,0.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-5994700000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,12548800000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,3155800000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,1107800000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Properties,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,600000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,290500000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,712600000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Inventories Adjustments Allowances,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,548300000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,73100000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,70300000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,551100000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-90200000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,1097300000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,2165100000.0
+SAGCEM.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,86300000.0

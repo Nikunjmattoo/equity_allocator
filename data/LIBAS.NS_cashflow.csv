@@ -1,0 +1,127 @@
+symbol,statement_type,period_end,line_item,value
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-132846000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1355000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,182796000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1866000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,75861000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,32422000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,43439000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,171227000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-12189000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,182796000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,182796000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1355000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1355000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1355000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,3192000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,5072000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1000000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-880000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,986000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1866000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-130980000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-232610000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-4678000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-84389000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-34134000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-36947000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-56771000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,7117000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2325000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Depreciation,2325000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,31000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,12002000.0
+LIBAS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,77653000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,63464000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-82256000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-65000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,32422000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,63075000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-30653000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-108449000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-24724000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-1470000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-82256000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-82256000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-82256000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,14267000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-1000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,3208000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,11060000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,11125000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-65000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,63529000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-68249000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-11199000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-33060000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,68753000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-86340000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,2752000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,21516000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,8741000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Depreciation,8741000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,3983000.0
+LIBAS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,97537000.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,26102026.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,17942141.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-1288114.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,63074757.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,43001588.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,20073169.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,-12582159.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-23558607.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,17942141.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,17942141.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,17942141.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,5265188.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,5405493.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-1852602.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,1712297.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,3000411.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-1288114.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,27390140.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-10000000.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,17219621.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,-11417118.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,51859678.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,22202467.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,27127596.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-72553002.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,18153114.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,13905276.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Depreciation,13905276.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LIBAS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,-11887871.0

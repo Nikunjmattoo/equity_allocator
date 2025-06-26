@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-203665000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-74880000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1820312000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1447967000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,372345000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-131043000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-3556000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-213590000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,0.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,86103000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,86103000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,632173000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,10490000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,696356000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,732962000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-36606000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,0.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-74674000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,206000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-74880000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-128785000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-380485000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1425906000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,190431000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-15568000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,100866000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1658363000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-43272000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-142045000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,63187000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Depreciation,63187000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,691000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,61797000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-31447000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,206000.0
+GOLDIAM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1724397000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1004264000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-326924000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-65865000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1447967000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1188729000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,259238000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-535159000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-75240000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-277000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-128154000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-326924000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-326924000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-275732000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,23535000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,31000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-263423000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,485808000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-749231000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-35875000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,29990000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-65865000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1070129000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-315218000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,168686000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,73204000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-10403000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-236019000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,257085000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,84819000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-29164000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,60997000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Depreciation,60997000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,632000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,17239000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-36519000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-2092000.0
+GOLDIAM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1219997000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,559342000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-92313000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1188729000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,865856000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,322873000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-311226000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-359000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1006000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-283334000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-26527000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-26527000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-17556000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,8743000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,26000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,64588000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,374280000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-309692000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-90913000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1400000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-92313000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,651655000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-382058000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-197126000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-103222000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,22426000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,223279000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-714307000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,374698000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,35697000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,73881000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,2240000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Depreciation,73881000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,1012000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,8687000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-58290000.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+GOLDIAM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1167036000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-133222000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-456000000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-35546000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,865856000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,916031000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-50175000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-902393000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-110139000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-6780000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-131910000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-456000000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-456000000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-197564000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-197564000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,949894000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,22826000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,4462000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,956232000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1096162000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-139930000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-33626000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1920000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-35546000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-97676000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-381716000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1089538000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,119740000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,163637000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-269814000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-696743000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-406413000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,23248000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,53872000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,3734000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Depreciation,50138000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-7019000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-70764000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-190000.0
+GOLDIAM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1478522000.0
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-4530000.0
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,1387000.0
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,2906000.0
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GOLDIAM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

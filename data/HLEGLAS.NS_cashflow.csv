@@ -1,0 +1,281 @@
+symbol,statement_type,period_end,line_item,value
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,679751000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-74774000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-620182000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,559354000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,3270000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-663862000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,395913000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,332858000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-2000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,63057000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-596747000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1344000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-318472000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-77467000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,-74774000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,-74774000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,3270000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,3270000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-60828000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,133504000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,133504000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-194332000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-620182000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,425850000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-683809000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,16654000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-37113000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-37113000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-663350000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,512000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-663862000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1343613000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-151258000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,59014000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,452796000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-325287000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,33080000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-573504000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,452791000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,343303000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,9244000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,296728000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Depreciation,296728000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,28131000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,3560000.0
+HLEGLAS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,750674000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,395611000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-933627000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-437409000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1436385000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,66814000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-551700000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,332858000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,153000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,26824000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,305881000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-186715000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-929000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-212490000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-75092000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,-74774000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,-74774000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-792039000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-858853000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,66814000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,998976000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,505900000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,505900000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,493076000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-437409000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,930485000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-454715000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,7794000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,88948000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,863648000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-774700000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-551457000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,243000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-551700000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,947311000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-259528000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-15333000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,26512000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,45888000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-134808000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-143375000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,165978000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,282382000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,9420000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,263106000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,10800000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Depreciation,263106000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-8650000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-2683000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,59187000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,23895000.0
+HLEGLAS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,586771000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-435870000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-74774000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-234453000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,620929000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,73002000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-484629000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,26824000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,249298000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-222474000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,132945000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,558000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-184052000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-68265000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,-74774000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,-74774000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,73002000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,73002000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,386476000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,569503000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,569503000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-183027000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-234453000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,51426000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-404178000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,4122000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,4575000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,4575000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-412875000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,71754000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-484629000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,48759000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-328783000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1063283000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,81347000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,5417000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-226450000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-2922000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-888900000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,189078000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,3635000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,226988000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,10670000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Depreciation,216318000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,23413000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,801000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,12040000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-8414000.0
+HLEGLAS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,993281000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-683272000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-74774000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-118022000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,980198000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,673170000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-693784000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,249298000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,265563000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,104922000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-121187000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1598063000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,993000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-106702000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-53843000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,-74774000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,-74774000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,673170000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-26290000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,673170000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1159219000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,297043000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,862176000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-118022000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,980198000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1729762000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,6071000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,72255000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,672255000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-600000000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-1126167000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-1126167000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-681922000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,11862000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-693784000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,10512000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-334278000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-722557000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-105988000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-126744000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,543143000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-593785000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-441141000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,114135000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,1000000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,112258000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,8118000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Depreciation,104140000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,18770000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-11083000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-11854000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,961000.0
+HLEGLAS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,843128000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-279985000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-1000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,1000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,7285000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,-5579000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-260000.0
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+HLEGLAS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

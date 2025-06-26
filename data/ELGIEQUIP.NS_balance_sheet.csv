@@ -1,0 +1,411 @@
+symbol,statement_type,period_end,line_item,value
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,1207238.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,315701778.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,316909016.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,3705000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,5772000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,16325000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,23564000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,11950000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,16325000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,864000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,18656000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,18727000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,18656000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,18656000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,18339000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Treasury Stock,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,317000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,317000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,11759000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,938000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Derivative Product Liabilities,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,46000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,697000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,626000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,71000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,192000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,10821000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,762000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,5075000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,238000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,4837000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,591000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Payables,3402000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,35000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,3367000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,30415000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,7644000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,211000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,346000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,312000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,312000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,205000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,43000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,2331000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,237000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,2094000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,4071000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,4071000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,530000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,3541000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,22771000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,1001000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,13000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Inventory,6085000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,150000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,6084000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,9438000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,8235000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1203000000.0
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+ELGIEQUIP.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,495200.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,316413816.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,316909016.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,3310090000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,6380560000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,13780060000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,21715420000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,10152320000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,13780060000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,775940000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,16110800000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,16306670000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,16110800000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,16110800000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,30270000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Treasury Stock,300500000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,13945770000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,250920000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,316910000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,316910000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,12098460000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1058540000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Derivative Product Liabilities,
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,181790000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,137810000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,738940000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,543070000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,195870000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,181790000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,11039920000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,4710000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,5641620000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,232870000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,5408750000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,375550000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Payables,4518970000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,982980000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,8790000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,72920000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,3454280000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,28209260000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,7017020000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,69600000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,136320000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,344540000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets,2930000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,194060000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,194060000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,214670000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,42510000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,2330740000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,277620000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,2053120000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,3588260000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-4441670000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,8029930000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,95290000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,54960000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,4905970000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,2353420000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,620290000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,21192240000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,38780000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,16530000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,28010000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,35400000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,819870000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Inventory,6222300000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,46670000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,3477690000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,386700000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,2311240000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,250570000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,6030980000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-136210000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,6167190000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,7749800000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,5455270000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,2294530000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,1357230000.0
+ELGIEQUIP.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,937300000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,532050.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,316376966.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,316909016.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,3839750000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,5767880000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,11341270000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,18798630000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,8026290000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,11341270000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,680800000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,13711550000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,13927680000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,13711550000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,13711550000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,17630000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Treasury Stock,97860000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,11433170000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,250920000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,316910000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,316910000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,11304050000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1092980000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Derivative Product Liabilities,0.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,172550000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,224530000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,695900000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,479770000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,216130000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,172550000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,10211070000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,26090000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,5071980000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,201030000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,4870950000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,314150000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Payables,4341830000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,967480000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,7790000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,228310000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,3138250000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,25015600000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,6778240000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,-10000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,120460000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,311840000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets,1650000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,135070000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,135070000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,234890000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,42510000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,2370280000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,337680000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,2032600000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,3484860000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-3923860000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,7408720000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,27860000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,59580000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,4450330000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,2249260000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,621690000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,18237360000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,39770000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,1100000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,0.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,16850000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,792480000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Inventory,6023630000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,37870000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,3456560000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,373210000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,2155990000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,144500000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,5507070000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-110720000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,5617790000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,5711960000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,4464630000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1247330000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,365530000.0
+ELGIEQUIP.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,881800000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,602500.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,316306516.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,316909016.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,2551570000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,4358200000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,8008460000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,14040090000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,5274760000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,8008460000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,643240000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,10325130000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,10903120000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,10325130000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,10325130000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,12660000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Treasury Stock,112740000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,8101840000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,250920000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,316910000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,316910000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,9324030000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1263700000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Derivative Product Liabilities,5760000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,141890000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,59460000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1056590000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,478600000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,577990000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,141890000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,8060330000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,32770000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,3301610000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,164640000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,3136970000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,159050000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Payables,4254530000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,801500000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,7350000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,259070000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,3186610000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,19649160000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,6314070000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,10000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,137880000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,174700000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets,0.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,107990000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,107990000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,200960000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,167960000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,2316670000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,402010000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,1914660000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,3122400000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-3296780000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,6419180000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,68160000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,53290000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,3806360000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,2083600000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,407770000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,13335090000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,38730000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,17000000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,231710000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,7350000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,600520000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Inventory,4830560000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,39780000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,2733620000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,324420000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1732740000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,93460000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,4718820000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-100250000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,4819070000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2796940000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,1633550000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,1163390000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,502050000.0
+ELGIEQUIP.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,661340000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Treasury Stock,55440000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,6502120000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,250920000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Derivative Product Liabilities,26460000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,120150000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,644000000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,7590000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,115630000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-2740110000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,3478840000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,2004970000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,407350000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,24570000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,250450000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,392300000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,34650000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,1749570000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,216840000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1425870000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-89230000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,4086550000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,711110000.0
+ELGIEQUIP.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,559490000.0

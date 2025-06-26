@@ -1,0 +1,236 @@
+symbol,statement_type,period_end,line_item,value
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,52099000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,18141000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-5214000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,End Cash Position,9267000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,6345000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4527000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1605000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,9400000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-3248000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-5493000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,0.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,18141000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,18141000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,18141000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-68318000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-16252000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,7262000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,145000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-56998000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-56998000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-800000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,2064000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-2864000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,-2350000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,57313000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,83890000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-6062000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-1533000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Change In Payable,42990000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,39053000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,4735000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,829000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,58544000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,20467000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Depreciation,20467000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-65738000.0
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+LOVABLE.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-40679000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-79743000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,30056000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-6037000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4527000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,12966000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-8439000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,14875000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-9792000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-5389000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,30056000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,30056000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,30056000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,50392000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,5177000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,9713000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,103000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,41436000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,47000000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-5564000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2675000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2675000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-3362000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-73706000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1620000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-73236000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-8413100.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,23941000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-119499000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,60751000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-29261000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-4325000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,20219000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,6973000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Depreciation,20219000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-68824000.0
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+LOVABLE.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,54080000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-65503000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,17835000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-40486000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,End Cash Position,12966000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,6153000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,6814000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,11080000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1145000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-5025000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-7400000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,17335000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,17835000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,17835000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-500000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,20751000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,26409000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,0.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,387000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,34266000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,34266000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-32117000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,175000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-32292000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-8194000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-25017000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-3298000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-4368000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1361000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,45823000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Change In Payable,67293000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-153681000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,38313000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,5025000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,19543000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Depreciation,19543000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-41583000.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LOVABLE.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-336000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2707000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,21110000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-14004000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,End Cash Position,6153000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,11450000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-5298000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,6963000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-7247000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-7400000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,21610000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,21110000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,21110000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,500000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-23558000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,100000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,15143000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,509000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-28581000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-28581000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,2700000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2700000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,0.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-14004000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,11297000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-2031000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-27052000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,3891000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,9300000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Change In Payable,25506000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-81724000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,5651000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-7896000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,16554000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Depreciation,16554000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-36190000.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LOVABLE.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,67911000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-10400000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-7800000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-10400000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-170400000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,3100000.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LOVABLE.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-3512644000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-745412000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,2330137000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-4504815000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,End Cash Position,252928000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,254731000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1803000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,721485000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-339264000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-637965000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1786147000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,201422000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,1584725000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-745412000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2330137000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1715459000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,112082000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,558695000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,67499000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,2069662000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,25777820000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-23708158000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-30568000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-30568000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-35489000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-35489000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4457340000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,11986000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4469326000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,992171000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-883160000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-3167952000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,266080000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-730989000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Change In Payable,78825000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1892977000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-938008000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-139094000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-492509000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2098736000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Depreciation,2098736000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,116000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-977126000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2438000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,120492000.0
+WSTCSTPAPR.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4435305000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2393758000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-437203000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1199155000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-5249766000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,End Cash Position,254731000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,360934000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-106203000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-609074000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-209339000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-798134000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-798134000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,480090000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-281862000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,761952000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-437203000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1199155000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-7140653000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,101547000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,565798000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,30706000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2583541000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,27898195000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-30481736000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-12738000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-12738000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-40963000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-40963000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-5201462000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,7341000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-5208803000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,7643524000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-2514776000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-671529000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,550687000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-442034000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Change In Payable,446214000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1890513000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,756747000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-512782000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-213190000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1851042000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,98781000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Depreciation,1851042000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,41000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-693109000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,3467000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,23814000.0
+WSTCSTPAPR.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,10532850000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,10748995000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-2164479000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1628150000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,End Cash Position,360934000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,261629000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,99305000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3337878000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-318268000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-479105000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-479105000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-2467204000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-302725000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-2164479000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-2164479000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-8939962000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,59489000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,440371000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,2015000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-7829753000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,33553892000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-41383645000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-4756000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-4756000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-14658000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-14658000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1592670000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,20822000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1613492000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,12377145000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-3312958000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-854874000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,457860000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,245561000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Change In Payable,329562000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-971270000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-891087000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-148797000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-75486000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1894701000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,95705000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Depreciation,1798996000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-106467000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,3940000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,198794000.0
+WSTCSTPAPR.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,14778292000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,5276991000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-3158141000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1032400000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-628622000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,End Cash Position,261629000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,209958000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,51670000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2947347000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,60024000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-587549000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-121332000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-121332000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2130750000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-5009000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-2125741000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-3158141000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1032400000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2906596000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,360578000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,231371000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,14000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2876427000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,9567634000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-12444061000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-482000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-482000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-621650000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,6490000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-628140000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,5905613000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-965925000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,441268000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,47866000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-303769000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Change In Payable,859680000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,166082000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-408542000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,308681000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-164400000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2125305000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,180636000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Depreciation,1944669000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-46736000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-38129000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,41516000.0
+WSTCSTPAPR.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4204033000.0
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,14845000.0
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,153872000.0
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,37000.0
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+WSTCSTPAPR.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,133 @@
+symbol,statement_type,period_end,line_item,value
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-50219000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-27805000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,91980000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-324000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,6641000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,4045000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,2597000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,52678000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-11497000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,91980000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,91980000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-27805000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-27805000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-27805000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-186000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,138000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-324000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-324000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-49895000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-6814000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-90176000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,2217000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-14444000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-98000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,-5073000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-47707000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-25071000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,11359000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,665000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Depreciation,665000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,97000.0
+AGARWALFT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,34974000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,14091000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-6120000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,5338000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-354000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,4045000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,110000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,3935000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-10180000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-9399000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-782000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-6120000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-6120000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,5338000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-3352000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,5338000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-330000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,24000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-354000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-354000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,14445000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-4396000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-4783000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-255000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-16152000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,5840000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-4900000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,10684000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,9375000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,624000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Depreciation,624000.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+AGARWALFT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,13624000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,403000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,5492000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-228000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,110000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,5381000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,-5271000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,-5693000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-11185000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,5492000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,5492000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,5492000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-209000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,19000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-228000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-228000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,631000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-1211000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-13571000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,3343000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-15000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-6780000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-9540000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-579000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,11166000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,634000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Depreciation,634000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,162000.0
+AGARWALFT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,3451000.0

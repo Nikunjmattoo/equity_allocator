@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,87164200000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-79675900000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,20133300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,37772400000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-552100000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,End Cash Position,33496300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,25288200000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,8208100000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-23730700000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1454900000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-1454900000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,37772400000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,37772400000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-59542600000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-13970700000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-14470700000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,500000000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-45571900000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-65205200000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,19633300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-55777500000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,5114300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2113500000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-62498000000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-62498000000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-507300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,44800000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-552100000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,87716300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,3405100000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,77137200000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,-50118500000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,41208100000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Change In Payable,7651700000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,27557500000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-25650900000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,1402000000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,65242400000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,830300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Depreciation,830300000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,49000000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-2084800000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,52100000.0
+SAMMAANCAP.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-23755700000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,817900000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-50986300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,12381700000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,15996400000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-587000000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,End Cash Position,25288200000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,37294100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-12005900000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-23827100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-589300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-589300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,15996400000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,15996400000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-38604600000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-4600000000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-4600000000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,0.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-34004600000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-46386300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,12381700000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,10416300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-3607500000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,23078500000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-8540100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-8540100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-514600000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,72400000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-587000000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1404900000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,2952800000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,81011400000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,-53309100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-43635400000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-17460100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-19795500000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-17462700000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,221000000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,14177000000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,846300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,150200000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Depreciation,846300000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,59900000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,105700000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-23100000.0
+SAMMAANCAP.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,16461100000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,39516000000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-87125200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,10200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-493600000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,End Cash Position,37294100000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,79860400000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-42566300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-91418400000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-6300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-6300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,10200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,10200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-90835200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-3710000000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-52067200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-87125200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-87125200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,8842500000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1322100000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1499400000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,6435300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-414300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,79300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-493600000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,40009600000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-5780200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,69828900000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,-58406100000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,27323800000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Change In Payable,10009300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-9135200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-22999300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,-26200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,12618500000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,855700000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,151500000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Depreciation,704200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-561200000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,1126300000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-32500000.0
+SAMMAANCAP.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,16061900000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,6371400000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-74126700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,2200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-200400000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,End Cash Position,79860400000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,131241600000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-51381200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-74442400000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,151600000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,2200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,2200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-74126700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-68238500000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-68238500000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-5888200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-5888200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,16489400000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,22129100000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,4744800000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-10465700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,81200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,281600000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-200400000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,6571800000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-5891700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,76476700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,-56296900000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-2980700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-39783100000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,320000000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-32769600000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,-91200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,11388600000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,773700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Depreciation,773700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,96300000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,308700000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,200000.0
+SAMMAANCAP.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,15557700000.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,0.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-4166200000.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-4166200000.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,0.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,1700000.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,52003100000.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-343500000.0
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SAMMAANCAP.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

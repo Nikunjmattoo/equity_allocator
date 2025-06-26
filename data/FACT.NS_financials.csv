@@ -1,0 +1,266 @@
+symbol,statement_type,period_end,line_item,value
+FACT.NS,income,2025-03-31 00:00:00,Tax Effect Of Unusual Items,57289002.605136
+FACT.NS,income,2025-03-31 00:00:00,Tax Rate For Calcs,0.232787
+FACT.NS,income,2025-03-31 00:00:00,Normalized EBITDA,3112900000.0
+FACT.NS,income,2025-03-31 00:00:00,Total Unusual Items,246100000.0
+FACT.NS,income,2025-03-31 00:00:00,Total Unusual Items Excluding Goodwill,246100000.0
+FACT.NS,income,2025-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Reconciled Depreciation,366181000.0
+FACT.NS,income,2025-03-31 00:00:00,Reconciled Cost Of Revenue,28737500000.0
+FACT.NS,income,2025-03-31 00:00:00,EBITDA,3359000000.0
+FACT.NS,income,2025-03-31 00:00:00,EBIT,2992800000.0
+FACT.NS,income,2025-03-31 00:00:00,Net Interest Income,-2455400000.0
+FACT.NS,income,2025-03-31 00:00:00,Interest Expense,2455400000.0
+FACT.NS,income,2025-03-31 00:00:00,Interest Income,
+FACT.NS,income,2025-03-31 00:00:00,Normalized Income,223489002.605136
+FACT.NS,income,2025-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Total Expenses,39926900000.0
+FACT.NS,income,2025-03-31 00:00:00,Rent Expense Supplemental,
+FACT.NS,income,2025-03-31 00:00:00,Diluted Average Shares,644218750.0
+FACT.NS,income,2025-03-31 00:00:00,Basic Average Shares,644218750.0
+FACT.NS,income,2025-03-31 00:00:00,Diluted EPS,0.64
+FACT.NS,income,2025-03-31 00:00:00,Basic EPS,0.64
+FACT.NS,income,2025-03-31 00:00:00,Diluted NI Availto Com Stockholders,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Net Income Common Stockholders,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+FACT.NS,income,2025-03-31 00:00:00,Net Income,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Net Income Including Noncontrolling Interests,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Net Income Discontinuous Operations,0.0
+FACT.NS,income,2025-03-31 00:00:00,Net Income Continuous Operations,412300000.0
+FACT.NS,income,2025-03-31 00:00:00,Tax Provision,125100000.0
+FACT.NS,income,2025-03-31 00:00:00,Pretax Income,537400000.0
+FACT.NS,income,2025-03-31 00:00:00,Other Non Operating Income Expenses,2164500000.0
+FACT.NS,income,2025-03-31 00:00:00,Special Income Charges,246100000.0
+FACT.NS,income,2025-03-31 00:00:00,Other Special Charges,
+FACT.NS,income,2025-03-31 00:00:00,Write Off,
+FACT.NS,income,2025-03-31 00:00:00,Net Non Operating Interest Income Expense,-2455400000.0
+FACT.NS,income,2025-03-31 00:00:00,Total Other Finance Cost,
+FACT.NS,income,2025-03-31 00:00:00,Interest Expense Non Operating,2455400000.0
+FACT.NS,income,2025-03-31 00:00:00,Interest Income Non Operating,
+FACT.NS,income,2025-03-31 00:00:00,Operating Income,582200000.0
+FACT.NS,income,2025-03-31 00:00:00,Operating Expense,11189400000.0
+FACT.NS,income,2025-03-31 00:00:00,Other Operating Expenses,8076400000.0
+FACT.NS,income,2025-03-31 00:00:00,Depreciation And Amortization In Income Statement,366200000.0
+FACT.NS,income,2025-03-31 00:00:00,Amortization,
+FACT.NS,income,2025-03-31 00:00:00,Depreciation Income Statement,366200000.0
+FACT.NS,income,2025-03-31 00:00:00,Research And Development,
+FACT.NS,income,2025-03-31 00:00:00,Selling General And Administration,
+FACT.NS,income,2025-03-31 00:00:00,Selling And Marketing Expense,
+FACT.NS,income,2025-03-31 00:00:00,General And Administrative Expense,
+FACT.NS,income,2025-03-31 00:00:00,Rent And Landing Fees,
+FACT.NS,income,2025-03-31 00:00:00,Gross Profit,11771600000.0
+FACT.NS,income,2025-03-31 00:00:00,Cost Of Revenue,28737500000.0
+FACT.NS,income,2025-03-31 00:00:00,Total Revenue,40509100000.0
+FACT.NS,income,2025-03-31 00:00:00,Operating Revenue,40509100000.0
+FACT.NS,income,2024-03-31 00:00:00,Tax Effect Of Unusual Items,-736770000.0
+FACT.NS,income,2024-03-31 00:00:00,Tax Rate For Calcs,0.3
+FACT.NS,income,2024-03-31 00:00:00,Normalized EBITDA,5609429000.0
+FACT.NS,income,2024-03-31 00:00:00,Total Unusual Items,-2455900000.0
+FACT.NS,income,2024-03-31 00:00:00,Total Unusual Items Excluding Goodwill,-2455900000.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Reconciled Depreciation,265729000.0
+FACT.NS,income,2024-03-31 00:00:00,Reconciled Cost Of Revenue,33061500000.0
+FACT.NS,income,2024-03-31 00:00:00,EBITDA,3153529000.0
+FACT.NS,income,2024-03-31 00:00:00,EBIT,2887800000.0
+FACT.NS,income,2024-03-31 00:00:00,Net Interest Income,-2469300000.0
+FACT.NS,income,2024-03-31 00:00:00,Interest Expense,2469300000.0
+FACT.NS,income,2024-03-31 00:00:00,Interest Income,1891701000.0
+FACT.NS,income,2024-03-31 00:00:00,Normalized Income,3001830000.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Total Expenses,47199600000.0
+FACT.NS,income,2024-03-31 00:00:00,Rent Expense Supplemental,93789000.0
+FACT.NS,income,2024-03-31 00:00:00,Diluted Average Shares,647828283.0
+FACT.NS,income,2024-03-31 00:00:00,Basic Average Shares,647828283.0
+FACT.NS,income,2024-03-31 00:00:00,Diluted EPS,1.98
+FACT.NS,income,2024-03-31 00:00:00,Basic EPS,1.98
+FACT.NS,income,2024-03-31 00:00:00,Diluted NI Availto Com Stockholders,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income Common Stockholders,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income Including Noncontrolling Interests,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income Discontinuous Operations,0.0
+FACT.NS,income,2024-03-31 00:00:00,Net Income Continuous Operations,1282700000.0
+FACT.NS,income,2024-03-31 00:00:00,Tax Provision,-864200000.0
+FACT.NS,income,2024-03-31 00:00:00,Pretax Income,418500000.0
+FACT.NS,income,2024-03-31 00:00:00,Other Non Operating Income Expenses,2031200000.0
+FACT.NS,income,2024-03-31 00:00:00,Special Income Charges,-2455900000.0
+FACT.NS,income,2024-03-31 00:00:00,Other Special Charges,2431804000.0
+FACT.NS,income,2024-03-31 00:00:00,Write Off,0.0
+FACT.NS,income,2024-03-31 00:00:00,Net Non Operating Interest Income Expense,-2469300000.0
+FACT.NS,income,2024-03-31 00:00:00,Total Other Finance Cost,2392000.0
+FACT.NS,income,2024-03-31 00:00:00,Interest Expense Non Operating,2469300000.0
+FACT.NS,income,2024-03-31 00:00:00,Interest Income Non Operating,1891701000.0
+FACT.NS,income,2024-03-31 00:00:00,Operating Income,3312500000.0
+FACT.NS,income,2024-03-31 00:00:00,Operating Expense,14138100000.0
+FACT.NS,income,2024-03-31 00:00:00,Other Operating Expenses,11034400000.0
+FACT.NS,income,2024-03-31 00:00:00,Depreciation And Amortization In Income Statement,265700000.0
+FACT.NS,income,2024-03-31 00:00:00,Amortization,3212000.0
+FACT.NS,income,2024-03-31 00:00:00,Depreciation Income Statement,265700000.0
+FACT.NS,income,2024-03-31 00:00:00,Research And Development,5763000.0
+FACT.NS,income,2024-03-31 00:00:00,Selling General And Administration,2879932000.0
+FACT.NS,income,2024-03-31 00:00:00,Selling And Marketing Expense,2843034000.0
+FACT.NS,income,2024-03-31 00:00:00,General And Administrative Expense,36898000.0
+FACT.NS,income,2024-03-31 00:00:00,Rent And Landing Fees,93789000.0
+FACT.NS,income,2024-03-31 00:00:00,Gross Profit,17450600000.0
+FACT.NS,income,2024-03-31 00:00:00,Cost Of Revenue,33061500000.0
+FACT.NS,income,2024-03-31 00:00:00,Total Revenue,50512100000.0
+FACT.NS,income,2024-03-31 00:00:00,Operating Revenue,50512100000.0
+FACT.NS,income,2023-03-31 00:00:00,Tax Effect Of Unusual Items,0.0
+FACT.NS,income,2023-03-31 00:00:00,Tax Rate For Calcs,0.0
+FACT.NS,income,2023-03-31 00:00:00,Normalized EBITDA,8794969000.0
+FACT.NS,income,2023-03-31 00:00:00,Total Unusual Items,82324000.0
+FACT.NS,income,2023-03-31 00:00:00,Total Unusual Items Excluding Goodwill,82324000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Reconciled Depreciation,301112000.0
+FACT.NS,income,2023-03-31 00:00:00,Reconciled Cost Of Revenue,37840140000.0
+FACT.NS,income,2023-03-31 00:00:00,EBITDA,8877293000.0
+FACT.NS,income,2023-03-31 00:00:00,EBIT,8576181000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Interest Income,-1327378000.0
+FACT.NS,income,2023-03-31 00:00:00,Interest Expense,2447860000.0
+FACT.NS,income,2023-03-31 00:00:00,Interest Income,1122671000.0
+FACT.NS,income,2023-03-31 00:00:00,Normalized Income,6045997000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Total Expenses,24038280000.0
+FACT.NS,income,2023-03-31 00:00:00,Rent Expense Supplemental,44553000.0
+FACT.NS,income,2023-03-31 00:00:00,Diluted Average Shares,647071974.0
+FACT.NS,income,2023-03-31 00:00:00,Basic Average Shares,647071974.0
+FACT.NS,income,2023-03-31 00:00:00,Diluted EPS,9.47
+FACT.NS,income,2023-03-31 00:00:00,Basic EPS,9.47
+FACT.NS,income,2023-03-31 00:00:00,Diluted NI Availto Com Stockholders,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income Common Stockholders,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income Including Noncontrolling Interests,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income Discontinuous Operations,0.0
+FACT.NS,income,2023-03-31 00:00:00,Net Income Continuous Operations,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Tax Provision,0.0
+FACT.NS,income,2023-03-31 00:00:00,Pretax Income,6128321000.0
+FACT.NS,income,2023-03-31 00:00:00,Other Non Operating Income Expenses,139882000.0
+FACT.NS,income,2023-03-31 00:00:00,Special Income Charges,82324000.0
+FACT.NS,income,2023-03-31 00:00:00,Other Special Charges,-83828000.0
+FACT.NS,income,2023-03-31 00:00:00,Write Off,1504000.0
+FACT.NS,income,2023-03-31 00:00:00,Net Non Operating Interest Income Expense,-1327378000.0
+FACT.NS,income,2023-03-31 00:00:00,Total Other Finance Cost,2189000.0
+FACT.NS,income,2023-03-31 00:00:00,Interest Expense Non Operating,2447860000.0
+FACT.NS,income,2023-03-31 00:00:00,Interest Income Non Operating,1122671000.0
+FACT.NS,income,2023-03-31 00:00:00,Operating Income,7517086000.0
+FACT.NS,income,2023-03-31 00:00:00,Operating Expense,-13801860000.0
+FACT.NS,income,2023-03-31 00:00:00,Other Operating Expenses,10681759000.0
+FACT.NS,income,2023-03-31 00:00:00,Depreciation And Amortization In Income Statement,301112000.0
+FACT.NS,income,2023-03-31 00:00:00,Amortization,4059000.0
+FACT.NS,income,2023-03-31 00:00:00,Depreciation Income Statement,297053000.0
+FACT.NS,income,2023-03-31 00:00:00,Research And Development,3567000.0
+FACT.NS,income,2023-03-31 00:00:00,Selling General And Administration,2502292000.0
+FACT.NS,income,2023-03-31 00:00:00,Selling And Marketing Expense,2465581000.0
+FACT.NS,income,2023-03-31 00:00:00,General And Administrative Expense,36711000.0
+FACT.NS,income,2023-03-31 00:00:00,Rent And Landing Fees,44553000.0
+FACT.NS,income,2023-03-31 00:00:00,Gross Profit,-6284774000.0
+FACT.NS,income,2023-03-31 00:00:00,Cost Of Revenue,37840140000.0
+FACT.NS,income,2023-03-31 00:00:00,Total Revenue,31555366000.0
+FACT.NS,income,2023-03-31 00:00:00,Operating Revenue,31555366000.0
+FACT.NS,income,2022-03-31 00:00:00,Tax Effect Of Unusual Items,0.0
+FACT.NS,income,2022-03-31 00:00:00,Tax Rate For Calcs,0.0
+FACT.NS,income,2022-03-31 00:00:00,Normalized EBITDA,7047470000.0
+FACT.NS,income,2022-03-31 00:00:00,Total Unusual Items,-892566000.0
+FACT.NS,income,2022-03-31 00:00:00,Total Unusual Items Excluding Goodwill,-892566000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Reconciled Depreciation,271871000.0
+FACT.NS,income,2022-03-31 00:00:00,Reconciled Cost Of Revenue,28114459000.0
+FACT.NS,income,2022-03-31 00:00:00,EBITDA,6154904000.0
+FACT.NS,income,2022-03-31 00:00:00,EBIT,5883033000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Interest Income,-1520113000.0
+FACT.NS,income,2022-03-31 00:00:00,Interest Expense,2419278000.0
+FACT.NS,income,2022-03-31 00:00:00,Interest Income,899196000.0
+FACT.NS,income,2022-03-31 00:00:00,Normalized Income,4356321000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Total Expenses,21328654000.0
+FACT.NS,income,2022-03-31 00:00:00,Rent Expense Supplemental,43627000.0
+FACT.NS,income,2022-03-31 00:00:00,Diluted Average Shares,647430841.0
+FACT.NS,income,2022-03-31 00:00:00,Basic Average Shares,647430841.0
+FACT.NS,income,2022-03-31 00:00:00,Diluted EPS,5.35
+FACT.NS,income,2022-03-31 00:00:00,Basic EPS,5.35
+FACT.NS,income,2022-03-31 00:00:00,Diluted NI Availto Com Stockholders,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income Common Stockholders,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income Including Noncontrolling Interests,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income Discontinuous Operations,0.0
+FACT.NS,income,2022-03-31 00:00:00,Net Income Continuous Operations,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Tax Provision,0.0
+FACT.NS,income,2022-03-31 00:00:00,Pretax Income,3463755000.0
+FACT.NS,income,2022-03-31 00:00:00,Other Non Operating Income Expenses,187563000.0
+FACT.NS,income,2022-03-31 00:00:00,Special Income Charges,-892566000.0
+FACT.NS,income,2022-03-31 00:00:00,Other Special Charges,890678000.0
+FACT.NS,income,2022-03-31 00:00:00,Write Off,1888000.0
+FACT.NS,income,2022-03-31 00:00:00,Net Non Operating Interest Income Expense,-1520113000.0
+FACT.NS,income,2022-03-31 00:00:00,Total Other Finance Cost,31000.0
+FACT.NS,income,2022-03-31 00:00:00,Interest Expense Non Operating,2419278000.0
+FACT.NS,income,2022-03-31 00:00:00,Interest Income Non Operating,899196000.0
+FACT.NS,income,2022-03-31 00:00:00,Operating Income,5861520000.0
+FACT.NS,income,2022-03-31 00:00:00,Operating Expense,-6785805000.0
+FACT.NS,income,2022-03-31 00:00:00,Other Operating Expenses,5283609000.0
+FACT.NS,income,2022-03-31 00:00:00,Depreciation And Amortization In Income Statement,271871000.0
+FACT.NS,income,2022-03-31 00:00:00,Amortization,
+FACT.NS,income,2022-03-31 00:00:00,Depreciation Income Statement,271871000.0
+FACT.NS,income,2022-03-31 00:00:00,Research And Development,7597000.0
+FACT.NS,income,2022-03-31 00:00:00,Selling General And Administration,2157069000.0
+FACT.NS,income,2022-03-31 00:00:00,Selling And Marketing Expense,2128606000.0
+FACT.NS,income,2022-03-31 00:00:00,General And Administrative Expense,28463000.0
+FACT.NS,income,2022-03-31 00:00:00,Rent And Landing Fees,43627000.0
+FACT.NS,income,2022-03-31 00:00:00,Gross Profit,-924285000.0
+FACT.NS,income,2022-03-31 00:00:00,Cost Of Revenue,28114459000.0
+FACT.NS,income,2022-03-31 00:00:00,Total Revenue,27190174000.0
+FACT.NS,income,2022-03-31 00:00:00,Operating Revenue,27190174000.0
+FACT.NS,income,2021-03-31 00:00:00,Tax Effect Of Unusual Items,
+FACT.NS,income,2021-03-31 00:00:00,Tax Rate For Calcs,
+FACT.NS,income,2021-03-31 00:00:00,Normalized EBITDA,
+FACT.NS,income,2021-03-31 00:00:00,Total Unusual Items,
+FACT.NS,income,2021-03-31 00:00:00,Total Unusual Items Excluding Goodwill,
+FACT.NS,income,2021-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,
+FACT.NS,income,2021-03-31 00:00:00,Reconciled Depreciation,
+FACT.NS,income,2021-03-31 00:00:00,Reconciled Cost Of Revenue,
+FACT.NS,income,2021-03-31 00:00:00,EBITDA,
+FACT.NS,income,2021-03-31 00:00:00,EBIT,
+FACT.NS,income,2021-03-31 00:00:00,Net Interest Income,
+FACT.NS,income,2021-03-31 00:00:00,Interest Expense,
+FACT.NS,income,2021-03-31 00:00:00,Interest Income,584305000.0
+FACT.NS,income,2021-03-31 00:00:00,Normalized Income,
+FACT.NS,income,2021-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,
+FACT.NS,income,2021-03-31 00:00:00,Total Expenses,
+FACT.NS,income,2021-03-31 00:00:00,Rent Expense Supplemental,63800000.0
+FACT.NS,income,2021-03-31 00:00:00,Diluted Average Shares,
+FACT.NS,income,2021-03-31 00:00:00,Basic Average Shares,
+FACT.NS,income,2021-03-31 00:00:00,Diluted EPS,
+FACT.NS,income,2021-03-31 00:00:00,Basic EPS,
+FACT.NS,income,2021-03-31 00:00:00,Diluted NI Availto Com Stockholders,
+FACT.NS,income,2021-03-31 00:00:00,Net Income Common Stockholders,
+FACT.NS,income,2021-03-31 00:00:00,Otherunder Preferred Stock Dividend,
+FACT.NS,income,2021-03-31 00:00:00,Net Income,
+FACT.NS,income,2021-03-31 00:00:00,Net Income Including Noncontrolling Interests,
+FACT.NS,income,2021-03-31 00:00:00,Net Income Discontinuous Operations,
+FACT.NS,income,2021-03-31 00:00:00,Net Income Continuous Operations,
+FACT.NS,income,2021-03-31 00:00:00,Tax Provision,
+FACT.NS,income,2021-03-31 00:00:00,Pretax Income,
+FACT.NS,income,2021-03-31 00:00:00,Other Non Operating Income Expenses,
+FACT.NS,income,2021-03-31 00:00:00,Special Income Charges,
+FACT.NS,income,2021-03-31 00:00:00,Other Special Charges,-212000.0
+FACT.NS,income,2021-03-31 00:00:00,Write Off,0.0
+FACT.NS,income,2021-03-31 00:00:00,Net Non Operating Interest Income Expense,
+FACT.NS,income,2021-03-31 00:00:00,Total Other Finance Cost,
+FACT.NS,income,2021-03-31 00:00:00,Interest Expense Non Operating,
+FACT.NS,income,2021-03-31 00:00:00,Interest Income Non Operating,584305000.0
+FACT.NS,income,2021-03-31 00:00:00,Operating Income,
+FACT.NS,income,2021-03-31 00:00:00,Operating Expense,
+FACT.NS,income,2021-03-31 00:00:00,Other Operating Expenses,
+FACT.NS,income,2021-03-31 00:00:00,Depreciation And Amortization In Income Statement,
+FACT.NS,income,2021-03-31 00:00:00,Amortization,
+FACT.NS,income,2021-03-31 00:00:00,Depreciation Income Statement,
+FACT.NS,income,2021-03-31 00:00:00,Research And Development,5926000.0
+FACT.NS,income,2021-03-31 00:00:00,Selling General And Administration,2950544000.0
+FACT.NS,income,2021-03-31 00:00:00,Selling And Marketing Expense,2919604000.0
+FACT.NS,income,2021-03-31 00:00:00,General And Administrative Expense,30940000.0
+FACT.NS,income,2021-03-31 00:00:00,Rent And Landing Fees,63800000.0
+FACT.NS,income,2021-03-31 00:00:00,Gross Profit,
+FACT.NS,income,2021-03-31 00:00:00,Cost Of Revenue,
+FACT.NS,income,2021-03-31 00:00:00,Total Revenue,
+FACT.NS,income,2021-03-31 00:00:00,Operating Revenue,

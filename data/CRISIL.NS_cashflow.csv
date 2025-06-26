@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Free Cash Flow,5919000000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Repayment Of Debt,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Issuance Of Capital Stock,24200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Capital Expenditure,-1731600000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,End Cash Position,3019100000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Beginning Cash Position,3661200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Effect Of Exchange Rate Changes,-11500000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Changes In Cash,-630600000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Financing Cash Flow,-4418200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Other Financing Charges,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Interest Paid Cff,-40300000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Cash Dividends Paid,-4241200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Common Stock Dividend Paid,-4241200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Common Stock Issuance,24200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Common Stock Issuance,24200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Issuance Payments Of Debt,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Long Term Debt Issuance,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Long Term Debt Payments,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Investing Cash Flow,-3863000000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Other Investing Changes,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Interest Received Cfi,61500000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Dividends Received Cfi,47200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Investment Purchase And Sale,-2256100000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Sale Of Investment,7975300000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Purchase Of Investment,-10231400000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Business Purchase And Sale,-5400000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Sale Of Business,0.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Purchase Of Business,-5400000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net PPE Purchase And Sale,-1710200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Sale Of PPE,21400000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Purchase Of PPE,-1731600000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Capital Expenditure Reported,
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Operating Cash Flow,7650600000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Taxes Refund Paid,-3133700000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Change In Working Capital,1470000000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Change In Other Current Liabilities,-286600000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Change In Other Current Assets,-33100000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Change In Payable,429900000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Change In Receivables,1236200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Other Non Cash Items,-40200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Stock Based Compensation,0.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Provisionand Write Offof Assets,3700000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Depreciation And Amortization,699500000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Amortization Cash Flow,214000000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Depreciation,485500000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Gain Loss On Investment Securities,-665000000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,55200000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Gain Loss On Sale Of PPE,-3600000.0
+CRISIL.NS,cashflow,2024-12-31 00:00:00,Net Income From Continuing Operations,9264700000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Free Cash Flow,7173900000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Repayment Of Debt,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Issuance Of Capital Stock,92000000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Capital Expenditure,-629400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,End Cash Position,3661200000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Beginning Cash Position,3192500000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Effect Of Exchange Rate Changes,-32400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Changes In Cash,501100000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Other Cash Adjustment Inside Changein Cash,41900000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Financing Cash Flow,-4076800000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Other Financing Charges,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Interest Paid Cff,-36600000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Cash Dividends Paid,-3581600000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Common Stock Dividend Paid,-3581600000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Common Stock Issuance,92000000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Common Stock Issuance,92000000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Issuance Payments Of Debt,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Long Term Debt Issuance,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Long Term Debt Payments,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Investing Cash Flow,-3267300000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Other Investing Changes,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Interest Received Cfi,59900000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Dividends Received Cfi,83900000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Investment Purchase And Sale,-2492600000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Sale Of Investment,6558100000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Purchase Of Investment,-9050700000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Business Purchase And Sale,-327400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Sale Of Business,0.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Purchase Of Business,-327400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net PPE Purchase And Sale,-591100000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Sale Of PPE,38300000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Purchase Of PPE,-629400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Capital Expenditure Reported,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Operating Cash Flow,7803300000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Taxes Refund Paid,-2442000000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Change In Working Capital,1248700000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Change In Other Current Liabilities,1003900000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Change In Other Current Assets,-585100000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Change In Payable,1700000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Change In Receivables,602800000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Other Non Cash Items,-66400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Stock Based Compensation,100000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Provisionand Write Offof Assets,8500000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Depreciation And Amortization,1037800000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Amortization Cash Flow,
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Depreciation,1037800000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Gain Loss On Investment Securities,-445100000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-183900000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Gain Loss On Sale Of PPE,-31400000.0
+CRISIL.NS,cashflow,2023-12-31 00:00:00,Net Income From Continuing Operations,8677000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Free Cash Flow,4152000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Repayment Of Debt,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Issuance Of Capital Stock,355100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Capital Expenditure,-411400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,End Cash Position,3192500000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Beginning Cash Position,2899200000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Effect Of Exchange Rate Changes,29500000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Changes In Cash,263800000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Financing Cash Flow,-3683200000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Other Financing Charges,400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Interest Paid Cff,-64000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Cash Dividends Paid,-3431400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Common Stock Dividend Paid,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Common Stock Issuance,355100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Common Stock Issuance,355100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Issuance Payments Of Debt,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Long Term Debt Issuance,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Long Term Debt Payments,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Investing Cash Flow,-616400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Other Investing Changes,-11000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Interest Received Cfi,12400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Dividends Received Cfi,27200000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Investment Purchase And Sale,-256100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Sale Of Investment,11700000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Purchase Of Investment,-267800000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Business Purchase And Sale,-11000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Sale Of Business,0.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Purchase Of Business,-11000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net PPE Purchase And Sale,-388900000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Sale Of PPE,22500000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Purchase Of PPE,-411400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Capital Expenditure Reported,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Operating Cash Flow,4563400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Taxes Refund Paid,-2204800000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Change In Working Capital,-1123100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Change In Other Current Liabilities,1161000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Change In Other Current Assets,-358500000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Change In Payable,92800000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Change In Receivables,-2174000000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Other Non Cash Items,21700000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Stock Based Compensation,200000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Provisionand Write Offof Assets,99700000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Depreciation And Amortization,1033100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Amortization Cash Flow,
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Depreciation,1033100000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Gain Loss On Investment Securities,-191300000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-484700000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Gain Loss On Sale Of PPE,-11400000.0
+CRISIL.NS,cashflow,2022-12-31 00:00:00,Net Income From Continuing Operations,7424000000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Free Cash Flow,3803300000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Repayment Of Debt,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Issuance Of Capital Stock,414600000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Capital Expenditure,-227900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,End Cash Position,2899200000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Beginning Cash Position,2748800000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Effect Of Exchange Rate Changes,-88000000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Changes In Cash,238400000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Financing Cash Flow,-2910300000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Other Financing Charges,22300000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Interest Paid Cff,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Cash Dividends Paid,-2764900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Common Stock Dividend Paid,
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Common Stock Issuance,414600000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Common Stock Issuance,414600000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Issuance Payments Of Debt,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Long Term Debt Issuance,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Long Term Debt Payments,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Investing Cash Flow,-882500000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Other Investing Changes,74900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Interest Received Cfi,31100000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Dividends Received Cfi,42900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Investment Purchase And Sale,-1301400000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Sale Of Investment,500000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Purchase Of Investment,-1301900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Business Purchase And Sale,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Sale Of Business,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Purchase Of Business,0.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net PPE Purchase And Sale,270000000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Sale Of PPE,497900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Purchase Of PPE,-227900000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Capital Expenditure Reported,
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Operating Cash Flow,4031200000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Taxes Refund Paid,-1969700000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Change In Working Capital,-535300000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Change In Other Current Liabilities,1067800000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Change In Other Current Assets,-536100000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Change In Payable,421100000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Change In Receivables,-1480300000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Other Non Cash Items,-27200000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Stock Based Compensation,15700000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Provisionand Write Offof Assets,-106200000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Depreciation And Amortization,1059800000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Amortization Cash Flow,
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Depreciation,1059800000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Gain Loss On Investment Securities,-178200000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,54000000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Gain Loss On Sale Of PPE,-466100000.0
+CRISIL.NS,cashflow,2021-12-31 00:00:00,Net Income From Continuing Operations,6184400000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Free Cash Flow,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Repayment Of Debt,-900000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Issuance Of Capital Stock,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Capital Expenditure,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,End Cash Position,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Beginning Cash Position,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Effect Of Exchange Rate Changes,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Changes In Cash,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Financing Cash Flow,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Other Financing Charges,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Interest Paid Cff,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Cash Dividends Paid,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Common Stock Dividend Paid,-2320300000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Common Stock Issuance,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Common Stock Issuance,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Issuance Payments Of Debt,-900000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Long Term Debt Issuance,-900000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Long Term Debt Payments,-900000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Investing Cash Flow,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Other Investing Changes,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Interest Received Cfi,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Dividends Received Cfi,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Investment Purchase And Sale,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Sale Of Investment,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Purchase Of Investment,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Business Purchase And Sale,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Sale Of Business,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Purchase Of Business,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net PPE Purchase And Sale,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Sale Of PPE,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Purchase Of PPE,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Capital Expenditure Reported,-349200000.0
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Operating Cash Flow,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Taxes Refund Paid,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Change In Working Capital,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Change In Other Current Liabilities,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Change In Other Current Assets,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Change In Payable,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Change In Receivables,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Other Non Cash Items,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Stock Based Compensation,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Provisionand Write Offof Assets,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Depreciation And Amortization,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Amortization Cash Flow,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Depreciation,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Gain Loss On Investment Securities,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Gain Loss On Sale Of PPE,
+CRISIL.NS,cashflow,2020-12-31 00:00:00,Net Income From Continuing Operations,

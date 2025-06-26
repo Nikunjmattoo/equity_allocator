@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+ULTRACEMCO.NS,maxAge,86400
+ULTRACEMCO.NS,totalEsg,32.87
+ULTRACEMCO.NS,environmentScore,16.61
+ULTRACEMCO.NS,socialScore,6.3
+ULTRACEMCO.NS,governanceScore,9.97
+ULTRACEMCO.NS,ratingYear,2023
+ULTRACEMCO.NS,ratingMonth,9
+ULTRACEMCO.NS,highestControversy,2.0
+ULTRACEMCO.NS,peerCount,16
+ULTRACEMCO.NS,esgPerformance,OUT_PERF
+ULTRACEMCO.NS,peerGroup,Construction Materials
+ULTRACEMCO.NS,relatedControversy,"['Employee Incidents', 'Customer Incidents', 'Society & Community Incidents']"
+ULTRACEMCO.NS,peerEsgScorePerformance,"{'min': 20.6, 'avg': 30.096249999999998, 'max': 40.45}"
+ULTRACEMCO.NS,peerGovernancePerformance,"{'min': 3.96, 'avg': 7.790714285714286, 'max': 9.97}"
+ULTRACEMCO.NS,peerSocialPerformance,"{'min': 4.17, 'avg': 6.491428571428571, 'max': 9.79}"
+ULTRACEMCO.NS,peerEnvironmentPerformance,"{'min': 10.97, 'avg': 15.452857142857145, 'max': 22.3}"
+ULTRACEMCO.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.1875, 'max': 4.0}"
+ULTRACEMCO.NS,percentile,78.08
+ULTRACEMCO.NS,environmentPercentile,
+ULTRACEMCO.NS,socialPercentile,
+ULTRACEMCO.NS,governancePercentile,
+ULTRACEMCO.NS,adult,False
+ULTRACEMCO.NS,alcoholic,False
+ULTRACEMCO.NS,animalTesting,False
+ULTRACEMCO.NS,catholic,False
+ULTRACEMCO.NS,controversialWeapons,False
+ULTRACEMCO.NS,smallArms,False
+ULTRACEMCO.NS,furLeather,False
+ULTRACEMCO.NS,gambling,False
+ULTRACEMCO.NS,gmo,False
+ULTRACEMCO.NS,militaryContract,False
+ULTRACEMCO.NS,nuclear,False
+ULTRACEMCO.NS,pesticides,False
+ULTRACEMCO.NS,palmOil,False
+ULTRACEMCO.NS,coal,False
+ULTRACEMCO.NS,tobacco,False

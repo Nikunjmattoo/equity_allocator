@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,143643940.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,143643940.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,690860000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,11255830000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,12071500000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,4917650000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,11255830000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,452210000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,11832850000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,11832850000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,11832850000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,11832850000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,-30000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,143640000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,143640000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,8409880000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,688450000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,105600000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,402260000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,402260000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,180590000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,7721430000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,305140000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,288600000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,49950000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,238650000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,367960000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Payables,6294010000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,32330000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,6261680000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,20242730000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,7603650000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,214470000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,19760000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,118410000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,118410000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,61630000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,577020000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,577020000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,6531050000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,6531050000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,417990000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,6113060000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,12639080000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,449170000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,3639110000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Inventories Adjustments Allowances,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,4860000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,6001900000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2544040000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,2165630000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,378410000.0
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+GABRIEL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,143643940.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,143643940.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,749680000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,9701500000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,10273190000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,4350450000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,9701500000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,498010000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,10021520000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,10021520000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,10021520000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,10021520000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,2290000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,9216250000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,271770000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,143640000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,143640000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,7773300000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,723060000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,137590000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,133240000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,452230000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,452230000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,137590000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,7050240000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,203920000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,297450000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,45780000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,251670000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,197410000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Payables,6462210000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,395270000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,15290000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,174270000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,5877380000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,17794820000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,6394130000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,20000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,272920000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,10720000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,40000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,10680000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,62700000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,320020000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,320020000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,5698650000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-3132150000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,8830800000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,483830000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,573730000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,5966020000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,1197580000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,609640000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,11400690000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,4900000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,15290000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,374620000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,3015160000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Inventories Adjustments Allowances,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,891250000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,366670000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1757240000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,-1382960000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,6343870000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3029810000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,2430530000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,599280000.0
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,
+GABRIEL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,599280000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,143643940.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,143643940.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,111640000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,8555790000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,8702620000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,4230260000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,8555790000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,111640000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,8702620000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,8702620000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,8702620000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,8702620000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,8558980000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,7899180000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,271770000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,143640000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,143640000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,5577400000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,384320000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,131300000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,159300000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,93720000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,93720000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,131300000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,5193080000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,89440000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,17920000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,17920000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,203550000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Payables,4820520000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,289730000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,16220000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,110030000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,4404540000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,14280020000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,4856680000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,119530000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,172780000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,12040000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,640000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,11400000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,63770000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,146830000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,146830000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,4413490000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-2671130000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,7084620000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,366590000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,195180000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,4826720000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,1101560000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,594570000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,9423340000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,4580000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,0.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,0.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,16220000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,278850000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,2248070000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Inventories Adjustments Allowances,
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,709060000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,376990000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,1162020000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,54820000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,3837150000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-56640000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,3893790000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2983650000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,2585370000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,398280000.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,0.0
+GABRIEL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,398280000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,143643940.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,143643940.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,128980000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,7636980000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,7667800000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,3613110000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,7636980000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,128980000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,7667800000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,7667800000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,7667800000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,7667800000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,7524150000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,6862920000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,271770000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,143640000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,143640000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,5863150000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,403460000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-10000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,147820000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,144590000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,111060000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,111060000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,147820000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,5459690000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,80530000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,17920000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,17920000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,156950000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Payables,5154660000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,253190000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,16920000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,153140000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,4731410000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,13530950000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,4458150000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-10000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,176920000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,8260000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1860000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,6400000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,21130000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,30820000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,30820000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,4154010000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-2237430000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,6391440000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,351550000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,195410000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,4278420000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,1001610000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,564450000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,9072800000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,160000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,3130000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,440000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,16930000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,291680000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,2099760000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Inventories Adjustments Allowances,
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,595280000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,298090000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1206390000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,47340000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,3824020000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-56050000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,3880070000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2789340000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,2379340000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,410000000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,500000.0
+GABRIEL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,409500000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,6161010000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,271770000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,138570000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,253150000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,17690000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,182920000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1040000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1857380000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,3689380000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,906720000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,546110000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,0.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,440000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,17700000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,214530000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Inventories Adjustments Allowances,-119360000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,486180000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,328870000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1149770000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-40840000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,2833870000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,9300000.0
+GABRIEL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,119660000.0

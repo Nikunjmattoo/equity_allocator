@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+HCLTECH.NS,maxAge,86400
+HCLTECH.NS,totalEsg,12.92
+HCLTECH.NS,environmentScore,0.82
+HCLTECH.NS,socialScore,6.1
+HCLTECH.NS,governanceScore,6.0
+HCLTECH.NS,ratingYear,2023
+HCLTECH.NS,ratingMonth,9
+HCLTECH.NS,highestControversy,2.0
+HCLTECH.NS,peerCount,8
+HCLTECH.NS,esgPerformance,UNDER_PERF
+HCLTECH.NS,peerGroup,Software & Services
+HCLTECH.NS,relatedControversy,['Employee Incidents']
+HCLTECH.NS,peerEsgScorePerformance,"{'min': 13.89, 'avg': 21.07125, 'max': 49.81}"
+HCLTECH.NS,peerGovernancePerformance,"{'min': 4.87, 'avg': 9.592499999999998, 'max': 34.36}"
+HCLTECH.NS,peerSocialPerformance,"{'min': 6.22, 'avg': 8.75125, 'max': 14.17}"
+HCLTECH.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 2.725, 'max': 4.84}"
+HCLTECH.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.0, 'max': 5.0}"
+HCLTECH.NS,percentile,6.55
+HCLTECH.NS,environmentPercentile,
+HCLTECH.NS,socialPercentile,
+HCLTECH.NS,governancePercentile,
+HCLTECH.NS,adult,False
+HCLTECH.NS,alcoholic,False
+HCLTECH.NS,animalTesting,False
+HCLTECH.NS,catholic,False
+HCLTECH.NS,controversialWeapons,False
+HCLTECH.NS,smallArms,False
+HCLTECH.NS,furLeather,False
+HCLTECH.NS,gambling,False
+HCLTECH.NS,gmo,False
+HCLTECH.NS,militaryContract,False
+HCLTECH.NS,nuclear,False
+HCLTECH.NS,pesticides,False
+HCLTECH.NS,palmOil,False
+HCLTECH.NS,coal,False
+HCLTECH.NS,tobacco,False

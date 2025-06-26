@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,569000000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1179300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,363600000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,391600000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-28000000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-130800000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-114700000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-117400000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,105400000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,105400000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1645500000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,84300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,76100000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,700000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-642400000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,730000000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1372400000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1164200000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,15100000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1179300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1748300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-565300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-965300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,102900000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-7800000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,574300000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,11200000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1687600000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,10900000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,5900000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1281700000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Depreciation,1281700000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-44600000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-14900000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,6000000.0
+SUBROS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2035900000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,457800000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-133600000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1197200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,391600000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,306700000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,84900000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-650300000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-330298000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-117100000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-65200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-65236000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-463900000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-330300000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-133600000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-133600000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-919800000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,48000000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,1300000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,219100000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,479100000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-260000000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1188200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,9000000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1197200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1655000000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-262500000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-682300000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,199700000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,46400000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,165800000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-349000000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-750200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,48600000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-15100000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1165100000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,341915000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Depreciation,1165100000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-4600000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-9200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,9200000.0
+SUBROS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1406500000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,82799000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-116071000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1323320000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,306662000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,313058000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-6396000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,37107000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,275595000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-67660000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-45665000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-45665000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-116071000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-116071000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-116071000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1449622000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,51471000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,2823000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-186874000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-186874000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1317042000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,6278000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1323320000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1406119000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-103083000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-300060000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-83700000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-161874000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-14732000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-226751000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,183445000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-9255000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,15514000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1102807000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,349606000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Depreciation,753201000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-49865000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,37382000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,5351000.0
+SUBROS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,708502000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,448507000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-169197000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1059743000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,313058000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,327625000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-14567000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-526352000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-186269000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-114706000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-45665000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-45665000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-169197000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-169197000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-169197000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-996465000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,56363000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,3758000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1056586000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3157000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1059743000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1508250000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-92877000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,42889000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,207007000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,174162000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,232114000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-346734000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-218589000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,40990000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-18061000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1023518000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,351883000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Depreciation,671635000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-15475000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,69836000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,7370000.0
+SUBROS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,452954000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,150000000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,538132000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-52200000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-898193000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-898193000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,150000000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-635200000.0
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SUBROS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

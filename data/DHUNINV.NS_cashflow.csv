@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-296620000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-476311000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,611180000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-947759000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2233249000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-115799000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2740294000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,3000000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-394246000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-414808000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-247437000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-91530000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,84869000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-50000000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,134869000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-476311000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,611180000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-630577000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-40000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-285937000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-285937000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,397358000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,397358000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-741958000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,205801000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-947759000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,651139000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-771674000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,314386000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Dividend Received Cfo,456918000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-45882000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-28098000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,117828000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-131444000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,35011000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-37142000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-25822000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,427740000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Depreciation,427740000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-63173000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-4371000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-208225000.0
+DHUNINV.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1983472000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,411664000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2832000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,7440000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-922756000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2740294000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2755285000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-671000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-14320000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-426181000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-215550000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-92360000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,54608000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,50000000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,50000000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,4608000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2832000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,7440000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-922559000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-922559000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,197000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-922756000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1334420000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-424062000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,254102000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Dividend Received Cfo,945873000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-289831000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-1800000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-381406000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Change In Payable,387033000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-265768000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-40286000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-106354000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,289562000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,880000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Depreciation,289562000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-1124869000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,28000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-122000.0
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+DHUNINV.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1616610000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,237570000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-93190000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,2377023000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-3589184000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2755285000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,525123000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-15247000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,2245409000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2003805000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-50528000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-76835000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,2283833000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,2283833000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-93190000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,2377023000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-3585150000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,12503000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,227134000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,869238000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1331645000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-3585150000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4034000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-3589184000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3826754000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-412058000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,227134000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Dividend Received Cfo,869238000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,1256379000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,7327000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,1250216000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Change In Payable,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-929000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-300000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-60283000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,220712000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,297000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Depreciation,220415000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-195402000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,101886000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,4224000.0
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+DHUNINV.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,7061863000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1144487000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-93412000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,471972000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-807246000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,End Cash Position,525123000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,391974000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,1411000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,131738000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,106087000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-48050000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-54330000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,378560000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-27549000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-27549000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,406109000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-65863000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,471972000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,362892000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,10794000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,81486000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1078532000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-674000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-674000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-807246000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2729000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-807246000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-337241000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-555855000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Dividend Received Cfo,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-401577000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,51981000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-453971000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Change In Payable,
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,457000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-123000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-39144000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,227660000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,50000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Depreciation,227610000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-633266000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-11461000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-2261000.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+DHUNINV.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4129425000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-17595000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-78192000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,64253000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,0.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,311866000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,419094000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-3129000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,72000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,72000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Dividend Received Cfo,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,30000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,2530000.0
+DHUNINV.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

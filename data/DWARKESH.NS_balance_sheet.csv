@@ -1,0 +1,381 @@
+symbol,statement_type,period_end,line_item,value
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,185301470.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,185301470.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,4211873000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,5072339000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,8062164000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,13094229000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,4292971000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,8062164000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,40274000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,8062164000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,8988489000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,8062164000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,8062164000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,7876863000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,185301000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,185301000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,6566492000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1796725000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,18206000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,509154000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,948595000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,22270000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,926325000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,310116000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,4769767000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,88093000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,17077000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,4123744000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,18004000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,4105740000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,65605000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Payables,317845000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,317845000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,14628656000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,5565918000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,71159000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,24428000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,24428000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,5469646000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,5469646000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,0.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,5469646000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,9062738000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,105844000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Inventory,7506591000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,617599000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,832704000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,12512000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,820192000.0
+DWARKESH.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,188301470.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,188301470.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,4499495000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,4557680000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,8220817000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,12725967000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,4422010000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,8220817000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,52530000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,8220817000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,9692655000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,8220817000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,8220817000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,8032516000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,6184150000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,1855011000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,188301000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,188301000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,5932249000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2105155000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,277690000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,0.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,315353000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1512112000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,40274000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1471838000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,277690000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,3827094000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,35665000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,43377000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,3045568000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,12256000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,3033312000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,135095000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,54704000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Payables,543474000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,106761000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,5134000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,43377000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,431579000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,14153066000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,5903962000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-5000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,43948000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,3390000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,1390000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,2000000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,5834838000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-6433455000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,12268293000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,4003000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,5830830000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,10076765000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,1926259000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,261266000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,8249104000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,144668000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,329927000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,125121000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Inventory,7409083000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,3396000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,6882121000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,62817000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,460749000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,20760000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,356501000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-3898000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,360399000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,7712000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,2057000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,5655000.0
+DWARKESH.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,5655000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,188301470.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,188301470.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,3700896000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,3746733000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,7397940000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,11105514000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,3874908000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,7397940000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,39159000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,7397940000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,9540155000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,7397940000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,7397940000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,7209639000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,5352107000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,1855011000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,188301000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,188301000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,5401080000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2418417000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,-1040000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,246536000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,417000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2172504000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,30289000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,2142215000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,246536000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,2982663000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,59173000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,41677000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,1574229000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,8870000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,1565359000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,171453000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,49541000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Payables,1126982000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,195552000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,380716000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,41677000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,550714000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,12799020000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,5941449000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,1000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,53890000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,35819000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,3220000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,1220000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,2000000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,5823025000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-6009712000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,11832737000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,0.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,5823026000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,9800521000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,1770950000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,261266000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,6857571000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,135312000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,391796000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,371000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Inventory,5606929000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,15757000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,5051140000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,116527000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,423505000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,1016000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,715469000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-241000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,715710000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,6678000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,393183000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,6678000.0
+DWARKESH.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,6678000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,188301470.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,188301470.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,5218382000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,5241447000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,6732872000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,11953580000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,3252600000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,6732872000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,20739000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,6732872000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,8742100000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,6732872000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,6732872000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,6544571000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,4680604000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,1855011000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,188301000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,188301000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,7462488000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2246415000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,6339000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,222787000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,6339000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2017289000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,8061000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,2009228000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,222787000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,5216073000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,50000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,3224158000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,12678000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,3211480000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,114147000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,44073000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Payables,1860028000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,429732000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,379668000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,82455000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,968173000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,14195360000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,5726687000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,153280000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,44871000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,246300000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,3190000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1190000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,2000000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,5419969000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-5566339000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,10986308000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,1538982000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,66490000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,7848233000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,1517333000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,81760000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,8468673000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,10000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,383178000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,146455000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Inventory,7576975000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,17637000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,7100108000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,81339000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,377891000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,100501000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,259238000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-241000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,259479000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2326000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,394727000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,2326000.0
+DWARKESH.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,2326000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,3740429000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,1855011000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,11328000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,218192000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,11328000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,37873000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,249174000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,2279000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,66882000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,23230000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,497736000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,0.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-5152575000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,7743735000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,1426483000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,81760000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,10279000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,40159000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,10891000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,8149872000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,59267000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,333033000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,614624000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,595182000.0
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+DWARKESH.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,1482000.0

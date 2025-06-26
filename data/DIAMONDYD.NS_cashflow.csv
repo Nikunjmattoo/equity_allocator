@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-142216000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-20000000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,217100000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-403137000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,End Cash Position,111578000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,298172000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-186594000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-149440000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-65496000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-47743000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,197100000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,217100000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,0.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,217100000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-20000000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-20000000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-298075000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,114981000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,56907000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-87588000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,683455000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-771043000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-1150000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-1150000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-381225000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,20762000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-401987000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,260921000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-38011000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-150951000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-11802000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-108228000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Change In Payable,105519000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-74906000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-70994000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,179031000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-13309000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,691872000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Depreciation,691872000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,9435000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,2067000.0
+DIAMONDYD.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-430549000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,509200000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-30000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,200000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,69000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-757798000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,End Cash Position,298172000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,219015000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,79157000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-122406000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-57734000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-23858000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,69000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,69000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,170000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-30000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-30000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,0.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,200000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,200000000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1065435000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,56264000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,62520000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-466460000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,533698000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1000158000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-5215000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-5215000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-712544000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,40039000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-752583000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1266998000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-128579000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-35971000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-17450000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-110050000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Change In Payable,107527000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-112226000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,86658000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-62101000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,40115000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,663634000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,113986000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Depreciation,663634000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,15346000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-5868000.0
+DIAMONDYD.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,764528000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-41237000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-300000000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,30000000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-839224000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,End Cash Position,219015000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,189888000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,29127000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-516687000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-66277000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-11723000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-270000000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-270000000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-300000000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,30000000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-252173000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,56138000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,42184000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,469136000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,664174000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-195038000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-8199000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-8199000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-811432000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,19593000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-831025000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,797987000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-57798000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,225406000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,112022000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-94628000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Change In Payable,136796000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,99204000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-34523000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-55274000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-15059000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,621291000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,113652000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Depreciation,507639000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,23233000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-7586000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,2455000.0
+DIAMONDYD.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,15128000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,142116000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-581529000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,780000000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-315375000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,End Cash Position,189888000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,117847000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,72041000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-23170000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-66008000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-11727000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,198471000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,198471000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-581529000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,780000000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-362280000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-97518000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,47657000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-195598000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,598044000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-793642000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-6683000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-6683000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-305736000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2956000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-308692000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,457491000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-50299000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-21978000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,55967000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1302000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Change In Payable,20818000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-181550000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,79614000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,50570000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,-8286000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,29067000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,537718000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,106535000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Depreciation,431183000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-8286000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-55435000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,28000.0
+DIAMONDYD.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-23894000.0
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,10715000.0
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,31337000.0
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,103553000.0
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DIAMONDYD.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

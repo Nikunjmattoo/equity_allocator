@@ -1,0 +1,145 @@
+symbol,statement_type,period_end,line_item,value
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-5770500000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2465256700000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,2494213800000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,88500000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1360600000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,End Cash Position,26985900000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,30658800000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-3672910000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,28654200000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-391400000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-391400000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,88500000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,88500000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,28957100000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,28957100000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2465256700000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2494213800000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-27917210000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-10000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-26569800000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1347400000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,13200000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1360600000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-4409900000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-2011700000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-14134500000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-4296400000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-573000000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,687900000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,13100000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,1844600000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1014000000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Depreciation,1014000000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-1800000.0
+DCBBANK.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,8286100000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3496900000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-596816300000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,617829700000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,78200000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1352400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,End Cash Position,30658800000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,23684200000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,6974600000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,20701900000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-389700000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-389700000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,78200000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,78200000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,21013400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,21013400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-596816300000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,617829700000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-18576600000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-17247600000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1329000000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,23400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1352400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,4849300000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1396500000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-4279800000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,245800000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,1933600000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,755600000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,40000000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,1568600000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,944400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation,944400000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1500000.0
+DCBBANK.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,7219600000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-17322264000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-28029765000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,28392569000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,29669000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1665084000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,End Cash Position,23684242000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,40907604000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-17223362000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,81444000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-311029000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-311029000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,29669000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,29669000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,362804000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,362804000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-28029765000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,28392569000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1647626000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1647626000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,17458000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1665084000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-15657180000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-946505000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-24112315000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,5071182000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-3816374000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,762392000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,29775000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,1542009000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,770110000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation,770110000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,7699000.0
+DCBBANK.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,6275579000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,14485965000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-27754001000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,23749883000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,23712000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1574786000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,End Cash Position,40907604000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,30393420000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,10514184000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3980406000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,23712000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,23712000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-4004118000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-4004118000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-27754001000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,23749883000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1566161000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1566161000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,8625000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1574786000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,16060751000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1805479000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,8500491000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,2262844000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,264696000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,631249000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,4101000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,4127615000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,637140000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation,637140000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,2282000.0
+DCBBANK.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,3895496000.0

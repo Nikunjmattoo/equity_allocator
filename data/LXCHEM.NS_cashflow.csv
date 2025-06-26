@@ -1,0 +1,281 @@
+symbol,statement_type,period_end,line_item,value
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-2861520000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1303400000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,500000000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,100420000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3941110000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,416370000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1111390000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-695020000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,901220000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-300000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-180710000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-165940000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-165940000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,100420000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,100420000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1174250000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,1977650000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-803400000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1303400000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,500000000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2675830000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1298200000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,69600000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-103370000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,17803700000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-17907070000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,850000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,850000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,-3941110000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1079590000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-255350000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1656740000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,133490000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-602610000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-700530000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-946520000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,441840000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,105970000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,-5260000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,25760000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1240250000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Depreciation,1240250000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-41190000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-6700000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,67620000.0
+LXCHEM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1605230000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3136180000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-96600000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2675670000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2476670000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1111390000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,810140000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,301250000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-416210000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-2430000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-208920000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-132790000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-132790000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2675670000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2675670000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-2612250000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-2515650000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-2515650000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-96600000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-96600000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4895390000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-1560970000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,127870000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-987490000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,10893220000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-11880710000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,1870000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1870000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-2476670000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,5612850000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-370690000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,3086130000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-169430000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,327200000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,2962260000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,108780000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-171420000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-81510000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,168430000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,39540000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1065920000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2790000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Depreciation,1065920000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-43260000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,42200000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1870000.0
+LXCHEM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1707950000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-2768360000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-99760000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,2731930000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,93750000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4758930000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,810140000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,336120000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,474010000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2324560000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,2460000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-194170000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-185570000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-185570000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,93750000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,93750000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,2632170000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1331930000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1331930000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1300240000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-99760000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1400000000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-3841120000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,10000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,84420000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,834980000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,10884480000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-10049500000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-15120000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-15120000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,1450000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1450000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-4758930000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1990570000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-501410000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-132940000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,229840000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,398980000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-2438170000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,795950000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,919560000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,14800000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,114170000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,62210000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,725250000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,3650000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Depreciation,721600000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-7090000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-13230000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-330000.0
+LXCHEM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1729130000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2241430000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1365150000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,332050000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2891330000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,336120000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,212900000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,166160000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-42940000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-1238900000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-3700000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-44810000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-131830000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-131830000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-1033100000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,332050000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,332050000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-1365150000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1365150000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,546060000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,3741280000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,114200000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-14390000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,10340610000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-10355000000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-400100000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-400100000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,8470000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,8470000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-2891330000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,649900000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-563620000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-2731460000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-62670000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-789150000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1341130000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1234260000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2018740000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-39090000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,231320000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,90170000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,481800000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,5130000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Depreciation,476670000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-7790000.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LXCHEM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,3188570000.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,975790000.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-12500000.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-12500000.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-163320000.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,3130000.0
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LXCHEM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

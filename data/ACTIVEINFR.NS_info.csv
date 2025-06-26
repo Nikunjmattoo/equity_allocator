@@ -1,0 +1,2 @@
+quoteType,symbol,language,region,triggerable,customPriceAlertConfidence,corporateActions,messageBoardId,esgPopulated,hasPrePostMarketData,financialCurrency,tradeable,cryptoTradeable,trailingPegRatio
+NONE,ACTIVEINFR.NS,en-US,US,False,NONE,"[{'header': 'Dividend', 'message': 'ACTIVEINFR.NS announced a cash dividend of 1.00 with an ex-date of Jul. 11, 2025', 'meta': {'eventType': 'DIVIDEND', 'dateEpochMs': 1752192000000, 'amount': '1.00'}}]",finmb_1770158309,False,False,INR,False,False,

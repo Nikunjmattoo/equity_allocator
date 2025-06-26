@@ -1,0 +1,241 @@
+symbol,statement_type,period_end,line_item,value
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1355100000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1074800000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,250000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-332000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,End Cash Position,198400000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,77900000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,200000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,120300000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1151400000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-318700000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-6000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-824800000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-824800000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1074800000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,250000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-415400000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,4000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-87400000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,325500000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-412900000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-332000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-332000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1687100000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,2800000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,190600000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,9300000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,269000000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-94900000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,6500000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-4500000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,251100000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,835900000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Depreciation,835900000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-15400000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,66300000.0
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TRANSWORLD.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,355600000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-245100000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-985400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,78400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-434700000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,End Cash Position,77900000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,223600000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,1900000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-147600000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1293400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-353500000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-32900000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-32900000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-907000000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-907000000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-985400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,78400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,956200000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,13200000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,488300000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,683300000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-195000000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,454700000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,889400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-434700000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,189600000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-57200000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-88500000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-28400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-393300000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Change In Payable,267400000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,84100000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-16700000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,315300000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,796500000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,0.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Depreciation,796500000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-387100000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,86100000.0
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TRANSWORLD.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-475400000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-2622100000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-741600000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,3247000000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4934800000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,End Cash Position,223600000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-900000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,623600000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-300000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-399700000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2268300000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,100000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-182300000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-54900000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-54900000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,2505400000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,2505400000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-741600000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,3247000000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4980700000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-11600000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,52600000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,500000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-573200000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,117700000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-690900000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-4396400000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,538400000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-4934800000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2312700000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-63800000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-202200000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,24800000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-44500000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-124200000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-110000000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,49400000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,131300000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,475000000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,0.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Depreciation,475000000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-128200000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,107700000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-101300000.0
+TRANSWORLD.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1992900000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1659100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-535400000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1604500000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2843300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,End Cash Position,623600000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,72900000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,550700000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,152300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-138100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-43900000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-43900000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,334300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-734800000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1069100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-535400000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1604500000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-785800000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-249400000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,10000000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,600000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,1300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,2295000000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,2295000000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2843300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2843300000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1184200000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-48000000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1081000000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,7000000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-910600000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-2100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-14100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-171500000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,78500000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,191800000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,16100000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Depreciation,191800000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-70700000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-5700000.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+TRANSWORLD.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2181700000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-500000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-80200000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,5400000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,200000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,2900000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,60100000.0
+TRANSWORLD.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

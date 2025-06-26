@@ -1,0 +1,196 @@
+symbol,statement_type,period_end,line_item,value
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-758745000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-507866000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,End Cash Position,8142000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,99637000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-91495000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,631586000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-33380000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,664966000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,627215000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,37751000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-472202000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-1000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,265000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-472466000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,35400000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-507866000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-250879000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-24927000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-389199000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,21164000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,67041000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-640620000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,163301000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-85000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,33115000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,25178000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Depreciation,25178000.0
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DOLLEX.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,104953000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-540651000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1241000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,624868000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-106204000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,End Cash Position,99637000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,10644000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,88993000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,591564000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-32063000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,623627000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,624868000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1241000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1241000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,624868000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-68124000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,35401000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,642000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-68766000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,37438000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-106204000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-434447000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-13250000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-562014000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-14893000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-338476000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Change In Payable,346123000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-609473000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,54705000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,31421000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,28276000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1338000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Depreciation,28276000.0
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DOLLEX.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,81120000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-227567000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-71565000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,47631000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,173880000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-26703000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,End Cash Position,10644000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,56608000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-45964000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,125556000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-24390000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,173880000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,173880000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-23934000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,47631000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-23934000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-71565000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,47631000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,29344000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,55800000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,247000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-26703000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-26703000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-200864000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-19433000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-309049000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-8024000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-24043000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Change In Payable,332770000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-628253000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-13566000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,24143000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,23824000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Depreciation,23824000.0
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DOLLEX.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,79651000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,94833000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-74807000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-8687000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,End Cash Position,56608000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,26568000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,30039000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-99642000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-24834000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-74807000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-305000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-74807000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-74807000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,26161000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,25200000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,86000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,875000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,9562000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-8687000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,103520000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,13547000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,46622000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,24723000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Change In Payable,117972000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,17662000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-122087000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,24748000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,22730000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,0.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Depreciation,22730000.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+DOLLEX.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,42495000.0
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,0.0
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+DOLLEX.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

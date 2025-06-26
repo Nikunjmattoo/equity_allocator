@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-446200000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-625400000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1995000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,160700000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-5800000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,End Cash Position,467100000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,137600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,329600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,1182600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,100000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-318300000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,160700000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,160700000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1369600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-14000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-14000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,1383600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-611400000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1995000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-412600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,32800000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-439600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,2101000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2540600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-5800000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-5800000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-440400000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,52000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-636700000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-1190900000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,39000000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-561800000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,1064400000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,4600000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,431200000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,117800000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,43900000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Depreciation,43900000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-151400000.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+PENINLAND.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-286200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1794600000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3445400000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,3144700000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,660000000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-6100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,End Cash Position,137600000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,136200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1400000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-793300000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-552000000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,660000000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,660000000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-882900000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-582200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-582200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-300700000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-3445400000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,3144700000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1006000000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,35400000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1059100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,590500000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1649600000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,17700000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,23800000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-6100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1800700000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,24200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,464200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2409100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,136300000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-16200000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,2693600000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,82100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,351100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-373900000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,87500000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,0.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Depreciation,87500000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-17500000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-22100000.0
+PENINLAND.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1282600000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2995500000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-3328600000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,696400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,256500000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2700000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,End Cash Position,136200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,298800000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-162600000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3757200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-706100000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,256500000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,256500000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-3288500000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-656300000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-656300000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-2632200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-3328600000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,696400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,596400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,126900000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,81800000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,362400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,362400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,24900000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,27600000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2700000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2998200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,180100000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,2098200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-5244500000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-56600000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Change In Payable,218200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,7159400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,17800000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,549300000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,55100000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,26400000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,4100000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Depreciation,22300000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-31200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-21200000.0
+PENINLAND.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,968700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,3457700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2713300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,120500000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2100000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,End Cash Position,298800000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,326000000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-27200000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3891300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-884800000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2992500000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-399700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-399700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,16600000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-2592800000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-2713300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,120500000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,404300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,51000000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,400000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,354300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,354600000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1400000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2100000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,3459800000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,116100000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,2311500000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,777400000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,49200000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-612700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,2093900000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-5300000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,735700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,646000000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,25600000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,6200000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Depreciation,19400000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-100000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-700000.0
+PENINLAND.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-1101000000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-851200000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,955200000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,900000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,0.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,100000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,100000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,6400000.0
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PENINLAND.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

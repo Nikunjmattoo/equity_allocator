@@ -1,0 +1,201 @@
+symbol,statement_type,period_end,line_item,value
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,12900000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,End Cash Position,200000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,400000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-200000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-14800000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-14800000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,1700000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2200000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-500000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-500000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,12900000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-700000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,13000000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-200000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Change In Payable,13200000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,12700000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,0.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Depreciation,
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-310300000.0
+JPOLYINVST.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2700200000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-7200000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,End Cash Position,400000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,100000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,300000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-100000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-100000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,7600000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2200000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,5400000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,5400000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-7200000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-200000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1900000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,100000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-2000000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,89000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,10900000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Depreciation,20000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-358400000.0
+JPOLYINVST.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2978200000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,10849067000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-9102372000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-114067000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,End Cash Position,97000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-3609113000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2797627000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,811583000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-10258784000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-9395000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1142360000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-9102372000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-9102372000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-9102372000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,221300000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-114067000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,189738000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,154898000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,304601000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-149703000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-12981000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-12981000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-114067000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-114067000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,10849067000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-78392000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,407743000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-208000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Change In Payable,602112000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-195113000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,994631000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,0.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2800948000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1376000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Depreciation,2799572000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,432000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-745668000.0
+JPOLYINVST.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,7513966000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,6965224000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2437060000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-155792000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2797628000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,984546000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1641000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1811441000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3524564000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1087503000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2437060000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-2437060000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-2437060000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1785011000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-155789000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,305713000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1934932000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,33308000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-1968240000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-155792000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-155792000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,7121016000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,12508500.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,184700000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,0.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,2000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1601384000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1414026000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,818661000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,33158000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2246358000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,597000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Depreciation,2245761000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,3025000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-6024490000.0
+JPOLYINVST.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,9847101000.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,1000000.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,83000.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,1675000.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,0.0
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+JPOLYINVST.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

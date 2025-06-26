@@ -1,0 +1,281 @@
+symbol,statement_type,period_end,line_item,value
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-160437700000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-584474000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,732421100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-4418900000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,End Cash Position,18302500000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,9035400000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1500000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,9265600000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,176053300000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,37032400000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-7777800000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-7777800000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,147947100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,147947100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-584474000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,732421100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-10768900000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-7189300000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,8500200000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-8351900000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,216146100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-224498000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-3727900000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,691000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4418900000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-156018800000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-8702300000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,128565800000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,-65220400000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-184294200000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-135400000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-141500000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1916100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-683000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-79690900000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,59000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,15589100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3212000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Depreciation,3212000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-1229000000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,377400000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-44100000.0
+M&MFIN.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,29616800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-187718500000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-418257200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,570567400000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3233000000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,9035400000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,5865300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,3800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,3166300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,160949000000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,17089800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-7398800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-7398800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,152310200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,152310200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-418257200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,570567400000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,26702800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,16458300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,7476300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,7537300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,78433400000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-70896100000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-2063900000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-2063900000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2705200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,527800000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3233000000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-184485500000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-8266700000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,140526000000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,-69252300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-220508300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,725200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-721300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,4152300000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-714100000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-74565900000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,59000000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,17148900000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2748500000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,138500000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Depreciation,2748500000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,83200000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-764900000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-69700000.0
+M&MFIN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,25320700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-178086000000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-306611300000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,528848900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4132900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,5865300000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,7651800000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1787200000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,188519600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-28590900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-4439900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-4439900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,222237600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1699700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1699700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,222237600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-306611300000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,528848900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-16353700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-6710400000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,7894200000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-13552100000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,61850900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-75403000000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-3985400000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,147500000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-4132900000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-173953100000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-5337600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,122836700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,-52016400000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-211509600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-10500000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-774500000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1319400000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-221500000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-69709600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,100000000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,22133600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2259600000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,130200000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Depreciation,2129400000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-75700000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-968500000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-33000000.0
+M&MFIN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,28165000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2826200000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-506548100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,487770300000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3006800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,7653200000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,17300000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,8085300000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-7100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-442300000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-31728800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-11412500000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-991900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-991900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-18777800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-18777800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-506548100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,487770300000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,31105900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,17701000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,5580900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,10765000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,131959000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-121194000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2941000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,65800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3006800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,180600000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-5732200000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,119839700000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,-48265900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-44023400000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,142100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-26000000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,3610100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-203100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-64811300000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,135100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,28065400000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1519900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,126800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Depreciation,1393100000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,432900000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-903800000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-16500000.0
+M&MFIN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,14838300000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,30699600000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,30699600000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,30699600000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,200000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,207300000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-455200000.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+M&MFIN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

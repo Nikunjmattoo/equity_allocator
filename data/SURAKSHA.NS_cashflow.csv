@@ -1,0 +1,153 @@
+symbol,statement_type,period_end,line_item,value
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,213351000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-28114000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-420240000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,22468000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,25200000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-2732000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-240482000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1000000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-6367000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-28114000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-28114000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-28114000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-395841000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,35592000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-12603000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-12603000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-418830000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1410000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-420240000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,633591000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-105816000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-103258000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,25490000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-38763000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-5193000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-13706000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-72122000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,48061000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,2112000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,19561000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,352977000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Depreciation,352977000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,2558000.0
+SURAKSHA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,414053000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,150089000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-58689000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,5000000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-454724000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,25200000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,21626000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,3574000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-251286000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,7026000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-9077000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-53689000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-53689000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-58689000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,5000000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-349953000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,31896000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,47357000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,47357000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-429206000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,25518000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-454724000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,604813000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-86104000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-36902000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,3285000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,8255000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,3535000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-5162000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-47312000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,52708000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,0.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,1342000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,325980000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,4020000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Depreciation,325980000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,21452000.0
+SURAKSHA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,314525000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,309290000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-70700000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,20500000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-131670000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,21620000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,31890000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-10270000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-243280000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-12960000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-50200000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-50200000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-70700000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,20500000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-207950000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,25370000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-108260000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,302250000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-410510000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-125060000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,6610000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-131670000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,440960000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-71930000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,48290000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-1990000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,18320000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,4810000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,630000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,24820000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,61990000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-5910000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,316710000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,3650000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Depreciation,313060000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,24330000.0
+SURAKSHA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,67480000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,385740000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-69950000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,95910000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-192490000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,31890000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,29320000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,2570000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-142850000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-15020000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,25960000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,25960000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-69950000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,95910000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-432810000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,17170000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-260930000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,54120000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-315050000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-189050000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3440000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-192490000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,578230000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-27960000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-35840000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,10110000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-17820000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,16510000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-17810000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-15710000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,66800000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-2990000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,283950000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,5820000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Depreciation,278130000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,14150000.0
+SURAKSHA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,280120000.0

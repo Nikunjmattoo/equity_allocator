@@ -1,0 +1,286 @@
+symbol,statement_type,period_end,line_item,value
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-686880000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-265290000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,594820000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,10420000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2451510000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,808570000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,783840000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,18590000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,6130000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-706980000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-135000000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-512850000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-266140000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,10420000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,0.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,10420000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,329530000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,333270000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,333270000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-3740000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-265290000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,261550000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1051520000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,77750000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,167550000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,1490000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,527500000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,643500000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-116000000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,725700000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,725700000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,-2451510000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1764630000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-606550000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-934340000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-58890000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-811590000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,3549000000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,1824120000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-5467790000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,381790000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,44650000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,19540000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,750690000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Depreciation,750690000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-92950000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-8460000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-167200000.0
+SYRMA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2370750000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-4467850000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-88150000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-32660000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,2320350000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,80000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3376540000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,783840000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,181990000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,464900000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,8290000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,128660000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,1502740000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,9220000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-361700000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-265160000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-88070000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-88150000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,80000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,2287690000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,2320350000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,2320350000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-32660000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-32660000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-282770000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-1400000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,358410000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,2590000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,5027390000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,5027390000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-2300260000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-2300260000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,7040000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,7040000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-3376540000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-1091310000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-539510000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-2807440000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-9160000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-1156870000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,7269650000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-3776210000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-5143660000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,69180000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,29920000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,69080000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,514850000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,39590000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Depreciation,514850000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-29240000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-68890000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,5080000.0
+SYRMA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1664410000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1886720000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-326120000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-24090000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1546760000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,8760010000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1183960000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,464900000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,334110000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,11120000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,119670000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,9679600000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-39750000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-192170000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,8433890000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-326120000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,8760010000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1522670000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,689780000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,689780000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,832890000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-24090000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,856980000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-8857170000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,287580000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-7766330000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,13590000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-7779920000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-196330000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-196330000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,1870000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1870000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-1183960000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-702760000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-397300000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-2299860000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-141910000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-432440000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2496540000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-2957310000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1282690000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-112070000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,57170000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,8200000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,311990000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,20760000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Depreciation,291230000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-25500000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-40450000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,500000.0
+SYRMA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1787310000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-696050000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-275280000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1044260000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,2715250000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-841250000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,334110000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,259680000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,279630000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-1500000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-203700000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3587170000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,182650000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-57400000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,2715250000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,2715250000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,768980000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,1036140000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,1036140000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-267160000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-275280000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,8120000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3936070000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,11570000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,170000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,12090000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,33310000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-21220000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-3110640000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-3110640000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,3730000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3730000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-841250000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,145200000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-232220000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-658990000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,205300000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-169410000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,326900000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-485980000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-548630000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,28120000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,35070000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,7180000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,194290000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Depreciation,194290000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-10290000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-27320000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,340000.0
+SYRMA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,809020000.0
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,749280000.0
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,749280000.0
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-871430000.0
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SYRMA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

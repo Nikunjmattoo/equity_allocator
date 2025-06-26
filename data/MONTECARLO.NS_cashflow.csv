@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,347500000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-27000000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-380600000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,9800000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,14800000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-5000000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-447700000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-305200000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-174000000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-414900000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,699400000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,726400000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-27000000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-27000000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-285400000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,170600000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-119900000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,455500000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-575400000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-336100000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,44500000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-380600000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,728100000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-233700000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-926800000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,447600000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-69900000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-197300000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-685600000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-436800000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,270400000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-25700000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,601700000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Depreciation,601700000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-97400000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-200000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-2900000.0
+MONTECARLO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1139100000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,466900000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-60000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,183000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-347700000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,14800000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,17100000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-2300000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-852200000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-240600000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-131500000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-414600000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,123000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,183000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,183000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-60000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-60000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,35300000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,233400000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,138800000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,234700000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,819500000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-584800000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-338200000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,9500000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-347700000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,814600000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-471800000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-180000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,159700000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-152000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-525000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,258000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,82600000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,218500000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,31300000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,512200000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,15900000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Depreciation,512200000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-100500000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-2000000.0
+MONTECARLO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,806700000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-585900000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-56300000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1391800000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-533000000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,17100000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,4200000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,12900000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,529200000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-144500000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-94500000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-414600000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1335500000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1391800000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1391800000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-56300000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-56300000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-463400000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,412400000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,96000000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-442100000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,94900000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-537000000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-529700000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,3300000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-533000000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-52900000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-496800000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1797700000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,547900000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,4600000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Change In Payable,553500000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1713400000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1234900000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,106700000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,50000000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,417700000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,3600000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Depreciation,414100000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-56800000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-200000.0
+MONTECARLO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1722100000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,455700000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-163700000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,116300000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-250800000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,3200000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,4400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1200000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-223800000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-82400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-77100000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-311000000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,335800000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,383200000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,383222000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-47400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-163700000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,116300000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-483900000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-476900000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,51800000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,189800000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,455400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-265600000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-2000000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-2000000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-246600000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,4200000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-250800000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,706500000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-312900000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-853300000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,348300000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-114700000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Change In Payable,90000000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-875400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-359300000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,37200000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,372500000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,2100000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Depreciation,370400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-81200000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2900000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,18400000.0
+MONTECARLO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1525800000.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,30321000.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-103676000.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,30321000.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,0.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-1000.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,3224000.0
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MONTECARLO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

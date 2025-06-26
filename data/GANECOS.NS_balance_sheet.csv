@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,39194.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,25417790.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,25456984.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,4400678000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,5561509000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,11498325000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,17068256000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,5097232000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,11498325000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,11506747000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,15190457000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,11506747000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,11506747000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,11252177000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Treasury Stock,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,254570000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,254570000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,7835264000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4474157000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,486065000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,213094000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3683710000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,3683710000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,91288000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,3361107000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,75064000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,1877799000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,1877799000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,49698000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Payables,811144000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,4218000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,806926000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,19342011000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,10883672000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,654080000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,286525000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,286525000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,94736000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,8422000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,7076000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,1346000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,9671914000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,9671914000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,509665000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,9162249000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,8458339000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,1726729000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Inventory,3554124000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,2413000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1715748000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1459325000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,298494000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1160831000.0
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+GANECOS.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,39194.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,25307790.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,25346984.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,3553771000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,3987903000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,10517471000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,14509058000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,5699510000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,10517471000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,10521155000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,14234302000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,10521155000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,10521155000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,376486000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Treasury Stock,21254000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,5058709000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,4804803000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,253470000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,253470000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,5724097000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4159799000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,70050000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,226851000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,149751000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3713147000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,3713147000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,70050000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,1564298000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,50523000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,274756000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,274756000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,44052000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,44052000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Payables,1201843000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,442784000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,5118000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,8036000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,745905000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,16245252000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,8981444000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,347652000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,400807000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,59262000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,59262000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,94736000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,3684000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,2338000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,1346000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,8414626000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-2915971000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,11330597000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,710811000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,7703815000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,8079367000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,2094173000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,446246000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,7263808000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,32148000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,64169000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,564014000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Inventory,3013522000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,1736805000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,125876000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1150841000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,460605000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,6162000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1379769000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-8836000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1388605000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1743419000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,1309287000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,434132000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,340000000.0
+GANECOS.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,94132000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,39194.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,21790203.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,21829397.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,5011963000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,5054635000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,6374822000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,11435808000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1937923000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,6374822000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,6381173000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,9498730000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,6381173000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,6381173000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,6160546000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Treasury Stock,21254000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,4694920000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,1440272000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,218294000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,218294000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,6848866000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3524468000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,64750000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,166384000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,175777000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3117557000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,3117557000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,64750000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,3324398000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,72283000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,1937078000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,1937078000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,39908000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,39908000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Payables,1314008000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,572645000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,5543000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,735820000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,13230039000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,7967718000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,250645000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,300800000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,59262000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,59262000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,94736000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,6351000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,5005000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,1346000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,7478766000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-2460817000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,9939583000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,2350666000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,5128100000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,5864821000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,1297816000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,426280000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,5262321000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,704120000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,0.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,0.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,17371000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,436468000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Inventory,2804642000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,1364378000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,100550000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,1339714000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,288140000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,37361000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,1147589000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-8955000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,1156544000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,530750000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,488078000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,42672000.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,0.0
+GANECOS.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,42672000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,19335.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,21810062.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,21829397.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,3357170000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,3578201000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,5725093000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,9314316000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,2175846000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,5725093000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,5736115000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,8100977000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,5736115000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,5736115000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,5517821000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Treasury Stock,9386000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,4037994000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,1440272000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,218294000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,218294000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,5210885000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2762207000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,70496000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,154855000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,171994000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2364862000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,2364862000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,70496000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,2448678000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,59608000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,1213339000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,1213339000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,27982000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,27982000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Payables,1192879000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,545701000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,5941000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,0.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,641237000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,10947000000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,6322476000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,471136000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,516189000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,1717000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1717000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,0.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,11022000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,9676000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,1346000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,5756276000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-2174455000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,7930731000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,2764743000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,2991533000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,3766710000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,936601000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,462677000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,4624524000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,478549000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,99000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,12615000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,9098000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,150842000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Inventory,1964670000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,712691000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,102007000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1149972000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,355570000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,60147000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,1161513000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-5841000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,1167354000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,909970000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,688939000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,221031000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,181250000.0
+GANECOS.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,39781000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Treasury Stock,0.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,3462080000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,1440272000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,61115000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,26865000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,328436000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,6432000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,234310000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1994734000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,3827164000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,872271000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,395726000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,0.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,2725000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,16464000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,197068000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,624003000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,79124000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1022068000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,51114000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-17038000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,1072551000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,1108000.0
+GANECOS.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,23111000.0

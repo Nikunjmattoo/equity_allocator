@@ -1,0 +1,241 @@
+symbol,statement_type,period_end,line_item,value
+FMNL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,30563000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-67555000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,117145000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,
+FMNL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,73423000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,152710000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-79286000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-74725000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-1000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-105912000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,117145000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,117145000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-67555000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-67555000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-67555000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-35124000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,34388000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-41486000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-41486000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-51226000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-51226000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,215407000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,215407000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,30563000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-6591000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1021214000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1041717000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,0.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,20503000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,87591000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,535000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,138403000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Depreciation,138403000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-3183000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,9828000.0
+FMNL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+FMNL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,780148000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-206523000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,62687000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-23897000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,152709000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,368471000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-215761000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-95909000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-158596000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,62687000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,62687000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,62687000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,62774000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,24777000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-79150000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,70663000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-149813000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-23897000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-23897000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-182626000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,12386000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-645074000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-704031000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,4051000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,54906000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,42506000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,16000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,137371000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Depreciation,137371000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,
+FMNL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-11026000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,205233000.0
+FMNL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,39160000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,761598000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-171434000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-53905000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,368471000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,216685000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,151786000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-375031000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-203597000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-171434000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-171434000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-171434000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-288686000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,37306000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-240974000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-240974000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-127564000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+FMNL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-127564000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-53098000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,807000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-53905000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,815503000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,59005000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,240967000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-165709000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,38131000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,368545000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,375415000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,520000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,177617000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Depreciation,177617000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-5486000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,324000.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+FMNL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,14408000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-359902000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-405598000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,995011000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-7533000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,216685000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,178708000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,37976000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,377560000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-211853000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,589413000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,995011000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,995011000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,589413000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-405598000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,995011000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,12785000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,1000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,39277000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-266540000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-266540000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,116200000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,116200000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,25800000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,33333000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-7533000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-352369000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-18371000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-850705000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-1068108000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-108000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,217511000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,406934000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,429000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,186122000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Depreciation,186122000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,587000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-543000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,873000.0
+FMNL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+FMNL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-154412000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-142714000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-53807000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-1000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-12714000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-12714000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-130000000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,23115000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,104000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-53807000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,-14000.0
+FMNL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+FMNL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

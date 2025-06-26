@@ -1,0 +1,221 @@
+symbol,statement_type,period_end,line_item,value
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,268810000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,136306000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-72332000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,End Cash Position,104268000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,2000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,73128000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,31138000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-234072000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-2843000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-367536000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,136306000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,90000000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,90000000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,46306000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,46306000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-75932000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,4452000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-8052000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-8052000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-72332000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-72332000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,341142000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-116721000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-29927000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,44485000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-25179000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1306000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-50539000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2843000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,22159000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Depreciation,22159000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,9187000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-4452000.0
+KSOLVES.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,458052000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,310572000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-21833000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,End Cash Position,73127000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,85731000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-12604000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-326040000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-326040000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-18969000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,3385000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-521000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-521000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-21833000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-21833000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,332405000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-84013000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-53526000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1864000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-44001000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-2155000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-9234000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,8659000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Depreciation,8659000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,6000000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-3385000.0
+KSOLVES.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,458669000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,201271000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-5823000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,End Cash Position,85731000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,68950000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,16780000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-188068000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-188068000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2246000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,6256000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,6217000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2679000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2679000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-5823000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-5823000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,207094000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-50188000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-75231000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,7549000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-23035000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-1014000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-58731000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,5473000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Depreciation,5473000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,3941000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-6256000.0
+KSOLVES.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,329356000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,96515000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-5419000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,End Cash Position,68950000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,80892000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-11943000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-122965000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-32000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-122933000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,9088000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,14507000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,12257000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-13000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,2250000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-13000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-5419000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5419000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,101934000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-31278000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-71078000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,3196000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-22768000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Change In Payable,4638000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-56144000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,32000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,4907000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Depreciation,4907000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,2466000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-12257000.0
+KSOLVES.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,209142000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-1075000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,50300000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,50300000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,50300000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-1075000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,1989746.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,0.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,111000.0
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+KSOLVES.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-881780000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-458220000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,11210000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-113140000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2292800000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,123590000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1476460000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,692750000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-736630000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-415640000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,0.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,11210000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,11210000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,217000000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,675220000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-458220000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-458220000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,2198020000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,381040000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,5218190000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,6491170000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1272980000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-3297480000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-3297480000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-103730000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,9410000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-113140000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-768640000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-381400000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2215140000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-244680000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-444700000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1054950000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1465620000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1088480000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,35620000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,35490000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,59880000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,306920000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Depreciation,306920000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-9600000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,1160000.0
+ENTERO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1387400000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-420280000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2002440000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1515000000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,10509850000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-54160000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1476460000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10780000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,253620000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1212060000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,8629400000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-660930000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-660930000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,509850000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,509850000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,10000000000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,10000000000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-987620000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-500180000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-500180000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-487440000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2002440000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1515000000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-7051220000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,94710000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-6680940000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-6680940000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-418080000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-418080000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-46910000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,7250000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-54160000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-366120000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-130580000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1457260000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-71100000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-181050000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Change In Payable,15990000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-581830000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-661970000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,523520000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,17670000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,75170000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,250170000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,4170000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Depreciation,250170000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-360000.0
+ENTERO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,355550000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-508340000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,884870000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,448860000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-55190000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,253620000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,465080000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-211460000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,727640000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-489720000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-489720000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,446240000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,446240000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,2620000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,2620000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,884870000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,884870000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,884870000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-485950000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-225920000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,40900000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-225920000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-225920000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-245740000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-245740000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-55190000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-55190000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-453150000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-124270000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1003560000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-67750000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-2950000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Change In Payable,575850000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-193940000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1332880000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,448820000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,20370000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,242370000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Depreciation,242370000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,18110000.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+ENTERO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-36880000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-451320000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1433250000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,1056280000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-98660000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,465080000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,323140000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,141940000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,2111920000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-289780000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,1018780000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,1018780000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,37500000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,37500000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1433250000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1433250000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1433250000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1617320000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-83810000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,34390000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-1469240000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-1469240000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-98660000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-98660000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-352660000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-109040000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-460680000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,304610000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,35390000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Change In Payable,185180000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-300970000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-684890000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,255390000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-59880000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,197540000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Depreciation,197540000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,22120000.0
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ENTERO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-198110000.0
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-206890000.0
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-228480000.0
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,15010000.0
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ENTERO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

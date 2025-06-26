@@ -1,0 +1,416 @@
+symbol,statement_type,period_end,line_item,value
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,34695381.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,34695381.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,8396863000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,8487841000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,17709337000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,26185675000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,5320707000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,17709337000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,22073000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,17719907000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,21593054000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,17719907000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,17719907000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,17372924000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Fixed Assets Revaluation Reserve,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,16472904000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,7534161000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,1442000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,3512165000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3889745000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,16598000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,3873147000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,80990000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,8938743000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,474960000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,4598096000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,5475000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,4592621000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,14667000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Payables,3216990000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,0.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,3216990000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,34192811000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,19933361000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,650220000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,3491507000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,3491507000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,12733547000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Associatesat Cost,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,208326000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,10570000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,10570000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,2685106000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,2685106000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,344835000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,2340271000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,14259450000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,820085000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Inventory,3953218000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,9106510000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,379637000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,310732000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,68905000.0
+UNIVCABLES.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,34695381.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,34695381.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,7655357000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,7710236000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,17748039000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,25435504000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,4462871000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,17748039000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,25221000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,17750489000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,19704916000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,17750489000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,17750489000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,17403506000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Fixed Assets Revaluation Reserve,
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,9844076000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,632250000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,15445802000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5494456000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,1839000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,80713000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,67000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,1839000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,3387562000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1974931000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,20504000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1954427000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,80713000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,9951346000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,397000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,5735305000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,4717000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,5730588000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,46247000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,15103000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Payables,3722682000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,194954000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,2503000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,44082000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,3481143000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,33196291000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,18782074000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,105158000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,143212000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,4024451000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,3978451000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,46000000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,12501858000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,517885000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,11983973000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,217944000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,2450000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,2450000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,1780788000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-1696039000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,3476827000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,1821000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,1778967000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,2886690000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,563149000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,25167000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,14414217000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,367405000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,23161000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,22056000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,274410000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Inventory,2840152000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,11601000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,695657000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,1041124000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1091770000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,446891000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,10767991000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-86916000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,10854907000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,39556000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,9898000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,29658000.0
+UNIVCABLES.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,29658000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,34695381.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,34695381.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,6554787000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,6571577000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,14963389000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,21537664000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,4829271000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,14963389000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,0.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,14966087000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,17363871000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,14966087000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,14966087000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,14619104000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Fixed Assets Revaluation Reserve,476493000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,8858520000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,632250000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,13136976000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5317532000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,2237000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,83670000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,67000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,2237000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,2829505000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2397784000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,2397784000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,83670000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,7819444000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,397000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,4173793000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,0.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,4173793000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,41482000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Payables,3166467000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,146545000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,1911000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,2520000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,3015491000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,28103063000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,15454348000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,-51000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,97820000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,2740788000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,2740788000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,10850525000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,575879000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,10274646000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,227587000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,2698000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,2698000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1484292000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-1476238000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,2960530000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,105949000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,1378343000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,2407932000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,421482000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,25167000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,12648715000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,557126000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,4829000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,21638000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,350143000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Inventory,2802682000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,3035000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,656727000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,894149000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,1248771000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,518260000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,8897968000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-81900000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,8979868000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,53195000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,36405000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,16790000.0
+UNIVCABLES.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,16790000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,34695381.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,34695381.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,6925026000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,6937241000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,12946300000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,19885113000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,3948255000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,12946300000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,12947872000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,15302507000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,12947872000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,12947872000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,12600889000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Fixed Assets Revaluation Reserve,427024000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,7725386000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,632250000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,346983000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,14633535000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5022511000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,2634000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,83175000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,87000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,2634000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,2578053000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2354635000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,2354635000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,83175000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,9611024000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,397000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,4582606000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,4582606000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,39422000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,8900000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Payables,4827297000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,111810000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,1581000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,0.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,4713906000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,27581407000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,14022128000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-51000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,98350000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,1767927000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1767927000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,10142950000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,425481000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,9717469000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,237206000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,1572000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,1572000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,1442524000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-1266742000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,2709266000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,15678000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,1426846000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,2283875000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,384546000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,25167000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,13559279000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,558499000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,1361000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,37691000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,308086000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Inventory,3008834000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,2663000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,482776000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,1122227000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1401168000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,505636000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,9678622000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-74097000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,9752719000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,19049000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,6834000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,12215000.0
+UNIVCABLES.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,12215000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Fixed Assets Revaluation Reserve,426052000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,7009917000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,632250000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,86891000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,705000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,3031000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,38619000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,10645000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,115041000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,1379000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,43229000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,391109000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,8638551000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1034037000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,2258834000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,372747000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,25167000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,0.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,36515000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,253846000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,1634000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,783980000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,695975000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1121906000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,335820000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-64097000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,8093800000.0
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+UNIVCABLES.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,38301000.0

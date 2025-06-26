@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+ESTER.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,811907000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1835844000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1127462000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,446727000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-310041000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,End Cash Position,225639000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,999659000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-774020000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1331124000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-579628000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,446727000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,446727000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-1198223000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-489841000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-708382000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1835844000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1127462000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-564844000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-33264000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,64201000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-128411000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,860424000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-988835000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-170000000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-170000000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-297370000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,12671000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-310041000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1121948000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-29692000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-374288000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,12902000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,185057000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-159081000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-168185000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-244402000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,496968000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,2149000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-2687000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,687525000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Depreciation,687525000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,5283000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,50994000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,4222000.0
+ESTER.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+ESTER.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,278063000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-296842000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1209678000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,263800000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,999000000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-734648000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,End Cash Position,999659000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,283545000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,716113000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-138833000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-610293000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-41697000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,999000000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,999000000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-484486000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,461392000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+ESTER.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,461392000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-945878000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1209678000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,263800000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,417140000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,7229000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,50734000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,1077171000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1391357000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-314186000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-717994000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,16654000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-734648000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,437806000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-19578000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,645630000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-66946000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,95266000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Change In Payable,300081000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,271078000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,40433000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,586861000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,3281000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,3524000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,680264000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,4755000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Depreciation,680264000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-145342000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,14443000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,10280000.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ESTER.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-1350008000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1988529000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-529258000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,2120161000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2565913000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,End Cash Position,283546000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,561427000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-277881000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,1138078000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-289689000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-158448000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1590903000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,562744000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+ESTER.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,562744000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1028159000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-529258000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1557417000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1993343000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-368440000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,15721000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1713708000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,650545000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2364253000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,2632627000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,2632627000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-58333000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2559543000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,6370000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2565913000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,577384000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-100992000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-473110000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-38286000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-155653000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-42661000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-71022000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-170515000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,272605000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,4772000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,2169000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,439271000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,6588000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Depreciation,432683000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-34563000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,41206000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,9467000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-1455595000.0
+ESTER.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1871685000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-3518987000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-688126000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,5014098000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+ESTER.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4137728000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,End Cash Position,561427000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ESTER.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,18145000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,543282000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3840525000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-198224000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-275199000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+ESTER.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,4325972000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,537435000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+ESTER.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,537435000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,3788537000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-688126000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,4476663000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3915984000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,54545000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,9277000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,157602000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,157602000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4137408000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,320000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4137728000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,618741000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-570011000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1227597000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-56918000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-334267000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Change In Payable,253698000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-667022000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-422476000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,207667000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,6211000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-5447000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,368019000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,4664000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Depreciation,363355000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-28248000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1607000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,4504000.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ESTER.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1862036000.0
+ESTER.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ESTER.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-333575000.0
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-36621000.0
+ESTER.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-162185000.0
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+ESTER.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

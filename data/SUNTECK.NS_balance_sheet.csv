@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,146489084.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,146489084.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,2229045000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,3869404000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,32564696000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,36469704000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,24182099000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,32564696000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,32600300000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,34155687000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,32600300000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,32600300000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,32453811000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,146489000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,146489000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,50665214000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1841037000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,165311000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,41969000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1555387000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,1555387000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,32854000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,48824177000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,42753397000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,2314017000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,2314017000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,70663000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Payables,2814466000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,32397000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,2782069000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,83265514000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,10259238000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,244517000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,411819000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Investments,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,313454000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,313454000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,2333593000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,2333593000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,4227677000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,35604000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,35604000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1040711000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1040711000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,318458000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,722253000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,73006276000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,2859091000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Inventory,62064054000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,2044858000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1174494000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4863779000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,3223420000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1640359000.0
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+SUNTECK.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,146486420.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,146486420.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,3152387000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,3749406000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,31216922000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,34991373000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,23765303000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,31216922000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,31241967000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,33748668000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,31241967000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,0.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,31241967000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,1185000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,12835193000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,9699536000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,146486000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,146486000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,47994455000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2808366000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,173224000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,27509000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,173224000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,58923000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2506701000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,2506701000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,27509000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,45186089000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,28101514000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,1242705000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,1242705000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,37527000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,37527000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Payables,3925170000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,772257000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,383000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,236552000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,2915978000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,79236422000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,10285030000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,135396000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,84098000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,458550000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Investments,
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,47914000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,47914000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,2271342000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,2271342000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,4233548000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,25045000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,25045000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,830878000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-330687000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,1161565000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,183166000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,647712000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,735996000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,191249000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,51154000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,68951392000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,32032000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,1545760000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,1514186000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Inventory,59662846000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,59567653000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,95193000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,2313481000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,2925303000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-9500000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,2934803000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,957784000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,360765000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,597019000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,370974000.0
+SUNTECK.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,226045000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,146478718.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,146478718.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,5955028000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,6843167000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,27864785000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,34721723000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,25581177000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,27864785000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,27878556000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,32086945000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,27878556000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,0.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,27878556000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,6169000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,9521330000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,9696300000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,140479000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,140479000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,44707740000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4358651000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,89860000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,21195000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,89860000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,8672000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,4208389000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,4208389000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,21195000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,40349089000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,26010050000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,2634778000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,2634778000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,30971000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,30971000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Payables,2477711000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,319305000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,455000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,43986000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,2113965000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,72586296000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,6656030000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,31077000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,31077000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,342869000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Investments,2307560000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,107290000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,107290000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,2307560000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,2307560000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,967266000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,13771000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,13771000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1534071000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-264241000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1798312000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,1011687000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,522384000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,590117000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,155513000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,40995000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,65930266000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,21553000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,1648317000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1105369000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Inventory,57251163000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,57213949000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,37214000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,2981814000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,1496172000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-15000000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,1511172000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1425878000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,537739000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,888139000.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,0.0
+SUNTECK.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,888139000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,146449995.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,146449995.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,7384748000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,7882196000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,27897020000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,35786234000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,26991915000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,27897020000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,27904038000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,32307236000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,27904038000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,27904038000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,9859000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,9716870000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,9684712000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,140450000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,140450000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,27084664000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4451584000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,2820000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,19057000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,2820000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,6543000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,4403198000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,4403198000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,19057000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,22633080000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,10755509000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,3478998000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,3478998000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,26616000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,26616000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Payables,2187511000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,246852000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,403000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,4116000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,1936140000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,54988702000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,5363707000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-8000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,15430000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,287180000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Investments,
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,38977000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,38977000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,2329451000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,2329451000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,750303000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,7018000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,7018000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,0.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,541094000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-186435000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,727529000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,67435000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,473659000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,493710000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,131414000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,34970000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,49624995000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,21614000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,1026292000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,1141242000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Inventory,40418943000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,40359603000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,59340000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,3400270000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,2703181000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-42313000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,2745494000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,913453000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,416005000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,497448000.0
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,
+SUNTECK.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,497448000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,9609794000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,9662122000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,12895000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,3103000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,22457000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,243344000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,1036000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,6052000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Investments,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,0.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-125351000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,293159000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,131414000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,34970000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,1347399000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,959982000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,26124271000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,20333000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-58250000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,3409848000.0
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,
+SUNTECK.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,388593000.0

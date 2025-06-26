@@ -1,0 +1,241 @@
+symbol,statement_type,period_end,line_item,value
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,185176000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,244423000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,41249000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,105300000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,97874000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,97874000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,101182000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5801000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,-2000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,5803000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,95381000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,830000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,612000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Payables,45348000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,6178000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,1452000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,37718000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,345605000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,65046000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,898000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,56920000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-22927000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,79847000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,36682000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,4607000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,23655000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,0.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,14903000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,280557000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1031000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,1181000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,30779000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Inventory,117991000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,32775000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,40941000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,44275000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,2479000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,15453000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,111643000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,111643000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,106215000.0
+GLOBALPET.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,5428000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,9787408.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,9787408.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,83429000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,91529000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,20655000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,0.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,70874000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,70874000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,121101000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3013000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,3014000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,118088000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,260000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,144000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Payables,62852000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,9651000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,592000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,52609000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,212630000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,11113000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,176000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,7404000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-24150000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,31554000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,0.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,4516000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,22023000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,5015000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,0.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,201517000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,359000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,38961000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Inventory,80094000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,35796000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,10201000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,34097000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,2329000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,35220000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,44554000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,10985000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,33569000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,23067000.0
+GLOBALPET.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,10502000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,9787408.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,9787408.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,56614000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,70446000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,66016000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,4430000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,4430000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,97466000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2535000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2535000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,94931000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,3936000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,123000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Payables,36415000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,3776000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,610000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,32029000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,167912000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,16365000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,859000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,1470000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,14036000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-28396000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,42432000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,3691000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,21395000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,17346000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,151545000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,17262000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Inventory,52516000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,24703000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,5199000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,22614000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,3184000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,16352000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,62231000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,10985000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,51246000.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,0.0
+GLOBALPET.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,51246000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,9787408.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,9787408.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,42972000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,58850000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,54420000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,4430000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,4430000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,100428000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2014000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,-2000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2016000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,98414000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,5733000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,80000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Payables,53756000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,4734000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,2306000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,46716000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,159278000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,17893000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,580000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,1350000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,15963000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-26117000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,42080000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,3657000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,21077000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,17346000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,141386000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,14163000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Inventory,50571000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,21326000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,3737000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,25508000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,1890000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,15748000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,59014000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,10000000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,49014000.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,0.0
+GLOBALPET.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,49014000.0

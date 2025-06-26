@@ -1,0 +1,115 @@
+symbol,statement_type,period_end,line_item,value
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-64917000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,53628000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2992000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,70028000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,103788000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-33760000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,45980000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-7648000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,53628000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,53628000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,53628000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-17815000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-14824000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2992000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2992000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-61925000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-32784000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-161607000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1487000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,602000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,3883000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,2537000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-187964000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,7308000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,138000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3972000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,27000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Depreciation,3945000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,2477000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,536000.0
+CANARYS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,118035000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-31416000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,87933000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,3825000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4906000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,103788000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,43069000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,60719000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,84646000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-7113000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,3825000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,3825000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,87933000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,87933000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,87933000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,2583000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,7489000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4906000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4906000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-26510000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-16718000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-79181000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,40537000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-5225000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,96121000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-32729000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-185980000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-159000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3840000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,52000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Depreciation,3788000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,3177000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,233000.0
+CANARYS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,62300000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,-17352000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,7000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,57217000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-1329000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,43069000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,16512000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,26557000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,56383000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-841000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,57217000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,57217000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,7000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,7000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,7000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-13803000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,1000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-12475000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-1329000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-1329000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,-16023000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-8865000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-42424000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,6067000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-2254000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,7702000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,12991000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-70759000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,-297000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,-1443000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,858000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,3465000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,41000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Depreciation,3424000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,1278000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,1804000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-306000.0
+CANARYS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,29907000.0

@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-343509900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-237625900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,657159000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,29477200000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-171813400000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,48827000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,6651000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,23876500000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,37900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,18261600000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,429778900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1524100000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-30162200000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-15840500000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,29477200000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,29477200000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,451082300000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,31549200000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,419533100000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-237625900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,657159000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-239820800000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,3572100000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,2071100000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,24238500000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,194310000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-170071500000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-104628100000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,3199600000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-107827700000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-165188500000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,6624900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-171813400000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-171696500000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-25510900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-428870600000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-96439800000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,3605200000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-11533300000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-324502700000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,116055300000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,2018000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-73900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,64537300000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Depreciation,64537300000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-20545900000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,650000000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-263700000.0
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+GRASIM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,105282700000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-302043600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-1706800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-191395900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,417272600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,28925900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-194850300000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,23876500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,23125600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-5600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,756500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,339081800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1888100000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-18575600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-11255500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,28925900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-1706800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,28925900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,342271500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,116394800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,225876700000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-191395900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,417272600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-231132000000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2520700000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,1031100000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-6891700000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,75338100000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-82229800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-34247500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,6390000000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-40637500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-193223800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1626500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-194850300000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-107193300000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-26090500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-363760800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-77465000000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,59271800000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-24338000000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-321229600000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,95314300000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,1824400000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-514500000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,50013200000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,6079900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Depreciation,50013200000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-13949900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,220300000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,81900000.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+GRASIM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,136111300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-247213000000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-2225700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-164068200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,398388700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,-1877200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-120361600000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,23125600000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-248100000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,22407000000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-6100000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,972800000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,0.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,264691300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1445600000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-11938000000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-11505600000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-1877200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-2225700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,-1877200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,291803300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,57482800000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,234320500000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-164068200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,398388700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-136867100000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,3120100000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,1966700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-15069800000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,68583300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-83653100000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-7698200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,1082500000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-8780700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-119246700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1114900000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-120361600000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-126851400000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-20948200000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-357553300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-87380800000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,30085700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-15983900000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-284274300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,83782600000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,1183400000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-1340400000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,45290100000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,6334400000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Depreciation,38955700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-4588300000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-478900000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,106400000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-27542700000.0
+GRASIM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,145177500000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-15500300000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-1531400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-210645800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,152399100000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,-1250400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-85876800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,22407000000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,24910900000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,29887400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-4700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-32386600000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,24910200000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-67331300000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,4131800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-13225500000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-10655000000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-1250400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-1531400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,-1250400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-42802900000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,15443800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-58246700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-210645800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,152399100000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-35431800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-945700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1911800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1479200000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,89726900000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,156511000000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-66784100000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-42532800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-42532800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-85051200000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,825600000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-85876800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,70376500000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-29656400000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-114046700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-47193700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,48304800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-33408100000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-81749700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,52660200000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,666500000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-1614800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,41241300000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,6030700000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Depreciation,35210600000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-8917800000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-102100000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,77100000.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+GRASIM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,122465300000.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,20829200000.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Inside Changein Cash,20829200000.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-2095100000.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,5635700000.0
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+GRASIM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

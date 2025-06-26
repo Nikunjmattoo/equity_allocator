@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+NIBE.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-451496000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,318749000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-701824000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,End Cash Position,93123000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,143527000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-50404000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,296857000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,4680000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-70662000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-13132000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,318749000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,318749000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,97241000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,97241000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-597589000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,16999000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,88370000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,-1134000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,0.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-701824000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-701824000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,250328000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-75514000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-340355000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-35212000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,107835000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Change In Payable,626808000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,103690000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1145488000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,47883000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,3805000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,10015000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,8559000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,174425000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+NIBE.NS,cashflow,2025-03-31 00:00:00,Depreciation,174425000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-13439000.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+NIBE.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,396004000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-953117000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,712677000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1134904000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,End Cash Position,143527000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,96788000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,46739000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,1108110000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,263471000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-69398000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1186000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,712677000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,712677000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,241471000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,241471000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1243158000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,35833000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-144087000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1134904000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1134904000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,181787000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-25212000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-133115000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,16099000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-208722000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Change In Payable,199120000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-132959000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-7848000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,33565000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+NIBE.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,62797000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,216000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Depreciation,62581000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,1363000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-17203000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-186000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-6000.0
+NIBE.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,259784000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-870284000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,390731000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,629393000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-558995000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,End Cash Position,96788000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,11140000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,85648000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,957144000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,4070000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-33326000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,629393000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,629393000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,390731000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,390731000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,390731000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-560207000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,8956000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-10169000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-10169000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-85819000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-85819000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-473176000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-473176000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-311289000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-7453000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-396633000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,101061000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-187498000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-5586000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,26308000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-330558000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,24370000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+NIBE.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,35239000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,72000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Depreciation,35167000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,861000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-614000.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+NIBE.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,32938000.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,53031940.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-15070810.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-15210290.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,End Cash Position,11139990.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3197870.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,7942110.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-15195190.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-124380.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-15070810.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-15070810.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-15070810.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-45104930.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-10.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,75610.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,19646740.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,19646740.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-15210290.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,68242230.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1825090.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,62938910.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,143847720.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-9656540.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Change In Payable,8046420.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-57842880.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-25433200.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,48770.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3167100.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Depreciation,3167100.0
+NIBE.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+NIBE.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4015220.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,15070810.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+NIBE.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,0.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,15070810.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-20035950.0
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+NIBE.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

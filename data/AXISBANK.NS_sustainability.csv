@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+AXISBANK.NS,maxAge,86400
+AXISBANK.NS,totalEsg,24.17
+AXISBANK.NS,environmentScore,2.27
+AXISBANK.NS,socialScore,10.29
+AXISBANK.NS,governanceScore,11.6
+AXISBANK.NS,ratingYear,2023
+AXISBANK.NS,ratingMonth,9
+AXISBANK.NS,highestControversy,3.0
+AXISBANK.NS,peerCount,16
+AXISBANK.NS,esgPerformance,AVG_PERF
+AXISBANK.NS,peerGroup,Banks
+AXISBANK.NS,relatedControversy,['Business Ethics Incidents']
+AXISBANK.NS,peerEsgScorePerformance,"{'min': 16.14, 'avg': 26.053749999999997, 'max': 44.83}"
+AXISBANK.NS,peerGovernancePerformance,"{'min': 6.81, 'avg': 12.520714285714288, 'max': 19.69}"
+AXISBANK.NS,peerSocialPerformance,"{'min': 7.12, 'avg': 11.787142857142856, 'max': 22.64}"
+AXISBANK.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 1.8957142857142855, 'max': 2.63}"
+AXISBANK.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.375, 'max': 5.0}"
+AXISBANK.NS,percentile,45.41
+AXISBANK.NS,environmentPercentile,
+AXISBANK.NS,socialPercentile,
+AXISBANK.NS,governancePercentile,
+AXISBANK.NS,adult,False
+AXISBANK.NS,alcoholic,False
+AXISBANK.NS,animalTesting,False
+AXISBANK.NS,catholic,False
+AXISBANK.NS,controversialWeapons,False
+AXISBANK.NS,smallArms,False
+AXISBANK.NS,furLeather,False
+AXISBANK.NS,gambling,False
+AXISBANK.NS,gmo,False
+AXISBANK.NS,militaryContract,False
+AXISBANK.NS,nuclear,False
+AXISBANK.NS,pesticides,False
+AXISBANK.NS,palmOil,False
+AXISBANK.NS,coal,False
+AXISBANK.NS,tobacco,False

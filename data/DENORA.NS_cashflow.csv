@@ -1,0 +1,186 @@
+symbol,statement_type,period_end,line_item,value
+DENORA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-1156000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-32322000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,80465000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,141000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,52391000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,27933000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-10617000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-10617000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+DENORA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,
+DENORA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+DENORA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,7384000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,7760000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,68000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,31871000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,110000000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-78129000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-32315000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,7000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-32322000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,31166000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-43413000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-32732000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,3063000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-82000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,26729000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-34039000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-30906000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-8323000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,114390000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,17011000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+DENORA.NS,cashflow,2025-03-31 00:00:00,Depreciation,17011000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-43098000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-225000.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+DENORA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,27556000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,91290000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-69321000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,52391000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DENORA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,38470000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,13921000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-10617000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-10617000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+DENORA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,
+DENORA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+DENORA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-136073000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,5551000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,50000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-72793000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,223378000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-296171000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-68881000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,440000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-69321000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,160611000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-65113000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-8237000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-52015000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-7798000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-30237000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,10853000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,72654000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-5988000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,9331000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,11458000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,499000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Depreciation,11458000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-33515000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,83000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,345000.0
+DENORA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,252247000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,106143000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-36607000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,38470000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DENORA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,138979000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-100509000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-5309000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-5309000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-5309000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,
+DENORA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+DENORA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-237950000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,3931000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,29000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-205303000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,35000000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-240303000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-36607000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-36607000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,142750000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-70598000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-43422000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,164000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,22249000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,34878000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-52107000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-50138000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-3929000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-2093000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,13687000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,4399000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Depreciation,9288000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-18428000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-49000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,355000.0
+DENORA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,271530000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,105853000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-10759000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,138979000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DENORA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,188910000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-49931000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-5309000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-5309000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-5309000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-161234000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,3401000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,308000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-154186000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,75739000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-229925000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-10757000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-10759000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,116612000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-52445000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-73641000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-24457000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,7348000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-2922000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-36058000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-16858000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-1876000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,10458000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,26696000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,17950000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Depreciation,8746000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-2190000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,36000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-2000.0
+DENORA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,209576000.0
+DENORA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+DENORA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+DENORA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,-7673000.0
+DENORA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-7673000.0
+DENORA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,17905000.0
+DENORA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DENORA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

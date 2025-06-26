@@ -1,0 +1,221 @@
+symbol,statement_type,period_end,line_item,value
+SAIL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,36931500000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-10837200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,12500000000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-62211500000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2915800000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,693800000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,2222000000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-44236000000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-23983600000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-4130500000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-4130500000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-7898500000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-9561300000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SAIL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,1662800000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-10837200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,12500000000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-52685000000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,1766300000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,70200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-747200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SAIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-747200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-53774300000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,8437200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-62211500000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+SAIL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,99143000000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-6440900000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-4279400000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-26919300000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-48285400000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,34876400000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,35269200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,22374300000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,2966200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,56506800000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SAIL.NS,cashflow,2025-03-31 00:00:00,Depreciation,56506800000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-70200000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SAIL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,439300000.0
+SAIL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,32515300000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-17998100000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-24949300000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,50000000000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-47106900000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,693800000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,570900000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,122900000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,13619500000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-21566300000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-6195800000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-6195800000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,49391900000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,24341200000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SAIL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,25050700000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-24949300000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,50000000000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-42605400000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1960700000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,55200000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2546000000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+SAIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2546000000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-42075300000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,5031600000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-47106900000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+SAIL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,29108800000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1035900000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-76495500000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,9809800000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,9934500000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-50387400000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-44218200000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,16856300000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,2123400000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,52783700000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,496400000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Depreciation,52783700000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-55200000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SAIL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1300000000.0
+SAIL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,40618100000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-92117900000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-12785700000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-39216400000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,570900000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1315400000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-744500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,85866800000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-20799600000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-13424200000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-13424200000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,122761300000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,135547000000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SAIL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,142993600000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-12785700000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-12785700000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-33709800000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,2018600000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,51500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-559000000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+SAIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-559000000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-35220900000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,3995500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-39216400000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-39307400000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-52901500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-4213500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-137318000000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-12957900000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-23346900000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-84349100000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-15157300000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,13423700000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,3558700000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,49635400000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,452900000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Depreciation,49182500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-51500000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-495000000.0
+SAIL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,28924400000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,273211600000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-222223800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+SAIL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-36654900000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1315400000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,5182800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-3867400000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-273976100000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-19221000000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-30668800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-30668800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-222223800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-124516200000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-124516200000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-97707600000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-97707600000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+SAIL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-39757800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1960500000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,2900000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-7424300000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SAIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-7424300000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-34296900000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2358000000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-36654900000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-36654900000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,309866500000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-915700000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,94843500000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,20203100000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,88784200000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-48523700000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,36102600000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,9679800000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,3648200000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,42750200000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,383300000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Depreciation,42750200000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-3700000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,909600000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,217100000.0
+SAIL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,162918700000.0
+SAIL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SAIL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-15417200000.0
+SAIL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,79800000.0
+SAIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-54700000.0
+SAIL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SAIL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

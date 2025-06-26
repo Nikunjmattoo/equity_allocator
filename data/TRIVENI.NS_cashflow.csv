@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-4059300000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1357100000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,6471500000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2995700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,End Cash Position,460800000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,46200000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,764000000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-349400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,3948000000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-833500000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-273700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,5114400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,4160400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,4160400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,954000000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1357100000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2311100000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3233800000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,243200000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,600000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-85100000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-85100000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,29500000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,29500000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,0.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-443700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,4700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-448400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2978300000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,17400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-2995700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-1063600000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-826600000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-5256900000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,220200000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-473800000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-654200000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-2897200000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1599000000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,574600000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,2700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1261600000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Depreciation,1261600000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-22700000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,4400000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,33800000.0
+TRIVENI.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3242300000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-2563100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1680800000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,6652900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3565600000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,End Cash Position,764000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,720100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,43900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,2633300000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-585200000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1696500000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,4972100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,5230000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,5230000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-257900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1680800000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1422900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-3591900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,332200000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,700000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-345500000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,4500000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-350000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,-400000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,0.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,-400000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-22900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,2100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-25000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3556000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,9600000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3565600000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1002500000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1167300000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-4355400000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-349100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,295800000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-537400000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-4241000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,543300000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,152000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,5500000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1041100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,12803000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Depreciation,1041100000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,5000000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-900000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,5300000.0
+TRIVENI.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,5289900000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1615623000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-8000000000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1453374000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,752400000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2358742000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,End Cash Position,720132000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,232846000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,487286000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-17623546000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1811633000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-575211000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-483510000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-483510000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-8000000000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-8000000000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-6541331000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-5840357000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-700974000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1453374000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,752400000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,14136467000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,478060000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,109971000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-26839000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,4294000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-31133000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,0.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,15929993000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,15929993000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2354718000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4024000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2358742000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3974365000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-2114635000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-333760000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,502917000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-397293000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Change In Payable,650653000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,401727000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1315452000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-14006864000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-3189000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,934810000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,9507000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Depreciation,925303000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,10040000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1351000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,16366000.0
+TRIVENI.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,19636351000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-4668409000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1203237000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1479327000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2934505000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,End Cash Position,232846000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,112770000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,120076000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,4421444000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-547084000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-725265000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-725265000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,5739425000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,5463335000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,276090000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1203237000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1479327000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2567464000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,14376000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,155725000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-10956000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,8925000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-19881000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2911169000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,23336000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2934505000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-1733904000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1518419000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-6905332000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,100174000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-75789000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-2724745000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-3051021000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1088890000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,509708000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,15992000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,807450000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,7885000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Depreciation,807450000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-3488000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2142000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,16200000.0
+TRIVENI.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,5737548000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-658718000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-145644000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,-658718000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-658718000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,1069000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,6000000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-892448000.0
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TRIVENI.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,241 @@
+symbol,statement_type,period_end,line_item,value
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-63500000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-104200000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,200000000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,200000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-19600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,End Cash Position,16900000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2000000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,14900000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,74100000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-20600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,200000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,200000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,95800000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,95800000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-104200000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,200000000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-15300000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2000000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,1700000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,24100000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-22400000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-19000000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-19600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-43900000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-19100000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-231400000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,65500000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-113000000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Change In Payable,120400000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,27600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-336800000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2200000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,500000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,33600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Depreciation,33600000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,100000.0
+MAHEPC.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,107100000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-9000000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,0.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,4200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-24800000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2000000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,44200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-42200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-41300000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-44600000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,4200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,4200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,0.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,4200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-16700000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1000000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,6500000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,23500000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-17000000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-24200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,600000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-24800000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,15800000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,8000000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-154400000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-16500000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,145600000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Change In Payable,72700000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-42400000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-315200000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-1500000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,400000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,31500000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1300000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Depreciation,31500000.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+MAHEPC.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,24300000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,168500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-21800000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,End Cash Position,44200000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,400000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,43800000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-122500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-21100000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-101900000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-101900000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-101900000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-24000000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-4200000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1700000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-4200000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,19300000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-23500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-21500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,300000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-21800000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,190300000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-15000000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,251200000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,15000000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-81400000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-29500000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-41700000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,393600000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-2700000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,100000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,31000000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1200000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Depreciation,29800000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,800000.0
+MAHEPC.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-160300000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-239500000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,251912000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-8200000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,End Cash Position,400000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,44200000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-43800000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,197100000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-21000000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-33500000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,251900000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,251900000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,251912000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-9600000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-3700000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,900000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-3669000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-6800000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1400000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-8200000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-231300000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-23300000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-182200000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,4500000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-95700000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-21600000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-17600000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-50000000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,18700000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,6100000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,31700000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,700000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Depreciation,31000000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-500000.0
+MAHEPC.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-105200000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-160000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-160000000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,30000000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-33338000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-33338000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-160000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-130000000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-160000000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,30000000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,941000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,0.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,0.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,481000.0
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+MAHEPC.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

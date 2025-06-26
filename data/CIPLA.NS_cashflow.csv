@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,34567800000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-980100000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,119600000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-15482000000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,5426500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,5123400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,92600000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,210500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-12927900000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-403500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-363800000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-10498300000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-860500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-980100000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-980100000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,119600000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,119600000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-36911400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,256300000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2602000000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-21996400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-21996400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-2357200000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,0.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-2357200000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-3774900000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,85500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-3860400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-11373100000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,248500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-11621600000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,50049800000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-16681000000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-6654700000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,4589400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-3225400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-8018700000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-2278700000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,473400000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,89300000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,11069500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Depreciation,11069500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-4088200000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-138500000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,50600000.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+CIPLA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,68208100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,27846100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3004600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,400000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-13493000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,5123400000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,5613300000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,55600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-545500000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-12004300000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-719900000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-648300000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-6861700000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-6861700000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,400000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,400000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-3004600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-3004600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-3004600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-29880300000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,466000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2082300000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-16965000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,6000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-16971000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-2224900000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,1204000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-3428900000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-2510500000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,0.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-2510500000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-10640800000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,341700000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-10982500000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,41339100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-15974800000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-8061000000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1627100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-618600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-9069500000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-1615100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,461600000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,235100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,10510200000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2378700000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Depreciation,10510200000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-2911800000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-228100000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-34900000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-9300000.0
+CIPLA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,58967200000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,20547600000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-3519000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-11828900000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,5613300000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,6581100000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,123700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1091500000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-9582900000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-42700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-650000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-4035000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-4035000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-3519000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-3080000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-3080000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-439000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-439000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-23885100000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,89400000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1140100000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-13508200000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-13508200000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-251300000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,257700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-509000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-3235000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,188600000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-3423600000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-8120100000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,285200000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-8405300000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,32376500000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-13018900000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-5594200000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-182100000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1107700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-6519800000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-696600000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,390400000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-366800000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,10191900000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,3141700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Depreciation,7050200000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-1430700000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-562000000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-15800000.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+CIPLA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,42207700000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,26247500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-10412100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,-27000000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-7011500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,6581100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,7904300000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,134500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1457700000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-15997900000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-197500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-756600000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-4033500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-4033500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-27000000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,-27000000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-10062300000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,349800000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-10412100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-10412100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-18718800000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,263400000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,469900000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-12462300000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1706400000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-14168700000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-180200000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-180200000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-1532600000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,37800000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-1570400000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-5277100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,164000000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5441100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,33259000000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-11395000000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1774600000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,3622900000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-6211100000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,813600000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,153700000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,241200000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-408200000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,9900800000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,3065200000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Depreciation,6835600000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-792500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,111500000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-86800000.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+CIPLA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,36753900000.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,704900000.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-10217500000.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,704900000.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,216400000.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,3145900000.0
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+CIPLA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

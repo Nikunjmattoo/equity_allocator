@@ -1,0 +1,100 @@
+symbol,statement_type,period_end,line_item,value
+YCCL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-2700000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,6500000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-14000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,844000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+YCCL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,570000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,274000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2392000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-4108000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,6500000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,6500000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,6500000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,568000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,582000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-14000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-14000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-2686000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-5612000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-29658000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-15890000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,45563000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-29377000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-39456000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,9502000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,3526000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,218000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1010000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Depreciation,1010000.0
+YCCL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,42178000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-96000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1237000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,570000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-2000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1018000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-448000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2319000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-3556000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1237000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1237000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1237000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,1963000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1967000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-92000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-5548000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-14414000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-112000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-11808000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,2538000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-19852000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,14820000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,1589000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-88000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1294000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Depreciation,1294000.0
+YCCL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,25112000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,20734000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,21704000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-3353000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,1018000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-2000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,2488000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,-1470000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,19396000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-2308000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,21704000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,21704000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,21704000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-44953000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,1883000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-43483000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-3353000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-3353000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,24087000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-3756000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,7839000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,2900000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,35010000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,12001000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-905000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-41167000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,425000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,-73000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,1490000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Depreciation,1490000.0
+YCCL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,18162000.0

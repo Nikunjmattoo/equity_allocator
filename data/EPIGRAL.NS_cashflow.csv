@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2458700000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-950000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4201000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1370000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,3330500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1946900000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,186400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,31800000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,154600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1635400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-659400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-418600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Dividend Paid,-103200000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-315400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,-950000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,-950000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,3330500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,3330500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-2831000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1715500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-1715500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-1115500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2485500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1370000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2615600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,4200000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-758900000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,2331500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-3090400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1863500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,83400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1946900000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,4405600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1104500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1666800000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,116500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-29900000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,30800000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1250000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-538000000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,528900000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1325600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Depreciation,1325600000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-18900000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-9500000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-50400000.0
+EPIGRAL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,5410900000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-8000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-550000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1962600000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,3422400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3984400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,31800000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,142400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-110600000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-76000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-720200000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-251200000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Dividend Paid,-147500000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-103700000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,-550000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,-550000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1459800000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,1292400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,1292400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,167400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1962600000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,2130000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4011000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-27400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,800000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3984400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3984400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,3976400000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-505300000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-384000000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2900000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-312800000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,553300000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-511600000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-124700000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,727500000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1235600000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Depreciation,1235600000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-5100000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,500000.0
+EPIGRAL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2906700000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2097073000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-609199000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1390953000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,747500000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4164544000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,142400000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,250854000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-108454000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-1997873000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-604519000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-242243000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Dividend Paid,-138548000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-103695000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,-609199000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,-609199000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-527795000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,115658000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,115658000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-643453000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1390953000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,747500000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4372198000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-8680000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,6679000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-245000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-245000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-205408000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-205408000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-4164544000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-4164544000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,6261617000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1074774000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,408182000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-20276000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-125760000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,224065000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-576893000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,905002000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,646595000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1089533000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,32324000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Depreciation,1089533000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,150740000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-7547000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,49000.0
+EPIGRAL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,5224758000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1724825000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1200488000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,3593000000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4562992000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,250854000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,6800000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,244054000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1952150000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-480391000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Dividend Paid,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2443596000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,51084000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,51084000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,2392512000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1200488000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,3593000000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4546263000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2939000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,13790000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,13790000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4562992000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4562992000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2838167000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-604486000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1694103000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,560825000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-37774000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,147686000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1001792000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1375995000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,441108000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-1220000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,859056000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Depreciation,859056000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2872000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,716000.0
+EPIGRAL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,3834224000.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Dividend Paid,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,553150000.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,455000.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-52850000.0
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+EPIGRAL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

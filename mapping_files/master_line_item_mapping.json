@@ -1,0 +1,2734 @@
+{
+  "accounts_payable": {
+    "display_name": "Accounts Payable",
+    "sources": {
+      "balance_sheet": [
+        "Accounts Payable"
+      ]
+    }
+  },
+  "accounts_receivable": {
+    "display_name": "Accounts Receivable",
+    "sources": {
+      "balance_sheet": [
+        "Accounts Receivable",
+        "Gross Accounts Receivable"
+      ]
+    }
+  },
+  "accrued_interest_receivable": {
+    "display_name": "Accrued Interest Receivable",
+    "sources": {
+      "balance_sheet": [
+        "Accrued Interest Receivable"
+      ]
+    }
+  },
+  "accumulated_depreciation": {
+    "display_name": "Accumulated Depreciation",
+    "sources": {
+      "balance_sheet": [
+        "Accumulated Depreciation"
+      ]
+    }
+  },
+  "additional_paid_in_capital": {
+    "display_name": "Additional Paid In Capital",
+    "sources": {
+      "balance_sheet": [
+        "Additional Paid In Capital"
+      ]
+    }
+  },
+  "allowance_for_doubtful_accounts_receivable": {
+    "display_name": "Allowance For Doubtful Accounts Receivable",
+    "sources": {
+      "balance_sheet": [
+        "Allowance For Doubtful Accounts Receivable"
+      ]
+    }
+  },
+  "assets_held_for_sale_current": {
+    "display_name": "Assets Held For Sale Current",
+    "sources": {
+      "balance_sheet": [
+        "Assets Held For Sale Current"
+      ]
+    }
+  },
+  "available_for_sale_securities": {
+    "display_name": "Available For Sale Securities",
+    "sources": {
+      "balance_sheet": [
+        "Available For Sale Securities"
+      ]
+    }
+  },
+  "buildings_and_improvements": {
+    "display_name": "Buildings And Improvements",
+    "sources": {
+      "balance_sheet": [
+        "Buildings And Improvements",
+        "Land And Improvements"
+      ]
+    }
+  },
+  "capital_lease_obligations": {
+    "display_name": "Capital Lease Obligations",
+    "sources": {
+      "balance_sheet": [
+        "Capital Lease Obligations",
+        "Current Capital Lease Obligation",
+        "Long Term Capital Lease Obligation"
+      ]
+    }
+  },
+  "capital_stock": {
+    "display_name": "Capital Stock",
+    "sources": {
+      "balance_sheet": [
+        "Capital Stock"
+      ]
+    }
+  },
+  "cash_and_cash_equivalents": {
+    "display_name": "Cash And Cash Equivalents",
+    "sources": {
+      "balance_sheet": [
+        "Cash And Cash Equivalents"
+      ]
+    }
+  },
+  "cash_cash_equivalents_and_federal_funds_sold": {
+    "display_name": "Cash Cash Equivalents And Federal Funds Sold",
+    "sources": {
+      "balance_sheet": [
+        "Cash Cash Equivalents And Federal Funds Sold"
+      ]
+    }
+  },
+  "cash_cash_equivalents_and_short_term_investments": {
+    "display_name": "Cash Cash Equivalents And Short Term Investments",
+    "sources": {
+      "balance_sheet": [
+        "Cash Cash Equivalents And Short Term Investments"
+      ]
+    }
+  },
+  "cash_equivalents": {
+    "display_name": "Cash Equivalents",
+    "sources": {
+      "balance_sheet": [
+        "Cash Equivalents"
+      ]
+    }
+  },
+  "cash_financial": {
+    "display_name": "Cash Financial",
+    "sources": {
+      "balance_sheet": [
+        "Cash Financial"
+      ]
+    }
+  },
+  "commercial_paper": {
+    "display_name": "Commercial Paper",
+    "sources": {
+      "balance_sheet": [
+        "Commercial Paper"
+      ]
+    }
+  },
+  "common_stock": {
+    "display_name": "Common Stock",
+    "sources": {
+      "balance_sheet": [
+        "Common Stock"
+      ]
+    }
+  },
+  "common_stock_equity": {
+    "display_name": "Common Stock Equity",
+    "sources": {
+      "balance_sheet": [
+        "Common Stock Equity"
+      ]
+    }
+  },
+  "construction_in_progress": {
+    "display_name": "Construction In Progress",
+    "sources": {
+      "balance_sheet": [
+        "Construction In Progress"
+      ]
+    }
+  },
+  "current_accrued_expenses": {
+    "display_name": "Current Accrued Expenses",
+    "sources": {
+      "balance_sheet": [
+        "Current Accrued Expenses",
+        "Non Current Accrued Expenses"
+      ]
+    }
+  },
+  "current_assets": {
+    "display_name": "Current Assets",
+    "sources": {
+      "balance_sheet": [
+        "Current Assets",
+        "Other Current Assets"
+      ]
+    }
+  },
+  "current_debt": {
+    "display_name": "Current Debt",
+    "sources": {
+      "balance_sheet": [
+        "Current Debt"
+      ]
+    }
+  },
+  "current_debt_and_capital_lease_obligation": {
+    "display_name": "Current Debt And Capital Lease Obligation",
+    "sources": {
+      "balance_sheet": [
+        "Current Debt And Capital Lease Obligation",
+        "Long Term Debt And Capital Lease Obligation"
+      ]
+    }
+  },
+  "current_deferred_assets": {
+    "display_name": "Current Deferred Assets",
+    "sources": {
+      "balance_sheet": [
+        "Current Deferred Assets",
+        "Current Deferred Taxes Assets",
+        "Non Current Deferred Assets",
+        "Non Current Deferred Taxes Assets"
+      ]
+    }
+  },
+  "current_deferred_liabilities": {
+    "display_name": "Current Deferred Liabilities",
+    "sources": {
+      "balance_sheet": [
+        "Current Deferred Liabilities",
+        "Current Deferred Taxes Liabilities",
+        "Current Liabilities",
+        "Non Current Deferred Liabilities",
+        "Non Current Deferred Taxes Liabilities"
+      ]
+    }
+  },
+  "current_deferred_revenue": {
+    "display_name": "Current Deferred Revenue",
+    "sources": {
+      "balance_sheet": [
+        "Current Deferred Revenue",
+        "Non Current Deferred Revenue"
+      ]
+    }
+  },
+  "current_notes_payable": {
+    "display_name": "Current Notes Payable",
+    "sources": {
+      "balance_sheet": [
+        "Current Notes Payable"
+      ]
+    }
+  },
+  "current_provisions": {
+    "display_name": "Current Provisions",
+    "sources": {
+      "balance_sheet": [
+        "Current Provisions"
+      ]
+    }
+  },
+  "defined_pension_benefit": {
+    "display_name": "Defined Pension Benefit",
+    "sources": {
+      "balance_sheet": [
+        "Defined Pension Benefit"
+      ]
+    }
+  },
+  "derivative_product_liabilities": {
+    "display_name": "Derivative Product Liabilities",
+    "sources": {
+      "balance_sheet": [
+        "Derivative Product Liabilities"
+      ]
+    }
+  },
+  "dividends_payable": {
+    "display_name": "Dividends Payable",
+    "sources": {
+      "balance_sheet": [
+        "Dividends Payable"
+      ]
+    }
+  },
+  "duefrom_related_parties_current": {
+    "display_name": "Duefrom Related Parties Current",
+    "sources": {
+      "balance_sheet": [
+        "Duefrom Related Parties Current",
+        "Duefrom Related Parties Non Current",
+        "Dueto Related Parties Current",
+        "Dueto Related Parties Non Current"
+      ]
+    }
+  },
+  "employee_benefits": {
+    "display_name": "Employee Benefits",
+    "sources": {
+      "balance_sheet": [
+        "Employee Benefits"
+      ]
+    }
+  },
+  "financial_assets": {
+    "display_name": "Financial Assets",
+    "sources": {
+      "balance_sheet": [
+        "Financial Assets"
+      ]
+    }
+  },
+  "financial_assets_designatedas_fair_value_through_profitor_loss_total": {
+    "display_name": "Financial Assets Designatedas Fair Value Through Profitor Loss Total",
+    "sources": {
+      "balance_sheet": [
+        "Financial Assets Designatedas Fair Value Through Profitor Loss Total"
+      ]
+    }
+  },
+  "finished_goods": {
+    "display_name": "Finished Goods",
+    "sources": {
+      "balance_sheet": [
+        "Finished Goods"
+      ]
+    }
+  },
+  "fixed_assets_revaluation_reserve": {
+    "display_name": "Fixed Assets Revaluation Reserve",
+    "sources": {
+      "balance_sheet": [
+        "Fixed Assets Revaluation Reserve"
+      ]
+    }
+  },
+  "gains_losses_not_affecting_retained_earnings": {
+    "display_name": "Gains Losses Not Affecting Retained Earnings",
+    "sources": {
+      "balance_sheet": [
+        "Gains Losses Not Affecting Retained Earnings"
+      ]
+    }
+  },
+  "goodwill": {
+    "display_name": "Goodwill",
+    "sources": {
+      "balance_sheet": [
+        "Goodwill"
+      ]
+    }
+  },
+  "goodwill_and_other_intangible_assets": {
+    "display_name": "Goodwill And Other Intangible Assets",
+    "sources": {
+      "balance_sheet": [
+        "Goodwill And Other Intangible Assets"
+      ]
+    }
+  },
+  "gross_ppe": {
+    "display_name": "Gross PPE",
+    "sources": {
+      "balance_sheet": [
+        "Gross PPE"
+      ]
+    }
+  },
+  "hedging_assets_current": {
+    "display_name": "Hedging Assets Current",
+    "sources": {
+      "balance_sheet": [
+        "Hedging Assets Current"
+      ]
+    }
+  },
+  "held_to_maturity_securities": {
+    "display_name": "Held To Maturity Securities",
+    "sources": {
+      "balance_sheet": [
+        "Held To Maturity Securities"
+      ]
+    }
+  },
+  "income_tax_payable": {
+    "display_name": "Income Tax Payable",
+    "sources": {
+      "balance_sheet": [
+        "Income Tax Payable"
+      ]
+    }
+  },
+  "interest_payable": {
+    "display_name": "Interest Payable",
+    "sources": {
+      "balance_sheet": [
+        "Interest Payable"
+      ]
+    }
+  },
+  "inventories_adjustments_allowances": {
+    "display_name": "Inventories Adjustments Allowances",
+    "sources": {
+      "balance_sheet": [
+        "Inventories Adjustments Allowances"
+      ]
+    }
+  },
+  "inventory": {
+    "display_name": "Inventory",
+    "sources": {
+      "balance_sheet": [
+        "Inventory"
+      ]
+    }
+  },
+  "invested_capital": {
+    "display_name": "Invested Capital",
+    "sources": {
+      "balance_sheet": [
+        "Invested Capital"
+      ]
+    }
+  },
+  "investment_properties": {
+    "display_name": "Investment Properties",
+    "sources": {
+      "balance_sheet": [
+        "Investment Properties"
+      ]
+    }
+  },
+  "investmentin_financial_assets": {
+    "display_name": "Investmentin Financial Assets",
+    "sources": {
+      "balance_sheet": [
+        "Investmentin Financial Assets"
+      ]
+    }
+  },
+  "investments_and_advances": {
+    "display_name": "Investments And Advances",
+    "sources": {
+      "balance_sheet": [
+        "Investments And Advances"
+      ]
+    }
+  },
+  "investments_in_other_ventures_under_equity_method": {
+    "display_name": "Investments In Other Ventures Under Equity Method",
+    "sources": {
+      "balance_sheet": [
+        "Investments In Other Ventures Under Equity Method"
+      ]
+    }
+  },
+  "investmentsin_associatesat_cost": {
+    "display_name": "Investmentsin Associatesat Cost",
+    "sources": {
+      "balance_sheet": [
+        "Investmentsin Associatesat Cost",
+        "Investmentsin Subsidiariesat Cost"
+      ]
+    }
+  },
+  "investmentsin_joint_venturesat_cost": {
+    "display_name": "Investmentsin Joint Venturesat Cost",
+    "sources": {
+      "balance_sheet": [
+        "Investmentsin Joint Venturesat Cost"
+      ]
+    }
+  },
+  "liabilities_heldfor_sale_non_current": {
+    "display_name": "Liabilities Heldfor Sale Non Current",
+    "sources": {
+      "balance_sheet": [
+        "Liabilities Heldfor Sale Non Current"
+      ]
+    }
+  },
+  "line_of_credit": {
+    "display_name": "Line Of Credit",
+    "sources": {
+      "balance_sheet": [
+        "Line Of Credit"
+      ]
+    }
+  },
+  "loans_receivable": {
+    "display_name": "Loans Receivable",
+    "sources": {
+      "balance_sheet": [
+        "Loans Receivable",
+        "Notes Receivable",
+        "Taxes Receivable"
+      ]
+    }
+  },
+  "long_term_debt": {
+    "display_name": "Long Term Debt",
+    "sources": {
+      "balance_sheet": [
+        "Long Term Debt"
+      ]
+    }
+  },
+  "long_term_equity_investment": {
+    "display_name": "Long Term Equity Investment",
+    "sources": {
+      "balance_sheet": [
+        "Long Term Equity Investment"
+      ]
+    }
+  },
+  "long_term_provisions": {
+    "display_name": "Long Term Provisions",
+    "sources": {
+      "balance_sheet": [
+        "Long Term Provisions"
+      ]
+    }
+  },
+  "machinery_furniture_equipment": {
+    "display_name": "Machinery Furniture Equipment",
+    "sources": {
+      "balance_sheet": [
+        "Machinery Furniture Equipment"
+      ]
+    }
+  },
+  "minority_interest": {
+    "display_name": "Minority Interest",
+    "sources": {
+      "balance_sheet": [
+        "Minority Interest"
+      ]
+    }
+  },
+  "net_debt": {
+    "display_name": "Net Debt",
+    "sources": {
+      "balance_sheet": [
+        "Net Debt"
+      ]
+    }
+  },
+  "net_ppe": {
+    "display_name": "Net PPE",
+    "sources": {
+      "balance_sheet": [
+        "Net PPE"
+      ]
+    }
+  },
+  "net_tangible_assets": {
+    "display_name": "Net Tangible Assets",
+    "sources": {
+      "balance_sheet": [
+        "Net Tangible Assets"
+      ]
+    }
+  },
+  "non_current_accounts_receivable": {
+    "display_name": "Non Current Accounts Receivable",
+    "sources": {
+      "balance_sheet": [
+        "Non Current Accounts Receivable",
+        "Non Current Note Receivables"
+      ]
+    }
+  },
+  "non_current_pension_and_other_postretirement_benefit_plans": {
+    "display_name": "Non Current Pension And Other Postretirement Benefit Plans",
+    "sources": {
+      "balance_sheet": [
+        "Non Current Pension And Other Postretirement Benefit Plans",
+        "Pensionand Other Post Retirement Benefit Plans Current"
+      ]
+    }
+  },
+  "non_current_prepaid_assets": {
+    "display_name": "Non Current Prepaid Assets",
+    "sources": {
+      "balance_sheet": [
+        "Non Current Prepaid Assets"
+      ]
+    }
+  },
+  "ordinary_shares_number": {
+    "display_name": "Ordinary Shares Number",
+    "sources": {
+      "balance_sheet": [
+        "Ordinary Shares Number",
+        "Treasury Shares Number"
+      ]
+    }
+  },
+  "other_current_borrowings": {
+    "display_name": "Other Current Borrowings",
+    "sources": {
+      "balance_sheet": [
+        "Other Current Borrowings"
+      ]
+    }
+  },
+  "other_current_liabilities": {
+    "display_name": "Other Current Liabilities",
+    "sources": {
+      "balance_sheet": [
+        "Other Current Liabilities",
+        "Other Non Current Liabilities"
+      ]
+    }
+  },
+  "other_equity_adjustments": {
+    "display_name": "Other Equity Adjustments",
+    "sources": {
+      "balance_sheet": [
+        "Other Equity Adjustments"
+      ]
+    }
+  },
+  "other_equity_interest": {
+    "display_name": "Other Equity Interest",
+    "sources": {
+      "balance_sheet": [
+        "Other Equity Interest"
+      ]
+    }
+  },
+  "other_intangible_assets": {
+    "display_name": "Other Intangible Assets",
+    "sources": {
+      "balance_sheet": [
+        "Other Intangible Assets"
+      ]
+    }
+  },
+  "other_inventories": {
+    "display_name": "Other Inventories",
+    "sources": {
+      "balance_sheet": [
+        "Other Inventories"
+      ]
+    }
+  },
+  "other_investments": {
+    "display_name": "Other Investments",
+    "sources": {
+      "balance_sheet": [
+        "Other Investments"
+      ]
+    }
+  },
+  "other_non_current_assets": {
+    "display_name": "Other Non Current Assets",
+    "sources": {
+      "balance_sheet": [
+        "Other Non Current Assets",
+        "Total Non Current Assets"
+      ]
+    }
+  },
+  "other_payable": {
+    "display_name": "Other Payable",
+    "sources": {
+      "balance_sheet": [
+        "Other Payable"
+      ]
+    }
+  },
+  "other_properties": {
+    "display_name": "Other Properties",
+    "sources": {
+      "balance_sheet": [
+        "Other Properties"
+      ]
+    }
+  },
+  "other_receivables": {
+    "display_name": "Other Receivables",
+    "sources": {
+      "balance_sheet": [
+        "Other Receivables"
+      ]
+    }
+  },
+  "other_short_term_investments": {
+    "display_name": "Other Short Term Investments",
+    "sources": {
+      "balance_sheet": [
+        "Other Short Term Investments"
+      ]
+    }
+  },
+  "payables": {
+    "display_name": "Payables",
+    "sources": {
+      "balance_sheet": [
+        "Payables"
+      ]
+    }
+  },
+  "payables_and_accrued_expenses": {
+    "display_name": "Payables And Accrued Expenses",
+    "sources": {
+      "balance_sheet": [
+        "Payables And Accrued Expenses"
+      ]
+    }
+  },
+  "preferred_securities_outside_stock_equity": {
+    "display_name": "Preferred Securities Outside Stock Equity",
+    "sources": {
+      "balance_sheet": [
+        "Preferred Securities Outside Stock Equity"
+      ]
+    }
+  },
+  "preferred_shares_number": {
+    "display_name": "Preferred Shares Number",
+    "sources": {
+      "balance_sheet": [
+        "Preferred Shares Number"
+      ]
+    }
+  },
+  "preferred_stock": {
+    "display_name": "Preferred Stock",
+    "sources": {
+      "balance_sheet": [
+        "Preferred Stock",
+        "Preferred Stock Equity"
+      ]
+    }
+  },
+  "prepaid_assets": {
+    "display_name": "Prepaid Assets",
+    "sources": {
+      "balance_sheet": [
+        "Prepaid Assets"
+      ]
+    }
+  },
+  "properties": {
+    "display_name": "Properties",
+    "sources": {
+      "balance_sheet": [
+        "Properties"
+      ]
+    }
+  },
+  "raw_materials": {
+    "display_name": "Raw Materials",
+    "sources": {
+      "balance_sheet": [
+        "Raw Materials"
+      ]
+    }
+  },
+  "receivables": {
+    "display_name": "Receivables",
+    "sources": {
+      "balance_sheet": [
+        "Receivables"
+      ]
+    }
+  },
+  "receivables_adjustments_allowances": {
+    "display_name": "Receivables Adjustments Allowances",
+    "sources": {
+      "balance_sheet": [
+        "Receivables Adjustments Allowances"
+      ]
+    }
+  },
+  "restricted_cash": {
+    "display_name": "Restricted Cash",
+    "sources": {
+      "balance_sheet": [
+        "Restricted Cash"
+      ]
+    }
+  },
+  "retained_earnings": {
+    "display_name": "Retained Earnings",
+    "sources": {
+      "balance_sheet": [
+        "Retained Earnings"
+      ]
+    }
+  },
+  "share_issued": {
+    "display_name": "Share Issued",
+    "sources": {
+      "balance_sheet": [
+        "Share Issued"
+      ]
+    }
+  },
+  "stockholders_equity": {
+    "display_name": "Stockholders Equity",
+    "sources": {
+      "balance_sheet": [
+        "Stockholders Equity"
+      ]
+    }
+  },
+  "tangible_book_value": {
+    "display_name": "Tangible Book Value",
+    "sources": {
+      "balance_sheet": [
+        "Tangible Book Value"
+      ]
+    }
+  },
+  "total_assets": {
+    "display_name": "Total Assets",
+    "sources": {
+      "balance_sheet": [
+        "Total Assets"
+      ]
+    }
+  },
+  "total_capitalization": {
+    "display_name": "Total Capitalization",
+    "sources": {
+      "balance_sheet": [
+        "Total Capitalization"
+      ]
+    }
+  },
+  "total_debt": {
+    "display_name": "Total Debt",
+    "sources": {
+      "balance_sheet": [
+        "Total Debt"
+      ]
+    }
+  },
+  "total_equity_gross_minority_interest": {
+    "display_name": "Total Equity Gross Minority Interest",
+    "sources": {
+      "balance_sheet": [
+        "Total Equity Gross Minority Interest"
+      ]
+    }
+  },
+  "total_liabilities_net_minority_interest": {
+    "display_name": "Total Liabilities Net Minority Interest",
+    "sources": {
+      "balance_sheet": [
+        "Total Liabilities Net Minority Interest",
+        "Total Non Current Liabilities Net Minority Interest"
+      ]
+    }
+  },
+  "total_tax_payable": {
+    "display_name": "Total Tax Payable",
+    "sources": {
+      "balance_sheet": [
+        "Total Tax Payable"
+      ]
+    }
+  },
+  "tradeand_other_payables_non_current": {
+    "display_name": "Tradeand Other Payables Non Current",
+    "sources": {
+      "balance_sheet": [
+        "Tradeand Other Payables Non Current"
+      ]
+    }
+  },
+  "trading_securities": {
+    "display_name": "Trading Securities",
+    "sources": {
+      "balance_sheet": [
+        "Trading Securities"
+      ]
+    }
+  },
+  "treasury_stock": {
+    "display_name": "Treasury Stock",
+    "sources": {
+      "balance_sheet": [
+        "Treasury Stock"
+      ]
+    }
+  },
+  "work_in_process": {
+    "display_name": "Work In Process",
+    "sources": {
+      "balance_sheet": [
+        "Work In Process"
+      ]
+    }
+  },
+  "working_capital": {
+    "display_name": "Working Capital",
+    "sources": {
+      "balance_sheet": [
+        "Working Capital"
+      ]
+    }
+  },
+  "net_income": {
+    "display_name": "net_income",
+    "sources": {
+      "cash_flow": [
+        "Net Income"
+      ],
+      "earnings": [
+        "Net Income"
+      ],
+      "financials": [
+        "Net Income"
+      ]
+    }
+  },
+  "depreciation_&_amortization": {
+    "display_name": "Depreciation & Amortization",
+    "sources": {
+      "cash_flow": [
+        "Depreciation & Amortization"
+      ]
+    }
+  },
+  "deferred_income_tax": {
+    "display_name": "Deferred Income Tax",
+    "sources": {
+      "cash_flow": [
+        "Deferred Income Tax"
+      ]
+    }
+  },
+  "stock_based_compensation": {
+    "display_name": "Stock Based Compensation",
+    "sources": {
+      "cash_flow": [
+        "Stock Based Compensation"
+      ]
+    }
+  },
+  "change_in_working_capital": {
+    "display_name": "change_in_working_capital",
+    "sources": {
+      "cash_flow": [
+        "Change in Working Capital",
+        "Change In Working Capital"
+      ]
+    }
+  },
+  "change_in_accounts_receivable": {
+    "display_name": "Change in Accounts Receivable",
+    "sources": {
+      "cash_flow": [
+        "Accounts Receivable",
+        "Change in accounts receivable"
+      ]
+    }
+  },
+  "change_in_accounts_payable": {
+    "display_name": "Change in Accounts Payable",
+    "sources": {
+      "cash_flow": [
+        "Accounts Payable",
+        "Change in accounts payable"
+      ]
+    }
+  },
+  "change_in_other_working_capital": {
+    "display_name": "change_in_other_working_capital",
+    "sources": {
+      "cash_flow": [
+        "Other Working Capital",
+        "Change In Other Working Capital"
+      ]
+    }
+  },
+  "other_non_cash_items": {
+    "display_name": "other_non_cash_items",
+    "sources": {
+      "cash_flow": [
+        "Other Non-Cash Items",
+        "Other cash provided by operations",
+        "Other Non Cash Items"
+      ]
+    }
+  },
+  "net_cash_from_operating_activities": {
+    "display_name": "Net Cash from Operating Activities",
+    "sources": {
+      "cash_flow": [
+        "Cash from Operating Activities",
+        "Net cash provided by operating activities"
+      ]
+    }
+  },
+  "capital_expenditures": {
+    "display_name": "Capital Expenditures",
+    "sources": {
+      "cash_flow": [
+        "Investments in Property, Plant, and Equipment",
+        "Purchases of property and equipment"
+      ]
+    }
+  },
+  "acquisitions": {
+    "display_name": "Acquisitions",
+    "sources": {
+      "cash_flow": [
+        "Acquisitions"
+      ]
+    }
+  },
+  "purchase_of_investments": {
+    "display_name": "Purchase of Investments",
+    "sources": {
+      "cash_flow": [
+        "Purchases of Investments"
+      ]
+    }
+  },
+  "sale_of_investments": {
+    "display_name": "Sale of Investments",
+    "sources": {
+      "cash_flow": [
+        "Sales/Maturities of Investments"
+      ]
+    }
+  },
+  "other_investing_activities": {
+    "display_name": "Other Investing Activities",
+    "sources": {
+      "cash_flow": [
+        "Other Investing Activities"
+      ]
+    }
+  },
+  "net_cash_from_investing_activities": {
+    "display_name": "Net Cash from Investing Activities",
+    "sources": {
+      "cash_flow": [
+        "Cash from Investing Activities",
+        "Net cash used for investing activities"
+      ]
+    }
+  },
+  "proceeds_from_debt_issuance": {
+    "display_name": "Proceeds from Debt Issuance",
+    "sources": {
+      "cash_flow": [
+        "Debt Issued",
+        "Proceeds from issuance of debt"
+      ]
+    }
+  },
+  "repayment_of_debt": {
+    "display_name": "Repayment of Debt",
+    "sources": {
+      "cash_flow": [
+        "Debt Repaid",
+        "Repayment of debt"
+      ]
+    }
+  },
+  "proceeds_from_stock_issuance": {
+    "display_name": "Proceeds from Stock Issuance",
+    "sources": {
+      "cash_flow": [
+        "Common Stock Issued",
+        "Issuance of common stock"
+      ]
+    }
+  },
+  "stock_repurchase": {
+    "display_name": "Stock Repurchase",
+    "sources": {
+      "cash_flow": [
+        "Common Stock Repurchased",
+        "Repurchase of common stock"
+      ]
+    }
+  },
+  "dividends_paid": {
+    "display_name": "Dividends Paid",
+    "sources": {
+      "cash_flow": [
+        "Dividends Paid"
+      ]
+    }
+  },
+  "other_financing_activities": {
+    "display_name": "Other Financing Activities",
+    "sources": {
+      "cash_flow": [
+        "Other Financing Activities"
+      ]
+    }
+  },
+  "net_cash_from_financing_activities": {
+    "display_name": "Net Cash from Financing Activities",
+    "sources": {
+      "cash_flow": [
+        "Cash from Financing Activities",
+        "Net cash provided by financing activities"
+      ]
+    }
+  },
+  "effect_of_exchange_rate_changes": {
+    "display_name": "Effect of Exchange Rate Changes",
+    "sources": {
+      "cash_flow": [
+        "Effect of Exchange Rate Changes"
+      ]
+    }
+  },
+  "net_change_in_cash": {
+    "display_name": "Net Change in Cash",
+    "sources": {
+      "cash_flow": [
+        "Net Change in Cash"
+      ]
+    }
+  },
+  "cash_at_beginning_of_period": {
+    "display_name": "Cash at Beginning of Period",
+    "sources": {
+      "cash_flow": [
+        "Cash at Beginning of Period"
+      ]
+    }
+  },
+  "cash_at_end_of_period": {
+    "display_name": "Cash at End of Period",
+    "sources": {
+      "cash_flow": [
+        "Cash at End of Period"
+      ]
+    }
+  },
+  "amortization_cash_flow": {
+    "display_name": "amortization_cash_flow",
+    "sources": {
+      "cash_flow": [
+        "Amortization Cash Flow"
+      ]
+    }
+  },
+  "amortization__of_intangibles": {
+    "display_name": "amortization__of_intangibles",
+    "sources": {
+      "cash_flow": [
+        "Amortization Of Intangibles"
+      ]
+    }
+  },
+  "amortization__of_securities": {
+    "display_name": "amortization__of_securities",
+    "sources": {
+      "cash_flow": [
+        "Amortization Of Securities"
+      ]
+    }
+  },
+  "asset_impairment_charge": {
+    "display_name": "asset_impairment_charge",
+    "sources": {
+      "cash_flow": [
+        "Asset Impairment Charge"
+      ]
+    }
+  },
+  "beginning_cash_position": {
+    "display_name": "beginning_cash_position",
+    "sources": {
+      "cash_flow": [
+        "Beginning Cash Position"
+      ]
+    }
+  },
+  "capital_expenditure": {
+    "display_name": "capital_expenditure",
+    "sources": {
+      "cash_flow": [
+        "Capital Expenditure"
+      ]
+    }
+  },
+  "capital_expenditure_reported": {
+    "display_name": "capital_expenditure_reported",
+    "sources": {
+      "cash_flow": [
+        "Capital Expenditure Reported"
+      ]
+    }
+  },
+  "cash_dividends_paid": {
+    "display_name": "cash_dividends_paid",
+    "sources": {
+      "cash_flow": [
+        "Cash Dividends Paid"
+      ]
+    }
+  },
+  "cash_flow__from_continuing_financing_activities": {
+    "display_name": "cash_flow__from_continuing_financing_activities",
+    "sources": {
+      "cash_flow": [
+        "Cash Flow From Continuing Financing Activities"
+      ]
+    }
+  },
+  "cash_flow__from_continuing_investing_activities": {
+    "display_name": "cash_flow__from_continuing_investing_activities",
+    "sources": {
+      "cash_flow": [
+        "Cash Flow From Continuing Investing Activities"
+      ]
+    }
+  },
+  "cash_flow__from_continuing_operating_activities": {
+    "display_name": "cash_flow__from_continuing_operating_activities",
+    "sources": {
+      "cash_flow": [
+        "Cash Flow From Continuing Operating Activities"
+      ]
+    }
+  },
+  "cash_flows_fromusedin_operating_activities_direct": {
+    "display_name": "cash_flows_fromusedin_operating_activities_direct",
+    "sources": {
+      "cash_flow": [
+        "Cash Flowsfromusedin Operating Activities Direct"
+      ]
+    }
+  },
+  "change_in_account_payable": {
+    "display_name": "change_in_account_payable",
+    "sources": {
+      "cash_flow": [
+        "Change In Account Payable"
+      ]
+    }
+  },
+  "change_in_accrued_expense": {
+    "display_name": "change_in_accrued_expense",
+    "sources": {
+      "cash_flow": [
+        "Change In Accrued Expense"
+      ]
+    }
+  },
+  "change_in_inventory": {
+    "display_name": "change_in_inventory",
+    "sources": {
+      "cash_flow": [
+        "Change In Inventory"
+      ]
+    }
+  },
+  "change_in_other_current_assets": {
+    "display_name": "change_in_other_current_assets",
+    "sources": {
+      "cash_flow": [
+        "Change In Other Current Assets"
+      ]
+    }
+  },
+  "change_in_other_current_liabilities": {
+    "display_name": "change_in_other_current_liabilities",
+    "sources": {
+      "cash_flow": [
+        "Change In Other Current Liabilities"
+      ]
+    }
+  },
+  "change_in_payable": {
+    "display_name": "change_in_payable",
+    "sources": {
+      "cash_flow": [
+        "Change In Payable"
+      ]
+    }
+  },
+  "change_in_payables__and_accrued_expense": {
+    "display_name": "change_in_payables__and_accrued_expense",
+    "sources": {
+      "cash_flow": [
+        "Change In Payables And Accrued Expense"
+      ]
+    }
+  },
+  "change_in_prepaid_assets": {
+    "display_name": "change_in_prepaid_assets",
+    "sources": {
+      "cash_flow": [
+        "Change In Prepaid Assets"
+      ]
+    }
+  },
+  "change_in_receivables": {
+    "display_name": "change_in_receivables",
+    "sources": {
+      "cash_flow": [
+        "Change In Receivables"
+      ]
+    }
+  },
+  "changes_in_account_receivables": {
+    "display_name": "changes_in_account_receivables",
+    "sources": {
+      "cash_flow": [
+        "Changes In Account Receivables"
+      ]
+    }
+  },
+  "changes_in_cash": {
+    "display_name": "changes_in_cash",
+    "sources": {
+      "cash_flow": [
+        "Changes In Cash"
+      ]
+    }
+  },
+  "classes_of_cash_payments": {
+    "display_name": "classes_of_cash_payments",
+    "sources": {
+      "cash_flow": [
+        "Classesof Cash Payments"
+      ]
+    }
+  },
+  "classes_of_cash_receipts_from_operating_activities": {
+    "display_name": "classes_of_cash_receipts_from_operating_activities",
+    "sources": {
+      "cash_flow": [
+        "Classesof Cash Receiptsfrom Operating Activities"
+      ]
+    }
+  },
+  "common_stock_dividend_paid": {
+    "display_name": "common_stock_dividend_paid",
+    "sources": {
+      "cash_flow": [
+        "Common Stock Dividend Paid"
+      ]
+    }
+  },
+  "common_stock_issuance": {
+    "display_name": "common_stock_issuance",
+    "sources": {
+      "cash_flow": [
+        "Common Stock Issuance"
+      ]
+    }
+  },
+  "common_stock_payments": {
+    "display_name": "common_stock_payments",
+    "sources": {
+      "cash_flow": [
+        "Common Stock Payments"
+      ]
+    }
+  },
+  "deferred_tax": {
+    "display_name": "deferred_tax",
+    "sources": {
+      "cash_flow": [
+        "Deferred Tax"
+      ]
+    }
+  },
+  "depreciation": {
+    "display_name": "depreciation",
+    "sources": {
+      "cash_flow": [
+        "Depreciation"
+      ]
+    }
+  },
+  "depreciation_amortization_depletion": {
+    "display_name": "depreciation_amortization_depletion",
+    "sources": {
+      "cash_flow": [
+        "Depreciation Amortization Depletion"
+      ]
+    }
+  },
+  "depreciation__and_amortization": {
+    "display_name": "depreciation__and_amortization",
+    "sources": {
+      "cash_flow": [
+        "Depreciation And Amortization"
+      ]
+    }
+  },
+  "dividend_paid_cfo": {
+    "display_name": "dividend_paid_cfo",
+    "sources": {
+      "cash_flow": [
+        "Dividend Paid Cfo"
+      ]
+    }
+  },
+  "dividend_received_cfo": {
+    "display_name": "dividend_received_cfo",
+    "sources": {
+      "cash_flow": [
+        "Dividend Received Cfo"
+      ]
+    }
+  },
+  "dividends_received_cfi": {
+    "display_name": "dividends_received_cfi",
+    "sources": {
+      "cash_flow": [
+        "Dividends Received Cfi"
+      ]
+    }
+  },
+  "earnings_losses__from_equity_investments": {
+    "display_name": "earnings_losses__from_equity_investments",
+    "sources": {
+      "cash_flow": [
+        "Earnings Losses From Equity Investments"
+      ]
+    }
+  },
+  "effect__of_exchange_rate_changes": {
+    "display_name": "effect__of_exchange_rate_changes",
+    "sources": {
+      "cash_flow": [
+        "Effect Of Exchange Rate Changes"
+      ]
+    }
+  },
+  "end_cash_position": {
+    "display_name": "end_cash_position",
+    "sources": {
+      "cash_flow": [
+        "End Cash Position"
+      ]
+    }
+  },
+  "financing_cash_flow": {
+    "display_name": "financing_cash_flow",
+    "sources": {
+      "cash_flow": [
+        "Financing Cash Flow"
+      ]
+    }
+  },
+  "free_cash_flow": {
+    "display_name": "free_cash_flow",
+    "sources": {
+      "cash_flow": [
+        "Free Cash Flow"
+      ]
+    }
+  },
+  "gain_loss_on_investment_securities": {
+    "display_name": "gain_loss_on_investment_securities",
+    "sources": {
+      "cash_flow": [
+        "Gain Loss On Investment Securities"
+      ]
+    }
+  },
+  "gain_loss_on_sale__of_business": {
+    "display_name": "gain_loss_on_sale__of_business",
+    "sources": {
+      "cash_flow": [
+        "Gain Loss On Sale Of Business"
+      ]
+    }
+  },
+  "gain_loss_on_sale__of_ppe": {
+    "display_name": "gain_loss_on_sale__of_ppe",
+    "sources": {
+      "cash_flow": [
+        "Gain Loss On Sale Of PPE"
+      ]
+    }
+  },
+  "income_tax_paid_supplemental_data": {
+    "display_name": "income_tax_paid_supplemental_data",
+    "sources": {
+      "cash_flow": [
+        "Income Tax Paid Supplemental Data"
+      ]
+    }
+  },
+  "interest_paid_cff": {
+    "display_name": "interest_paid_cff",
+    "sources": {
+      "cash_flow": [
+        "Interest Paid Cff"
+      ]
+    }
+  },
+  "interest_paid_cfo": {
+    "display_name": "interest_paid_cfo",
+    "sources": {
+      "cash_flow": [
+        "Interest Paid Cfo"
+      ]
+    }
+  },
+  "interest_paid_supplemental_data": {
+    "display_name": "interest_paid_supplemental_data",
+    "sources": {
+      "cash_flow": [
+        "Interest Paid Supplemental Data"
+      ]
+    }
+  },
+  "interest_received_cfi": {
+    "display_name": "interest_received_cfi",
+    "sources": {
+      "cash_flow": [
+        "Interest Received Cfi"
+      ]
+    }
+  },
+  "interest_received_cfo": {
+    "display_name": "interest_received_cfo",
+    "sources": {
+      "cash_flow": [
+        "Interest Received Cfo"
+      ]
+    }
+  },
+  "investing_cash_flow": {
+    "display_name": "investing_cash_flow",
+    "sources": {
+      "cash_flow": [
+        "Investing Cash Flow"
+      ]
+    }
+  },
+  "issuance__of_capital_stock": {
+    "display_name": "issuance__of_capital_stock",
+    "sources": {
+      "cash_flow": [
+        "Issuance Of Capital Stock"
+      ]
+    }
+  },
+  "issuance__of_debt": {
+    "display_name": "issuance__of_debt",
+    "sources": {
+      "cash_flow": [
+        "Issuance Of Debt"
+      ]
+    }
+  },
+  "long_term_debt_issuance": {
+    "display_name": "long_term_debt_issuance",
+    "sources": {
+      "cash_flow": [
+        "Long Term Debt Issuance"
+      ]
+    }
+  },
+  "long_term_debt_payments": {
+    "display_name": "long_term_debt_payments",
+    "sources": {
+      "cash_flow": [
+        "Long Term Debt Payments"
+      ]
+    }
+  },
+  "net_business_purchase__and_sale": {
+    "display_name": "net_business_purchase__and_sale",
+    "sources": {
+      "cash_flow": [
+        "Net Business Purchase And Sale"
+      ]
+    }
+  },
+  "net_common_stock_issuance": {
+    "display_name": "net_common_stock_issuance",
+    "sources": {
+      "cash_flow": [
+        "Net Common Stock Issuance"
+      ]
+    }
+  },
+  "net_foreign_currency_exchange_gain_loss": {
+    "display_name": "net_foreign_currency_exchange_gain_loss",
+    "sources": {
+      "cash_flow": [
+        "Net Foreign Currency Exchange Gain Loss"
+      ]
+    }
+  },
+  "net_income__from_continuing_operations": {
+    "display_name": "net_income__from_continuing_operations",
+    "sources": {
+      "cash_flow": [
+        "Net Income From Continuing Operations"
+      ]
+    }
+  },
+  "net_intangibles_purchase__and_sale": {
+    "display_name": "net_intangibles_purchase__and_sale",
+    "sources": {
+      "cash_flow": [
+        "Net Intangibles Purchase And Sale"
+      ]
+    }
+  },
+  "net_investment_properties_purchase__and_sale": {
+    "display_name": "net_investment_properties_purchase__and_sale",
+    "sources": {
+      "cash_flow": [
+        "Net Investment Properties Purchase And Sale"
+      ]
+    }
+  },
+  "net_investment_purchase__and_sale": {
+    "display_name": "net_investment_purchase__and_sale",
+    "sources": {
+      "cash_flow": [
+        "Net Investment Purchase And Sale"
+      ]
+    }
+  },
+  "net_issuance_payments__of_debt": {
+    "display_name": "net_issuance_payments__of_debt",
+    "sources": {
+      "cash_flow": [
+        "Net Issuance Payments Of Debt"
+      ]
+    }
+  },
+  "net_long_term_debt_issuance": {
+    "display_name": "net_long_term_debt_issuance",
+    "sources": {
+      "cash_flow": [
+        "Net Long Term Debt Issuance"
+      ]
+    }
+  },
+  "net_other_financing_charges": {
+    "display_name": "net_other_financing_charges",
+    "sources": {
+      "cash_flow": [
+        "Net Other Financing Charges"
+      ]
+    }
+  },
+  "net_other_investing_changes": {
+    "display_name": "net_other_investing_changes",
+    "sources": {
+      "cash_flow": [
+        "Net Other Investing Changes"
+      ]
+    }
+  },
+  "net_ppe_purchase__and_sale": {
+    "display_name": "net_ppe_purchase__and_sale",
+    "sources": {
+      "cash_flow": [
+        "Net PPE Purchase And Sale"
+      ]
+    }
+  },
+  "net_preferred_stock_issuance": {
+    "display_name": "net_preferred_stock_issuance",
+    "sources": {
+      "cash_flow": [
+        "Net Preferred Stock Issuance"
+      ]
+    }
+  },
+  "net_short_term_debt_issuance": {
+    "display_name": "net_short_term_debt_issuance",
+    "sources": {
+      "cash_flow": [
+        "Net Short Term Debt Issuance"
+      ]
+    }
+  },
+  "operating_cash_flow": {
+    "display_name": "operating_cash_flow",
+    "sources": {
+      "cash_flow": [
+        "Operating Cash Flow"
+      ]
+    }
+  },
+  "operating_gains_losses": {
+    "display_name": "operating_gains_losses",
+    "sources": {
+      "cash_flow": [
+        "Operating Gains Losses"
+      ]
+    }
+  },
+  "other_cash_adjustment_inside_changein_cash": {
+    "display_name": "other_cash_adjustment_inside_changein_cash",
+    "sources": {
+      "cash_flow": [
+        "Other Cash Adjustment Inside Changein Cash"
+      ]
+    }
+  },
+  "other_cash_adjustment_outside_changein_cash": {
+    "display_name": "other_cash_adjustment_outside_changein_cash",
+    "sources": {
+      "cash_flow": [
+        "Other Cash Adjustment Outside Changein Cash"
+      ]
+    }
+  },
+  "other_cash_payments_from_operating_activities": {
+    "display_name": "other_cash_payments_from_operating_activities",
+    "sources": {
+      "cash_flow": [
+        "Other Cash Paymentsfrom Operating Activities"
+      ]
+    }
+  },
+  "other_cash_receipts_from_operating_activities": {
+    "display_name": "other_cash_receipts_from_operating_activities",
+    "sources": {
+      "cash_flow": [
+        "Other Cash Receiptsfrom Operating Activities"
+      ]
+    }
+  },
+  "pension__and_employee_benefit_expense": {
+    "display_name": "pension__and_employee_benefit_expense",
+    "sources": {
+      "cash_flow": [
+        "Pension And Employee Benefit Expense"
+      ]
+    }
+  },
+  "preferred_stock_dividend_paid": {
+    "display_name": "preferred_stock_dividend_paid",
+    "sources": {
+      "cash_flow": [
+        "Preferred Stock Dividend Paid"
+      ]
+    }
+  },
+  "preferred_stock_issuance": {
+    "display_name": "preferred_stock_issuance",
+    "sources": {
+      "cash_flow": [
+        "Preferred Stock Issuance"
+      ]
+    }
+  },
+  "preferred_stock_payments": {
+    "display_name": "preferred_stock_payments",
+    "sources": {
+      "cash_flow": [
+        "Preferred Stock Payments"
+      ]
+    }
+  },
+  "proceeds__from_stock_option_exercised": {
+    "display_name": "proceeds__from_stock_option_exercised",
+    "sources": {
+      "cash_flow": [
+        "Proceeds From Stock Option Exercised"
+      ]
+    }
+  },
+  "provision_and_write__off_of_assets": {
+    "display_name": "provision_and_write__off_of_assets",
+    "sources": {
+      "cash_flow": [
+        "Provisionand Write Offof Assets"
+      ]
+    }
+  },
+  "purchase__of_business": {
+    "display_name": "purchase__of_business",
+    "sources": {
+      "cash_flow": [
+        "Purchase Of Business"
+      ]
+    }
+  },
+  "purchase__of_intangibles": {
+    "display_name": "purchase__of_intangibles",
+    "sources": {
+      "cash_flow": [
+        "Purchase Of Intangibles"
+      ]
+    }
+  },
+  "purchase__of_investment": {
+    "display_name": "purchase__of_investment",
+    "sources": {
+      "cash_flow": [
+        "Purchase Of Investment"
+      ]
+    }
+  },
+  "purchase__of_investment_properties": {
+    "display_name": "purchase__of_investment_properties",
+    "sources": {
+      "cash_flow": [
+        "Purchase Of Investment Properties"
+      ]
+    }
+  },
+  "purchase__of_ppe": {
+    "display_name": "purchase__of_ppe",
+    "sources": {
+      "cash_flow": [
+        "Purchase Of PPE"
+      ]
+    }
+  },
+  "repayment__of_debt": {
+    "display_name": "repayment__of_debt",
+    "sources": {
+      "cash_flow": [
+        "Repayment Of Debt"
+      ]
+    }
+  },
+  "repurchase__of_capital_stock": {
+    "display_name": "repurchase__of_capital_stock",
+    "sources": {
+      "cash_flow": [
+        "Repurchase Of Capital Stock"
+      ]
+    }
+  },
+  "sale__of_business": {
+    "display_name": "sale__of_business",
+    "sources": {
+      "cash_flow": [
+        "Sale Of Business"
+      ]
+    }
+  },
+  "sale__of_intangibles": {
+    "display_name": "sale__of_intangibles",
+    "sources": {
+      "cash_flow": [
+        "Sale Of Intangibles"
+      ]
+    }
+  },
+  "sale__of_investment": {
+    "display_name": "sale__of_investment",
+    "sources": {
+      "cash_flow": [
+        "Sale Of Investment"
+      ]
+    }
+  },
+  "sale__of_investment_properties": {
+    "display_name": "sale__of_investment_properties",
+    "sources": {
+      "cash_flow": [
+        "Sale Of Investment Properties"
+      ]
+    }
+  },
+  "sale__of_ppe": {
+    "display_name": "sale__of_ppe",
+    "sources": {
+      "cash_flow": [
+        "Sale Of PPE"
+      ]
+    }
+  },
+  "short_term_debt_issuance": {
+    "display_name": "short_term_debt_issuance",
+    "sources": {
+      "cash_flow": [
+        "Short Term Debt Issuance"
+      ]
+    }
+  },
+  "short_term_debt_payments": {
+    "display_name": "short_term_debt_payments",
+    "sources": {
+      "cash_flow": [
+        "Short Term Debt Payments"
+      ]
+    }
+  },
+  "taxes_refund_paid": {
+    "display_name": "taxes_refund_paid",
+    "sources": {
+      "cash_flow": [
+        "Taxes Refund Paid"
+      ]
+    }
+  },
+  "unrealized_gain_loss_on_investment_securities": {
+    "display_name": "unrealized_gain_loss_on_investment_securities",
+    "sources": {
+      "cash_flow": [
+        "Unrealized Gain Loss On Investment Securities"
+      ]
+    }
+  },
+  "amortization": {
+    "display_name": "amortization",
+    "sources": {
+      "earnings": [
+        "Amortization"
+      ],
+      "financials": [
+        "Amortization"
+      ]
+    }
+  },
+  "amortization_of_intangibles_income_statement": {
+    "display_name": "amortization_of_intangibles_income_statement",
+    "sources": {
+      "earnings": [
+        "Amortization Of Intangibles Income Statement"
+      ],
+      "financials": [
+        "Amortization Of Intangibles Income Statement"
+      ]
+    }
+  },
+  "average_dilution_earnings": {
+    "display_name": "average_dilution_earnings",
+    "sources": {
+      "earnings": [
+        "Average Dilution Earnings"
+      ],
+      "financials": [
+        "Average Dilution Earnings"
+      ]
+    }
+  },
+  "basic_average_shares": {
+    "display_name": "basic_average_shares",
+    "sources": {
+      "earnings": [
+        "Basic Average Shares"
+      ],
+      "financials": [
+        "Basic Average Shares"
+      ]
+    }
+  },
+  "basic_eps": {
+    "display_name": "basic_eps",
+    "sources": {
+      "earnings": [
+        "Basic EPS"
+      ],
+      "financials": [
+        "Basic EPS"
+      ]
+    }
+  },
+  "cost_of_revenue": {
+    "display_name": "cost_of_revenue",
+    "sources": {
+      "earnings": [
+        "Cost Of Revenue"
+      ],
+      "financials": [
+        "Cost Of Revenue"
+      ]
+    }
+  },
+  "depreciation_amortization_depletion_income_statement": {
+    "display_name": "depreciation_amortization_depletion_income_statement",
+    "sources": {
+      "earnings": [
+        "Depreciation Amortization Depletion Income Statement"
+      ],
+      "financials": [
+        "Depreciation Amortization Depletion Income Statement"
+      ]
+    }
+  },
+  "depreciation_and_amortization_in_income_statement": {
+    "display_name": "depreciation_and_amortization_in_income_statement",
+    "sources": {
+      "earnings": [
+        "Depreciation And Amortization In Income Statement"
+      ],
+      "financials": [
+        "Depreciation And Amortization In Income Statement"
+      ]
+    }
+  },
+  "depreciation_income_statement": {
+    "display_name": "depreciation_income_statement",
+    "sources": {
+      "earnings": [
+        "Depreciation Income Statement"
+      ],
+      "financials": [
+        "Depreciation Income Statement"
+      ]
+    }
+  },
+  "diluted_average_shares": {
+    "display_name": "diluted_average_shares",
+    "sources": {
+      "earnings": [
+        "Diluted Average Shares"
+      ],
+      "financials": [
+        "Diluted Average Shares"
+      ]
+    }
+  },
+  "diluted_eps": {
+    "display_name": "diluted_eps",
+    "sources": {
+      "earnings": [
+        "Diluted EPS"
+      ],
+      "financials": [
+        "Diluted EPS"
+      ]
+    }
+  },
+  "diluted_ni_availto_com_stockholders": {
+    "display_name": "diluted_ni_availto_com_stockholders",
+    "sources": {
+      "earnings": [
+        "Diluted NI Availto Com Stockholders"
+      ],
+      "financials": [
+        "Diluted NI Availto Com Stockholders"
+      ]
+    }
+  },
+  "ebit": {
+    "display_name": "ebit",
+    "sources": {
+      "earnings": [
+        "EBIT"
+      ],
+      "financials": [
+        "EBIT"
+      ]
+    }
+  },
+  "ebitda": {
+    "display_name": "ebitda",
+    "sources": {
+      "earnings": [
+        "EBITDA"
+      ],
+      "financials": [
+        "EBITDA"
+      ]
+    }
+  },
+  "earnings_from_equity_interest": {
+    "display_name": "earnings_from_equity_interest",
+    "sources": {
+      "earnings": [
+        "Earnings From Equity Interest"
+      ],
+      "financials": [
+        "Earnings From Equity Interest"
+      ]
+    }
+  },
+  "earnings_from_equity_interest_net_of_tax": {
+    "display_name": "earnings_from_equity_interest_net_of_tax",
+    "sources": {
+      "earnings": [
+        "Earnings From Equity Interest Net Of Tax"
+      ],
+      "financials": [
+        "Earnings From Equity Interest Net Of Tax"
+      ]
+    }
+  },
+  "gain_on_sale_of_business": {
+    "display_name": "gain_on_sale_of_business",
+    "sources": {
+      "earnings": [
+        "Gain On Sale Of Business"
+      ],
+      "financials": [
+        "Gain On Sale Of Business"
+      ]
+    }
+  },
+  "gain_on_sale_of_ppe": {
+    "display_name": "gain_on_sale_of_ppe",
+    "sources": {
+      "earnings": [
+        "Gain On Sale Of Ppe"
+      ],
+      "financials": [
+        "Gain On Sale Of Ppe"
+      ]
+    }
+  },
+  "gain_on_sale_of_security": {
+    "display_name": "gain_on_sale_of_security",
+    "sources": {
+      "earnings": [
+        "Gain On Sale Of Security"
+      ],
+      "financials": [
+        "Gain On Sale Of Security"
+      ]
+    }
+  },
+  "general_and_administrative_expense": {
+    "display_name": "general_and_administrative_expense",
+    "sources": {
+      "earnings": [
+        "General And Administrative Expense"
+      ],
+      "financials": [
+        "General And Administrative Expense"
+      ]
+    }
+  },
+  "gross_profit": {
+    "display_name": "gross_profit",
+    "sources": {
+      "earnings": [
+        "Gross Profit"
+      ],
+      "financials": [
+        "Gross Profit"
+      ]
+    }
+  },
+  "impairment_of_capital_assets": {
+    "display_name": "impairment_of_capital_assets",
+    "sources": {
+      "earnings": [
+        "Impairment Of Capital Assets"
+      ],
+      "financials": [
+        "Impairment Of Capital Assets"
+      ]
+    }
+  },
+  "insurance_and_claims": {
+    "display_name": "insurance_and_claims",
+    "sources": {
+      "earnings": [
+        "Insurance And Claims"
+      ],
+      "financials": [
+        "Insurance And Claims"
+      ]
+    }
+  },
+  "interest_expense": {
+    "display_name": "interest_expense",
+    "sources": {
+      "earnings": [
+        "Interest Expense"
+      ],
+      "financials": [
+        "Interest Expense"
+      ]
+    }
+  },
+  "interest_expense_non_operating": {
+    "display_name": "interest_expense_non_operating",
+    "sources": {
+      "earnings": [
+        "Interest Expense Non Operating"
+      ],
+      "financials": [
+        "Interest Expense Non Operating"
+      ]
+    }
+  },
+  "interest_income": {
+    "display_name": "interest_income",
+    "sources": {
+      "earnings": [
+        "Interest Income"
+      ],
+      "financials": [
+        "Interest Income"
+      ]
+    }
+  },
+  "interest_income_non_operating": {
+    "display_name": "interest_income_non_operating",
+    "sources": {
+      "earnings": [
+        "Interest Income Non Operating"
+      ],
+      "financials": [
+        "Interest Income Non Operating"
+      ]
+    }
+  },
+  "minority_interests": {
+    "display_name": "minority_interests",
+    "sources": {
+      "earnings": [
+        "Minority Interests"
+      ],
+      "financials": [
+        "Minority Interests"
+      ]
+    }
+  },
+  "net_income_common_stockholders": {
+    "display_name": "net_income_common_stockholders",
+    "sources": {
+      "earnings": [
+        "Net Income Common Stockholders"
+      ],
+      "financials": [
+        "Net Income Common Stockholders"
+      ]
+    }
+  },
+  "net_income_continuous_operations": {
+    "display_name": "net_income_continuous_operations",
+    "sources": {
+      "earnings": [
+        "Net Income Continuous Operations"
+      ],
+      "financials": [
+        "Net Income Continuous Operations"
+      ]
+    }
+  },
+  "net_income_discontinuous_operations": {
+    "display_name": "net_income_discontinuous_operations",
+    "sources": {
+      "earnings": [
+        "Net Income Discontinuous Operations"
+      ],
+      "financials": [
+        "Net Income Discontinuous Operations"
+      ]
+    }
+  },
+  "net_income_extraordinary": {
+    "display_name": "net_income_extraordinary",
+    "sources": {
+      "earnings": [
+        "Net Income Extraordinary"
+      ],
+      "financials": [
+        "Net Income Extraordinary"
+      ]
+    }
+  },
+  "net_income_from_continuing_and_discontinued_operation": {
+    "display_name": "net_income_from_continuing_and_discontinued_operation",
+    "sources": {
+      "earnings": [
+        "Net Income From Continuing And Discontinued Operation"
+      ],
+      "financials": [
+        "Net Income From Continuing And Discontinued Operation"
+      ]
+    }
+  },
+  "net_income_from_continuing_operation_net_minority_interest": {
+    "display_name": "net_income_from_continuing_operation_net_minority_interest",
+    "sources": {
+      "earnings": [
+        "Net Income From Continuing Operation Net Minority Interest"
+      ],
+      "financials": [
+        "Net Income From Continuing Operation Net Minority Interest"
+      ]
+    }
+  },
+  "net_income_including_noncontrolling_interests": {
+    "display_name": "net_income_including_noncontrolling_interests",
+    "sources": {
+      "earnings": [
+        "Net Income Including Noncontrolling Interests"
+      ],
+      "financials": [
+        "Net Income Including Noncontrolling Interests"
+      ]
+    }
+  },
+  "net_interest_income": {
+    "display_name": "net_interest_income",
+    "sources": {
+      "earnings": [
+        "Net Interest Income"
+      ],
+      "financials": [
+        "Net Interest Income"
+      ]
+    }
+  },
+  "net_non_operating_interest_income_expense": {
+    "display_name": "net_non_operating_interest_income_expense",
+    "sources": {
+      "earnings": [
+        "Net Non Operating Interest Income Expense"
+      ],
+      "financials": [
+        "Net Non Operating Interest Income Expense"
+      ]
+    }
+  },
+  "net_policyholder_benefits_and_claims": {
+    "display_name": "net_policyholder_benefits_and_claims",
+    "sources": {
+      "earnings": [
+        "Net Policyholder Benefits And Claims"
+      ],
+      "financials": [
+        "Net Policyholder Benefits And Claims"
+      ]
+    }
+  },
+  "normalized_ebitda": {
+    "display_name": "normalized_ebitda",
+    "sources": {
+      "earnings": [
+        "Normalized EBITDA"
+      ],
+      "financials": [
+        "Normalized EBITDA"
+      ]
+    }
+  },
+  "normalized_income": {
+    "display_name": "normalized_income",
+    "sources": {
+      "earnings": [
+        "Normalized Income"
+      ],
+      "financials": [
+        "Normalized Income"
+      ]
+    }
+  },
+  "occupancy_and_equipment": {
+    "display_name": "occupancy_and_equipment",
+    "sources": {
+      "earnings": [
+        "Occupancy And Equipment"
+      ],
+      "financials": [
+        "Occupancy And Equipment"
+      ]
+    }
+  },
+  "operating_expense": {
+    "display_name": "operating_expense",
+    "sources": {
+      "earnings": [
+        "Operating Expense"
+      ],
+      "financials": [
+        "Operating Expense"
+      ]
+    }
+  },
+  "operating_income": {
+    "display_name": "operating_income",
+    "sources": {
+      "earnings": [
+        "Operating Income"
+      ],
+      "financials": [
+        "Operating Income"
+      ]
+    }
+  },
+  "operating_revenue": {
+    "display_name": "operating_revenue",
+    "sources": {
+      "earnings": [
+        "Operating Revenue"
+      ],
+      "financials": [
+        "Operating Revenue"
+      ]
+    }
+  },
+  "other_gand_a": {
+    "display_name": "other_gand_a",
+    "sources": {
+      "earnings": [
+        "Other Gand A"
+      ],
+      "financials": [
+        "Other Gand A"
+      ]
+    }
+  },
+  "other_income_expense": {
+    "display_name": "other_income_expense",
+    "sources": {
+      "earnings": [
+        "Other Income Expense"
+      ],
+      "financials": [
+        "Other Income Expense"
+      ]
+    }
+  },
+  "other_non_interest_expense": {
+    "display_name": "other_non_interest_expense",
+    "sources": {
+      "earnings": [
+        "Other Non Interest Expense"
+      ],
+      "financials": [
+        "Other Non Interest Expense"
+      ]
+    }
+  },
+  "other_non_operating_income_expenses": {
+    "display_name": "other_non_operating_income_expenses",
+    "sources": {
+      "earnings": [
+        "Other Non Operating Income Expenses"
+      ],
+      "financials": [
+        "Other Non Operating Income Expenses"
+      ]
+    }
+  },
+  "other_operating_expenses": {
+    "display_name": "other_operating_expenses",
+    "sources": {
+      "earnings": [
+        "Other Operating Expenses"
+      ],
+      "financials": [
+        "Other Operating Expenses"
+      ]
+    }
+  },
+  "other_special_charges": {
+    "display_name": "other_special_charges",
+    "sources": {
+      "earnings": [
+        "Other Special Charges"
+      ],
+      "financials": [
+        "Other Special Charges"
+      ]
+    }
+  },
+  "other_taxes": {
+    "display_name": "other_taxes",
+    "sources": {
+      "earnings": [
+        "Other Taxes"
+      ],
+      "financials": [
+        "Other Taxes"
+      ]
+    }
+  },
+  "otherunder_preferred_stock_dividend": {
+    "display_name": "otherunder_preferred_stock_dividend",
+    "sources": {
+      "earnings": [
+        "Otherunder Preferred Stock Dividend"
+      ],
+      "financials": [
+        "Otherunder Preferred Stock Dividend"
+      ]
+    }
+  },
+  "preferred_stock_dividends": {
+    "display_name": "preferred_stock_dividends",
+    "sources": {
+      "earnings": [
+        "Preferred Stock Dividends"
+      ],
+      "financials": [
+        "Preferred Stock Dividends"
+      ]
+    }
+  },
+  "pretax_income": {
+    "display_name": "pretax_income",
+    "sources": {
+      "earnings": [
+        "Pretax Income"
+      ],
+      "financials": [
+        "Pretax Income"
+      ]
+    }
+  },
+  "professional_expense_and_contract_services_expense": {
+    "display_name": "professional_expense_and_contract_services_expense",
+    "sources": {
+      "earnings": [
+        "Professional Expense And Contract Services Expense"
+      ],
+      "financials": [
+        "Professional Expense And Contract Services Expense"
+      ]
+    }
+  },
+  "provision_for_doubtful_accounts": {
+    "display_name": "provision_for_doubtful_accounts",
+    "sources": {
+      "earnings": [
+        "Provision For Doubtful Accounts"
+      ],
+      "financials": [
+        "Provision For Doubtful Accounts"
+      ]
+    }
+  },
+  "reconciled_cost_of_revenue": {
+    "display_name": "reconciled_cost_of_revenue",
+    "sources": {
+      "earnings": [
+        "Reconciled Cost Of Revenue"
+      ],
+      "financials": [
+        "Reconciled Cost Of Revenue"
+      ]
+    }
+  },
+  "reconciled_depreciation": {
+    "display_name": "reconciled_depreciation",
+    "sources": {
+      "earnings": [
+        "Reconciled Depreciation"
+      ],
+      "financials": [
+        "Reconciled Depreciation"
+      ]
+    }
+  },
+  "rent_and_landing_fees": {
+    "display_name": "rent_and_landing_fees",
+    "sources": {
+      "earnings": [
+        "Rent And Landing Fees"
+      ],
+      "financials": [
+        "Rent And Landing Fees"
+      ]
+    }
+  },
+  "rent_expense_supplemental": {
+    "display_name": "rent_expense_supplemental",
+    "sources": {
+      "earnings": [
+        "Rent Expense Supplemental"
+      ],
+      "financials": [
+        "Rent Expense Supplemental"
+      ]
+    }
+  },
+  "research_and_development": {
+    "display_name": "research_and_development",
+    "sources": {
+      "earnings": [
+        "Research And Development"
+      ],
+      "financials": [
+        "Research And Development"
+      ]
+    }
+  },
+  "restructuring_and_mergern_acquisition": {
+    "display_name": "restructuring_and_mergern_acquisition",
+    "sources": {
+      "earnings": [
+        "Restructuring And Mergern Acquisition"
+      ],
+      "financials": [
+        "Restructuring And Mergern Acquisition"
+      ]
+    }
+  },
+  "salaries_and_wages": {
+    "display_name": "salaries_and_wages",
+    "sources": {
+      "earnings": [
+        "Salaries And Wages"
+      ],
+      "financials": [
+        "Salaries And Wages"
+      ]
+    }
+  },
+  "selling_and_marketing_expense": {
+    "display_name": "selling_and_marketing_expense",
+    "sources": {
+      "earnings": [
+        "Selling And Marketing Expense"
+      ],
+      "financials": [
+        "Selling And Marketing Expense"
+      ]
+    }
+  },
+  "selling_general_and_administration": {
+    "display_name": "selling_general_and_administration",
+    "sources": {
+      "earnings": [
+        "Selling General And Administration"
+      ],
+      "financials": [
+        "Selling General And Administration"
+      ]
+    }
+  },
+  "special_income_charges": {
+    "display_name": "special_income_charges",
+    "sources": {
+      "earnings": [
+        "Special Income Charges"
+      ],
+      "financials": [
+        "Special Income Charges"
+      ]
+    }
+  },
+  "tax_effect_of_unusual_items": {
+    "display_name": "tax_effect_of_unusual_items",
+    "sources": {
+      "earnings": [
+        "Tax Effect Of Unusual Items"
+      ],
+      "financials": [
+        "Tax Effect Of Unusual Items"
+      ]
+    }
+  },
+  "tax_provision": {
+    "display_name": "tax_provision",
+    "sources": {
+      "earnings": [
+        "Tax Provision"
+      ],
+      "financials": [
+        "Tax Provision"
+      ]
+    }
+  },
+  "tax_rate_for_calcs": {
+    "display_name": "tax_rate_for_calcs",
+    "sources": {
+      "earnings": [
+        "Tax Rate For Calcs"
+      ],
+      "financials": [
+        "Tax Rate For Calcs"
+      ]
+    }
+  },
+  "total_expenses": {
+    "display_name": "total_expenses",
+    "sources": {
+      "earnings": [
+        "Total Expenses"
+      ],
+      "financials": [
+        "Total Expenses"
+      ]
+    }
+  },
+  "total_operating_income_as_reported": {
+    "display_name": "total_operating_income_as_reported",
+    "sources": {
+      "earnings": [
+        "Total Operating Income As Reported"
+      ],
+      "financials": [
+        "Total Operating Income As Reported"
+      ]
+    }
+  },
+  "total_other_finance_cost": {
+    "display_name": "total_other_finance_cost",
+    "sources": {
+      "earnings": [
+        "Total Other Finance Cost"
+      ],
+      "financials": [
+        "Total Other Finance Cost"
+      ]
+    }
+  },
+  "total_revenue": {
+    "display_name": "total_revenue",
+    "sources": {
+      "earnings": [
+        "Total Revenue"
+      ],
+      "financials": [
+        "Total Revenue"
+      ]
+    }
+  },
+  "total_unusual_items": {
+    "display_name": "total_unusual_items",
+    "sources": {
+      "earnings": [
+        "Total Unusual Items"
+      ],
+      "financials": [
+        "Total Unusual Items"
+      ]
+    }
+  },
+  "total_unusual_items_excluding_goodwill": {
+    "display_name": "total_unusual_items_excluding_goodwill",
+    "sources": {
+      "earnings": [
+        "Total Unusual Items Excluding Goodwill"
+      ],
+      "financials": [
+        "Total Unusual Items Excluding Goodwill"
+      ]
+    }
+  },
+  "write_off": {
+    "display_name": "write_off",
+    "sources": {
+      "earnings": [
+        "Write Off"
+      ],
+      "financials": [
+        "Write Off"
+      ]
+    }
+  }
+}

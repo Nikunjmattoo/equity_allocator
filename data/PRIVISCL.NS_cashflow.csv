@@ -1,0 +1,236 @@
+symbol,statement_type,period_end,line_item,value
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-180268000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2506676000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,3110000000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2991372000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,497640000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,239865000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-32000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,257807000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,386328000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-855539000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-78125000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1418785000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,815461000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,603324000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2506676000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,3110000000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2939625000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,18653000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,26256000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,354098000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-327842000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2984534000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,6838000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-2991372000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2811104000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-706574000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1385602000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,31230000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-853033000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1197364000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1290606000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-470557000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,858808000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1317533000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Depreciation,1317533000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-11309000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,196392000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-4525000.0
+PRIVISCL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2545228000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2039755000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1598710000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,2350000000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1505084000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,239865000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,204491000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,35374000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1706184000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,98011000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-947576000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,0.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-789030000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1540320000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,751290000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1598710000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,2350000000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1803281000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,3223000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-333452000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,730000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-334182000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-49950000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-49950000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1423102000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,81982000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1505084000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,3544839000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-259163000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,407380000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-574571000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,215251000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-114088000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,1399942000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-519154000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,976162000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1234143000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,40002000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Depreciation,1234143000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-25449000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-68084000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-19321000.0
+PRIVISCL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1299093000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-909329000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-606815000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1250000000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1396920000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,204491000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,325189000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,496000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-121194000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,723052000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-666947000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-78125000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-78125000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1499115000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,855930000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,855930000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,643185000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-606815000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1250000000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1331837000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-1551000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,2755000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,61561000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,63112000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1551000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1396153000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,767000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1396920000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,487591000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-139470000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1536677000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,457672000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,224909000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-115146000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1830571000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-273541000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,675050000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1084867000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,32650000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Depreciation,1052217000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-6184000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,93628000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,5944000.0
+PRIVISCL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,310433000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-3038930000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-337302000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1098217000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3086291000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,325189000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,154532000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-1329000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,171986000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3329139000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-343806000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-78121000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-78121000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,3776229000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,3015314000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,3015314000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,760915000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-337302000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1098217000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3204514000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-2675000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,3095000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2675000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-2675000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-120000000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-120000000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3084934000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1357000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3086291000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,47361000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-327393000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1939394000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-39730000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-323441000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1386015000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2737943000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-224295000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,222273000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,2092000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,746615000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Depreciation,746615000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-27000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10407000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-69000.0
+PRIVISCL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1327536000.0
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-58594000.0
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-58594000.0
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PRIVISCL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

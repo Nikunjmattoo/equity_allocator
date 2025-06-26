@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-54993000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2085495000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,4426118000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-290361000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1507327000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1268588000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,26944000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,211795000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,244549000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1613452000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-258780000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,2340623000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,2340623000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2085495000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,4426118000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-268122000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,23421000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,3000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,-30511000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,29326000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,29326000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,-290361000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,235368000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-443452000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-3392420000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-2509422000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,1041963000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,714304000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,37388000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-2753735000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1664076000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,456735000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,303788000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Depreciation,303788000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-17779000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-8144000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,8370000.0
+SMCGLOBAL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1468116000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-2234175000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3145648000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,8194251000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-306232000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1268588000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,322364000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,946224000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,3160814000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1464423000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-250604000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,5048603000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,2737014000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-675456000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,3412470000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,5048603000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-3145648000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,8194251000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-286647000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,37273000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,2000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,-27246000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,-27246000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,9556000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,9556000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-306232000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-1927943000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-423264000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-5887130000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,4120841000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-9198951000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,3546702000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-12540000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-4405212000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1516607000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,562173000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,321018000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,19246000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Depreciation,321018000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-59823000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-878000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-69000.0
+SMCGLOBAL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1882765000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-2924509000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-924206000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1675299000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,6146247000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-323666000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,324396000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,922456000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,49164000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-598059000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2312851000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,3617000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-850212000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-259670000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-924206000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-924206000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,4470948000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,2380890000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,2380890000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,2090058000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1675299000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,3765357000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-310067000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1378000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,303000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,-1583000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,-1583000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,13501000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,13501000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-303245000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-323666000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-2600843000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-401273000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-4989673000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1446254000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-903714000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-2368187000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,292863000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-3533436000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,891787000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,415604000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,226941000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,10055000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Depreciation,216886000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-303000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-4310000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-7564000.0
+SMCGLOBAL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1203962000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1449074000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2527234000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,2422058000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-639525000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,922456000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,74000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,441375000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,15962000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,465045000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-998546000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-553173000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-225798000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-105176000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-1509638000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-105176000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-2527234000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,2422058000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-625008000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,13473000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,35000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,1009000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1009000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-639525000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-639525000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2088599000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-529957000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-518001000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,1854606000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-2137077000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,2265303000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-213380000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2322505000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,558571000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,468173000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,201160000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,8664000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Depreciation,192496000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-27000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-494000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-264000.0
+SMCGLOBAL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1745685000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,148000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-161846000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,1645684000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-18932000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,211105000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-230037000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-7333000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-71574000.0
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SMCGLOBAL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,173 @@
+symbol,statement_type,period_end,line_item,value
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,111859000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,53623000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,703000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2391000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-1688000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-121126000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-14602000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-49604000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,53623000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,53623000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-106641000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-22798000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-83843000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,7579000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,6271000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,1308000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,0.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,111859000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,0.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,84462000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-8499000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-14301000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-110210000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,176195000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,38856000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,52102000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,127051000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Depreciation,127051000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,7484000.0
+LEXUS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-159240000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-79524000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,140021000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-137321000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2391000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1918000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,473000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,78366000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,19668000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-43303000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,104445000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-35576000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,140021000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,140021000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-135690000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1631000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,1631000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-137310000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,240729000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-11000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,57797000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,0.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-4912000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-3230000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-1523000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,38128000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-88622000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,50002000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,43912000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,134490000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Depreciation,134490000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,609000.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LEXUS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-115693000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,104201000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-70286000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-254351000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1918000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1760000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,158000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-214495000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,54000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-59469000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-152391000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-82105000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-70286000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-70286000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-143899000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-1000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1100000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,50670000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,50670000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-183765000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,59783000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-243548000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-10803000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,358552000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,5856000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,100006000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,17987000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,3322000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,69778000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-52582000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,61252000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,61089000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,84248000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Depreciation,84248000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,1620000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,1669000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-50367000.0
+LEXUS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,107355000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,-10615000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,72436000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-46179000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,18932000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,511000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,18421000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,13311000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-61607000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,74918000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,2482000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,72436000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,72436000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-30454000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,845000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,390000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,390000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-46179000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,35564000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,374451000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,17839000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,12980000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-4725000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,255837000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,93444000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,60762000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,92466000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Depreciation,92466000.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LEXUS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,-492115000.0

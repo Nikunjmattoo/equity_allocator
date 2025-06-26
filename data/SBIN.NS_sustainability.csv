@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+SBIN.NS,maxAge,86400
+SBIN.NS,totalEsg,27.05
+SBIN.NS,environmentScore,2.25
+SBIN.NS,socialScore,12.18
+SBIN.NS,governanceScore,12.62
+SBIN.NS,ratingYear,2023
+SBIN.NS,ratingMonth,9
+SBIN.NS,highestControversy,2.0
+SBIN.NS,peerCount,16
+SBIN.NS,esgPerformance,AVG_PERF
+SBIN.NS,peerGroup,Banks
+SBIN.NS,relatedControversy,"['Product & Service Incidents', 'Customer Incidents', 'Society & Community Incidents', 'Business Ethics Incidents', 'Governance Incidents']"
+SBIN.NS,peerEsgScorePerformance,"{'min': 16.14, 'avg': 26.053749999999997, 'max': 44.83}"
+SBIN.NS,peerGovernancePerformance,"{'min': 6.81, 'avg': 12.520714285714288, 'max': 19.69}"
+SBIN.NS,peerSocialPerformance,"{'min': 7.12, 'avg': 11.787142857142856, 'max': 22.64}"
+SBIN.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 1.8957142857142855, 'max': 2.63}"
+SBIN.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.375, 'max': 5.0}"
+SBIN.NS,percentile,57.07
+SBIN.NS,environmentPercentile,
+SBIN.NS,socialPercentile,
+SBIN.NS,governancePercentile,
+SBIN.NS,adult,False
+SBIN.NS,alcoholic,False
+SBIN.NS,animalTesting,False
+SBIN.NS,catholic,False
+SBIN.NS,controversialWeapons,False
+SBIN.NS,smallArms,False
+SBIN.NS,furLeather,False
+SBIN.NS,gambling,False
+SBIN.NS,gmo,False
+SBIN.NS,militaryContract,False
+SBIN.NS,nuclear,False
+SBIN.NS,pesticides,False
+SBIN.NS,palmOil,False
+SBIN.NS,coal,False
+SBIN.NS,tobacco,False

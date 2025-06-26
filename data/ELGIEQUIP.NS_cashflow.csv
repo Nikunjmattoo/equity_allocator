@@ -1,0 +1,281 @@
+symbol,statement_type,period_end,line_item,value
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2961000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-152000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,-323000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-948000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1203000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2294000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1091000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-2171000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-316000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-632000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,-323000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,-323000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-650000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-498000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-152000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-152000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2829000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,8000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,447000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,36000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-2070000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2070000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-332000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,36000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-368000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-932000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,16000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-948000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,3909000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1397000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-170000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,205000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-167000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-105000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,137000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-345000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,297000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,58000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,185000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,760000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Depreciation,760000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-518000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-85000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-12000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,30000000.0
+ELGIEQUIP.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4816000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2360000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-188000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,133000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,-191000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-489000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2294000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1247000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1047000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-791000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-300000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-632000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-191000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,-191000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,553000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,608000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,581320000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-55000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-188000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,133000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1011000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,11000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,342000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,35000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-984000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-984000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,14000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,14000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-419000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,70000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-489000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2849000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1645000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-417000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,39000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-55000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Change In Payable,299000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-198000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-579000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,282000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,22000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,55000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,766000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,75650000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Depreciation,766000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-430000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-70000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-66000000.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ELGIEQUIP.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,4404000000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,969110000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-520990000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1861940000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,12510000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-690000000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1247330000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1163390000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,83940000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,598200000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-181210000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-363590000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-363590000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,12510000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,12510000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1340950000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1772930000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1772930000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-431980000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-520990000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,89010000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2173370000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1083710000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,146920000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,31920000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2839730000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2839730000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-30810000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-30810000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-564890000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,125110000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-690000000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1659110000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1187040000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1797820000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,280850000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-180800000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-48360000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1193070000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-822830000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,232020000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,8430000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,34580000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,777200000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,101020000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Depreciation,676180000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-1268880000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-102210000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-116080000.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ELGIEQUIP.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,5103700000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,280250000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-68700000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-268570000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,-2500000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-405360000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1163390000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1270600000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-107220000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-811860000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-107200000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-252940000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-252940000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-2500000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-68700000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,-2500000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-270830000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-2260000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-268570000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-268570000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,19030000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,12750000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,115570000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,21000000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,159980000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,159980000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-55360000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-55360000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-243170000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,162190000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-405360000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-405360000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,685610000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-784200000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1739710000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,221530000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-183330000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Change In Payable,297370000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1403630000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-742890000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,98360000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,9640000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,21390000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,744930000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,117940000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Depreciation,626990000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-104280000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-41310000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-155520000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,19180000.0
+ELGIEQUIP.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2630310000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-44040000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-1930000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-44040000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,12850000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,2350000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-311680000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,139060000.0
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+ELGIEQUIP.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

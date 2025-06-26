@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-164491000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,122075000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,27000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-559718000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,749630000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,761563000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-3388000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-8545000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-67450000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-2132000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-187420000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,27000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,27000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,122075000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,122075000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,122075000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-336322000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,121979000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,100000000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,100000000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-37803000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-37803000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-520498000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1417000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-521915000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,395227000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-517269000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1454103000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1461583000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1268188000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1647498000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-86217000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,5520000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,28227000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,196985000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,36730000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Depreciation,160255000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,30632000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-125700000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,617000.0
+TDPOWERSYS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2316535000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,393162000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2327000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-446851000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,761563000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,420865000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-16423000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,357121000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-156939000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-3096000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-156170000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2327000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2327000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-325953000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-99000000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,111827000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,100000000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,100000000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-40384000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-40384000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-398396000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,8071000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-406467000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,840013000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-385101000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-512055000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,249616000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-512084000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-249587000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-112515000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,3554000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,6089000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,210887000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,29276000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Depreciation,181611000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,24257000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-17451000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,328000.0
+TDPOWERSYS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1622020000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,678831000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-709651000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,11618000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-206794000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,420865000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,553934000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-23455000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-109614000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-891220000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,544000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-6480000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-187251000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-187251000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,11618000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,11618000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-709651000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-709651000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-709651000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-104019000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,57255000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-46918000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-46918000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-114356000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,45520000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-159876000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,885625000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-357127000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-230666000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-53698000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,105899000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-282867000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-90378000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,3262000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,3775000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,207048000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,23655000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Depreciation,183393000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,17604000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,44447000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-7804000.0
+TDPOWERSYS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1295464000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-40722000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,14341000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-149795000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,553934000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,474490000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-86033000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,165477000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,108811000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,495000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-14960000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-77649000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-77649000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,14341000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,14341000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,186584000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,186584000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-52407000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,95901000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-37670000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-37670000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-110638000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1487000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-112125000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,109073000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-171065000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-652060000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,460691000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-203656000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-909095000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-58543000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,13361000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-67947000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,220396000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,18908000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Depreciation,201488000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,5471000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-101285000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-6000.0
+TDPOWERSYS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,920751000.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-156115000.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,268000.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-156115000.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,0.0
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TDPOWERSYS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

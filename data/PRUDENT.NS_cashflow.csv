@@ -1,0 +1,241 @@
+symbol,statement_type,period_end,line_item,value
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1427053000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-860000000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,860000000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-179035000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,185640000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,182012000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,3628000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-178686000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-23688000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-82813000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-860000000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,860000000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1423774000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,96971000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,2525000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-1346543000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,9004171000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-10350714000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-176727000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,2308000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-179035000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1606088000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-632467000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-391254000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,91603000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-253654000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-184864000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-30395000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-91736000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,278600000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Depreciation,278600000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-178374000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-1047000.0
+PRUDENT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2620868000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1447774000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-263375000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,263375000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-48177000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,182012000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,217013000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-35001000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-139985000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-20922000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-62107000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-263375000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,263375000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1390967000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,23696000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,5104000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1371854000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,5536473000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-6908327000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-47913000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,264000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-48177000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1495951000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-504960000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,55714000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,131476000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-573963000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,884322000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-384339000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-26355000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,248232000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,154541000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Depreciation,248232000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-133187000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,865000.0
+PRUDENT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1858409000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1161828000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-881800000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,881800000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-40855000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,217013000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,187180000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,29833000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-115860000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-100.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-20751000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-41407000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-881800000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,881800000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1056990000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,7238000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,1518000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1025262000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,2482529000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-3507791000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-22623000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-22623000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-17861000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,371000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-18232000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1202683000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-306044000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-242723000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-11146000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-94838000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-40223000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-98055000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,4029000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-20367000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,240326000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,153625000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Depreciation,86701000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-41082000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,434000.0
+PRUDENT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1568201000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-597873000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-786000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,760000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1527943000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,187180000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,993321000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-806142000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-103726000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-25724000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-3101000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-26000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-26000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-786000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,760000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1632486000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,5151000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,57000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-110154000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,3099772000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-3209926000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-1510000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-1510000000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-17540000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,403000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-17943000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,930070000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-252828000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,26989000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,79149000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-55291000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,266275000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-255237000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,13765000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,133882000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Depreciation,133882000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-62043000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-151000.0
+PRUDENT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1071078000.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,0.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,-3424000.0
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PRUDENT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

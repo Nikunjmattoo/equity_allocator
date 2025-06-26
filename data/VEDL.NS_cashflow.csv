@@ -1,0 +1,331 @@
+symbol,statement_type,period_end,line_item,value
+VEDL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,225570000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-420000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-383020000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,396770000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,85000000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-170050000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,39930000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,28120000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,320000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,11490000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-192230000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Cash Flow From Continuing Financing Activities,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,31270000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-105390000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Proceeds From Stock Option Exercised,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-167720000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,84580000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,-420000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,85000000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,13750000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-7990000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-127220000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,119230000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,21740000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-255800000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,277540000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-191900000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Cash Flow From Continuing Investing Activities,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-25480000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,23900000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,350000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-23530000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1120610000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1144140000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,0.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-167140000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,2910000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-170050000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,395620000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Cash Flow From Continuing Operating Activities,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-30830000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Dividend Received Cfo,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-6650000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Change In Payables And Accrued Expense,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-45040000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-17140000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,55530000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,69560000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,580000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,3430000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Asset Impairment Charge,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Depreciation Amortization Depletion,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,111390000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Depreciation,111390000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Operating Gains Losses,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-2970000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,570000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-1910000000.0
+VEDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+VEDL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,268770000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,189020000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-2000000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-314330000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,362480000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-167520000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,28120000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,69260000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,100000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-41240000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-260920000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Cash Flow From Continuing Financing Activities,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-98780000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Proceeds From Stock Option Exercised,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-185720000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-2000000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-2000000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,48150000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-81480000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-189180000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,107700000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,129630000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-125150000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,254780000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-136860000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Cash Flow From Continuing Investing Activities,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-7970000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,16780000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,400000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,15990000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,558590000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-542600000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,840000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,840000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-165570000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1950000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-167520000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,356540000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Cash Flow From Continuing Operating Activities,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-26850000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Dividend Received Cfo,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,15520000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Change In Payables And Accrued Expense,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-2980000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,16700000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,1800000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,47170000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,700000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,2610000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Asset Impairment Charge,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Depreciation Amortization Depletion,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,107440000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2470000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Depreciation,107440000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Operating Gains Losses,
+VEDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-3460000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2630000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1140000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-1780000000.0
+VEDL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,203630000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,192780000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-297340000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,424700000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-137870000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,69260000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,86710000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,250000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-17700000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-341420000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Cash Flow From Continuing Financing Activities,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-170000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-55300000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Proceeds From Stock Option Exercised,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-299590000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,127360000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,45760000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-192700000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,238460000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,81600000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-104640000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,186240000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-6930000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Cash Flow From Continuing Investing Activities,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,49060000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,16740000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,180000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,39550000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,1152440000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1112890000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-136540000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1330000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-137870000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,330650000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Cash Flow From Continuing Operating Activities,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-63570000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Dividend Received Cfo,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,45990000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Change In Payables And Accrued Expense,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,36650000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-7280000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,16620000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,34640000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,770000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,4260000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Asset Impairment Charge,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Depreciation Amortization Depletion,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,105970000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,2410000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Depreciation,103560000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Operating Gains Losses,
+VEDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-740000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,4920000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,90000000.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+VEDL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,202760000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,243330000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-390950000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,350470000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-106300000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,86710000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,48540000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,100000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,38070000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-289030000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Cash Flow From Continuing Financing Activities,-208166000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-26682000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-52740000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Proceeds From Stock Option Exercised,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-166810000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-40480000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,37940000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-103370000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,141310000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-78420000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-287580000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,209160000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-22530000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Cash Flow From Continuing Investing Activities,-36608000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,48470000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,18680000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,10000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2870000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,868480000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-871350000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-103050000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,3250000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-106300000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,349630000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Cash Flow From Continuing Operating Activities,282819000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-57360000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,18682000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,-52217000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Dividend Received Cfo,15000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-47660000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Change In Payables And Accrued Expense,51461000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,78060000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-43730000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-81990000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,33640000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,790000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,-2087000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,2440000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Asset Impairment Charge,-34613000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Depreciation Amortization Depletion,91148000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,89190000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Depreciation,89190000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Operating Gains Losses,1476000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-2090000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2350000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-1280000000.0
+VEDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+VEDL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,329640000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+VEDL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Cash Flow From Continuing Financing Activities,-131371000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-5361000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Proceeds From Stock Option Exercised,0.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Cash Flow From Continuing Investing Activities,-167358000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-448000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Cash Flow From Continuing Operating Activities,295952000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,20351000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,-53499000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Dividend Received Cfo,18000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Change In Payables And Accrued Expense,7515000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,-9340000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Asset Impairment Charge,2511000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Depreciation Amortization Depletion,81178000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Operating Gains Losses,-1768000000.0
+VEDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+VEDL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

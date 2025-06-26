@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+DIXON.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2104000000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1937300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,2462400000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,1399300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-9393500000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2308500000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1360900000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2004800000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1057200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-265700000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+DIXON.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1219200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-329100000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,1399300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,1399300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,582800000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,57700000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+DIXON.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,525100000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1937300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2462400000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-12289000000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-226300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,81100000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-2484400000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1900000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2486300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-723500000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,2486300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-3209800000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,437600000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,437600000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,-9393500000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,11497500000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-2759600000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1816200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,6801100000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-12577300000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Change In Payable,54077500000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-18993000000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-30494800000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1372200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,851200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,46600000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2810200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+DIXON.NS,cashflow,2025-03-31 00:00:00,Depreciation,2810200000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-900000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,87700000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-18600000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-4599800000.0
+DIXON.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,15524200000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-1200000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-302400000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,39500000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,468900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-5844300000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2004800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DIXON.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2170400000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-165600000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-699700000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,208200000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-494400000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-178600000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,468900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,468900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-275900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-13000000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+DIXON.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-262900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-302400000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,39500000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-5309000000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,39700000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,11200000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,345800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,345800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,158600000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,158600000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-5844300000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,5843100000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1217900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-88100000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1128100000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-4113300000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Change In Payable,16269800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-7371400000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-6032200000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,648300000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,122100000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,9900000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1618800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,61100000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Depreciation,1618800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-2300000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-95400000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,11800000.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+DIXON.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,4835900000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2645500000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1959100000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,333600000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,335700000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4612000000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2170400000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1764600000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,405800000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3296200000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-431600000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-118700000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,335700000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,335700000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-2775900000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-1150400000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1625500000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1959100000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,333600000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-3555500000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-62600000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,12900000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,929400000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,1357900000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-428500000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,109800000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,109800000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-4612000000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,7257500000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-819900000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,2763900000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1858600000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,1102500000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1388300000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1978100000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-3592000000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,587400000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,118200000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-300000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1146300000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,44800000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Depreciation,1146300000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-7800000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,22200000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,32000000.0
+DIXON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+DIXON.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3431600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1478800000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-80200000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,2253900000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,642000000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4206400000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1764600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,200000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,638400000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1126200000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3043200000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+DIXON.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-566500000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-58600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-58600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,642000000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,642000000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,3026300000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,852600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+DIXON.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,852600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,2173700000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-80200000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,2253900000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4644600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-52100000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,6600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-497900000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,5800000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-503700000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+DIXON.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+DIXON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,32500000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,32500000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-4206400000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2727600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-539800000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-641100000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,1444600000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1444800000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Change In Payable,6095100000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-4188000000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2664800000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,435100000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,107400000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-9000000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,839500000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,12200000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Depreciation,827300000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-5800000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-7300000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,500000.0
+DIXON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+DIXON.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2547100000.0
+DIXON.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+DIXON.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-10500000.0
+DIXON.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+DIXON.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,10700000.0
+DIXON.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+DIXON.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

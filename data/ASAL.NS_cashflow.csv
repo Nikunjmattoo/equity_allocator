@@ -1,0 +1,216 @@
+symbol,statement_type,period_end,line_item,value
+ASAL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-232607000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-40000000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,478838000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-165413000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,44027000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,18801000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,25225000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,247391000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-102134000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,438838000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,438838000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-40000000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,478838000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-154972000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-1000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,742000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-155713000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,9700000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-165413000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-67194000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-6287000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-547953000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-7801000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,25015000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-502476000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,114524000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-188425000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,145906000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-14205000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,196777000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Depreciation,196777000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+ASAL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-9221000.0
+ASAL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,167789000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,184799000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-100000000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,99925000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-126429000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,18801000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,29145000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-10344000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-197380000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-112501000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-75000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-75000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-100000000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,99925000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-124192000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,814000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-125006000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1423000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-126429000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,311228000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-9100000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-190338000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,15838000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,66348000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,135202000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-150086000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-263454000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,151429000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-4204000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,-4204000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,163163000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1370000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Depreciation,163163000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+ASAL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1423000.0
+ASAL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,201701000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,102795000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-118428000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,150000000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-146858000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,29145000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,35710000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-6564000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-119955000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+ASAL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-97587000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,31572000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,31572000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-118428000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,150000000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+ASAL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-136262000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+ASAL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,3491000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,6547000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,6547000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-146300000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,558000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-146858000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,249653000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,22959000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-116213000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,82377000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-150822000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,279519000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-107921000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-221399000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,123558000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-1553000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,-1553000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,138207000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1305000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Depreciation,136902000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+ASAL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-558000.0
+ASAL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,83253000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,259793000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-2505281000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1359610000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-178448000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,35710000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,259000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,35451000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-1315204000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-143241000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-1145671000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-753171000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-2112781000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,1359610000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-392500000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-392500000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,912414000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,153000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-6451000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,918712000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1097160000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-178448000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,438241000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-19357000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,359710000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,27200000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-31886000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,350237000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-37737000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,81341000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,149577000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-14904000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,108441000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Depreciation,108441000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+ASAL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-668334000.0
+ASAL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,523108000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ASAL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,107013000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-125487000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,232500000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-1000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,1200000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,0.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,52000.0
+ASAL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ASAL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,185 @@
+{
+  "balance_sheet.total_assets": [
+    "Total Assets"
+  ],
+  "cashflow.total_assets": [
+    "Change In Other Current Assets",
+    "Change In Prepaid Assets",
+    "Provisionand Write Offof Assets"
+  ],
+  "earnings.total_assets": [
+    "Impairment Of Capital Assets"
+  ],
+  "financials.total_assets": [
+    "Impairment Of Capital Assets"
+  ],
+  "balance_sheet.total_debt": [
+    "Total Debt"
+  ],
+  "cashflow.total_debt": [
+    "Issuance Of Debt",
+    "Long Term Debt Issuance",
+    "Long Term Debt Payments",
+    "Net Issuance Payments Of Debt",
+    "Net Long Term Debt Issuance",
+    "Net Short Term Debt Issuance",
+    "Repayment Of Debt",
+    "Short Term Debt Issuance",
+    "Short Term Debt Payments"
+  ],
+  "balance_sheet.total_cash": [
+    "Cash And Cash Equivalents",
+    "Cash Cash Equivalents And Federal Funds Sold",
+    "Cash Cash Equivalents And Short Term Investments",
+    "Cash Equivalents",
+    "Cash Financial",
+    "Restricted Cash"
+  ],
+  "cashflow.total_cash": [
+    "Amortization Cash Flow",
+    "Beginning Cash Position",
+    "Cash Dividends Paid",
+    "Cash Flow From Continuing Financing Activities",
+    "Cash Flow From Continuing Investing Activities",
+    "Cash Flow From Continuing Operating Activities",
+    "Cash Flowsfromusedin Operating Activities Direct",
+    "Changes In Cash",
+    "Classesof Cash Payments",
+    "Classesof Cash Receiptsfrom Operating Activities",
+    "End Cash Position",
+    "Financing Cash Flow",
+    "Free Cash Flow",
+    "Investing Cash Flow",
+    "Operating Cash Flow",
+    "Other Cash Adjustment Inside Changein Cash",
+    "Other Cash Adjustment Outside Changein Cash",
+    "Other Cash Paymentsfrom Operating Activities",
+    "Other Cash Receiptsfrom Operating Activities",
+    "Other Non Cash Items"
+  ],
+  "balance_sheet.total_equity": [
+    "Total Equity Gross Minority Interest"
+  ],
+  "cashflow.total_equity": [
+    "Earnings Losses From Equity Investments"
+  ],
+  "earnings.total_equity": [
+    "Earnings From Equity Interest",
+    "Earnings From Equity Interest Net Of Tax"
+  ],
+  "financials.total_equity": [
+    "Earnings From Equity Interest",
+    "Earnings From Equity Interest Net Of Tax"
+  ],
+  "balance_sheet.total_liabilities": [
+    "Total Liabilities Net Minority Interest"
+  ],
+  "cashflow.total_liabilities": [
+    "Change In Other Current Liabilities"
+  ],
+  "balance_sheet.current_assets": [
+    "Current Assets",
+    "Other Current Assets",
+    "Other Non Current Assets",
+    "Total Non Current Assets"
+  ],
+  "cashflow.current_assets": [
+    "Change In Other Current Assets"
+  ],
+  "earnings.current_assets": [
+    "Impairment Of Capital Assets"
+  ],
+  "financials.current_assets": [
+    "Impairment Of Capital Assets"
+  ],
+  "balance_sheet.current_liabilities": [
+    "Current Liabilities",
+    "Other Current Liabilities",
+    "Other Non Current Liabilities",
+    "Total Non Current Liabilities Net Minority Interest"
+  ],
+  "cashflow.current_liabilities": [
+    "Change In Other Current Liabilities"
+  ],
+  "balance_sheet.inventory": [
+    "Inventory"
+  ],
+  "cashflow.inventory": [
+    "Change In Inventory"
+  ],
+  "balance_sheet.net_income": [
+    "Income Tax Payable"
+  ],
+  "cashflow.net_income": [
+    "Net Income From Continuing Operations"
+  ],
+  "earnings.net_income": [
+    "Net Income",
+    "Net Income Common Stockholders",
+    "Net Income Continuous Operations",
+    "Net Income Discontinuous Operations",
+    "Net Income Extraordinary",
+    "Net Income From Continuing And Discontinued Operation",
+    "Net Income From Continuing Operation Net Minority Interest",
+    "Net Income Including Noncontrolling Interests"
+  ],
+  "financials.net_income": [
+    "Net Income",
+    "Net Income Common Stockholders",
+    "Net Income Continuous Operations",
+    "Net Income Discontinuous Operations",
+    "Net Income Extraordinary",
+    "Net Income From Continuing And Discontinued Operation",
+    "Net Income From Continuing Operation Net Minority Interest",
+    "Net Income Including Noncontrolling Interests"
+  ],
+  "earnings.ebit": [
+    "EBIT",
+    "EBITDA",
+    "Normalized EBITDA"
+  ],
+  "financials.ebit": [
+    "EBIT",
+    "EBITDA",
+    "Normalized EBITDA"
+  ],
+  "earnings.ebitda": [
+    "EBITDA",
+    "Normalized EBITDA"
+  ],
+  "financials.ebitda": [
+    "EBITDA",
+    "Normalized EBITDA"
+  ],
+  "balance_sheet.gross_profit": [
+    "Financial Assets Designatedas Fair Value Through Profitor Loss Total"
+  ],
+  "earnings.gross_profit": [
+    "Gross Profit"
+  ],
+  "financials.gross_profit": [
+    "Gross Profit"
+  ],
+  "balance_sheet.total_revenue": [
+    "Current Deferred Revenue",
+    "Non Current Deferred Revenue"
+  ],
+  "earnings.total_revenue": [
+    "Total Revenue"
+  ],
+  "financials.total_revenue": [
+    "Total Revenue"
+  ],
+  "earnings.basic_eps": [
+    "Basic EPS"
+  ],
+  "financials.basic_eps": [
+    "Basic EPS"
+  ],
+  "earnings.diluted_eps": [
+    "Diluted EPS"
+  ],
+  "financials.diluted_eps": [
+    "Diluted EPS"
+  ]
+}

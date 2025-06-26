@@ -1,0 +1,226 @@
+symbol,statement_type,period_end,line_item,value
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,187064000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-178000000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,40567000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-153486000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,End Cash Position,5029000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,5694000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-665000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-191236000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-43082000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-4535000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-137433000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,37025000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,37025000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-174458000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-178000000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,3542000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-149979000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-787000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,628000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-149820000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3666000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-153486000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,340550000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-85000000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-83580000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,471976000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-398957000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-56278000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Prepaid Assets,-13482000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,138126000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-224966000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,41666000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,50599000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,149967000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Depreciation,149967000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,5310000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-311000.0
+SMSLIFE.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,261899000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,34378000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-176231000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,166473000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-208677000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,End Cash Position,5695000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,12778000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-7084000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-65636000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-62935000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-4535000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-9758000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,166473000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,166473000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-176231000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-176231000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-184503000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-1156000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,780000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,23321000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,23321000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-207448000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1229000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-208677000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,243055000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-30000000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-40263000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,365152000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-397171000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-2179000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Prepaid Assets,-2933000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,50245000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-53377000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,61373000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,483000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,149376000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,345000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Depreciation,149376000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,3613000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,8000.0
+SMSLIFE.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,98467000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-338558000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-114369000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,327834000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-485508000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,End Cash Position,12778000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,9860000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,2918000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,168884000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-35257000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-4535000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,213465000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,29763000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,29763000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,183702000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-114369000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,298071000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-312916000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,2304000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1982000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,110790000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,111962000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1172000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-427992000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,57516000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-485508000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,146950000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-32599000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-121538000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,371255000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-168547000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-181162000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,-12853000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-2808000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-127423000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,36210000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,5129000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,107886000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,384000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Depreciation,107502000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,9437000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,12000.0
+SMSLIFE.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,142413000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-623941000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-73149000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,203568000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-511531000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,End Cash Position,9860000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,85363000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-75503000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,108335000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-35415000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,130419000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,86622000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,86622000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,43797000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-73149000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,116946000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-71428000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,3768000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2117000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,337860000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,337860000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-415173000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,96358000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-511531000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-112410000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-77077000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-376235000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-25421000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-287933000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Payable,173571000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,4445000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-241950000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,1053000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,33385000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,2132000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,100060000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,365000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Depreciation,99695000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,5803000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-866000.0
+SMSLIFE.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,200387000.0
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-1000.0
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-7610000.0
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-20196000.0
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,383000.0
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SMSLIFE.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

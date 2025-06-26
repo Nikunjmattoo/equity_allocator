@@ -1,0 +1,381 @@
+symbol,statement_type,period_end,line_item,value
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,30000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,277847193.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,277877193.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,1509970000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,29472660000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,34896350000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,23778490000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,29472660000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,1395900000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,34782280000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,34864690000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,34782280000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,34782280000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,34226530000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,555750000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,555750000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,9841620000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1987760000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,60180000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1120210000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,1037800000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,82410000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,757340000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,7853860000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,2566140000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,389760000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,358100000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,31660000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,671940000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Payables,2548350000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,195030000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,2353320000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,44623900000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,12991550000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,196750000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Defined Pension Benefit,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Assets,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,1001530000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,3264930000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,3264930000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,5309620000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,237780000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,5071840000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,2354520000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,2354520000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,48860000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,2305660000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,31632350000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,2458330000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Inventory,103940000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,9801600000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,19086500000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,15815660000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,3270840000.0
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+BSOFT.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,42200.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,275895221.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,275937421.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,931770000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,25389480000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,30441250000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,20216140000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,25389480000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,931770000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,30441250000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,30441250000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,30441250000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,30441250000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,909020000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,24921880000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,1058790000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,551870000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,551870000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,8815240000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1357220000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,67280000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,577630000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,577630000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,712310000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,7458020000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,3030000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,354140000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,354140000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,2037480000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,631210000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Payables,3772050000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,716650000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,9000000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,241110000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,2805290000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,39256490000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,11582330000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,189760000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Defined Pension Benefit,
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,165640000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Assets,185030000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,1044000000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,2859610000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,197330000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,2662280000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,5051770000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,94940000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,4956830000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,2035570000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-4188510000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,6224080000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,116430000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,1919140000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,2677730000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,3383620000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,46300000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,27674160000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,15940000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,13800000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,73390000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,12130000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,1051580000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Inventory,
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,4253800000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,7677010000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-439070000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,8116080000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,14576510000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,10650810000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,3925700000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,939990000.0
+BSOFT.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,2985710000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,211600.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,274658947.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,274870547.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,1018310000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,19449180000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,24482930000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,15510320000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,19449180000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,1018310000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,24482930000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,24482930000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,24482930000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,24482930000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,397650000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,19910470000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,869280000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,549740000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,549740000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,7389750000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1202350000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,52810000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,662120000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,662120000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,487420000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,6187400000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,3220000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,356190000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,356190000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1234400000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,638950000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Payables,3421530000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,772100000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,10400000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,326230000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,2312800000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,31872680000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,10174960000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,73920000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Defined Pension Benefit,
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,167420000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Assets,65170000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,1170780000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,853240000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,551060000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,302180000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,5033750000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,137930000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,4895820000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,2390220000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-4188720000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,6578940000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,64950000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,2325270000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,3150720000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,3316970000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,46300000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,21697720000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,20970000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,0.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,102260000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,21480000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1071500000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Inventory,
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,2709340000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,7316120000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1558400000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,8874520000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,10456050000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,5787230000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,4668820000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,1482030000.0
+BSOFT.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,3186790000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,372400.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,279123682.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,279496082.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,1228290000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,21157710000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,25830500000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,17734030000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,21157710000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,1228290000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,25830500000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,25830500000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,25830500000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,25830500000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,225150000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,18704080000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,4499010000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,558990000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,558990000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,8002910000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1403970000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,911580000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,911580000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,492390000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,6598940000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,717290000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,316710000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,316710000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1693980000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,396250000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Payables,2467440000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,21740000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,8160000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,342450000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,2095090000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,33833410000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,9500440000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,132890000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Defined Pension Benefit,0.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,132660000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Assets,129740000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,920060000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,560600000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,560600000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,4672790000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,104970000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,4567820000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,2601140000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-3549640000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,6150780000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,16990000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,2584150000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,2832550000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,3226080000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,75160000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,24332970000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,8290000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,68730000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,184020000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,11000000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,941780000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Inventory,
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,4626860000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,6811550000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-410940000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,7222490000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,11680740000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,8775130000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,2905610000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,400580000.0
+BSOFT.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,2505030000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,15164620000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,4331360000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1639410000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,445900000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,8280000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Defined Pension Benefit,24640000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,226500000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Assets,79860000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-3138610000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,2258790000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,3204790000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,75160000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,170230000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,2460000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,8260000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,689330000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,4017270000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-409170000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,5591480000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,1570760000.0
+BSOFT.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,3090160000.0

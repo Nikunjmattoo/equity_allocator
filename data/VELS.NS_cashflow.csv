@@ -1,0 +1,181 @@
+symbol,statement_type,period_end,line_item,value
+VELS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,321333260.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-846591220.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+VELS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,
+VELS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,237062160.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,10.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,62775280.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,174286870.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-819389770.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,125609900.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-98408450.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+VELS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-846591220.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-846591220.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-846591220.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,672343380.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,983006060.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-198959000.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-198959000.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,
+VELS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,
+VELS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,321333260.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,
+VELS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-369376270.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,54360800.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,115635420.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-94039940.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-354650370.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-90682180.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,98408450.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,169544730.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Depreciation,169544730.0
+VELS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-38522320.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-318544410.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+VELS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,375752630.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+VELS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-531866690.0
+VELS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,62775270.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,76625880.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-13850600.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,307194080.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+VELS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-68558550.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+VELS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,375752630.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,375752630.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+VELS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,375752630.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-534366960.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-531866690.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-531866690.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,213322280.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,0.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,478520460.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,560251150.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,109757440.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,10881450.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-146000530.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-56369040.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,68558550.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,131644940.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Depreciation,131644940.0
+VELS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-465401680.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-734659190.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+VELS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,510580.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,95000.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-873730.0
+VELS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,76625880.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,802607440.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,8107150.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-734088710.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,570480.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1880.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-33220.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,95000.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,95000.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,510580.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,510580.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+VELS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,510580.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-873730.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-3868900.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-873730.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-873730.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-733785460.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,0.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-734419230.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,135728020.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-427004620.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,122813330.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-539886740.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-26080630.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,33220.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,507610.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Depreciation,507610.0
+VELS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,92940.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-563789510.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+VELS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,510576770.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,95000000.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-873733730.0
+VELS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,6686130.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-12000.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,0.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,6686130.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,570475640.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1884110.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-33217020.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,95000000.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,95000000.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,510576770.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,510576770.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+VELS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,510576770.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-873733730.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-873733730.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-873733730.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,309944220.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-323820710.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,406573200.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-293092840.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,105500760.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-364635590.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-189566240.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,33217020.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,507606120.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Depreciation,507606120.0
+VELS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,92941800.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VELS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,0.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VELS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,94000000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-29000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VELS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VELS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VELS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VELS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+VELS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,94000000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,94000000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+VELS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,0.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+VELS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+VELS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-29000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-29000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VELS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-24770000.0
+VELS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VELS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+VELS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+VELS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VELS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+VELS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+VELS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VELS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VELS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VELS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

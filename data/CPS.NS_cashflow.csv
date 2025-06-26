@@ -1,0 +1,191 @@
+symbol,statement_type,period_end,line_item,value
+CPS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-41260000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4328000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+CPS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,47748000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-15763000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1325000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,17087000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-15762000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,25438000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+CPS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-10498000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,47748000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,47748000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-11812000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-7484000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-4328000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-4328000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+CPS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-15703000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,60000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-15763000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,
+CPS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-15763000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-25497000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1086000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-45944000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,2493000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,0.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2459000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-11012000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-40308000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,10438000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,8380000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+CPS.NS,cashflow,2025-03-31 00:00:00,Depreciation,8380000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,2068000.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+CPS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,647000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-53016000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-35163000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+CPS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,94977000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-27434000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,17087000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2003000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,15084000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,67723000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+CPS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-15254000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,94977000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,94977000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-12000000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,23163000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-35163000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-35163000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+CPS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-27057000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,377000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-27434000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-27434000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-25582000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-8375000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-51114000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2680000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,0.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-10094000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-19286000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-19624000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,14877000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,6540000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+CPS.NS,cashflow,2024-03-31 00:00:00,Depreciation,6540000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,1355000.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+CPS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,11135000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1639000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+CPS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,7854000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-13220000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2003000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2047000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-44000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,612000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,53000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-9899000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,10458000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,2604000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,7854000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+CPS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,7854000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-12237000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,0.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-12237000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,983000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-13220000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,11581000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,274000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-38211000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,2941000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,0.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,5413000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-36110000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-10451000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,9847000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,5172000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,122000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Depreciation,5172000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,582000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-606000.0
+CPS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,34522000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,9083000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+CPS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,8481000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+CPS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-10676000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2047000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,2726000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-679000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-9762000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-8562000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+CPS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+CPS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-1199000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-9680000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,8481000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+CPS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,8481000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-10676000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,0.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-10676000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-10676000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,19759000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1038000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-4400000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,1255000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,1257000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,255000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,130000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-7384000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,8562000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3055000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,162000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Depreciation,2893000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,1243000.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+CPS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,12337000.0
+CPS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CPS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+CPS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,2090000.0
+CPS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+CPS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+CPS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CPS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CPS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CPS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+CPS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+CPS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+CPS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+CPS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,2090000.0
+CPS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CPS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+CPS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+CPS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+CPS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CPS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CPS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CPS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+CPS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+CPS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CPS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CPS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CPS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CPS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CPS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+CPS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CPS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+CPS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+CPS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

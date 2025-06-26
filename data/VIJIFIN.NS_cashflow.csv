@@ -1,0 +1,211 @@
+symbol,statement_type,period_end,line_item,value
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-29874000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-7609000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,90000000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1084000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,End Cash Position,54940000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2423000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,52517000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,82391000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,90000000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,90000000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-7609000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-7609000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-7609000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1084000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1084000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1084000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-28790000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-829000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Dividend Received Cfo,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Change In Payable,
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,0.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1255000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,272000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3498000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Depreciation,3498000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-35152000.0
+VIJIFIN.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2166000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-41594000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,41715000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-61000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2423000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1302000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1121000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,41715000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,41715000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,41715000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,41715000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,939000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,1000000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1000000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-61000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-61000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-41533000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-909000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Dividend Received Cfo,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-166000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,362000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-3354000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3565000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,0.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Depreciation,3565000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-43202000.0
+VIJIFIN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2005000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-44428000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,45197000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-19702000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1798000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,914000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,884000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,45197000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,45197000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,45197000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,45197000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-19587000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,115000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,115000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-19702000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-19702000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-24726000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Dividend Received Cfo,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-34189000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-493000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-1199000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-33475000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-1253000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,955000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3517000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,0.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Depreciation,3517000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-54000.0
+VIJIFIN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,6001000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-16345000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,11237000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-5795000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,914000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,6022000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-5108000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,11237000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,11237000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,11237000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,11237000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-5795000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-5795000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5795000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-10550000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Dividend Received Cfo,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-16250000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-217000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1058000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-217000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-16263000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,781000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,0.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Depreciation,781000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-35000.0
+VIJIFIN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4954000.0
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-2984000.0
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-2984000.0
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-198000.0
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Dividend Received Cfo,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,0.0
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+VIJIFIN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

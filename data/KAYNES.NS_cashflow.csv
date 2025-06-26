@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-10310630000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,26710000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-9487470000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,End Cash Position,474220000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,194110000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,280110000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,4649860000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1012980000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,26710000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,26710000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,5694160000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,5130920000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,563240000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3546590000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,957230000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,4975310000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,4989930000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-14620000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,8340000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,8340000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-9487470000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-9487470000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-823160000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-644350000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-4521830000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Change In Payable,4390310000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-2660990000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-6302750000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,79830000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,193510000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,447400000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Depreciation,447400000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-93960000.0
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+KAYNES.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3716240000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-2948900000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,13435590000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3825990000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,End Cash Position,194110000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,259310000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-65200000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,14285500000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-533740000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,13435590000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,13435590000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1701680000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,1740540000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-38860000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-15227790000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,519520000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-11663380000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-11663380000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-257940000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-257940000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3825990000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3825990000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,877090000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-481130000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1352120000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1450670000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1351600000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1463810000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,32000000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,135190000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,251410000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,75100000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Depreciation,251410000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-23950000.0
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+KAYNES.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2315690000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-997240000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-336470000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,6600000000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-581220000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,End Cash Position,259310000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,68740000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,190570000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,5543100000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-349360000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,0.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,6600000000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,6600000000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-336470000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-194100000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-194100000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-142370000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-142370000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4936510000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,98160000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-4453450000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-4453450000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-581220000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-581220000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-416020000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-502820000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1625990000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Change In Payable,870180000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1867860000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-638250000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,249520000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,14990000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,187410000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,68790000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Depreciation,118620000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,480000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,480000.0
+KAYNES.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1260390000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-211340000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,300780000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,227500000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-422430000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,End Cash Position,68740000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,30500000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,38240000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,272410000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-255870000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,227490000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,227490000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,10000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,10000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,300780000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,178860000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,178860000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,121920000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,121920000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-445260000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,10590000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-33420000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-33420000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-422430000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-422430000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,211090000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-21590000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-743110000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Change In Payable,920370000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-625130000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1051510000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,245200000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,8950000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,131620000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,35080000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Depreciation,96540000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-250000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-250000.0
+KAYNES.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,590270000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-116500000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,72900000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,270000000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,270000000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-116500000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,72900000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,2400000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,15700000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-130000.0
+KAYNES.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

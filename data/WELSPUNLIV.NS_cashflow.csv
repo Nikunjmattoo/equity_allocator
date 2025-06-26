@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-247200000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-3455500000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-7127000000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2835700000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2008300000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,5800000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,821600000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-6631400000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-2186800000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-96200000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,-3455500000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,-3455500000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-581800000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1112700000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,530900000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,573200000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,2804500000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,590500000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,4131400000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-6953200000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,173800000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-7127000000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,6879800000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1702300000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2468900000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,36000000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-29600000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2215900000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1115800000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-3839700000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-1175100000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,106600000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,66700000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3733900000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Depreciation,3733900000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-295000000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,9400000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,6600000.0
+WELSPUNLIV.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,8601800000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2574200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-2417300000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1623900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2754200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2008300000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1461200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-3600000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,550700000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2685600000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1529700000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-96200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-2417300000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-2417300000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1698800000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,3322700000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-1623900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1623900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-2092100000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,2909300000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,471700000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2880800000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2592300000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,161900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2754200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,5328400000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1114800000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-5007400000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-108000000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-1966400000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Change In Payable,393000000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1019600000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-2940900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-2180100000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,27000000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,36800000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3944900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,99100000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Depreciation,3944900000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-73200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,36000000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-9200000.0
+WELSPUNLIV.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,9669500000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,4808900000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-747100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1976400000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,881100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2750800000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1461200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2318100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,16400000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-872200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-10859500000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,497200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1671600000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-148200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-747100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-747100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-8507700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-7412400000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1095300000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1976400000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,881100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,2427600000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,3782500000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,553700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,5700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,532900000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,1200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,1200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2447200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,303600000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2750800000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,7559700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-893800000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,3408700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,381900000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,3278300000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-633300000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,80400000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,395700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-2605100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,21300000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,26700000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,4421400000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,111300000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Depreciation,4310100000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-10300000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,269200000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-97000000.0
+WELSPUNLIV.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3019100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,570000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-2462000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1266500000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,2440600000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-5296800000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2318100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,2994200000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,6100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-682200000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-547300000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,426500000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1577400000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-150700000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,0.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-2462000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-2462000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,3464100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,2290000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1174100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1266500000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,2440600000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-6001700000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,4090500000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,152500000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-5185400000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,658900000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-5844260000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-5060300000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,236500000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5296800000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,5866800000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1640000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-3958000000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,132100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-2360700000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-1626400000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2047600000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,1726600000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-1701300000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,25700000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,74100000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,4204700000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,101400000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Depreciation,4103300000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,200000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,108800000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,24200000.0
+WELSPUNLIV.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,8729700000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-6740110000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,1142020000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,1058470000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,-226460000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,-226460000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-6740110000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,1142020000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,1404920000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-686380000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,149050000.0
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+WELSPUNLIV.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

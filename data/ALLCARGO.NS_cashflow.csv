@@ -1,0 +1,291 @@
+symbol,statement_type,period_end,line_item,value
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1771800000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2164300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-839000000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,End Cash Position,5772000000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4105300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,110400000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,1556300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1870000000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1622300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-839600000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-2065300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,1902600000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,4066900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-2164300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2164300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,815500000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,34900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,186100000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,48900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,366900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,5548200000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-5181300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,556900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,1040000000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-483100000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-61700000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,600000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-62300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-316500000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,460200000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-776700000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2610800000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1044300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2252100000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-3588900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1962600000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-625800000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,971700000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,123400000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,4288400000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Depreciation,4288400000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,7900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-125300000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,103100000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,900000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-236100000.0
+ALLCARGO.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,166300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-2936600000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-7127000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,9871500000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,200000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1479300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4105300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,30900000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,9192400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,46300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-5164300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-464700000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-13200000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-743600000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1800000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,200000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,200000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,2915000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,170500000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,170500000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,2744500000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-7127000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,9871500000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-3242300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,798900000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,526400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,157700000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,4133400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,7061200000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2927800000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-7520000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,404800000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-7924800000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-263500000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,5700000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-269200000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1153000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,57100000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1210100000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-1457300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1412400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-5292900000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-804000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-829600000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-3659300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,615300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,4001400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1307400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Depreciation,4001400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-60000000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-394900000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-275300000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,18400000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-1117100000.0
+ALLCARGO.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1717600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,14812800000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-7806900000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,2641700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1014800000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,End Cash Position,9192400000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-287700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,5751100000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,273900000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,3455100000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-8566200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,175600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-497500000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-798600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-5165200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-3862700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-3862700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1302500000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-3944200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,2641700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-3806300000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,777600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,414200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,170400000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-3361200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,8162000000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-11523200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-1583800000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,660100000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-2243900000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-281500000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,25700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-307200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-676400000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,31200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-707600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,15827600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-3140200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,5873900000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,3372700000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-7748200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,10249400000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,295600000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2780100000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1110800000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Depreciation,2780100000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-19200000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,870500000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,7100000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-288300000.0
+ALLCARGO.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,8779000000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,5866600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1917600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,4513500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2636800000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,End Cash Position,5751100000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,395200000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3068400000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-114300000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,2401800000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-187900000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-29600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1165500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-736900000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2595900000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-876500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-876500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,3472400000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1041100000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,4513500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-5913700000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,234300000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,178300000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,148500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1097200000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,4729400000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-5826600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,-5100000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,-5100000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-3876600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,4400000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-3881000000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-403500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,0.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-403500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1424100000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,809200000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2233300000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,8503400000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-2837700000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-5565000000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-543500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Change In Payable,5607300000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-10628800000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,730900000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,109700000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3433600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1081200000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Depreciation,3433600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,49900000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,173600000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,601500000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-206300000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,-556700000.0
+ALLCARGO.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,11689400000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,336600000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-876000000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,1802400000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,-2200000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,-2200000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,788200000.0
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+ALLCARGO.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+AVALON.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-211230000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-387260000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,121690000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,28150000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-461790000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,End Cash Position,688270000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,423400000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-830000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,265700000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-522840000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-110520000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-52080000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Dividend Paid,-52080000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,-374580000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,-387260000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,12680000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,15470000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,0.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,15470000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,121690000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,106810000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,106810000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,14880000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,14880000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,537980000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,44400000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,955370000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,961250000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-5880000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-461790000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,250560000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-194060000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-882620000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-135260000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-51630000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Change In Payable,839200000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-201290000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1290690000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,93150000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,9330000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,11610000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,285690000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Depreciation,285690000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,34830000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-22740000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,48230000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,110000.0
+AVALON.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,867130000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-182310000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-5357790000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1580080000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,277810000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,4836670000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-355200000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,End Cash Position,423400000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4219030000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,620000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-3796250000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2508150000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+AVALON.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-87720000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-41420000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Dividend Paid,-41420000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,140740000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,-53810000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,194550000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-661860000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-5303980000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,4642120000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1580080000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1199370000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-1199370000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,277810000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-380710000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-380710000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+AVALON.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1460990000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,14750000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1120540000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1347750000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1120540000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+AVALON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-355200000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,172890000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-164110000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-413920000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-54480000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-109090000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-450670000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,24150000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,192550000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,111760000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,2760000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,17710000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,228980000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Depreciation,228980000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,44220000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-26820000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-8580000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,340000.0
+AVALON.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,380550000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-406610000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-169350000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,297140000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,4814520000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-274240000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4219030000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,77590000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,3090000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,4138350000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,4524800000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+AVALON.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-282870000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-54550000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Dividend Paid,-54550000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,4814520000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+AVALON.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,4814520000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,127790000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-169350000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-169350000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,297140000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+AVALON.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,297140000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-254080000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,2300000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,17860000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+AVALON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-274240000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-132370000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-193550000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1122680000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,9230000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-220160000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Change In Payable,168020000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-861730000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-242710000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,220940000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,2970000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,14050000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,196550000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Depreciation,196550000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,2730000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,32860000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,64760000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,1270000.0
+AVALON.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,726930000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-20830000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-67800000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-107690000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,377240000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-159420000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,End Cash Position,77590000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,313380000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-330000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-235460000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-208360000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-10000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-188940000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-37790000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Dividend Paid,-37790000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,-11180000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,-11180000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,0.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-56620000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-56620000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,158310000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-111240000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+AVALON.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,269550000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-107690000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,377240000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-165690000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,4730000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+AVALON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-11000000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-11000000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-159420000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,138590000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-125240000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-848390000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,2720000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-105650000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-14510000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-812470000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,63500000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,216650000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,15990000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,171930000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Depreciation,171930000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-5840000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,34290000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,24530000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-800000.0
+AVALON.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,864310000.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-196210000.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+AVALON.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Dividend Paid,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-196210000.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,636630000.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-106430000.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-106430000.0
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+AVALON.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

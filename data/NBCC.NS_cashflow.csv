@@ -1,0 +1,201 @@
+symbol,statement_type,period_end,line_item,value
+NBCC.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,3373802000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3198098000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,End Cash Position,30098363000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,20489635000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,9608728000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-2691066000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+NBCC.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-616000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-2671330000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-2671330000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,5727894000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,485121000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,4330643000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,201345000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,3905780000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,3911680000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-5900000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+NBCC.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+NBCC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-3194995000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3103000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-3198098000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+NBCC.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,6571900000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-181960000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1887778000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,5932000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-4441814000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Change In Payable,10034022000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-337443000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-4225267000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-1189479000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-21625000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,74385000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Depreciation,74385000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,122019000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-130539000.0
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+NBCC.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,7550638000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-504419000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-447942000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,End Cash Position,20489635000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,23424390000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-2934755000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1034655000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+NBCC.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-507000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1030996000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-1030996000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1843623000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,229611000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1980813000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,22470000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-3629349000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,2006378000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-5635727000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+NBCC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-447168000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,774000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-447942000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+NBCC.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-56477000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-133558000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-4719157000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-11750428000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,9333968000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Change In Payable,6792989000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,635760000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-9832905000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-304302000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,59588000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,53045000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Depreciation,53045000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-7273000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-199658000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,64424000.0
+NBCC.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,5584296000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-3852906000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-112168000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,End Cash Position,23424390000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,25345153000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1920763000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-902742000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,31114000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-14751000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-916464000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-916464000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,2722717000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,37197000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,959888000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1852434000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,5605868000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-3753434000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-20000000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+NBCC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-20000000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-106802000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,5366000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-112168000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+NBCC.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-3740738000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-113348000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-6156375000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-11485440000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,1107241000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2469108000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1158284000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,587894000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-615131000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,57782000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,52155000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Depreciation,52155000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,34306000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,217000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,38692000.0
+NBCC.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3709183000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,734262000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-64560000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,End Cash Position,25345153000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,25159723000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,185430000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-946752000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+NBCC.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-56781000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-887503000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-887503000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,333360000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,73495000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1804016000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,212000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1482799000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,2514281000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-3997080000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-61564000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2996000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-64560000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-64560000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,798822000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-118070000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-748450000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-578634000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1445381000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Change In Payable,48504000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,296121000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,913771000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-1140143000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,109900000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,45708000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Depreciation,45708000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,-74674000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-691000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-6479000.0
+NBCC.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,3147111000.0
+NBCC.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+NBCC.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-39204000.0
+NBCC.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+NBCC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-39204000.0
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-51213000.0
+NBCC.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-5691000.0
+NBCC.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

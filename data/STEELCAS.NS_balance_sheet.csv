@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,20240000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,20240000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,338000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,455000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,3256379000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,3259195000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,1561275000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,3256379000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,3258740000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,3258740000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,3258740000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,3258740000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,3157540000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,101200000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,101200000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,634816000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,115588000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,63000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,27926000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,87599000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,519228000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,12038000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,455000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,455000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,22048000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Payables,316870000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,316870000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,3893556000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,1813050000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,118320000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,257902000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,257902000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,2361000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1433865000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1433865000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,16790000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,1417075000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,2080503000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,81857000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Inventory,429551000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,6671000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,2745000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,975071000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,584608000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,584491000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,117000.0
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+STEELCAS.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,20240000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,20240000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,781000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,832000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,2693833000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,2696993000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,1212844000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,2693833000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,2696161000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,2696161000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,2696161000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,2696161000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,2594960000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,1823097000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,191618000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,101200000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,101200000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,540296000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,96343000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,-2000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,17298000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,79047000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,443953000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,18149000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,832000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,832000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,18829000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,18829000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Payables,350508000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,100896000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,3404000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,0.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,246208000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,3236457000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,1579662000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-2000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,101656000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,93394000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,53199000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,40195000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,2328000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,2328000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,1379948000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-1001236000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,2381184000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,472000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,1379474000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,1751932000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,488211000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,140569000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,1656797000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,35081000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,6975000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,34195000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Inventory,322961000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,12741000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,159204000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,151016000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,12892000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,24100000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,933173000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,933177000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,287420000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,287369000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,51000.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,0.0
+STEELCAS.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,51000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,20240000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,20240000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,233941000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,236486000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,2148554000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,2388543000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,661931000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,2148554000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,2152057000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,2152057000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,2152057000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,2152057000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,2050856000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,1278993000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,191618000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,101200000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,101200000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,898378000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,82245000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,-3000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,12856000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,69392000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,12856000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,816133000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,9081000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,236486000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,236486000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,10708000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,10708000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Payables,536713000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,91653000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,3437000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,3550000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,438073000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,3050435000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,1572370000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,-2000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,101413000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,45483000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,5388000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,40095000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,3503000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,3503000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1416610000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-859755000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,2276365000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,1389000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,1415221000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,1646819000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,457547000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,170610000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,1478064000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,85000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,31999000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,80575000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Inventory,509099000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,19631000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,305066000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,184402000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,15101000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,22242000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,766351000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-6000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,766357000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,52612000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,50067000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,2545000.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,0.0
+STEELCAS.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,2545000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,20240000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,20240000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,626817000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,627986000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,1558945000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,2193528000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,388591000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,1558945000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,1565542000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,1565542000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,1565542000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,1565542000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,1464341000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,692478000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,191618000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,101200000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,101200000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,1194900000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,77704000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-2000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,10530000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,67176000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,10530000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,1117196000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,7885000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,627986000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,627986000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,10872000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,10872000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Payables,453992000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,93088000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,1423000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,2611000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,356870000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,2760442000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,1254656000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,109861000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,110280000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,925000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,855000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,925000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,6597000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,6597000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,1136854000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-725715000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,1862569000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,49605000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,1087249000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,1254548000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,408322000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,150094000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,1505787000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,96000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,20031000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,106562000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Inventory,615737000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,7183000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,436236000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,172318000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,3648000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,6934000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,751610000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-273000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,751883000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1169000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,20161000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,1169000.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,0.0
+STEELCAS.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,1169000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,414674000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,191618000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,20326000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,88398000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,88398000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,12539000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,9260000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,41399000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,1119000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,1020000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,104408000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,855000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,855000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,855000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,11460000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-583578000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,1080100000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,325119000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,149041000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,18000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,13945000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,25398000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,9457000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,164569000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,82308000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,513704000.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,0.0
+STEELCAS.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,661000.0

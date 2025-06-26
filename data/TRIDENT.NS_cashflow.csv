@@ -1,0 +1,296 @@
+symbol,statement_type,period_end,line_item,value
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,7150400000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2160600000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,273300000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,1203900000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-2296400000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,838000000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,264000000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,573900000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-6821600000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-17500000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1277300000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1811600000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,1203900000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,1203900000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-4894400000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-3007100000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-1887300000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2160600000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,273300000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2051300000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,300000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,546500000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-333400000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,3787500000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-4120900000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2264700000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,31700000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-2296400000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,9446800000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1127700000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,1298800000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-126100000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,357000000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1394800000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,1483000000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,1125800000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,828100000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,3800000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,18200000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3662000000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Depreciation,3662000000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-15900000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,45200000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-11200000.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+TRIDENT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4745500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-3600400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-789000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,5156000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2200000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-6473400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,264000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-93500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1267300000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-909800000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,3400400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1605000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1811500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-1811500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2200000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2200000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,6865400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,2498400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,2498400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,4367000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-789000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,5156000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-7183200000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-898400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,233000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1029500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,3699000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-4728500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-6386700000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,86700000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-6473400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2873000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1255600000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-5401000000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,152400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-344800000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-644300000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-3466200000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1270900000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1100100000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,8800000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,61800000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3649800000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,99400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Depreciation,3649800000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,12400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-41400000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-28900000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-1500000.0
+TRIDENT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,4768500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,6471600000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-7712300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,5743900000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,641300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-7790900000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1267300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,51500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2710500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1494700000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-4103800000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-941200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-1802300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-1802300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,641300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,641300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1968400000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-6610100000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-6610100000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,4641700000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1102200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,5743900000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-11653400000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-4016700000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,119400000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,3300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,3300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-7759400000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,31500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-7790900000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,14262500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1669400000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,6119300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,87200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,574200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,479200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,2471500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,2587100000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,608400000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,222200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3127700000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,98500000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Depreciation,3029200000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,2800000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,66300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-5300000.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+TRIDENT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,5790600000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,5409000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-9121500000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,9641700000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,164700000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3616800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2710500000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,986600000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1723900000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3868800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-23300000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-949300000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-3597800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-3597800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,0.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,164700000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,164700000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,520200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-206800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-8720000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,8513200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,727000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-401500000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1128500000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3433100000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,6000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,73100000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,5200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,75200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-70000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3517400000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,99400000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3616800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,9025800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-2731700000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-3585900000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,136200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1625200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1606200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2914000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-763400000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,740800000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,139500000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,5500000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3328000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Depreciation,3328000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-2200000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10000000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-35700000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,-1100000.0
+TRIDENT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,11164600000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-751000000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-100000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,-751000000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,-751000000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-2922700000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,6250000000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,1120400000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,1120400000.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+TRIDENT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

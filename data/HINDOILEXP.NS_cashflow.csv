@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1281725000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-550000000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-325260000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,End Cash Position,145740000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,141475000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,4265000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-776852000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-226852000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-550000000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-550000000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-550000000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-825868000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-644795000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,144174000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,13000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-25474000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-25474000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-299786000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-299786000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1606985000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-62438000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Dividend Received Cfo,
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-71674000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,68331000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-401135000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1678103000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,1939233000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-452084000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,27436000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,776187000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Depreciation,776187000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,2603000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-14918000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-70204000.0
+HINDOILEXP.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1472077000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1042185000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2420601000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,500000000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-185782000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,End Cash Position,141475000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1457813000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-1316338000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-2150992000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-230391000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1920601000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1200000000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-1200000000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-720601000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1220601000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,500000000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-393313000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,206286000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,86173000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,10000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,1265000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1265000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-500000000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-500000000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-2685000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-2685000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-183097000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-183097000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1227967000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-77237000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Dividend Received Cfo,
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1760285000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-782149000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Change In Payable,574806000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,411627000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1964569000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-107727000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-68007000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,218558000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,800233000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Depreciation,800233000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,-1107000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-10000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-43187000.0
+HINDOILEXP.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2264298000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1475192000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1239798000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-718222000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1445877000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,4000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,294641000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,1151236000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-272290000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-282492000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,10202000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1250000000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,1250000000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1239798000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1239798000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-769888000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-129663000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,64015000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,22000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,13960000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,13960000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-1503000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-1503000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-716719000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-716719000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2193414000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-55552000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Dividend Received Cfo,22000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-862737000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-323814000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1211864000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-743374000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1007413000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,236538000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,32437000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,737008000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Depreciation,737008000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,-557000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-13982000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,180888000.0
+HINDOILEXP.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1940482000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1550197000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1866613000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,2898828000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2659962000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,End Cash Position,294641000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,922668000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-628027000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1064611000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-30104000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1094715000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,62500000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,62500000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,1032215000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1866613000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,2898828000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2802403000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-153568000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,10032000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,1095000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1095000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-6674000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-6674000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2653288000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2653288000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1109765000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,35533000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Dividend Received Cfo,0.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,251081000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-108927000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Change In Payable,160176000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,51113000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,148719000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,350434000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-3091000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,262146000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Depreciation,262146000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1095000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,5849000.0
+HINDOILEXP.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,199937000.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,193058000.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,56248000.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,56248000.0
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Dividend Received Cfo,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+HINDOILEXP.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

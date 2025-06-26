@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-316610000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,456455000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,12683000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-265184000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2516000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4896000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-2380000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,311343000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-67327000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,12683000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,12683000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,456455000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,456455000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,456455000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-262297000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2887000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-265184000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-265184000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-51426000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-31263000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-388721000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,27355000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-132592000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,56213000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-108428000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-242078000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,94973000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,70812000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,4368000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,113469000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Depreciation,113469000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1561000.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+BCONCEPTS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,83375000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-228548000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,169642000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,155855000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-157586000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4896000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,6127000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-1230000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,225839000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-45646000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-5291000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,155855000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,155855000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,169642000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,169642000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,169642000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-156107000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1261000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,800000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,800000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-157368000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,218000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-157586000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-70962000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-51423000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-324466000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,25192000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-45124000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,66998000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-206760000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-171888000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,49254000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,21557000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,3157000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,61883000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Depreciation,61883000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,3133000.0
+BCONCEPTS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,165943000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,27355000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,6946000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-89359000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,6129000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,4156000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,1973000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-25957000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-38036000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-5291000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,6946000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,6946000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,6946000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-88784000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-22950000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,2910000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2335000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,296000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2335000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-89359000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,0.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-89359000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,116714000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-23227000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-75383000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,183000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-42924000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,63739000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-84549000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-18948000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,45677000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,106000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,29000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,34599000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,235000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Depreciation,34599000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,390000.0
+BCONCEPTS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,134523000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,76684000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-48204000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-50900000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,4157000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3268000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,889000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-75223000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-48128000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-48204000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-48204000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-48204000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-51472000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-12400000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1537000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2109000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-2109000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-50900000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-50900000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,127584000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-1719000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,43250000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-4218000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-14512000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,23124000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-4780000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,41464000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,50443000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,176000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,24959000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,242000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Depreciation,24717000.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+BCONCEPTS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,10475000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,57160000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,1.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,57160000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,12801000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,12509000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,12801000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-292000.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-560867.0
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+BCONCEPTS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,157 @@
+symbol,statement_type,period_end,line_item,value
+SETUINFRA.NS,income,2023-03-31 00:00:00,Tax Effect Of Unusual Items,1200000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Tax Rate For Calcs,0.3
+SETUINFRA.NS,income,2023-03-31 00:00:00,Normalized EBITDA,14175000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Total Unusual Items,4000000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Total Unusual Items Excluding Goodwill,4000000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Reconciled Depreciation,12540000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Reconciled Cost Of Revenue,651520000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,EBITDA,18175000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,EBIT,5635000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Interest Income,-177000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Interest Expense,168000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Interest Income,55000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Normalized Income,-1887000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Total Expenses,699473000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Rent Expense Supplemental,460000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Diluted Average Shares,
+SETUINFRA.NS,income,2023-03-31 00:00:00,Basic Average Shares,
+SETUINFRA.NS,income,2023-03-31 00:00:00,Diluted EPS,
+SETUINFRA.NS,income,2023-03-31 00:00:00,Basic EPS,
+SETUINFRA.NS,income,2023-03-31 00:00:00,Diluted NI Availto Com Stockholders,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Income Common Stockholders,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Income,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Minority Interests,0.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Income Including Noncontrolling Interests,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Income Continuous Operations,913000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Tax Provision,4554000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Pretax Income,5467000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Other Non Operating Income Expenses,1232000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Special Income Charges,4000000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Other Special Charges,
+SETUINFRA.NS,income,2023-03-31 00:00:00,Write Off,-4000000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Impairment Of Capital Assets,0.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Net Non Operating Interest Income Expense,-177000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Total Other Finance Cost,64000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Interest Expense Non Operating,168000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Interest Income Non Operating,55000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Operating Income,410000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Operating Expense,47953000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Other Operating Expenses,3012000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Depreciation And Amortization In Income Statement,12540000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Depreciation Income Statement,12540000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Selling General And Administration,4820000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Selling And Marketing Expense,40000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,General And Administrative Expense,4780000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Rent And Landing Fees,460000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Gross Profit,48363000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Cost Of Revenue,651520000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Total Revenue,699883000.0
+SETUINFRA.NS,income,2023-03-31 00:00:00,Operating Revenue,699883000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Tax Effect Of Unusual Items,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Tax Rate For Calcs,0.3
+SETUINFRA.NS,income,2022-03-31 00:00:00,Normalized EBITDA,-34890000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Total Unusual Items,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Total Unusual Items Excluding Goodwill,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Reconciled Depreciation,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Reconciled Cost Of Revenue,1103071000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,EBITDA,-34890000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,EBIT,-48461000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Interest Income,-7327000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Interest Expense,7831000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Interest Income,536000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Normalized Income,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Total Expenses,1152092000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Rent Expense Supplemental,3527000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Diluted Average Shares,125678000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Basic Average Shares,125678000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Diluted EPS,-0.49
+SETUINFRA.NS,income,2022-03-31 00:00:00,Basic EPS,-0.49
+SETUINFRA.NS,income,2022-03-31 00:00:00,Diluted NI Availto Com Stockholders,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Income Common Stockholders,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Income,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Minority Interests,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Income Including Noncontrolling Interests,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Income Continuous Operations,-61173000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Tax Provision,4881000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Pretax Income,-56292000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Other Non Operating Income Expenses,1247000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Special Income Charges,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Other Special Charges,
+SETUINFRA.NS,income,2022-03-31 00:00:00,Write Off,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Impairment Of Capital Assets,0.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Net Non Operating Interest Income Expense,-7327000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Total Other Finance Cost,32000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Interest Expense Non Operating,7831000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Interest Income Non Operating,536000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Operating Income,-50341000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Operating Expense,49021000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Other Operating Expenses,3440000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Depreciation And Amortization In Income Statement,13571000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Depreciation Income Statement,13571000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Selling General And Administration,3774000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Selling And Marketing Expense,58000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,General And Administrative Expense,3716000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Rent And Landing Fees,3527000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Gross Profit,-1320000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Cost Of Revenue,1103071000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Total Revenue,1101751000.0
+SETUINFRA.NS,income,2022-03-31 00:00:00,Operating Revenue,1101751000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Tax Effect Of Unusual Items,-2161500.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Tax Rate For Calcs,0.3
+SETUINFRA.NS,income,2021-03-31 00:00:00,Normalized EBITDA,-255974000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Total Unusual Items,-7205000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Total Unusual Items Excluding Goodwill,-7205000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Income From Continuing Operation Net Minority Interest,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Reconciled Depreciation,15244000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Reconciled Cost Of Revenue,638658000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,EBITDA,-263179000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,EBIT,-278423000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Interest Income,-5241000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Interest Expense,4773000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Interest Income,878000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Normalized Income,-280747500.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Income From Continuing And Discontinued Operation,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Total Expenses,838825000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Rent Expense Supplemental,4167000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Diluted Average Shares,125678000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Basic Average Shares,125678000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Diluted EPS,-2.27
+SETUINFRA.NS,income,2021-03-31 00:00:00,Basic EPS,-2.27
+SETUINFRA.NS,income,2021-03-31 00:00:00,Diluted NI Availto Com Stockholders,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Income Common Stockholders,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Otherunder Preferred Stock Dividend,0.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Income,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Minority Interests,0.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Income Including Noncontrolling Interests,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Income Continuous Operations,-285791000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Tax Provision,2594000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Pretax Income,-283196000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Other Non Operating Income Expenses,15106000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Special Income Charges,-7205000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Other Special Charges,7004000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Write Off,82377000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Impairment Of Capital Assets,201000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Net Non Operating Interest Income Expense,-5241000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Total Other Finance Cost,1346000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Interest Expense Non Operating,4773000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Interest Income Non Operating,878000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Operating Income,-279886000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Operating Expense,200167000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Other Operating Expenses,164756000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Depreciation And Amortization In Income Statement,15244000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Depreciation Income Statement,15244000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Selling General And Administration,9287000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Selling And Marketing Expense,82000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,General And Administrative Expense,9205000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Rent And Landing Fees,4167000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Gross Profit,-79719000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Cost Of Revenue,638658000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Total Revenue,558939000.0
+SETUINFRA.NS,income,2021-03-31 00:00:00,Operating Revenue,558939000.0

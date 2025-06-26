@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,228889892.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,228889892.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,2224800000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,4066800000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,52378400000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,56168800000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,44024600000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,52378400000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,301100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,52403100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,52403100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,52412000000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,8900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,52403100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,52174200000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,228900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,228900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,9847500000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1481000000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1105400000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,198000000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,198000000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,177600000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,8366500000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,330400000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,3868800000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,103100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,3765700000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,71800000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Payables,1772400000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,258800000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,1513600000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,62259500000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,9868400000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,309700000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,130300000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,130300000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,148900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,24700000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,23100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,1600000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,9252900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,9252900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,205900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,9047000000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,52391100000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,557700000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,38848500000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,2000000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,4677700000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,8305200000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,6764300000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,1540900000.0
+KRBL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,228889892.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,228889892.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,4822400000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,5445700000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,48551500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,53649600000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,40419900000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,48551500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,375200000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,48579100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,48579100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,48588000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,8900000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,48579100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,48264900000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,45226000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,14200000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,228900000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,228900000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,10682300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1487500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,136800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1108700000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,242000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,242000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,136800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,9194800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,347400000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,5203700000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,133200000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,5070500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,43000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,43000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Payables,3732200000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,2624900000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,4200000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,1103100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,59270300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,9655600000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,364100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,163400000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,163400000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,128000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,27600000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,26000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,1600000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,9104800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-9521700000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,18626500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,232300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,8843300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,13818800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,3504000000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,1071400000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,49614700000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,466100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,6500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,6500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,459600000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,44507100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,29759300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,14747800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,86300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,72300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,3030800000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-318300000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,3349100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1445600000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,1197500000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,248100000.0
+KRBL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,248100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,235389892.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,235389892.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,1726400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,2500000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,46897800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,48939800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,39016000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,46897800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,486400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,46926200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,46926200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,46935000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,8800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,46926200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,46690800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,39509200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,973200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,235400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,235400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,8974000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1679400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,86300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1225300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,367800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,367800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,86300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,7294600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,1076900000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,2132200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,118600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,2013600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,40100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,40100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Payables,4131000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,2929100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,4600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,0.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,1197300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,55909000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,9598400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,341400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,391500000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,106300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,106300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,129800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,28400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,26800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,1600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,9036400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-8794700000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,17831100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,203200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,8833200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,13387200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,3291400000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,949300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,46310600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,568100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,43300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,7700000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,564100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,41862700000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,24318800000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,17543900000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,102000000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,103900000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,2850600000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-71100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,2921700000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,776300000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,489100000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,287200000.0
+KRBL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,287200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,235389892.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,235389892.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,1451700000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,40679200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,41596100000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,31077400000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,40679200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,557900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,40702300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,40702300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,40711200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,8900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,40702300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,40467000000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,33325200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,973200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,235400000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,235400000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,6769000000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1899100000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,92500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1301500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,504900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,504900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,0.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,92500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,4869900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,401300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,946800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,53000000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,893800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,27800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,27800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Payables,3607300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,1758000000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,4800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,38800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,1805700000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,47480200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,11532900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,2226600000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,2270500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,46500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,46500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,123800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,23100000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,21500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,1600000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,9112800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-8071900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,17184700000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,19500000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,857400000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,13256800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,2322900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,728100000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,35947300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,531300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,9800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,139700000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,604800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,28161000000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,18181800000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,9979200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,160400000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,2893400000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3978200000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,2112300000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,1865900000.0
+KRBL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,1865900000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,1483800000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,29546500000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,973200000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,87400000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,59700000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,41900000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,1618600000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,4800000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,130400000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,2658300000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-7385500000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,13034700000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,2207100000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,678300000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,10100000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,23300000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,402900000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,19216100000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,10426000000.0
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+KRBL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,1594200000.0

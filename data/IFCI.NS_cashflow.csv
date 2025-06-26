@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+IFCI.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-10306000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,5000000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-468600000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,End Cash Position,6599100000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IFCI.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,12981000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-6381900000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,4152800000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+IFCI.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-847200000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-847200000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,5000000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+IFCI.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,5000000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-697300000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,-428100000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+IFCI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment Properties,-428100000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-358500000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-358500000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,89300000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,199400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-110100000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-9837400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-454400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfo,5272500000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,-6141800000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Dividend Received Cfo,2041000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-16116300000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-37800000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,800000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-289500000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,12400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,954000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,424300000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-2248500000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,833400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+IFCI.NS,cashflow,2025-03-31 00:00:00,Depreciation,833400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-777000000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-2500000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-158400000.0
+IFCI.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,7490300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-321700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-440400000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,End Cash Position,12980900000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,10367700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,2613300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,4043900000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,5000700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-77800000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-716600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-716600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+IFCI.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1549300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,1833600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-3019300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-3019300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,
+IFCI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment Properties,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-363300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,76800000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-440100000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,118700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-637700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,4154600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,-4404000000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Dividend Received Cfo,1131000000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-5128700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-300000000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,4700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1684600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-766200000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,5727600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-4201400000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,808900000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,321000000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Depreciation,808900000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,1600000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-4839700000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-2300000.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+IFCI.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,7508800000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-4011200000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,1000000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-655500000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,End Cash Position,10367700000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,9663000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,704700000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,4650000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,4000000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-350000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-350000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,0.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,1000000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,1000000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-589600000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,-113900000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment Properties,-113900000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-10700000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-10700000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-465000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,179800000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-644800000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-3355700000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-561000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,5916700000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,-6416200000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Dividend Received Cfo,1056000000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-4913100000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-2005800000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,512100000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-1180800000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,24300000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,35200000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-861400000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,739200000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,227800000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Depreciation,511400000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,1425400000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-2200000.0
+IFCI.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+IFCI.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,260800000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2877500000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,1000000000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-311400000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,End Cash Position,9663000000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,11797400000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-2134400000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,731800000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-268200000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-268200000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,0.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,1000000000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,1000000000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-300100000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,11300000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,11300000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment Properties,0.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-56100000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-56100000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-255300000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,836900000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-255300000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-2566100000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,77900000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Dividend Received Cfo,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-3495000000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,231100000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1417300000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-2283300000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,147400000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-489400000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,13912600000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,663800000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,216000000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Depreciation,447800000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,1507800000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-200000.0
+IFCI.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+IFCI.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-15233100000.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+IFCI.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,2000000000.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,46000000.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment Properties,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Dividend Received Cfo,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+IFCI.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

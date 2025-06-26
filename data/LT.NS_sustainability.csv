@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+LT.NS,maxAge,86400
+LT.NS,totalEsg,34.08
+LT.NS,environmentScore,4.42
+LT.NS,socialScore,13.86
+LT.NS,governanceScore,15.8
+LT.NS,ratingYear,2023
+LT.NS,ratingMonth,9
+LT.NS,highestControversy,2.0
+LT.NS,peerCount,3
+LT.NS,esgPerformance,OUT_PERF
+LT.NS,peerGroup,Construction & Engineering
+LT.NS,relatedControversy,"['Operations Incidents', 'Employee Incidents', 'Customer Incidents', 'Society & Community Incidents', 'Business Ethics Incidents']"
+LT.NS,peerEsgScorePerformance,"{'min': 23.15, 'avg': 24.703333333333333, 'max': 26.24}"
+LT.NS,peerGovernancePerformance,"{'min': 6.29, 'avg': 6.476666666666667, 'max': 6.66}"
+LT.NS,peerSocialPerformance,"{'min': 10.55, 'avg': 11.4, 'max': 12.28}"
+LT.NS,peerEnvironmentPerformance,"{'min': 5.29, 'avg': 6.82, 'max': 9.39}"
+LT.NS,peerHighestControversyPerformance,"{'min': 2.0, 'avg': 2.3333333333333335, 'max': 3.0}"
+LT.NS,percentile,81.15
+LT.NS,environmentPercentile,
+LT.NS,socialPercentile,
+LT.NS,governancePercentile,
+LT.NS,adult,False
+LT.NS,alcoholic,False
+LT.NS,animalTesting,False
+LT.NS,catholic,True
+LT.NS,controversialWeapons,True
+LT.NS,smallArms,False
+LT.NS,furLeather,False
+LT.NS,gambling,False
+LT.NS,gmo,False
+LT.NS,militaryContract,True
+LT.NS,nuclear,False
+LT.NS,pesticides,False
+LT.NS,palmOil,False
+LT.NS,coal,False
+LT.NS,tobacco,False

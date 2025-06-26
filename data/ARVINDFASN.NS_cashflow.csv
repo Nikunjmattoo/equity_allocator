@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,4337000000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-266900000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,200000000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,52500000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-958200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1508800000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1526000000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-17200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-4560200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1566200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-166500000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-166500000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,52500000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,52500000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-765200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-698300000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-66900000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-266900000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,200000000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-752200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,15200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,149100000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,0.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,0.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,0.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-912400000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,45800000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-958200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,5295200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-433400000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-613300000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-152400000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-4300000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2235700000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1893200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-923700000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1284000000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,-8700000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,246500000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2557200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Depreciation,2557200000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,7300000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-6100000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-3000000.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ARVINDFASN.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,2237000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3519100000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-410000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,23300000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-822700000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1526000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1777700000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-251700000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-4912200000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1473100000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-132800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-132800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,23300000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,23300000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1315600000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-905600000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-410000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-410000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,318700000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,72200000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,92500000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,3800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,703800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-700000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,945400000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,945400000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-801200000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,21500000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-822700000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,4341800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-626600000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-31000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,36000000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,731200000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-586800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,695900000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-935400000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1232300000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,41500000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,174100000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2492100000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,156200000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Depreciation,2492100000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,4400000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,35800000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-1073700000.0
+ARVINDFASN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1945700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2792700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-411200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,54200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-380000000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1777700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,866700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,911000000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-1976800000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-100000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-861300000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,0.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,54200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,54200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,959200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1370400000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-411200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-411200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-284900000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-42500000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,84700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-42500000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-42500000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-360400000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,19600000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-380000000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3172700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-432900000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-955200000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,438600000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,199900000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-333700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1157100000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-67700000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1000300000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,49800000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-361000000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,401100000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2387400000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,162400000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Depreciation,2225000000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,28900000.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ARVINDFASN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1270700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,3001200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-855500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,4948200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-89600000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,866700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,42700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,824000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2092100000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-876000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,4948200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,4948200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-4413000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-3557500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-3557500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-855500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-855500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-85100000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-63200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,70500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-63200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,166000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,166000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-255600000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,3001200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-118200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,2435100000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,129100000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,461700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,971700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,91300000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,811700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,107100000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,59700000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,373000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-58000000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2609200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Depreciation,2609200000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-50500000.0
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+ARVINDFASN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-2367000000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,6600000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,2548600000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-2996700000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,6600000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,418600000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-1119100000.0
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+ARVINDFASN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

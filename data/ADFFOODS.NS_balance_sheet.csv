@@ -1,0 +1,396 @@
+symbol,statement_type,period_end,line_item,value
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,109863595.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,109863595.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,592336000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,4515910000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,5014105000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,3261202000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,4515910000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,504836000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,4926605000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,5014105000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,4926605000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,0.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,4926605000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,4703095000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,223510000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,223510000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,1355373000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,662616000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,136776000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,509463000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,421963000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,87500000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,16377000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,692757000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,36041000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,82873000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,82873000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,19750000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Payables,454357000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,2266000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,452091000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,6281978000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,2328019000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,80541000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Assets,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,99417000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,36699000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,36699000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,410695000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1635617000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1635617000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,188839000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,1446778000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,3953959000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,183619000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Inventory,898831000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,193000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,1172321000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1698995000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,1328052000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,370943000.0
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+ADFFOODS.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,109863595.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,109863595.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,558602000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,3975009000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,4411421000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,2979293000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,3975009000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,558602000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,4411421000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,4411421000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,4420172000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,8751000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,4411421000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,4187911000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,3106800000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,922860000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,223510000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,223510000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,1140343000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,614684000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,15106000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,112540000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,487038000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,487038000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,15106000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,525659000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,755000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,71564000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,71564000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1911000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,1911000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Payables,333513000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,60292000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,11541000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,22393000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,239287000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,5560515000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,2055563000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,6000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,33719000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Assets,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,64843000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,34509000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,34509000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,436412000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,218015000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,218397000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,1448499000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-534555000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,1983054000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,61641000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,741847000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,707069000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,342683000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,129814000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,3504952000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,-1000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,84000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,11637000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,163049000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Inventory,530166000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,207771000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,135711000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,186684000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,282071000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,1084574000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-18415000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,1102989000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1433372000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,836475000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,596897000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,233501000.0
+ADFFOODS.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,363396000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,109863595.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,109863595.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,552461000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,3733932000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,4192462000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,2863455000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,3733932000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,552461000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,4192462000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,4192462000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,4216195000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,23733000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,4192462000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,3968949000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,2906151000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,922860000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,223510000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,223510000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,1032763000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,603020000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,-3000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,11976000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,95542000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,495505000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,495505000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,0.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,11976000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,429743000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,640000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,56956000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,56956000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,0.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1486000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,1486000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Payables,278928000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,36314000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,6595000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,11913000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,224106000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,5248958000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,1955760000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,926000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,27434000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Assets,0.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,45799000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,22815000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,22815000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,458530000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,214384000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,244146000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1358341000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-409749000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1768090000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,67786000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,665473000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,562525000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,342594000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,129712000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,3293198000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,127391000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,0.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,157000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,19703000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,140382000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Inventory,631190000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,307950000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,164782000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,158458000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,144312000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,1443000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,942556000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-10028000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,952584000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1415055000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,1016304000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,398751000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,7703000.0
+ADFFOODS.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,391048000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,104831095.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,104831095.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,699203000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,2983975000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,3585055000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,2435899000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,2983975000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,543850000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,3429702000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,3537068000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,3455875000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,26173000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,3429702000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,91088000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,2434593000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,568571000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,213445000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,213445000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,1250461000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,692182000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,9239000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,80879000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,602064000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,494698000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,107366000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,9239000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,558279000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,431000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,97139000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,49152000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,47987000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1283000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,1283000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Payables,375808000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,40181000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,6949000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,12666000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,316012000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,4706336000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,1712158000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,3000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,72691000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Assets,157000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,27729000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,22722000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,22722000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,445727000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,213785000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,231942000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,1164652000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-304366000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,1469018000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,8404000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,601958000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,510662000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,338137000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,9857000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,2994178000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,114000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,14338000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,353000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,30226000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,156947000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Inventory,762119000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,465657000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,146398000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,150064000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,182069000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,3930000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,709546000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-982000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,710528000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1138466000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,596092000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,542374000.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,0.0
+ADFFOODS.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,542374000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,2013297000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,236459000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,7930000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,0.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,0.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1266000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,29430000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,6984000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,65418000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Assets,509000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,213457000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,0.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-233586000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,430150000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,316200000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,9857000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,7490000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,353000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,41379000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,93163000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,521929000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,94810000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,112680000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,4549000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-451000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,649674000.0
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,
+ADFFOODS.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,398397000.0

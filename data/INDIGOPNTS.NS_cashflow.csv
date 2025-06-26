@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,694571000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-9970000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,43230000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,137000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1362017000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,371099000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,329156000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,41943000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-239335000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-32318000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-166673000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-166673000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,137000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,137000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,33260000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,33260000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-9970000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,43230000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1775310000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2562000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-422983000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,240247000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-663230000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1354889000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,7128000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1362017000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2056588000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-308493000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-38538000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,423626000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,155698000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-526841000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,170157000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-211978000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,32489000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,60101000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,585261000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Depreciation,585261000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-171155000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-3445000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-3592000.0
+INDIGOPNTS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1899539000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,466422000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-5617000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,18996000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,327000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1043640000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,329156000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,96346000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,471793000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-238983000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-232358000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-2077000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-166559000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-166559000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,327000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,327000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,13379000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,4355000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,4355000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,13379000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-5617000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,18996000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1516687000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2058000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-184342000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,339990000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-524332000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-293309000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-293309000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1041094000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,2546000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1043640000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1510062000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-592532000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-377123000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,14934000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-18141000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,310267000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-494774000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-151780000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,19337000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,69777000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,515832000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,38172000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Depreciation,515832000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-127766000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-6959000.0
+INDIGOPNTS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1985808000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-831436000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,193000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1992567000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,471793000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,355327000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,116466000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-200617000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-142707000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-142707000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,193000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,193000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-844048000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,25339000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1100373000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,1544195000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-443822000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1969760000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,22807000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1992567000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1161131000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-244279000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-504651000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,5258000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-336627000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,92271000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,618000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-289266000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,3390000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,86036000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,343466000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,782000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Depreciation,342684000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-76495000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-9805000.0
+INDIGOPNTS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1558774000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-555925000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-328000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1207834000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,355327000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,447989000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-92662000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-52933000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-2319000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,0.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-328000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-328000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-328000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-691638000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,56330000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,459549000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,3449549000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-2990000000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1207517000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,317000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1207834000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,651909000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-258410000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-478507000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,40702000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,75782000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,112690000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-230446000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-507224000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-47296000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,21871000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,312508000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,772000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Depreciation,311736000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-44392000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,563000.0
+INDIGOPNTS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1142957000.0
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-144963000.0
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-144963000.0
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-355082000.0
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,860000.0
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+INDIGOPNTS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,12372200000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4820100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,2879000000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-6756200000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,-1200900000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,663100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,105100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-1969100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-8109900000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-806100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-5046200000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-1941100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-4820100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-4820100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,2879000000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,2879000000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-12987600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,3477100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,1700000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-9788600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,47150600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-56939200000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-330000000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-330000000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-6347800000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,408400000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-6756200000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,19128400000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-5040200000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2139700000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,2166500000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-2612300000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1935600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-2525900000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,166100000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,153900000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3571600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Depreciation,3571600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-530600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,111600000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-46000000.0
+ALKEM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,25270300000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,16887800000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-5208900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,400000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-2592900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,663100000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2738000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-20500000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-2054400000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-11450100000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-913100000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-5404900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-4808900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-5208900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-5208900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,400000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,400000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-10085000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2392800000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,1900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-10611600000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,26180900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-36792500000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1868100000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,724800000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-2592900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,19480700000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-4069400000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-516900000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,5252800000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-734000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-3571000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-1653400000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,189400000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,842000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2993000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,317800000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Depreciation,2993000000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-153600000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,594300000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,31800000.0
+ALKEM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,20231300000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,14495900000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,1614800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2329100000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2738000000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2321800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,71000000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,345200000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-17608200000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-904600000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-5295200000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,1614800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,1614800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-12784800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-12689800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-95000000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,1128400000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1469100000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,1900000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,1954500000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,4129800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2175300000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2297100000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,32000000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2329100000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,16825000000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-2733900000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,3267700000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,145100000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,4734100000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-2117200000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-655300000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,48800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3104200000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,300900000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Depreciation,2803300000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-310500000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-118800000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,123600000.0
+ALKEM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,13047700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,7721400000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-192900000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,8820700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3388800000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2321800000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1742200000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,25000000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,554600000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3795700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-401300000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-4219100000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,0.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,8627800000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,8820700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,8820700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-192900000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-192900000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-14351300000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,977700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1900000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-12051100000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-12051100000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,0.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3279800000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,109000000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3388800000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,11110200000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-3969000000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-5449600000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,3344900000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-6731400000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2653300000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-863200000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,27800000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,3039600000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,518900000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Depreciation,2520700000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,33300000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-177000000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,14300000.0
+ALKEM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,18442800000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-387400000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,1784200000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,1784200000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-387400000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,8400000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,351000000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,351000000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,505200000.0
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ALKEM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

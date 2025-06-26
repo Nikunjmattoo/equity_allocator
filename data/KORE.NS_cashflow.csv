@@ -1,0 +1,211 @@
+symbol,statement_type,period_end,line_item,value
+KORE.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-336588000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,322193000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-15264000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,End Cash Position,57102000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,56891000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,211000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,372709000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-1000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-37950000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,322193000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,322193000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,88467000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,187895000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-99428000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-51174000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,4442000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,1449000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-41801000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+KORE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-41801000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-15264000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-15264000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-321324000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-24272000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-433726000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-95093000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-31634000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-49219000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Prepaid Assets,11030000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,33278000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-303776000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,31615000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+KORE.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,15237000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+KORE.NS,cashflow,2025-03-31 00:00:00,Depreciation,15237000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,191000.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+KORE.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,85503000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-276176000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,49000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-27621000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,End Cash Position,56891000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,101456000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-44565000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,226329000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+KORE.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-37574000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,49000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,49000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,263854000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,259947000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,3907000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-22339000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,4357000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,799000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,100000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,100000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-59000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-59000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-27536000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,85000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-27621000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-248555000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-14786000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-333643000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,117245000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-13574000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Payable,96920000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Prepaid Assets,143741000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-519938000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-147175000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,31042000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,627000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,10997000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,719000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Depreciation,10997000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,627000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,713000.0
+KORE.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,55227000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-132082000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,108000000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-13958000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,End Cash Position,101442000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,45998000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,55444000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,184330000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,1000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-10682000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,108000000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,108000000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,91233000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,89233000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,2000000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-10762000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,3240000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,56000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-100000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+KORE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-100000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+KORE.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+KORE.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-13958000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,
+KORE.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,
+KORE.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-118124000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-10930000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-159412000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,9532000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,6854000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2975000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,69520000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-208199000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-49306000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,5312000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,
+KORE.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,9763000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+KORE.NS,cashflow,2023-03-31 00:00:00,Depreciation,9763000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,331000.0
+KORE.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,
+KORE.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,36395000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-66578000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,92500000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1642000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,End Cash Position,45998000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,10909000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,35089000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,98697000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-34717000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-8246000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,92500000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,92500000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,14443000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-9639000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,24082000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,1328000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,2970000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,0.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+KORE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+KORE.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+KORE.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1642000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+KORE.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1642000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-64936000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-2839000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-88413000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,5804000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-20170000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Payable,19305000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,-25548000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-45860000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-22024000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,5276000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+KORE.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,9464000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+KORE.NS,cashflow,2022-03-31 00:00:00,Depreciation,9464000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,138000.0
+KORE.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+KORE.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,11439000.0
+KORE.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KORE.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+KORE.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KORE.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KORE.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KORE.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KORE.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,13312000.0
+KORE.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+KORE.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KORE.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+KORE.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KORE.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+KORE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+KORE.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KORE.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+KORE.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-1390000.0
+KORE.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KORE.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+KORE.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KORE.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+KORE.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+KORE.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KORE.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+KORE.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KORE.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+KORE.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+KORE.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,291 @@
+symbol,statement_type,period_end,line_item,value
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2601300000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-357400000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,200000000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1742300000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,End Cash Position,420700000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,534900000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-114200000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-610400000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-176700000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-343500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-440500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,409800000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,567200000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-157400000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-357400000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,200000000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3847400000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,745500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-820600000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,14344600000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-15165200000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-2091000000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-2091000000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-25800000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-25800000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1655500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,61000000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1716500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,4343600000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1690700000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1396300000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-31200000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-243900000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Change In Payable,488500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-746300000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-863400000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-481500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-5800000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1196800000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Depreciation,1196800000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-67600000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-21500000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-8100000.0
+SHRIPISTON.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,6816600000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,3402700000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-620400000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,343600000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1464600000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,End Cash Position,534900000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,305100000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,229700000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-421600000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-232000000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-292000000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-330400000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,501100000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,777900000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-276800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-620400000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,343600000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4216000000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,50400000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,485800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2922800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,18940200000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-21863000000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-364800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-364800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-45800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-45800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1418800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1418800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,4867300000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1561100000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-101300000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,392400000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-354800000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Change In Payable,483900000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-265600000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-357200000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-356300000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,2500000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1077100000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,146390000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Depreciation,1077100000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-49900000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-43400000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,3300000.0
+SHRIPISTON.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,5891300000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,2677570000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1308680000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1274200000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,End Cash Position,305150000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,185220000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,119930000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,929670000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-194790000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-191390000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-308350000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1706460000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,397780000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1308680000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1308680000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4761510000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-49710000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,196560000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-3689180000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,13830540000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-17519720000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-770770000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-770770000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-448410000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,55020000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-503430000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3951770000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-1021820000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,310990000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,374340000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-69020000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Change In Payable,381120000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,20830000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-396280000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-133950000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,6560000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,1008890000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,947120000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,46640000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Depreciation,900480000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,87680000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-32250000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-27240000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-28350000.0
+SHRIPISTON.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3930180000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1559360000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-449670000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,-449670000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-633800000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2773380000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,2050390000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,722990000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-907220000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-135540000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-113410000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-132150000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-449670000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-449670000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,-449670000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-562950000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,70000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,95380000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-43580000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,9458200000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-9501780000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-338390000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-338390000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-276430000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,18980000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-295410000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2193160000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-572940000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-400000000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,205810000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,97390000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Change In Payable,189660000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-592630000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-300230000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-24300000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-15310000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,566410000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1020460000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,35580000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Depreciation,984880000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,24740000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-21480000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-26260000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-7860000.0
+SHRIPISTON.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1635650000.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Dividend Paid,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-134250000.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,0.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,310000.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,8220000.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,312250000.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,24310000.0
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SHRIPISTON.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,366 @@
+symbol,statement_type,period_end,line_item,value
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,52279300.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,52279300.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,44627000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,914439000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,2246357000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,2341176000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,590856000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,2246357000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,819620000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,2246357000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,2265890000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,2246357000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,2246357000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,1723564000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,522793000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,522793000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,987608000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,769171000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,758552000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,739019000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,19533000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,7119000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,218437000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,6227000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,155887000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,80601000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,75286000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,5383000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Payables,34626000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,34626000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,3233965000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,2424672000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,72955000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,29082000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,486424000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,486424000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1836211000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1836211000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,97280000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,1738931000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,809293000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,540000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Inventory,126472000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,47654000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,213151000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,421476000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,371284000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,50192000.0
+BYKE.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,46897800.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,46897800.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,72401000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,589295000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,2019416000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,2159128000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,588474000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,2019416000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,449583000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,2019416000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,2077859000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,2019416000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,2019416000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,61875000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,1032052000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,438511000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,468978000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,468978000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,647813000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,467598000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,1000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,4817000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,459420000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,400977000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,58443000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,4817000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,180215000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,5641000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,129875000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,48606000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,81269000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,53000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,4569000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Payables,39981000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,3952000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,1558000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,34471000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,2667229000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,1898540000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-1000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,243951000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,16457000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,302994000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,302994000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,0.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,1490715000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-1655789000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,3146504000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,80685000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,363470000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,1569725000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,1043018000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,89606000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,768689000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,20000000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,104431000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Inventory,166087000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,166087000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,12299000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,47681000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,200761000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1843000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,202604000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,217429000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,150118000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,67311000.0
+BYKE.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,67311000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,40097800.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,40097800.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,248001000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,811480000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,1588824000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,1864062000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,161216000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,1588824000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,542499000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,1595081000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,1684553000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,1595081000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,1595081000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,1194103000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,975592000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,200511000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,400978000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,400978000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,873619000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,525322000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,3934000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,2916000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,516967000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,427495000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,89472000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,3934000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,348297000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,7861000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,294513000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,115004000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,179509000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,56000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,4488000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Payables,41214000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,4027000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,2322000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,34865000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,2468700000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,1959187000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,70974000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,176181000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,3364000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,3364000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,6257000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,6257000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1658763000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-1474256000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,3133019000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,55489000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,425883000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,1552477000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,1009564000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,89606000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,509513000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,175000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,61460000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Inventory,167258000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,167258000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,10643000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,41393000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,207779000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1919000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,209698000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,20980000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,71928000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,20980000.0
+BYKE.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,20980000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,40097800.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,40097800.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,240461000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,966694000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,1559223000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1863242000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,387091000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,1559223000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,675190000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,1571738000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,1689795000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,1571738000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,1571738000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,1170760000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,952249000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,200511000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,400978000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,400978000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,1056461000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,703848000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,1000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,4113000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,13574000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,683855000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,565798000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,118057000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,4113000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,352613000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,21979000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,282839000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,109392000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,173447000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,70000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,4019000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Payables,42378000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,4016000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,2370000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,21980000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,35992000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,2628199000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,1888495000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-1000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,176181000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,3205000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,3205000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,12515000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,12515000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,1557409000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-1297576000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,2854985000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,95854000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,561063000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,1357615000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,750847000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,89606000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,739704000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,179000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,230118000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Inventory,168325000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,168325000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,8861000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,29192000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,252165000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-2795000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,254960000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,51043000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,238799000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,51043000.0
+BYKE.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,51043000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,1079771000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,200511000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,4035000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,41915000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,101000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,3848000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,2451000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,33555000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,181781000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,18773000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,18773000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1120959000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,1258786000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,711238000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,89606000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,216728000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,157556000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,8591000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-2672000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,251348000.0
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+BYKE.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,32953000.0

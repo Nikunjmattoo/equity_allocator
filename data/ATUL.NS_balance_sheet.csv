@@ -1,0 +1,441 @@
+symbol,statement_type,period_end,line_item,value
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,29441755.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,29441755.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,1463200000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,2017300000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,55678100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,57962400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,20610900000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,55678100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,40400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,55985500000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,57805600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,56623700000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,638200000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,55985500000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,55690900000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,294600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,294600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,13386200000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4548400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,9400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Derivative Product Liabilities,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,2253300000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1860500000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,40400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,1820100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,368000000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,8837800000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,142300000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,156800000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,156800000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,210300000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Payables,6199400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,52400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,6147000000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,70009900000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,40561200000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,930400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Defined Pension Benefit,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,214100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Investments,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,9098600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,9098600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,571000000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,32200000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,307400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,16000000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,291400000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,29163100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,29163100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,1243300000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,27919800000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,29448700000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,1508600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,7650700000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,11262600000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,9026800000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,8513100000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,513700000.0
+ATUL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,29441755.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,29441755.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,1715900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,2365500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,50834700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,53461900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,13872000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,50834700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,47000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,51143400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,53236400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,51633900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,490500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,51143400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,50848800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,43400000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,2200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,294600000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,294600000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,13128900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4244800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,9900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Derivative Product Liabilities,0.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,9900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1741500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2140000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,47000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,2093000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,311200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,8884100000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,100000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,225500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,225500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,210400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Payables,7637500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,1815400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,26700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,2300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,5793100000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,64762800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,42006700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,1252300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Defined Pension Benefit,600000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,1235500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,212500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets,
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Investments,9160900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,9161000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,100000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,8084200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1076700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,495800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,32200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,308700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,17300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,291400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,30243200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-10902100000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,41145300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,2872300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,63900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,32042300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,4534000000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,1632800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,22756100000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1772700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,0.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,26700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,1687300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,6503800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,321200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,2437200000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,1270800000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,2474600000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,298500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,9270400000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-156500000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,9426900000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4960300000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,4357700000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,602600000.0
+ATUL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,602600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,29513755.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,29513755.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,89300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,522400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,46386300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,47183600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,12507400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,46386300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,52600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,46713800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,47000900000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,47194200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,480400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,46713800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,46418500000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,41526700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,1500000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,295300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,295300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,10485600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2083300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,34800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Derivative Product Liabilities,0.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,6000000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,34800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1338200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,339700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,52600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,287100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,324700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,8402300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,182700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,182700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,208300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Payables,7224700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,1782400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,28100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,29100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,5385100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,57679800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,36770100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,1185900000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Defined Pension Benefit,700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,1221000000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,164100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets,0.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Investments,
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,6486200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,5358700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1127400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,427600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,32200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,327500000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,36100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,291400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,27711100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-8742800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,36453900000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,10573400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,64100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,20361200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,4012800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,1442400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,20909700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,1600100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,0.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,28100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1525800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,8207200000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,313600000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,3878700000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,1692800000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,2322100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,303300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,8446100000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-164300000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,8610400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2387900000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,2007400000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,380500000.0
+ATUL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,380500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,0.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,29587051.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,29587051.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,806900000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,1441700000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,43916300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,45673400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,16903800000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,43916300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,57900000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,44289600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,44900100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,44598400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,308800000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,44289600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,43993500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,37471800000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,700000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,296100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,296100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,12465100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2479600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,44600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Derivative Product Liabilities,0.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,44600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,1436000000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,668400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,57900000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,610500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,292000000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,9985500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,3400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,773300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,773300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,468000000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Payables,8046400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,1554600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,27300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,117200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,6347300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,57063500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,30174200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,467100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Defined Pension Benefit,0.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,508400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,164700000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets,0.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Investments,
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,7605200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,6473900000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1131200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,281100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,281100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,32200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,373300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,81900000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,291400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,20831500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-7143300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,27974800000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,5072000000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,64100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,18071400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,3348800000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,1418500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,26889300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,-1500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,5000000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,27300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,1765500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,8840200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,199000000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,4076100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,1866500000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,2698600000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,198200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,933200000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,9890100000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-127300000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,10017400000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,6162700000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,5585800000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,576900000.0
+ATUL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,576900000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,74682.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,32308000000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,700000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Derivative Product Liabilities,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,54100000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,1087100000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,27500000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Defined Pension Benefit,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,43900000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets,0.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Investments,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,100000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,154000000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,243200000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-5878200000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,15066500000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,3135400000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,1181100000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,6000000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,0.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,27500000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,384100000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,134000000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,2535300000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,1349100000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,2057000000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,365400000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,592400000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-121600000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,7453900000.0
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ATUL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,469100000.0

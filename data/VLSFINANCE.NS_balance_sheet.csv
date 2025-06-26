@@ -1,0 +1,371 @@
+symbol,statement_type,period_end,line_item,value
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,34010241.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,34010241.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,8621000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,24719668000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,24728532000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,3534157000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,24719668000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,24719911000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,24728532000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,24719903000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,-8000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,24719911000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,24378586000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,341325000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,341325000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,2386158000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2374436000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,5475000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,2266326000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,8621000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,8621000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,52885000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,11722000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Payables,11722000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,3191000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,0.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,8531000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,27106061000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,23560182000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,10205000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Investments,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,22285529000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,22285529000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Associatesat Cost,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,617078000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,243000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,243000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,647127000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,647127000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,0.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,647127000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,3545879000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,104967000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,49103000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,9002000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3382807000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,159947000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,3222860000.0
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+VLSFINANCE.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,34795992.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,34795992.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,3887000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,29826395000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,29828193000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,2268258000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,29826395000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,2102000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,29826408000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,29826408000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,29826400000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,-8000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,29826408000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,29477226000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,14830264000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,358540000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,349182000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,349182000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,5697866000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5606445000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,775000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,5605051000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1785000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1785000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,619000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,91421000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,9013000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,3887000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,2102000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,1785000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,39496000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Payables,27479000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,4772000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,20865000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,1842000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,35524266000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,33164587000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,4000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,129122000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Investments,
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,31259795000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,58000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,27781015000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,3478722000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,390880000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,390880000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,637110000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,13000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,13000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,666670000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-1305053000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,1971723000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,0.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,1251186000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,71955000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,166710000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,481872000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,2359679000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,99009000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,1729000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,404000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,130851000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,195689000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,195689000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2062848000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,1771392000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,291456000.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,0.0
+VLSFINANCE.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,291456000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,3434235.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,35227782.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,38662017.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,11170000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,25005931000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,25012824000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,1803264000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,25005931000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,4295000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,25005949000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,25005949000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,25005941000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,-8000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,25005949000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,24652449000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,9985490000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,422844000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,353500000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,353500000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,5622391000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5532148000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,1449000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,5530038000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,6875000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,6875000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,661000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,90243000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,12438000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,11170000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,4295000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,6875000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,33315000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Payables,24641000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,5183000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,18444000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,1014000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,30628332000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,28734826000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,280000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,137981000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Investments,-35000000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,27220306000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,59000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,27220247000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,0.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,377822000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,377822000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,665146000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,18000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,18000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,252873000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-1288601000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1541474000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,0.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,1242055000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,66445000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,139809000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,93165000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,1893507000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,41420000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,101430000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1101000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,1042000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,1101000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,218405000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-2500000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,220905000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1530109000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,1084918000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,445191000.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,0.0
+VLSFINANCE.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,445191000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,38662017.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,38662017.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,14993000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,29653150000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,29662351000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,1954461000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,29653150000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,5860000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,29653218000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,29653218000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,29653210000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,-8000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,29653218000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,29265376000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,9418246000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,974078000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,387842000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,387842000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,7196712000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,7093185000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,7092660000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,9133000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,9133000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,525000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,103527000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,4461000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,14993000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,5860000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,9133000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,9481000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Payables,74592000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,10583000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,15115000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,0.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,48894000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,36849922000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,34791930000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,578000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,77535000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Investments,-35000000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,33985999000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,59000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,33985940000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,367189000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,367189000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,7094000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,68000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,68000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,273107000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-1256434000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,1529541000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,698000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,1243227000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,63413000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,129038000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,93165000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,2057988000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,51986000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,44481000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,3821000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,35262000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,3821000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,11994000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1910444000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,1174055000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,736389000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,2113000.0
+VLSFINANCE.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,734276000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,6307452000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,974078000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,0.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,0.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,10126000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,11361000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,0.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,177025000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Investments,-30000000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,35000000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,343743000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,343743000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-1268385000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,26897000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,111096000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,0.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,75458000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,41381000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,1229000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,39342000.0
+VLSFINANCE.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,1011826000.0

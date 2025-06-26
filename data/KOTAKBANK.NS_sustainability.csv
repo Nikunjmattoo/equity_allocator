@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+KOTAKBANK.NS,maxAge,86400
+KOTAKBANK.NS,totalEsg,19.09
+KOTAKBANK.NS,environmentScore,1.97
+KOTAKBANK.NS,socialScore,7.97
+KOTAKBANK.NS,governanceScore,9.15
+KOTAKBANK.NS,ratingYear,2023
+KOTAKBANK.NS,ratingMonth,9
+KOTAKBANK.NS,highestControversy,2.0
+KOTAKBANK.NS,peerCount,16
+KOTAKBANK.NS,esgPerformance,UNDER_PERF
+KOTAKBANK.NS,peerGroup,Banks
+KOTAKBANK.NS,relatedControversy,"['Product & Service Incidents', 'Customer Incidents', 'Business Ethics Incidents']"
+KOTAKBANK.NS,peerEsgScorePerformance,"{'min': 16.14, 'avg': 26.053749999999997, 'max': 44.83}"
+KOTAKBANK.NS,peerGovernancePerformance,"{'min': 6.81, 'avg': 12.520714285714288, 'max': 19.69}"
+KOTAKBANK.NS,peerSocialPerformance,"{'min': 7.12, 'avg': 11.787142857142856, 'max': 22.64}"
+KOTAKBANK.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 1.8957142857142855, 'max': 2.63}"
+KOTAKBANK.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.375, 'max': 5.0}"
+KOTAKBANK.NS,percentile,24.58
+KOTAKBANK.NS,environmentPercentile,
+KOTAKBANK.NS,socialPercentile,
+KOTAKBANK.NS,governancePercentile,
+KOTAKBANK.NS,adult,False
+KOTAKBANK.NS,alcoholic,False
+KOTAKBANK.NS,animalTesting,False
+KOTAKBANK.NS,catholic,False
+KOTAKBANK.NS,controversialWeapons,False
+KOTAKBANK.NS,smallArms,False
+KOTAKBANK.NS,furLeather,False
+KOTAKBANK.NS,gambling,False
+KOTAKBANK.NS,gmo,False
+KOTAKBANK.NS,militaryContract,False
+KOTAKBANK.NS,nuclear,False
+KOTAKBANK.NS,pesticides,False
+KOTAKBANK.NS,palmOil,False
+KOTAKBANK.NS,coal,False
+KOTAKBANK.NS,tobacco,False

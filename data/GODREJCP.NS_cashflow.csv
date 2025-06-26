@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,19774100000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,47300000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-5993400000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,End Cash Position,4549200000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,3000000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4027800000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,516900000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-21815000000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-3187200000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-25572800000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-25572800000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,47100000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,47100000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,200000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,200000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,7317500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,7317500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3435600000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,1679600000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,476500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1142200000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-665700000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-5591700000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,401700000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-5993400000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,25767500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-4700700000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,351300000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,889900000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-1038500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Change In Payable,5139100000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1592500000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-3046700000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1484100000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,221200000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-195000000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2340000000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Depreciation,2340000000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-271300000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-24800000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-217300000.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+GODREJCP.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,26718900000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,17627600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-4160000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,100000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3071900000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4027800000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-9400000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,3576200000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-671700000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1132700000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,14063500000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-2674700000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-5114000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-5114000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,100000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,100000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,22651800000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,26811800000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-4160000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-4160000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-33630300000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2311400000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-6130200000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,3929800000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-10060000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-27045900000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,259000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-27304900000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2765600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,306300000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3071900000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,20699500000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-3739000000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-4559400000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1851200000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-1825600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Change In Payable,914300000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-714700000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-4784600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1409200000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,242500000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,972400000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2409600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,269600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Depreciation,2409600000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-591700000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,18300000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-61800000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,8674400000.0
+GODREJCP.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1982300000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,19232500000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-4107200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2274000000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,End Cash Position,3576200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,47600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,7509200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,39400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-4020000000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-7943100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-1193400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,0.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-6343600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-2236400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-4107200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-4107200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-17583400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1109100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-16376900000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,252000000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-16628900000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-118200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-118200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2197400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,76600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2274000000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,21506500000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-4184500000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,933400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,4100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,731200000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-3700300000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,5550000000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1651600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1062800000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,201600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,95100000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2362900000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,299300000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Depreciation,2063600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-280700000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-102600000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-12400000.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+GODREJCP.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,21327300000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,14505700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-7550800000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,12775200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,100000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2765200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,End Cash Position,7509200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-3000000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,5241300000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,202700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,2068200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3795200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1190400000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,100000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,100000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-2198400000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,5352400000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-14973600000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,12775200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-7550800000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-7550800000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-8642300000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,590100000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-6173000000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-6173000000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-3087200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,786500000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-3873700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,27800000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,27800000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2765200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,14505700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-4475400000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-5361700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-783600000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-679800000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Change In Payable,832100000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-3841700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-888700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,720500000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,119600000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-32000000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2099300000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,317300000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Depreciation,1782000000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-115200000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-101700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,19700000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,-397900000.0
+GODREJCP.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,21552600000.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,7374600000.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-23568200000.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,7374600000.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,357400000.0
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+GODREJCP.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

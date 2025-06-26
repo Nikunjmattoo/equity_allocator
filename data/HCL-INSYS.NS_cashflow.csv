@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-285100000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4550000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,4550000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,87100000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,140700000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1200000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-54800000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1700000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1700000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-4550000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,4550000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,229000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,16600000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,84700000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,67200000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1469600000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1402400000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,60500000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,63500000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-3000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-282100000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,75800000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,80900000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,28200000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-19600000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,800000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,71500000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-122500000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-83600000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,52600000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,4700000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Depreciation,4700000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-19000000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1500000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-58400000.0
+HCL-INSYS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-211100000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-363700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3550000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,3550000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1900000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,140700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,197500000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,1000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-57800000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-3700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-3700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-3550000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,3550000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-3550000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,3550000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,307700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,11800000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,129100000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,168600000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1781500000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1612900000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1800000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,100000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1900000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-361800000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,94700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,42600000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-93800000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,54000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,200000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,82200000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-132400000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-111400000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,38500000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,5400000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,757000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Depreciation,5400000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-23400000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2000000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-119700000.0
+HCL-INSYS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-158200000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,731366000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-4140380000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,3550000000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4258000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,197454000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,218800000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,13896000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-35242000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-618850000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-28470000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-590380000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-590380000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-4140380000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,3550000000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-590300000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-4140300000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,3550000000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-152016000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,24123000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,47627000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-556418000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,3476239000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-4032657000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,336900000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,336900000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,332652000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,336910000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-4258000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,735624000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,113437000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,1160287000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1123519000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,224982000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1194000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-189408000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-28359000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,63379000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,131200000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,5802000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,773000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Depreciation,5029000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-38902000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-15755000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-138600000.0
+HCL-INSYS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-387441000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,1005000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1232200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,218800000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,388200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,2100000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-171400000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-1386200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,100000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-151300000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-1232200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-1232200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1232200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,207800000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-1000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,19100000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1365500000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-1365500000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,1399200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,1399200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,158000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,158000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,1397200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1399200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1007000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,566800000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,1005600000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-400100000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,849000000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,23300000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,533400000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-9800000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,120100000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,89800000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,14700000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,500000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Depreciation,14200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-13700000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-7600000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-1050200000.0
+HCL-INSYS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,257400000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-4700000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,-4700000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,32500000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,32500000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-500000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-500000.0
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+HCL-INSYS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

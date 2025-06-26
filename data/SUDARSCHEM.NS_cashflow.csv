@@ -1,0 +1,193 @@
+symbol,statement_type,period_end,line_item,value
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1149820000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3969360000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,238270000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-784730000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,472370000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,203920000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,268450000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-4459310000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-350070000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-332910000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-332910000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-3731090000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1062800000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-1301070000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,238270000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-2668290000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2668290000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,2793210000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,40560000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,83350000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,2733350000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2650000000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,2669300000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3454030000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-784730000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1934550000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-835160000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-459830000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-155770000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,57430000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,41260000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,538180000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-965340000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,3468740000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,12610000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,12320000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1411670000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,40790000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Depreciation,1370880000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-75810000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2370000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-3151910000.0
+SUDARSCHEM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1554290000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,946460000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-12561210000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,12233690000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1924010000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,203920000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,253160000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-49240000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-1027000000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-346640000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-342770000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-342770000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-327520000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-1105950000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-11107730000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,10001780000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,778430000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1453480000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,2231910000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1892710000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-1000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,13300000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1906010000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,18000000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1924010000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2870470000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-111760000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,804370000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,225720000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-213120000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-138400000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,728030000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,179270000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,399940000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,10840000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,29540000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1142270000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,10310000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Depreciation,1131960000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-13330000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10570000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,640000.0
+SUDARSCHEM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,597390000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1306330000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-11634310000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,13625850000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3102070000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,253160000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,159770000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,93390000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1377550000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-194230000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-411230000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-411230000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,1991540000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,1442020000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-10261300000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,11703320000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,549520000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1373010000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1922530000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3079900000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,11540000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3091440000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,10630000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3102070000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1795740000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-380550000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-575890000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,13110000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,263390000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,799330000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1513690000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-153490000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,174840000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,10270000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-12950000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,892590000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,55610000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Depreciation,836980000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-103970000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,82500000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-2320000.0
+SUDARSCHEM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1711220000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,-1044050000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-544850000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,2285730000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-2695720000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,159770000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,81820000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,77950000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,1084710000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-174070000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-3760000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,1269010000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-471870000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,1740880000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-544850000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,2285730000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-2658430000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,17970000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,19320000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,0.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-2677750000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,17970000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-2695720000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,1651670000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-388050000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-907190000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,72790000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-352860000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,755860000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-97920000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-1310120000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,153290000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,12600000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,82500000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,865090000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,54640000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Depreciation,810450000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-26540000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-42540000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,-1370000.0
+SUDARSCHEM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,1903880000.0

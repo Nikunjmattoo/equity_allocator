@@ -1,0 +1,191 @@
+symbol,statement_type,period_end,line_item,value
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2448000000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-630900000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2584300000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,473000000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-36400000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,2147700000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-304000000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,30300000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-304500000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-627200000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-627200000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3700000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-630900000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,3078900000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-941900000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-130700000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,78600000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-279400000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Change In Payable,487900000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-421000000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,3200000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,248700000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,99200000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,253600000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Depreciation,253600000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,36800000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,5000000.0
+SCHNEIDER.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,3503500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1314500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-724700000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-579600000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,End Cash Position,473000000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,195600000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-2000000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,279400000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1045200000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-325700000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-699600000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-699600000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-724700000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-569500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-569500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,10100000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-579600000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1894100000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-168200000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1342500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,352600000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,24400000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-498400000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,5800000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1226900000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,660400000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,420400000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,220500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,300000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Depreciation,220500000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,2000000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1200000.0
+SCHNEIDER.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2099900000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,499300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-232300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-376700000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,End Cash Position,195600000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,361100000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-29400000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-136100000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-636400000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-371600000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-232300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-232300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-232300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-375700000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,0.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-375700000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1000000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-376700000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,876000000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-33500000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-926100000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,93500000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-157800000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Change In Payable,737300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-716400000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-882700000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,364300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,14900000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,185400000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1300000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Depreciation,184100000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,30600000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,1500000.0
+SCHNEIDER.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1236300000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,948300000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-255330000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,End Cash Position,361100000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,229480000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-1360000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,132980000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-817830000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-267860000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-520910000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-520910000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-252820000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,900000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-253720000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1610000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-255330000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1203630000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-20320000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,274110000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-46800000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,218410000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Change In Payable,312810000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-55050000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-155260000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,426530000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,63440000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,172730000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,5020000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Depreciation,167710000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-6020000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,150000.0
+SCHNEIDER.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,276220000.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-2560000.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,0.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-2560000.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,0.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,2100000.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,26110000.0
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SCHNEIDER.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

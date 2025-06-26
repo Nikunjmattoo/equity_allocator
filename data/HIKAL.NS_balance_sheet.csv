@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,123300750.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,123300750.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,7491000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,7647000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,12545000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,20244000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,2059000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,12545000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,26000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,12623000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,16295000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,12623000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,12623000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,12376000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,247000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,247000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,12666000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,4771000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,593000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,325000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3696000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,24000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,3672000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,157000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,7895000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,157000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,3951000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,2000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,3949000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,173000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Payables,3168000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,127000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,3041000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,25289000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,15335000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,143000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,307000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,307000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,78000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,78000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,14779000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,14779000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,1212000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,13567000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,9954000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,545000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Inventory,3345000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,5000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,5224000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,835000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,705000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,130000000.0
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+HIKAL.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,123300750.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,123300750.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,8020350000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,8175770000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,11775120000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,20023990000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,2099850000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,11775120000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,28390000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,11876610000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,16105120000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,11876610000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,11876610000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,5500000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,8925330000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,891050000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,246600000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,246600000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,12994880000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5428550000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,593400000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,593450000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,300370000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,4254820000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,26310000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,4228510000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,279910000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,7566330000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,285400000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,120110000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,3920950000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,2080000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,3918870000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,18370000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,43800000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Payables,3281330000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,405560000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,2130000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,85170000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,2788470000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,24871490000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,15205310000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,118800000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,182060000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,58900000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,58900000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,101490000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,101490000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,14830040000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-7258780000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,22088820000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,4225230000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,293330000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,13606940000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,2689510000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,1273810000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,9666180000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,774900000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,81800000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,774940000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Inventory,3037200000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,11230000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,542210000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,867750000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1616010000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,86910000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,0.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,5503400000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-133040000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,5636440000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,181930000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,54900000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,127030000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,4310000.0
+HIKAL.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,122720000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,123300750.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,123300750.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,7212240000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,7481840000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,11232750000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,18814240000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,2774670000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,11232750000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,2300000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,11334700000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,16233490000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,11334700000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,11334700000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,5500000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,8383770000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,891050000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,246600000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,246600000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,12520120000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,5904580000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,436400000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,436400000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,327150000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,4898790000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,0.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,4898790000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,242240000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,6615540000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,236900000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,139740000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,2583050000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,2300000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,2580750000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,17490000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,35130000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Payables,3657250000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,485740000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,2440000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,36400000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,3132670000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,23854820000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,14464610000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,597000000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,463320000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,91390000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,91390000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,101950000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,101950000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,13775680000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-6110380000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,19886060000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,4293740000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,277350000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,11938530000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,2102630000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,1273810000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,9390210000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,1039900000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,328190000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1039940000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Inventory,3167420000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,8620000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,828690000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,776380000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,1553730000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,169540000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,0.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,4417820000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-132450000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,4550270000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,267300000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,495300000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,267300000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,4860000.0
+HIKAL.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,262440000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,123300750.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,123300750.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,6629970000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,6750170000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,10576910000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,17424190000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,1950970000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,10576910000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,5790000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,10679810000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,13546620000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,10679810000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,10679810000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,5500000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,7729200000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,891050000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,246600000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,246600000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,11451250000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3759430000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-10000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,290020000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,364070000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2869040000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,2230000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,2866810000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,236300000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,7691820000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,10000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,122890000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,3881130000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,3560000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,3877570000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,15330000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,31380000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Payables,3232850000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,681390000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,2480000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,58290000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,2490690000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,22131060000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,12488270000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,570700000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,494880000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,11930000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,11930000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,102900000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,102900000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,11847600000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-5046880000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,16894480000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,3059850000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,251460000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,10377820000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,1931540000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,1273810000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,9642790000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,1204300000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,376500000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,1204270000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Inventory,3289790000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,11140000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,1071720000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,660980000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1545950000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,177940000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,0.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,4377200000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-97680000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,4474880000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,217090000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,102680000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,114410000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,8010000.0
+HIKAL.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,106400000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,6383610000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,891050000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,219860000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,0.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,226850000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,11870000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,407190000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,2400000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,420790000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-4120130000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,8073860000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,1748140000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,1273810000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,200020000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,887160000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,10360000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,525510000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,583280000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1547840000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,3780000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-82410000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,4937710000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,8470000.0
+HIKAL.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,67900000.0

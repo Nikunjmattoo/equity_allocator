@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+KDDL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-1439600000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-880000000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-144800000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,425300000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1397000000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1947400000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,2389700000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-442300000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1491600000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-204500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-313100000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-50200000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,-880000000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,-880000000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,243300000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-37200000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,280500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-144800000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,425300000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,1091900000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,373100000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-248500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-248500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,2344500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,2344500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1377200000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,19800000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1397000000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-42600000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-543400000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-2221700000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-84900000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-210700000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-69500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1680400000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-192300000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-88200000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,861100000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Depreciation,861100000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,31200000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,5500000.0
+KDDL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+KDDL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1895000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,143000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-190000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,122800000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,1772600000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-835700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2389700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,583700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1806000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,172100000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1771862000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-250900000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-749300000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,1772600000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,1772600000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-230400000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-163200000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+KDDL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-67200000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-190000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,122800000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,655200000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,99000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,135100000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-827900000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-827900000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,2088500000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,2098500000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-10000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-740500000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,95200000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-835700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,978700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-422300000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1141700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,301000000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-224600000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-31300000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1088500000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-92200000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,41400000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+KDDL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-100000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,649300000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,8374000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Depreciation,649300000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-11700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1900000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1700000.0
+KDDL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+KDDL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1862300000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-258985000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-209999000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-607275000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,338764000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,3750000000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-717742000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,583658000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,520341000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,63318000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,2272169000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,3699146000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-255707000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-66177000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-209999000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-209999000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,3750000000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-274314000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-5803000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+KDDL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-268511000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-607275000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,338764000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2667608000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-100000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,79760000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,35000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-2120472000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2120472000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,78453000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,108200000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-29747000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-705384000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,12358000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-717742000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,458757000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-385584000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-806145000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,214925000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-110280000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,241939000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1014537000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-167156000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,92929000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-992000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,493946000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,2480000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Depreciation,491466000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,1264000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-13401000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,249000.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+KDDL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1076027000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,157394000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-373173000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,465711000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,250000000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-266625000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,520341000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,3298000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,309065000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,207978000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,141557000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,566742000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-242798000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-19106000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,250000000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-8418000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-100956000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-181988000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,81032000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,92538000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-373173000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,465711000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-357598000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-1000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,10731000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,24000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-631000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-631000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-103294000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-103294000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-264427000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2198000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-266625000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,424019000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-175108000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-536357000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,55652000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-211505000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,191408000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-540804000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-39693000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,120696000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,-941000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-7170000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,453815000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+KDDL.NS,cashflow,2022-03-31 00:00:00,Depreciation,453815000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-988000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-440000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,1156000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,-1111000.0
+KDDL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,522886000.0
+KDDL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KDDL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,99000.0
+KDDL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-312036000.0
+KDDL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,27460000.0
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,0.0
+KDDL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+KDDL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

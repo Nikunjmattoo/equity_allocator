@@ -1,0 +1,196 @@
+symbol,statement_type,period_end,line_item,value
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,15409768000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,0.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,43908200000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,19999999000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3715658000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,End Cash Position,364797900000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,290253611000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,74544288000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,58694982000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1865549000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-3347668000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-3347668000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,19999999000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,19999999000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,43908200000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,43908200000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,43908200000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3276120000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,86910000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-3363030000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,352628000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-3715658000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,19125426000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,0.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-59194828000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-2162863000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,15278748000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1865549000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,35037015000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3112582000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Depreciation,3112582000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-86910000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-4085000.0
+UCOBANK.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,38566075000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,6481259000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2424456000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,0.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3536222000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,End Cash Position,290253612000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,287281003000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,199592000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,2773017000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-4295307000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1870851000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-2424456000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-2424456000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2424456000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,0.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-2949157000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,40503000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2989660000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,546562000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3536222000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,10017481000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,0.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-47104203000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,13415644000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,7317565000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1870851000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,23211248000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2809227000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation,2809227000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-40503000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-5779000.0
+UCOBANK.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,25866646000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,26945740000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-10000000000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,8724750000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2883376000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,End Cash Position,287281003000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,261479910000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,2002875000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,23798218000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-3357680000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-100000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-2082430000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1275250000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-1275250000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-10000000000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,8724750000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-2673218000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,142856000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2816074000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,67302000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2883376000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,29829116000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,0.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-32482158000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-22081468000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,459723000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,2062909000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,21222003000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2175203000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation,2175203000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-142856000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1656000.0
+UCOBANK.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,28690595000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,41826429000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-18595601000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,5000000000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,26000000000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2160186000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,End Cash Position,261479910000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,236002439000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-145605000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,25623076000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-16365408000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-26000000000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-2769807000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,26000000000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,26000000000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-13595601000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-13595601000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-18595601000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,5000000000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1998131000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,100000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,0.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,94324000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2092455000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,67731000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2160186000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,43986615000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-19273087000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-26790802000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,19195368000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,2769807000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,36580546000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1649552000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation,1649552000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-94324000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-5173000.0
+UCOBANK.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,17155229000.0
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,26000000000.0
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,4525000.0
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+UCOBANK.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

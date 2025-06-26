@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1409685000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-521003000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,381231000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,62763000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-777106000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,End Cash Position,108524000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,220259000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,294000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-112029000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-829002000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-401309000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-61873000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,62763000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,62763000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-374604000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-234832000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-139772000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-521003000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,381231000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-1469818000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,12236000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,20945000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-763196000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,13418000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-776614000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-6543000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-6543000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-733260000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,37303000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-770563000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2186791000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-294312000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-133094000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,157678000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,141277000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1997095000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1701077000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-762574000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,393765000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,7497000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,19730000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,601338000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Depreciation,601338000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-2373000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,87939000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-2928000.0
+GREENPLY.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1170003000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-318825000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-754198000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,265820000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,24324000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1427930000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,End Cash Position,220259000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-11069000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,81029000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-2419000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,152718000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,471074000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1980000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-654091000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-61668000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,24324000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,24324000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1203941000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,1692319000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-488378000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-754198000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,265820000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1427461000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,8554000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,5049000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-121225000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,128775000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-250000000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-90605000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-90605000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1229234000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,108091000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1337325000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1109105000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-375669000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-647834000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,105477000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,91151000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1284079000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1522805000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-635412000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,633897000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,38170000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-78645000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,635674000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,6482000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Depreciation,635674000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-48226000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,1475000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-59922000.0
+GREENPLY.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,997055000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-3531528000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-221615000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,4121795000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,26414000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4153218000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,End Cash Position,81029000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,380143000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-12659000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-286455000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,3177195000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-373762000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-61432000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,26414000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,26414000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,3639710000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-260470000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,3900180000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-221615000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,4121795000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4085340000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,2396000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,10522000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,25504000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,90604000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-65100000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-7039000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-7039000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-4116723000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,29456000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-4146179000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,621690000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-36156000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1200349000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-9886000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-557104000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Change In Payable,292564000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-527484000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-415870000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,139659000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,152103000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-103028000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,364608000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,6088000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Depreciation,358520000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,1856000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-10006000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-649000.0
+GREENPLY.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1106131000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1403831000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-275925000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1009847000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,10409000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-2319923000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,End Cash Position,380143000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,-39122000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-6654000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,425919000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,804290000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-112621000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-49051000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,10409000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,10409000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,972129000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,238207000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,733922000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-275925000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1009847000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1294463000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,2208000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,46612000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,949644000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,951244000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-1600000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-95563000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-95563000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-2197364000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,26996000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-2224360000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,916092000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-321394000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-444462000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,72119000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-254659000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Change In Payable,134663000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-464351000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,51068000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,54521000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,120541000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,23516000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,258460000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,5407000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Depreciation,253053000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-5191000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10558000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-4319000.0
+GREENPLY.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1249889000.0
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-894576000.0
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,5279000.0
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GREENPLY.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

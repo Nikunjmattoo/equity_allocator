@@ -1,0 +1,206 @@
+symbol,statement_type,period_end,line_item,value
+KECL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,318800000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-126500000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,40000000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-38900000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,168300000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,167500000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,800000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-347700000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-1000000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-243900000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-102800000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-16300000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-86500000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-126500000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,40000000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-9200000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,19800000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,9700000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,100000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+KECL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,0.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+KECL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,
+KECL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-38800000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,100000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-38900000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,357700000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-5500000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-14500000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-201200000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,28600000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,158100000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,232100000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,56900000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,48900000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+KECL.NS,cashflow,2025-03-31 00:00:00,Depreciation,48900000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-100000.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+KECL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,39900000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,340700000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-71900000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,327500000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-25000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,167500000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,129500000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,38000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-306500000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-700000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-236800000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-69000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-324600000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,255600000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-71900000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,327500000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-21200000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-8900000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,12600000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,100000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-400000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+KECL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-400000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,0.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-24600000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,400000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-25000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,365700000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,14000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,16200000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,238000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,39000000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-260800000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,244200000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-99300000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,50200000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1821000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Depreciation,50200000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-100000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-300000.0
+KECL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,140800000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,34414000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-6410000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-38573000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,129483000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,368840000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-239357000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-332964000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1470000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-246054000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-85440000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-79030000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-6410000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-6410000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,20620000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-16570000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,6427000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,30000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+KECL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,0.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,990000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,990000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,29743000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,68316000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-38573000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,72987000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-6504000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-423672000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-242960000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-50982000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-129730000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,217855000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-8209000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,50012000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,0.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Depreciation,50012000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-30000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-67224000.0
+KECL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,310759000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,343123000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-691387000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,108200000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-6519000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,368840000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,75973000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,292867000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-1087796000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-700000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-721536000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-366260000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,216927000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-583187000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-691387000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,108200000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,1031021000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-46000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,7014000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,12000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-20000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,677966000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-20000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,677966000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,677966000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,346095000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,352614000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-6519000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,349642000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-12170000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,286742000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,271732000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-68234000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,83244000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,300036000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,60945000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,51996000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+KECL.NS,cashflow,2022-03-31 00:00:00,Depreciation,51996000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-663267000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-348531000.0
+KECL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,673891000.0
+KECL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KECL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+KECL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+KECL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KECL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KECL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KECL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KECL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+KECL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KECL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+KECL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+KECL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+KECL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+KECL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KECL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+KECL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+KECL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment Properties,0.0
+KECL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KECL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+KECL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+KECL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KECL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KECL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KECL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KECL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+KECL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KECL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+KECL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+KECL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KECL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+KECL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KECL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+KECL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+KECL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

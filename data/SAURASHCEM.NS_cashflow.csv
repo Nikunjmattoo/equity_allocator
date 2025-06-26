@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-561067000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-48074000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,312470000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,2545000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-863366000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,End Cash Position,603926000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,86250000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,517676000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,267856000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-123145000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-110983000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,2545000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,2545000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,504368000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,239972000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,264396000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-48074000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,312470000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-52479000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,8000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,128711000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,9000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,661110000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-842317000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,21049000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-863366000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,302299000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-103723000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-65008000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-1241000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,112960000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-151325000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-92010000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,8030000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,422785000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Depreciation,422785000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,382000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-9000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-16686000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,7800000.0
+SAURASHCEM.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,140738000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,866716000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-48161000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,105500000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,2530000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-684332000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,End Cash Position,86250000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,80056000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,6194000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,26535000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-67385000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-110926000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,2530000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,2530000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,212354000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,155015000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,57339000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-48161000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,105500000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1571389000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,99254000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,8000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-998970000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-671681000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,12651000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-684332000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1551048000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-80526000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,482506000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Change In Payable,1371415000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-823041000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-113277000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-220147000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,3676000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,470858000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Depreciation,470858000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,348000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-8000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-7140000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,2323000.0
+SAURASHCEM.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,898518000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-174880000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-158172000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,40784000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,1835000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-389404000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,End Cash Position,80056000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,32202000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,47854000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-491168000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-76794000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,1835000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,1835000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-401084000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-283696000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-117388000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-158172000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,40784000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,324498000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,103558000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,10000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,601950000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,601950000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-381020000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,8384000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-389404000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-389404000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,214524000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-32464000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,155749000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Change In Payable,287961000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,56673000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-182175000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-13329000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,1079000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,388692000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,44666000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Depreciation,388692000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,206000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-10000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,5822000.0
+SAURASHCEM.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-291236000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-543588000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-116849000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,38584000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,15588000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-461843000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,End Cash Position,32202000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,101645000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-69443000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,310935000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-81937000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-42292000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,15588000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,15588000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,442408000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,520673000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-78265000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-116849000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,38584000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-298633000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,129629000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,71000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,575934000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,575934000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-553573000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-553573000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-450694000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,11149000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-461843000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,-347042000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-81745000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-109612000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-646314000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Change In Payable,90284000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-582213000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-138949000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-25929000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,0.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,331654000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,7815000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Depreciation,323839000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,167000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-71000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,96000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-6417000.0
+SAURASHCEM.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,374681000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-56280000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-55572000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,12734000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-897752000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-388055000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,10976000.0
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+SAURASHCEM.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

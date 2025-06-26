@@ -1,0 +1,181 @@
+symbol,statement_type,period_end,line_item,value
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-29403000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,68124000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-22143000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,End Cash Position,-17726000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,148000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-17874000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,33417000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1094000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,68124000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,68124000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-29119000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-29119000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-44031000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,112000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-22000000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-22143000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-22143000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-7260000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,4279000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-19984000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-2943000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-3671000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Change In Payable,709000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-15880000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3027000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Depreciation,3027000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-517000.0
+KEEPLEARN.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4888000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2364000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-10417000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,148000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1788000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1292000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,644000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1720000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-10417000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-1000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,0.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,1000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-10417000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-10417000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,12781000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,1680000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,976000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,5816000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-2175000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,67000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-4520000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,2166000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2299000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Depreciation,2299000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-55000.0
+KEEPLEARN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,5339000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,68000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-6189000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1292000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2741000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1449000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-1517000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-6189000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-6189000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-6189000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,6257000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-5706000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,2437000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-2644000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,321000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-3126000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,7722000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,2489000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,880000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1954000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Depreciation,1954000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,766000.0
+KEEPLEARN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3437000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-4620000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,4145000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3873000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2741000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,52000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,2690000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,7040000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,4145000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,4145000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,3387000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,3387000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3603000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,263000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,7000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3873000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3873000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-747000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-4859000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-8109000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,9088000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1482000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,8087000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-24756000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,2973000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,0.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,522000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Depreciation,522000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1052000.0
+KEEPLEARN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,9778000.0
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,0.0
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,2087000.0
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,35000000.0
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,1771000.0
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+KEEPLEARN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

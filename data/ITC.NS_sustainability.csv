@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+ITC.NS,maxAge,86400
+ITC.NS,totalEsg,28.03
+ITC.NS,environmentScore,5.92
+ITC.NS,socialScore,14.3
+ITC.NS,governanceScore,7.81
+ITC.NS,ratingYear,2023
+ITC.NS,ratingMonth,9
+ITC.NS,highestControversy,2.0
+ITC.NS,peerCount,9
+ITC.NS,esgPerformance,AVG_PERF
+ITC.NS,peerGroup,Food Products
+ITC.NS,relatedControversy,['Public Policy Incidents']
+ITC.NS,peerEsgScorePerformance,"{'min': 13.95, 'avg': 27.547777777777778, 'max': 35.32}"
+ITC.NS,peerGovernancePerformance,"{'min': 3.65, 'avg': 4.662000000000001, 'max': 5.28}"
+ITC.NS,peerSocialPerformance,"{'min': 5.76, 'avg': 10.594, 'max': 15.42}"
+ITC.NS,peerEnvironmentPerformance,"{'min': 4.54, 'avg': 8.898, 'max': 14.39}"
+ITC.NS,peerHighestControversyPerformance,"{'min': 2.0, 'avg': 2.2222222222222223, 'max': 3.0}"
+ITC.NS,percentile,61.18
+ITC.NS,environmentPercentile,
+ITC.NS,socialPercentile,
+ITC.NS,governancePercentile,
+ITC.NS,adult,False
+ITC.NS,alcoholic,False
+ITC.NS,animalTesting,True
+ITC.NS,catholic,False
+ITC.NS,controversialWeapons,False
+ITC.NS,smallArms,False
+ITC.NS,furLeather,False
+ITC.NS,gambling,False
+ITC.NS,gmo,False
+ITC.NS,militaryContract,False
+ITC.NS,nuclear,False
+ITC.NS,pesticides,False
+ITC.NS,palmOil,False
+ITC.NS,coal,False
+ITC.NS,tobacco,True

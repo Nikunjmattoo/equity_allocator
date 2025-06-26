@@ -1,0 +1,236 @@
+symbol,statement_type,period_end,line_item,value
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,737713000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-694173000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,684200000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-192442000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,End Cash Position,134138000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,57472000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,76666000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-64015000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-17988000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-36054000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-9973000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-9973000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-694173000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,684200000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-789474000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-12540000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,37013000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,903000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-286826000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,564542000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-851368000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-2150000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-2150000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-189070000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1222000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-190292000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,930155000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-263065000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,91705000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,51388000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-59150000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Change In Payable,125081000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-15092000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-47786000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-53372000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-2867000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,128990000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Depreciation,128990000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-68878000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,1399000.0
+LINCOLN.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1091886000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,236036000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-209019000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,200000000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-396130000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,57472000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,50520000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,6952000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-51804000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-12740000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-30045000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-9019000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-9019000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-209019000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,200000000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-573410000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,215524000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,89907000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,44000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-248048000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,748262000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-996310000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-1371000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-1371000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-393859000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,900000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-394759000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,632166000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-261508000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-161171000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,725000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-42068000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,215728000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-71402000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-260856000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-55582000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,6495000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,106247000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1057000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Depreciation,106247000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-227501000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,2760000.0
+LINCOLN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1222426000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,249799000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-195018000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,193574000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-142820000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,50520000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,69340000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-18820000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-45013000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-13524000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-30045000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-1444000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-1444000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-195018000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,193574000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-366426000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-150203000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,9255000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,106144000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,738013000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-631869000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-232000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-232000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-135531000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,7057000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-142588000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,392619000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-296098000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-313735000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,12965000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,43694000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-205142000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,27141000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-202119000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-41410000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-1776000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,91661000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1113000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Depreciation,90548000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-50061000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-760000.0
+LINCOLN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1004798000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,306067000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-5197000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,20000000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-455252000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,69340000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,114384000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-45044000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-25561000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-10364000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-30000000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-30000000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,14803000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,20000000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,20000000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-5197000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-5197000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-780802000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-107556000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,26294000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-125295000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,405178000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-530473000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-454459000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,793000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-455252000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,761319000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-236964000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,24045000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-18676000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,182767000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,145929000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-261292000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-31192000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-35772000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-1743000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,80878000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1350000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Depreciation,79528000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-36835000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,1295000.0
+LINCOLN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,959393000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-7211000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-7211000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,280000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,500000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,500000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1383000.0
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LINCOLN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,1152400000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,-2000000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,48800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,2500000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-420000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,End Cash Position,306100000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,318300000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1100000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-13300000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-3622400000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-465900000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-156800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-831700000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,-1997500000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,-2000000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,2500000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,48800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,48800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,48800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,2036700000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,552800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,206900000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,1693800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-416800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,3200000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-420000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1572400000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-630000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-1091300000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-194000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-159900000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-13700000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-762900000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,39200000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-416000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,9200000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,295800000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,707100000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Depreciation,707100000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-74900000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,116000000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-1700000.0
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+TTKPRESTIG.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1745800000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,2213600000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,61100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-675500000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,End Cash Position,318300000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,325400000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,1900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-8900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1043600000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-134000000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-831700000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,61100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,61100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,61100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1854400000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,540400000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,40900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-1761700000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1761700000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-674000000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1500000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-675500000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2889100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-784900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-91200000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-333400000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-81800000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-311100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,273000000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,362100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-445600000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,3000000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,279900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,644100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,20800000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Depreciation,644100000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,81200000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,74900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-900000.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+TTKPRESTIG.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,3011700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1312700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,9400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-676800000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,End Cash Position,325400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-6000000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,582200000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,3000000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-253800000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-674700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-79700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-485100000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,9400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,9400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,9400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1568600000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,297000000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,139600000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1351100000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,815000000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2166100000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-654100000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,22700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-676800000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1989500000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-815700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-1141600000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,313300000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-67800000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-1181500000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-157300000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-48300000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-235100000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,196300000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,530400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,29500000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Depreciation,500900000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-83400000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,50000000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1700000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,-28100000.0
+TTKPRESTIG.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3431700000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,2513700000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-5600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-422200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,End Cash Position,582200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,12200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,757400000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-6100000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-181300000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-907300000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-62200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-762300000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-5600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-5600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-5600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2209900000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,92300000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,77500000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-1767300000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,842600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-2609900000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-200100000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-200100000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-412300000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,9900000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-422200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2935900000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-927700000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-810900000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-96000000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-171200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1355400000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1468500000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-430600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-37400000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,187000000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,441500000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,13900000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Depreciation,427600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-77600000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-33200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-3200000.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+TTKPRESTIG.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,4105800000.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-154600000.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-554500000.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-154600000.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-1703500000.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,11300000.0
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+TTKPRESTIG.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

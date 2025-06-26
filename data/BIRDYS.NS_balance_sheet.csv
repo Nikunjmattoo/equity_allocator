@@ -1,0 +1,166 @@
+symbol,statement_type,period_end,line_item,value
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,5208200.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,5208200.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,20142000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,30023000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,19987000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,50102000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,-1024000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,19987000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,20079000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,40248000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,20079000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,20079000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,19979000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,0.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,100000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,100000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,56323000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,22801000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2632000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,20169000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,20169000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,33522000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,4874000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,9854000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,9854000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,576000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Payables,17600000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,4646000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,12954000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,76402000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,43904000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,1000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,29062000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,810000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,92000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,92000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,13939000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-3554000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,17493000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,0.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,13962000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,3531000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,32498000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,684000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,13287000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Inventory,2001000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,1103000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,898000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,6645000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,9881000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,9881000.0
+BIRDYS.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,9881000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,5208200.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,5208200.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,12691000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,13452000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,68000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,13621000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,-2229000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,68000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,169000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,11799000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,169000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,169000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,69000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,0.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,100000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,100000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,28890000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,13836000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2206000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,11630000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,11630000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,15054000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,100000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,0.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,1822000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,1822000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,252000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Payables,12736000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,4189000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,8547000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,29059000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,16234000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,4780000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,101000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,101000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,11353000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-1931000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,13284000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,0.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,13284000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Properties,
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,12825000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,517000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,7929000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Inventory,2415000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,1298000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,1117000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,1203000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,761000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,761000.0
+BIRDYS.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,761000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,5208200.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,5208200.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,8988000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,9732000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,-287000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,9555000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,-5857000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,-287000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,-177000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,6319000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,-177000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,-177000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,-277000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,0.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,100000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,100000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,26775000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,7898000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,1402000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,6496000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,6496000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,18877000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,100000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,0.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,3236000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,3236000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,168000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Payables,15369000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,6108000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,9261000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,26598000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,13578000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,4106000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,110000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,110000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,9362000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-728000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,10090000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,0.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,10090000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Properties,
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,13020000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,8333000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Inventory,2799000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,1552000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1247000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,1144000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,744000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,744000.0
+BIRDYS.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,744000.0

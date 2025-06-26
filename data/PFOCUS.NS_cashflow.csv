@@ -1,0 +1,261 @@
+symbol,statement_type,period_end,line_item,value
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-700854000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-1930470000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1466889000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,9116421000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3654997000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2141366000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,32808000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1385393000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,723165000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,1326470000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-468649000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-4607398000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,9116421000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,9116421000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-464900000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1319000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-463581000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-1930470000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1466889000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3557448000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,29898000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,5192000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,37864000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,37864000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,0.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-3630402000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,24595000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-3654997000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2954143000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-123549000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-5768639000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,118049000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-5527974000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,226431000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-368261000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,5371902000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,144097000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,149831000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,5052957000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Depreciation,5052957000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-87861000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1494087000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,5980000.0
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+PFOCUS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-4107354000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-3376857000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-943324000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,7293399000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,16224000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3051643000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1385393000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1532200000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-146807000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,3346172000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-4076534000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,16224000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,16224000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,9305662000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,2955587000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,2955600000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,6350075000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-943324000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,7293399000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-3167765000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-5898000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,3351000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-118835000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,6600000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-118835000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3046383000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,5260000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3051643000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-325214000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-397114000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-5052784000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1808331000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-9253436000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,252936000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,1797382000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,5485120000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,84275000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,471664000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,4983464000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1884300000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Depreciation,4983464000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-99094000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,37266000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,4334000.0
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+PFOCUS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-5867061000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-1063000000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1112400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,7125000000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-3603400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1532200000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2374600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-842400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,1521700000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,259200000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-2194900000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,6012600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,4522600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,4522600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1490000000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1112400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,2602400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4904500000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-28600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,8900000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1310200000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,5450000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1310200000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-3574600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,28800000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-3603400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2540400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-709900000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-7915600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,87000000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-6459400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-11000000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1884400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,4160800000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,273600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,92600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,4666600000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1814400000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Depreciation,2852200000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-15300000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1133500000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,5700000.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+PFOCUS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,3061400000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,981700000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1496800000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,6312300000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,15000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-851000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2374600000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-3800000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3667000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1288600000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-2324100000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1960000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,15000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,15000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2452100000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-2363400000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,4815500000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1496800000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,6312300000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-797200000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,38100000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2900000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-838200000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,12800000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-851000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1832700000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,92400000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-7314500000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,383400000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-5649100000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,291100000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,7400000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2467000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,3928800000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,176000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,366000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,4168400000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1511700000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Depreciation,2656700000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-132100000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-8000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,1536000000.0
+PFOCUS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-822700000.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1105699000.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,7188800000.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-7400000.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1059700000.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,42800000.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+PFOCUS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

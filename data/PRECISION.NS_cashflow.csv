@@ -1,0 +1,173 @@
+symbol,statement_type,period_end,line_item,value
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-247676000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-44532000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,321600000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-3740000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,End Cash Position,121226000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,95173000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,26053000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,267279000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-9789000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,321600000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,321600000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-44532000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-44532000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-44532000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,2710000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,6450000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-3740000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-3740000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-243936000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-4827000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfo,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,-6450000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Dividend Received Cfo,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-316590000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,2337000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-5565000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Change In Payable,92744000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-846000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-407639000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,9789000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1552000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Depreciation,1552000.0
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PRECISION.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,72590000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-55996000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,44532000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1560000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,End Cash Position,95173000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,106005000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-10831000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,40868000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-3664000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-3664000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,44532000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,44532000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,44532000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,44532000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,2737000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,4297000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,0.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1560000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1560000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-54436000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-3000000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfo,-4297000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,-4297000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Dividend Received Cfo,0.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-125324000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-18486000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-13660000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Change In Payable,543362000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,67167000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-713053000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,3663000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,929000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Depreciation,929000.0
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PRECISION.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,73592000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-112052000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,219300000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,End Cash Position,106004000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,6774000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,99231000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,211198000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-8102000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,219300000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,219300000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,85000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,85000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,85000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,85000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-112052000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfo,-167000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,-167000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Dividend Received Cfo,0.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-155812000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-772000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-11979000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-18049000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,83733000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-216839000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,167000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1029000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Depreciation,1029000.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+PRECISION.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,42731000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,-26627000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,32911000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-114000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,End Cash Position,6774000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,743000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,6031000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,32658000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-253000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-105000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,32911000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,32911000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-114000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,9000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-114000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-114000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,-26513000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-253000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfo,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,-105000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Dividend Received Cfo,
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-42868000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,24908000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,-3774000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Change In Payable,2557000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,-147925000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,78561000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,105000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,1237000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Depreciation,1237000.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+PRECISION.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,15118000.0

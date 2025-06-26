@@ -1,0 +1,206 @@
+symbol,statement_type,period_end,line_item,value
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2916000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-10033000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,0.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-31754000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,End Cash Position,33299000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,71644000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-38345000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-82697000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-1000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-12235000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-60428000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-10033000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-10033000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-10033000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,9682000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1560000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,36854000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,3022000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-31754000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-31754000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,34670000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-57343000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-126509000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-39065000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-59435000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-28009000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-24619000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,9880000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,1025000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Depreciation,8855000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-1560000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,6526000.0
+STEELCITY.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,220982000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-190213000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,43048000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-4711000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,End Cash Position,71644000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,232672000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-161028000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-8316000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-6042000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-45321000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,43048000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,43048000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,43048000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,32790000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,807000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,33233000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1250000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3461000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-4711000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-185502000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-41483000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-277971000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,27640000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Change In Payable,147970000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-453580000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-27191000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,10367000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,1019000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Depreciation,10367000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-807000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-2474000.0
+STEELCITY.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,155116000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,22106000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-563000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,22500000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-139917000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,End Cash Position,232672000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,205136000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,27535000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-29519000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-1000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-6134000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-45321000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,21937000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,21937000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-563000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,22500000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-104969000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,673000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,32924000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-138566000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1351000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-139917000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,162023000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-39450000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,75377000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,578632000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-57216000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-446038000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-26790000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,7333000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Depreciation,7333000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-673000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1351000.0
+STEELCITY.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,147901000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,212219000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-7619000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-62923000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,End Cash Position,781371000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,595915000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,185455000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-57868000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-4928000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-45321000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-7619000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-7618560.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-7618560.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-7619000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-7619000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-31819000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,576000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,29757000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,576000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,771000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-62923000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-62923000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,275142000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-49190000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,159192000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-9121000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Change In Payable,87177000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,81137000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-24829000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,6704000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Depreciation,6704000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-576000.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+STEELCITY.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,179845000.0
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-30214190.0
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,7810925.0
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,7810925.0
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,20808.0
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,500000.0
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+STEELCITY.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

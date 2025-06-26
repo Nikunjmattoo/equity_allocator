@@ -1,0 +1,246 @@
+symbol,statement_type,period_end,line_item,value
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-302205000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-607609000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1510000000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,23000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-218219000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,End Cash Position,5754000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,4715000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,1039000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,237328000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-10000000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-385540000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,23000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,23000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,632845000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-269546000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,902391000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-607609000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1510000000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-152303000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,7930000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-1691000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-158542000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,59677000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-218219000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-83986000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,49917000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,265272000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-8114000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,33026000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-77532000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,158678000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,161522000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,358935000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,345000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,202156000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,437145000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Depreciation,437145000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,32317000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-20181000.0
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+ASTEC.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-1409892000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-1252771000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-439648000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1490000000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,790000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1354981000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,End Cash Position,4715000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,4734000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-19000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,1249585000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,500000000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-232031000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-29409000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,790000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,790000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1010235000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-40117000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,1050352000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-439648000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1490000000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1351814000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-2765000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2336000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-2765000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-2765000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-1351385000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3596000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1354981000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,102210000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-19652000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,104936000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-15096000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,156169000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-888041000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,989103000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-135322000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,250746000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,3011000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,17976000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,362534000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,253000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Depreciation,362534000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-976000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1114000.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ASTEC.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-617479000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-426031000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-1257000000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1416000000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,1309000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1172591000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,End Cash Position,4734000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,5545000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-811000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,377703000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-200679000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-29406000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,1309000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,1309000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,606479000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,447479000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,447479000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,159000000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1257000000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1416000000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1125074000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-1102000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,40852000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1102000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1102000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1164824000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,7767000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1172591000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,746560000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-48901000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-59063000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-18133000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-28088000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-142750000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1087968000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,1217247000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,166651000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,3307000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,8442000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,336525000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,7962000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Depreciation,328563000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-15111000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,5235000.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ASTEC.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,349473000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-803742000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,920267000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,2990000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1039783000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,End Cash Position,5545000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3388000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,2157000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,804775000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-89104000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-29378000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,2990000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,2990000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,920267000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,920267000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,920267000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1038659000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,3283000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-3398000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1038544000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1239000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1039783000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,236041000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-291495000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1123892000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,94125000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-153064000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Change In Payable,607150000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-831416000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-837695000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,87946000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,1047000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,23211000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,343563000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,7018000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Depreciation,343563000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-15130000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-143000.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ASTEC.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1211258000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-336000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-29356000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-29356000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,288652000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-324000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,5065000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-2506000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,-2506000.0
+ASTEC.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

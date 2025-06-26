@@ -1,0 +1,301 @@
+symbol,statement_type,period_end,line_item,value
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-15196100000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-336328200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,426826000000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,3937100000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-16480800000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,End Cash Position,65447700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,52173200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-3300000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,13277800000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,69575800000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,8000000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-3053500000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-20407700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,3920400000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,3920400000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,16700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,16700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,90497800000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-22416100000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-222274200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,199858100000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,112913900000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-114054000000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,226967900000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-57582700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,890700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-43837500000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,16418000000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-60255500000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-1946100000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-1946100000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-15989800000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,491000000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-16480800000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1284700000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-11502600000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Dividend Paid Cfo,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-51659200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,2991400000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-74054600000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Payable,12247300000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Prepaid Assets,52400000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,219300000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,4809200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,2615300000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,138200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,226500000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,12135400000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,10866500000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Depreciation,10866500000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-1712300000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-25200000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-225600000.0
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+ASHOKLEY.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,33827900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-73915200000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-231773500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,328516000000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,21700000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-11335400000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,End Cash Position,52174200000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,19086800000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-2500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,33089900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,84315900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,26200000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-4095200000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-7633900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,21700000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,21700000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,96742500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,20443000000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-108443900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,128886900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,76299500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-123329600000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,199629100000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,11353800000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,836400000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,25293500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,35660600000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-10367100000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-10876100000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,459300000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-11335400000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-62579800000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-8661000000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Dividend Paid Cfo,-14534800000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-113351400000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,2981100000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-109743500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-7818900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Prepaid Assets,-66100000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-5675800000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,2919500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,2942400000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,86300000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,14097300000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,9272900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2188500000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Depreciation,9272900000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,489800000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,27600000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-142700000.0
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+ASHOKLEY.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,26963400000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-54283600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-136584200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,205714000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,50500000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-9291000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,End Cash Position,19085800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,284700000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,20309600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,27800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1536300000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,72805900000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,10530300000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-3299500000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-2935500000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,50500000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,50500000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,69129800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,6052100000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-48260600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,54312700000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,63077700000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-88323600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,151401300000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-29349600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-9291000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,352600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-19510600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,26676400000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-46187000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-2184400000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-2184400000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-8537200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,753800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-9291000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-44992600000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-5621200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Dividend Paid Cfo,0.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-72612300000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,6648200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-68431100000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Payable,3200200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Prepaid Assets,11900000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-8998800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-9093000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,3308100000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,35400000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,9069300000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,9002200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,2269000000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Depreciation,6733200000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-1091800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,371800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-98800000.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+ASHOKLEY.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,13588200000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,28445600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-142403500000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,142566000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-5087200000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,End Cash Position,20309600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,14810400000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-3400000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,5502600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3776300000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1377700000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-3049700000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-1761300000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,162500000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-8168100000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-60666000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,52497900000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,8330600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-81737500000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,90068100000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-19166700000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-5059000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,398000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-15576700000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,15500400000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-31077100000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,1071000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,1071000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5087200000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,28445600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-562200000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Dividend Paid Cfo,
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,16544600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,1436000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-82100000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Payable,19158400000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Prepaid Assets,-61100000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-475300000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2562400000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,3108800000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,6400000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-553300000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,858600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,8659600000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,1946700000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Depreciation,6712900000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,1097800000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-44000000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-9300000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,30200000.0
+ASHOKLEY.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-2854500000.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,93700000.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,0.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-7516700000.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-7516700000.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Dividend Paid Cfo,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Prepaid Assets,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,1885200000.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,-763900000.0
+ASHOKLEY.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

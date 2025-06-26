@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+HINDUNILVR.NS,maxAge,86400
+HINDUNILVR.NS,totalEsg,23.4
+HINDUNILVR.NS,environmentScore,8.95
+HINDUNILVR.NS,socialScore,8.21
+HINDUNILVR.NS,governanceScore,6.24
+HINDUNILVR.NS,ratingYear,2023
+HINDUNILVR.NS,ratingMonth,9
+HINDUNILVR.NS,highestControversy,2.0
+HINDUNILVR.NS,peerCount,29
+HINDUNILVR.NS,esgPerformance,AVG_PERF
+HINDUNILVR.NS,peerGroup,Household Products
+HINDUNILVR.NS,relatedControversy,"['Operations Incidents', 'Employee Incidents', 'Customer Incidents']"
+HINDUNILVR.NS,peerEsgScorePerformance,"{'min': 18.05, 'avg': 25.926896551724145, 'max': 35.99}"
+HINDUNILVR.NS,peerGovernancePerformance,"{'min': 5.31, 'avg': 7.282068965517239, 'max': 9.58}"
+HINDUNILVR.NS,peerSocialPerformance,"{'min': 5.52, 'avg': 9.567586206896552, 'max': 13.15}"
+HINDUNILVR.NS,peerEnvironmentPerformance,"{'min': 4.36, 'avg': 9.075862068965517, 'max': 13.29}"
+HINDUNILVR.NS,peerHighestControversyPerformance,"{'min': 0.0, 'avg': 1.7586206896551724, 'max': 3.0}"
+HINDUNILVR.NS,percentile,41.81
+HINDUNILVR.NS,environmentPercentile,
+HINDUNILVR.NS,socialPercentile,
+HINDUNILVR.NS,governancePercentile,
+HINDUNILVR.NS,adult,False
+HINDUNILVR.NS,alcoholic,False
+HINDUNILVR.NS,animalTesting,True
+HINDUNILVR.NS,catholic,False
+HINDUNILVR.NS,controversialWeapons,False
+HINDUNILVR.NS,smallArms,False
+HINDUNILVR.NS,furLeather,False
+HINDUNILVR.NS,gambling,False
+HINDUNILVR.NS,gmo,False
+HINDUNILVR.NS,militaryContract,False
+HINDUNILVR.NS,nuclear,False
+HINDUNILVR.NS,pesticides,False
+HINDUNILVR.NS,palmOil,False
+HINDUNILVR.NS,coal,False
+HINDUNILVR.NS,tobacco,False

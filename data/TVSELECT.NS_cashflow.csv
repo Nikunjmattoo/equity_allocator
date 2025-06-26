@@ -1,0 +1,231 @@
+symbol,statement_type,period_end,line_item,value
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-32600000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-58600000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-88700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,26500000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-200000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,31200000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-4500000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-176800000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-42400000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-18700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-58600000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-58600000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-58600000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,116200000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-12800000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,3100000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,212900000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,212900000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,0.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-87000000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-88700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,56100000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-55400000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-8500000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,78700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-20900000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,119400000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-95500000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-90200000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,50700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,-25500000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,150700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Depreciation,150700000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-15100000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-900000.0
+TVSELECT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,-37900000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-141800000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-28100000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,277000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-279700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,31200000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-100000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,90800000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-59500000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,189500000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-15300000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-37200000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,277000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,277000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-28100000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,277000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-386900000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,9800000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2200000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-120000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,290000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-410000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-278900000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,800000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-279700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,137900000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-24500000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,44000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-40000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,158000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,36700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,68100000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-178800000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,17400000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,15700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,-9500000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,108700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Depreciation,108700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-17700000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,1000000.0
+TVSELECT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,2700000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-239800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,56800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-156400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,90800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,103600000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-12800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,9200000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-7700000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,56800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,56800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,56800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,61400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-16900000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1500000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,228800000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,324200000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-95400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-152000000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-156400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-83400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-52000000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-237200000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,54000000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-23100000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2600000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-150300000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-120400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,10000000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,7400000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,33200000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,71000000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Depreciation,71000000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-9900000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-1100000.0
+TVSELECT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,128400000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,223400000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,37600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-38900000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,103600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,80800000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,22800000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-37800000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-4500000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-37300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,37600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,37600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,37600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,37600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,37600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-201700000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,1100000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-169400000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-169400000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-32800000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,6100000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-38900000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,262300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-30200000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,14500000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,13000000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-10900000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,202300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-99600000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-90300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,2300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,57200000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,63300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Depreciation,63300000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-7500000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,2100000.0
+TVSELECT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,151000000.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,0.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-144300000.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,-144300000.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,0.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TVSELECT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

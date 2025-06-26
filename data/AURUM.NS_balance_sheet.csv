@@ -1,0 +1,391 @@
+symbol,statement_type,period_end,line_item,value
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,72217989.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,72217989.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,713600000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,2733400000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,278000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,3553600000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,-447700000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,278000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,1923300000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,2743500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,3504000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,2844700000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,101200000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,2743500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,2467900000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,275600000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,275600000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,3900400000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2114900000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,6300000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Derivative Product Liabilities,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2034700000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,1274200000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,760500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,50500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,1785500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,92400000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,698700000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,649100000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,49600000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,9800000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Payables,333000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,8000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,325000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,6745100000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,5407300000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,44900000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,287300000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,441000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,441000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,2465500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,723000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,1742500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,2113500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,2113500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,2113500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,1337800000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,258600000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,23400000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,11400000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,289900000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,754500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,658000000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,96500000.0
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+AURUM.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,72074889.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,72074889.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,1866500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,3189300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,-687100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,3742900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,-1317900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,-687100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,1250200000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,1803800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,3159400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,1879700000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,75900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,1803800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,108300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,-732000000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,2227800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,199300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,199300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,4564800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2192500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,4500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Derivative Product Liabilities,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,41900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,4400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2089000000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,733400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1355600000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,43100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,2372300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,13700000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,1100300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,516800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,583500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,9100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,202400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Payables,583500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,163400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,73200000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,346900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,6444500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,5390100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,-5300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,409800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,234900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,0.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,305100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,2490900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,748400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,1742500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,2259800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-484500000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,2744300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,0.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,1225300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,406200000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,1095800000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,17000000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,1054400000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,25100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,73200000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,170300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,145300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,232300000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-15900000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,248200000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,408200000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,335600000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,72600000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,22100000.0
+AURUM.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,50500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,71574222.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,71574222.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,985700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,1070000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,2281700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,225000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,1070000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,929400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,2225400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,2270700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,2348300000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,122900000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,2225400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,34600000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,-169700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,2163000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,196800000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,196800000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,1569400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,655200000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,100000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Derivative Product Liabilities,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,19200000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,5600000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,585800000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,540500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,45300000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,2100000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,914200000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,3000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,399900000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,388900000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,11000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,2400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,80600000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Payables,342600000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,111200000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,77900000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,153500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,3917700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,2778500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,12700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,217500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,165400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,12000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,12000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,0.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,1155400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,376400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,779000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,1215500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-194000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,1409500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,5600000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,842200000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,193400000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,351300000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,17000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,1139200000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,24800000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,77900000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,73000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,102300000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,185700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-7000000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,192700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,675500000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,472800000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,202700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,113700000.0
+AURUM.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,89000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,39297225.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,39297225.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,75500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,1367000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1696700000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,985700000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,1367000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,59600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,1680800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,1688900000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,1887400000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,206600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,1680800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,8500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,135500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,1393800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,143100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,143100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,318300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,61800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,1000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Derivative Product Liabilities,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,7800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,1000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,50600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,42500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,8100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,256500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,24900000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,17100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,7800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,400000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,31400000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Payables,190300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,30600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,80900000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,78800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,2205700000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,963500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,1300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,122300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,44100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,0.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,10400000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,94600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,313800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,190700000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,123100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,387400000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-74100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,461500000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,22300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,60000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,54400000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,307800000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,17000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,1242200000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,25000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,80900000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,19300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,14600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,77700000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-12300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,90000000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1024700000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,683600000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,341100000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,227300000.0
+AURUM.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,113800000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,247600000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,1362700000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Derivative Product Liabilities,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,3200000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,700000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,23900000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,73900000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,96400000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-59200000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,176000000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,7500000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,121600000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,17000000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,75000000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,1600000.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,0.0
+AURUM.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,5300000.0

@@ -1,0 +1,211 @@
+symbol,statement_type,period_end,line_item,value
+GTPL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,673080000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-675240000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,750000000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3846170000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,241880000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GTPL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,634250000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-392370000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-1109670000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,-23070000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-295910000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-449830000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,400000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-74360000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,74760000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-675240000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,750000000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-3801950000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,117440000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,
+GTPL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-73220000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,1510000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-74730000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-3846170000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-3846170000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,4519250000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,159940000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-268220000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,1934190000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-617710000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-7750000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1576950000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,168580000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,133890000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3687730000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Depreciation,3687730000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-50000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2620000.0
+GTPL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GTPL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,641300000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-168130000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-529940000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,850000000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-4716200000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,634250000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1900000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1329610000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-697260000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-474950000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-177380000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-222800000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-449790000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,596910000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,276850000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,320060000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-529940000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,850000000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-4770380000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,101140000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,
+GTPL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-157530000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,92470000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-250000000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-4713990000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,2210000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-4716200000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,4548070000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-333800000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-177360000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1310360000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-206880000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,183880000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1464720000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,146090000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-11670000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3371980000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Depreciation,3371980000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-2110000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,8780000.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+GTPL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1508370000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1151770000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-419200000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,380000000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-4674200000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1329610000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1460000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,691630000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,636520000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-580670000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-116120000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-96800000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-449700000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,165490000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,204690000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-39200000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-419200000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,380000000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4608780000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,61600000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,
+GTPL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-4670380000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,3820000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-4674200000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,5825970000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,381220000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,359930000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,1556430000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-472860000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-289090000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-434550000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,124280000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,17530000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,3189180000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Depreciation,3189180000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,30190000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-10000.0
+GTPL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1693560000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,852870000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-1193240000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,1320000000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3103100000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,691630000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GTPL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,865320000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-173690000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-1016010000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-10280000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-145940000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-449780000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-345430000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-472190000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,126760000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-1193240000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,1320000000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3113650000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,60310000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-208320000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-208320000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-73500000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+GTPL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-73500000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3100460000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2640000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-3103100000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,3955970000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-581720000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1053020000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-2243820000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-241670000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,12330000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,1420140000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,134060000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-44500000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2528640000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Depreciation,2528640000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,27550000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-3820000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,34130000.0
+GTPL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2899030000.0
+GTPL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GTPL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-98510000.0
+GTPL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-98510000.0
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,87920000.0
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GTPL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,27980000.0
+GTPL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

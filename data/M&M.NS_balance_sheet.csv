@@ -1,0 +1,456 @@
+symbol,statement_type,period_end,line_item,value
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,44022782.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,1199506049.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,1243528831.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,1162490600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,1249493100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,635922400000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,1982118100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,362512600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,635922400000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,37763600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,770388600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,1567460500000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,890980000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,120591400000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,770388600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,764807100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,5581500000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,5581500000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,1884882700000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,981662600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,61918100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Preferred Securities Outside Stock Equity,40752700000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Derivative Product Liabilities,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Non Current Accrued Expenses,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Tradeand Other Payables Non Current,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,19120700000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,828773300000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,31701400000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,797071900000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,19820200000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,903220100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,98186200000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,420719800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,6062200000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,414657600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,13138000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Payables,315749800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,7196800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,308553000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,2775862700000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,1510130000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,27273800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Assets,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,15731100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,74672100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,74672100000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,141766800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Investments In Other Ventures Under Equity Method,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Associatesat Cost,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,134466200000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,110727200000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,23739000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,294873800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,294873800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,36525600000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,258348200000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,1265732700000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,72030800000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,0.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Assets,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Inventory,203309300000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,446447700000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,82797000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,461147900000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,411909000000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,49238900000.0
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+M&M.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,128753059.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,1114775772.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,1243528831.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,986731300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,1066255200000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,548917700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,1693937800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,227199900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,548917700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,34222900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,661905500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,1339102400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,775093400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,113187900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,661905500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,2987600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,577178600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,28249000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,5573800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,5573800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,1587913900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,832457400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,79682200000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Preferred Securities Outside Stock Equity,20217300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Derivative Product Liabilities,3343400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Non Current Accrued Expenses,2290600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Tradeand Other Payables Non Current,
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,59464900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,17721300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,705336100000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,28139200000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,677196900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,17632800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,755456500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,6165000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,360919100000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,6083700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,354835400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,11230000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Payables,312798000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,50548600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,167800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,5425200000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,256656400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,2363007300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,1380350900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,3841300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,33654500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Assets,7453900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,15789900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets,146900000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,101848200000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,258400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,84243700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,17346100000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,139197000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,31001700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Investments In Other Ventures Under Equity Method,0.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,108195300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,112987800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,88504100000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,24483700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,248699300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-222624500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,471323800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,34613300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,3578600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,297190700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,114964800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,20976400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,982656400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,14146000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,199300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,254700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Assets,615400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,919500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,37481200000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Inventory,185904700000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,78929400000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,40182300000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,66793000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,406308100000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,74594000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4143600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,78737600000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,262233500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,216932500000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,45301000000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,19182800000.0
+M&M.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,26118200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,1243528831.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,1243528831.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,852736000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,922468500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,468312200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,1451328000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,207460300000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,468312200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,34798400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,563657900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,1113931800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,670821100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,107163200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,563657900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,2603300000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,481876100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,27454800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,5568200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,5568200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,1388096600000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,682302500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,55252800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Preferred Securities Outside Stock Equity,4000000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Derivative Product Liabilities,1313400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Non Current Accrued Expenses,2209100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Tradeand Other Payables Non Current,400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,55252800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,16086400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,579098900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,28825000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,550273900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,18159500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,705794100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,4920100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,343369600000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,5973400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,337396200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,11894800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Payables,292616800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,47928500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,171800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,6159900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,238356600000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,2058917700000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,1145663300000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,3765100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,17770000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Assets,7098800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,16154600000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets,282000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,85241200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,259700000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,81530100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,3451400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,144943500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,32894200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Investments In Other Ventures Under Equity Method,28800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,112020500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,95345700000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,69856700000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,25489000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,215739900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-200291900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,416031800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,12226600000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,3853800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,271564200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,108616000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,19771200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,913254400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,17491800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,209300000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,566000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Assets,573900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,665900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,32994600000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Inventory,168549700000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,65150500000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,26736400000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,76662800000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,357340900000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,70280200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-3485000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,73765200000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,264582100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,229648000000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,34934100000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,13905700000.0
+M&M.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,21028400000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,1112130815.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,1112130815.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,711795900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,776052100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,393397000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,1217898200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,188596700000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,393397000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,29380300000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,471226400000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,957477000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,568252600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,97026200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,471226400000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,2234600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,391742100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,26494600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,5560600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,5560600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,1172875400000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,609992100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Preferred Securities Outside Stock Equity,0.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Derivative Product Liabilities,1435300000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Non Current Accrued Expenses,3372900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Tradeand Other Payables Non Current,15500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,52499200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,17861000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,510576100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,24325500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,486250600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,14979900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,562883300000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,3922100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,265476000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,5054800000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,260421200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,9681900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Payables,235455300000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,40998000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,171600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,3920200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,190365500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,1741128000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,989648000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,4779900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,14029700000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Assets,6703600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,17243100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets,260100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,71578000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,261000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,70166500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1150500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,131602600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,18845100000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Investments In Other Ventures Under Equity Method,105600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,112651900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,77829400000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,64425400000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,13404000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,249383600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-186203000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,435586600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,30361000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,3263800000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,285366700000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,97280600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,19314500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,751480000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,13321800000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,3359500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Assets,530600000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,638500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,24968000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Inventory,115958200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,46689000000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,21562300000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,47706900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,302038200000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,63739500000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4007300000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,67746800000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,226925700000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,192049800000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,34875900000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,12905800000.0
+M&M.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,21970100000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,336679600000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,25351100000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Preferred Securities Outside Stock Equity,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Derivative Product Liabilities,1684800000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Non Current Accrued Expenses,4206300000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Tradeand Other Payables Non Current,14400000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,47660000000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,38103300000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,184300000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,15255000000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Assets,6538000000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets,1728200000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,260300000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Financial Assets Designatedas Fair Value Through Profitor Loss Total,1180000000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,17598300000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Investments In Other Ventures Under Equity Method,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,104963900000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-171881900000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,242892100000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,84818400000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,17120300000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,579500000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,0.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Assets,500100000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,931900000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,20844900000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,38027800000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,22171100000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,35955200000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-4067800000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,64145400000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,7588800000.0
+M&M.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,26157100000.0

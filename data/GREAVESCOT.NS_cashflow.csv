@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-1043600000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-28500000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,67700000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,295900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-818400000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1350300000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,1478200000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-127900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-399800000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-134900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-465000000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,295900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,295900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,39200000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,39200000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-28500000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,67700000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,497100000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,38300000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,306500000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,1700700000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,4509100000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2808400000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-759000000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-759000000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-395900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-395900000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-393500000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,29000000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-422500000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-225200000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-889800000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-735400000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-1101100000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1734600000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-594200000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-993700000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-166400000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,-38000000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,10300000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1034800000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Depreciation,1034800000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-132300000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,5300000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-14400000.0
+GREAVESCOT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,725000000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-3118900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,0.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,52900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,28900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1588500000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,1478200000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,140200000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,864300000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,473700000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-320100000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-63900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-208800000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,28900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,28900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,52900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,52900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,0.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,52900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,2324200000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,502800000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,4928800000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,8950200000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-4021400000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-2385300000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-2385300000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-553200000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-553200000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-168900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,866400000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1035300000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-1530400000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1141900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1595500000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-1210500000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,711100000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-2024800000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-28800000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-397000000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-353500000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,102500000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,4857000000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,843900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,421300000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Depreciation,843900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-73600000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,900000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1567400000.0
+GREAVESCOT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-2731000000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-2141400000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,11415200000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-789800000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,864300000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,906800000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-42500000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,8885900000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,416700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-94700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-46300000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,11415200000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,11415200000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-2291700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-2291700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-7576800000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,383500000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-7110100000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,2389600000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-9499700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,0.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-357500000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-357500000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-354700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,77600000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-432300000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-1351600000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-462400000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-2626100000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,4600000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-3325000000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,627400000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-216100000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,21700000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-418500000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,98800000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,181000000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,430600000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,566800000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,248600000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Depreciation,318200000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-4900000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,200000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-54000000.0
+GREAVESCOT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1128100000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1222300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,600000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-659500000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,906800000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1750600000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-843800000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,2100200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-29900000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-46200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,600000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,600000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2289900000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,2289900000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2381200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,74000000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2449700000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1096000000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-3545700000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-267500000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-267500000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-266300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-266300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,593300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,986500000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-393200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-562800000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-150200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-909600000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,422300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1572000000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,222300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-186200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,88200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-80300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,45800000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,137400000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,159700000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,587300000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,233200000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Depreciation,354100000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-100000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-900000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-119100000.0
+GREAVESCOT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-353000000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-69400000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,2100000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-69400000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,100000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,-40700000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,49900000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,229900000.0
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GREAVESCOT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

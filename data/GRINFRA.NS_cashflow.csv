@@ -1,0 +1,276 @@
+symbol,statement_type,period_end,line_item,value
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-21874308000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-4277167000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,27677900000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,51298000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1558362000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,End Cash Position,6594899000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,5338739000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,1256160000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,17244693000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-4410811000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-1209254000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,51298000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,51298000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,22900733000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-500000000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,23400733000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-4277167000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,27677900000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,4327413000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,3337955000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,1182714000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-4558239000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,2007921000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-6566160000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,4894301000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,5074973000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-180672000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-21783000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Sale Of Intangibles,0.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-21783000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-507535000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,1029044000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1536579000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-20315946000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-2552415000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-28281317000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-4014020000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Change In Payable,868054000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,2296406000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-25589641000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-3054710000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,38909000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,1155000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,2445794000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Depreciation,2445794000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-203755000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-50000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-432157000.0
+GRINFRA.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,13365867000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-17105128000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-6619638000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,24828968000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-1200998000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,5338739000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1528401000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,2111975000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,4755165000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,11202717000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-5537503000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,16828119000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1381211000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,18209330000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-6619638000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,24828968000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,9456578000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,8000583000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,2311722000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,3281637000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-969915000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,111658000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,111658000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-2717000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Sale Of Intangibles,3255000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-5972000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-964668000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,230358000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-1195026000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-15904130000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-3269263000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-44526234000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-4789614000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-165303000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,1166481000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-40654279000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,11723666000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,71353000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,-3999000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2442302000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,10713000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Depreciation,2442302000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-70742000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-73776000.0
+GRINFRA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,17289540000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-6609487000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-6721620000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,9890100000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2974801000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,2111975000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,6038518000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-3926543000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-203372000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-4602632000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,4505294000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,1336814000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,3168480000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-6721620000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,9890100000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-88485000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,5965434000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-3359527000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-3359527000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Sale Of Intangibles,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2694392000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,280409000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-2974801000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-3634686000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-3572341000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-38771016000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,3556077000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,1250068000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1374960000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-45077461000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,16295752000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,14429000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2456516000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,12327000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Depreciation,2444189000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-44124000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-74171000.0
+GRINFRA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,19523350000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2681889000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-6889272000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,16318900000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4346425000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,6038518000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3837274000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,2201244000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3108155000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-3823462000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,0.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,7096049000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-2333579000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,9429628000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-6889272000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,16318900000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-2571447000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,360951000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,1291980000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1291980000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,2241000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,2241000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Intangibles,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-4226619000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,119806000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-4346425000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1664536000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-3119707000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-13299467000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-4621705000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-84385000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,366236000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-9396451000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,3776790000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,532284000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2816301000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,25867000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Depreciation,2816301000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-18466000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-10878000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-722000.0
+GRINFRA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,10988401000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,-13797000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,0.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,-13797000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,-13797000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,7960000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-2656332000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Intangibles,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,20817000.0
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+GRINFRA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

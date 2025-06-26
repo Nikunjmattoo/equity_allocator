@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,151190000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-116500000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,58680000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,130000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-794940000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,158360000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,134410000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,23950000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-166810000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-13341000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-44340000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-44340000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,130000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,130000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-109260000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-51440000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-57820000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-116500000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,58680000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-755370000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-5120000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,13270000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-47590000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,50270000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,70000000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-19730000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-4300000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-4300000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-761900000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,28740000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-790640000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,946130000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-220150000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-79900000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,154180000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-30520000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,17180000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-3660000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-215880000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-14120000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,18500000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,357330000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Depreciation,357330000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-280000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1470000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,-50270000.0
+VIMTALABS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,904050000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-156780000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-51740000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,40310000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,80000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-765700000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,134410000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,305000000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-170590000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-19030000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-14840000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-44280000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-44280000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,80000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,80000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,40010000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,51440000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-11430000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-51740000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,40310000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-760480000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,15010000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-30720000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,0.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-2360000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-2360000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-742410000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,20930000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-763340000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,608920000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-154720000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-153810000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1380000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,10590000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-61360000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-20680000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-105240000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-15670000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,15530000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,341950000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,33440000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Depreciation,341950000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-5650000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2480000.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+VIMTALABS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,544810000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,381320000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-53590000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,40000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-498050000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,305000000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,108000000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,197000000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-109810000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-8850000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-44220000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-44220000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,40000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,40000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,-56780000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-3190000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-53590000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-53590000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-572560000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,9630000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-86580000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-19860000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-19860000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-475750000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,2440000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-478190000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,879370000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-125290000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-36430000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,78630000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-24260000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,19790000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-52460000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-77920000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,1680000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,40740000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,307130000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,31490000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Depreciation,275640000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-2440000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-2300000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-2440000.0
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+VIMTALABS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,649970000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,203450000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-76960000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,49580000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-387240000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,108000000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,61930000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,46070000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-166140000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-7770000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-44220000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-44220000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-114150000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-86770000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-27380000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-76960000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,49580000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-378480000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,8500000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-160000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-89410000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-89410000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-297410000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,420000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-297830000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,590690000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-166400000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-113580000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,73300000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-29600000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-23210000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-27420000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-95590000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-3140000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,28970000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,233300000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Depreciation,233300000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-420000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1010000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-420000.0
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+VIMTALABS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,556850000.0
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,170000.0
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+VIMTALABS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

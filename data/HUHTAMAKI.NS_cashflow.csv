@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Free Cash Flow,759400000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Repayment Of Debt,-1000000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Issuance Of Debt,0.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Capital Expenditure,-664000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,End Cash Position,488900000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Beginning Cash Position,1444800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Effect Of Exchange Rate Changes,2300000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Changes In Cash,-958200000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Financing Cash Flow,-1612800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Other Financing Charges,
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Interest Paid Cff,-189600000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Cash Dividends Paid,-377700000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Common Stock Dividend Paid,
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Issuance Payments Of Debt,-1000000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Short Term Debt Issuance,0.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Short Term Debt Payments,0.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Short Term Debt Issuance,0.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Long Term Debt Issuance,-1000000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Long Term Debt Payments,-1000000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Long Term Debt Issuance,
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Investing Cash Flow,-768800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Other Investing Changes,-233400000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Interest Received Cfi,160400000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Investment Purchase And Sale,-300200000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Sale Of Investment,3199800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Purchase Of Investment,-3500000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Business Purchase And Sale,
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Purchase Of Business,
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net PPE Purchase And Sale,-395600000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Sale Of PPE,268400000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Purchase Of PPE,-664000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Operating Cash Flow,1423400000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Taxes Refund Paid,44600000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Change In Working Capital,-92000000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Change In Other Current Liabilities,-113900000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Change In Other Current Assets,59200000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Change In Payable,81500000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Change In Inventory,194100000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Change In Receivables,-272800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Other Non Cash Items,6200000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Stock Based Compensation,10600000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Provisionand Write Offof Assets,2600000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Deferred Tax,42100000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Depreciation And Amortization,474800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Amortization Cash Flow,28100000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Depreciation,446700000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Gain Loss On Investment Securities,-24800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-25300000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Gain Loss On Sale Of PPE,-313800000.0
+HUHTAMAKI.NS,cashflow,2024-12-31 00:00:00,Net Income From Continuing Operations,1168400000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Free Cash Flow,1786600000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Repayment Of Debt,-13724300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Issuance Of Debt,12093400000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Capital Expenditure,-949200000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,End Cash Position,1444800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Beginning Cash Position,425300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Effect Of Exchange Rate Changes,500000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Changes In Cash,1019000000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Financing Cash Flow,-2114800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Other Financing Charges,
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Interest Paid Cff,-298200000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Cash Dividends Paid,-151800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Common Stock Dividend Paid,
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Issuance Payments Of Debt,-1630900000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Short Term Debt Issuance,-1630900000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Short Term Debt Payments,-13724300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Short Term Debt Issuance,12093400000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Long Term Debt Issuance,0.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Long Term Debt Payments,0.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Long Term Debt Issuance,
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Investing Cash Flow,398000000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Other Investing Changes,-597100000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Interest Received Cfi,20500000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Investment Purchase And Sale,-2460800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Sale Of Investment,210000000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Purchase Of Investment,-2670800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Business Purchase And Sale,
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Purchase Of Business,
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net PPE Purchase And Sale,3435400000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Sale Of PPE,4384600000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Purchase Of PPE,-949200000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Operating Cash Flow,2735800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Taxes Refund Paid,-265300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Change In Working Capital,1226100000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Change In Other Current Liabilities,164300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Change In Other Current Assets,-42100000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Change In Payable,-130200000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Change In Inventory,259300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Change In Receivables,1050700000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Other Non Cash Items,182300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Stock Based Compensation,0.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Provisionand Write Offof Assets,21700000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Deferred Tax,37300000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Depreciation And Amortization,533500000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Amortization Cash Flow,30600000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Depreciation,502900000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Gain Loss On Investment Securities,-15900000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,11400000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Gain Loss On Sale Of PPE,-4036800000.0
+HUHTAMAKI.NS,cashflow,2023-12-31 00:00:00,Net Income From Continuing Operations,5000400000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Free Cash Flow,361600000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Repayment Of Debt,-44657000000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Issuance Of Debt,44800800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Capital Expenditure,-964900000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,End Cash Position,425300000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Beginning Cash Position,313400000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Effect Of Exchange Rate Changes,-3000000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Changes In Cash,114900000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Financing Cash Flow,-315800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Other Financing Charges,
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Interest Paid Cff,-316700000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Cash Dividends Paid,-77600000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Common Stock Dividend Paid,-77600000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Issuance Payments Of Debt,143800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Short Term Debt Issuance,143800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Short Term Debt Payments,-44657000000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Short Term Debt Issuance,44800800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Long Term Debt Issuance,0.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Long Term Debt Payments,0.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Long Term Debt Issuance,0.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Investing Cash Flow,-895800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Other Investing Changes,
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Interest Received Cfi,5100000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Investment Purchase And Sale,10800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Sale Of Investment,555800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Purchase Of Investment,-545000000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Business Purchase And Sale,
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Purchase Of Business,
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net PPE Purchase And Sale,-911700000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Sale Of PPE,53200000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Purchase Of PPE,-964900000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Operating Cash Flow,1326500000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Taxes Refund Paid,-131800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Change In Working Capital,-293900000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Change In Other Current Liabilities,-10300000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Change In Other Current Assets,488100000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Change In Payable,-898600000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Change In Inventory,394800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Change In Receivables,-237900000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Other Non Cash Items,245600000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Stock Based Compensation,11800000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Provisionand Write Offof Assets,100300000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Deferred Tax,23000000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Depreciation And Amortization,860500000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Amortization Cash Flow,45400000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Depreciation,815100000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Gain Loss On Investment Securities,25400000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-43500000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Gain Loss On Sale Of PPE,-43600000.0
+HUHTAMAKI.NS,cashflow,2022-12-31 00:00:00,Net Income From Continuing Operations,559300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Free Cash Flow,-1068000000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Repayment Of Debt,-7835200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Issuance Of Debt,8844400000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Capital Expenditure,-791300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,End Cash Position,313400000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Other Cash Adjustment Outside Changein Cash,100000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Beginning Cash Position,662000000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Effect Of Exchange Rate Changes,0.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Changes In Cash,-348600000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Financing Cash Flow,486300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Other Financing Charges,-17600000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Interest Paid Cff,-205100000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Cash Dividends Paid,-226800000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Common Stock Dividend Paid,-226800000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Issuance Payments Of Debt,1009200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Short Term Debt Issuance,-223200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Short Term Debt Payments,-7817600000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Short Term Debt Issuance,7594400000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Long Term Debt Issuance,1232400000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Long Term Debt Payments,-17600000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Long Term Debt Issuance,1250000000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Investing Cash Flow,-558200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Other Investing Changes,
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Interest Received Cfi,17200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Investment Purchase And Sale,184700000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Sale Of Investment,3289700000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Purchase Of Investment,-3105000000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Business Purchase And Sale,0.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Purchase Of Business,0.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net PPE Purchase And Sale,-760100000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Sale Of PPE,31200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Purchase Of PPE,-791300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Operating Cash Flow,-276700000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Taxes Refund Paid,-147900000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Change In Working Capital,-942300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Change In Other Current Liabilities,-47000000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Change In Other Current Assets,-291800000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Change In Payable,1640800000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Change In Inventory,-1187200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Change In Receivables,-970500000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Other Non Cash Items,251200000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Stock Based Compensation,-11300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Provisionand Write Offof Assets,0.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Deferred Tax,0.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Depreciation And Amortization,921600000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Amortization Cash Flow,
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Depreciation,921600000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Gain Loss On Investment Securities,-22900000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,9300000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Gain Loss On Sale Of PPE,-21400000.0
+HUHTAMAKI.NS,cashflow,2021-12-31 00:00:00,Net Income From Continuing Operations,-5900000.0
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Free Cash Flow,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Repayment Of Debt,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Issuance Of Debt,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Capital Expenditure,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,End Cash Position,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Beginning Cash Position,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Effect Of Exchange Rate Changes,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Changes In Cash,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Financing Cash Flow,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Other Financing Charges,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Interest Paid Cff,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Cash Dividends Paid,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Common Stock Dividend Paid,-227500000.0
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Issuance Payments Of Debt,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Short Term Debt Issuance,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Short Term Debt Payments,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Short Term Debt Issuance,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Long Term Debt Issuance,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Long Term Debt Payments,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Long Term Debt Issuance,2250000000.0
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Investing Cash Flow,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Other Investing Changes,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Interest Received Cfi,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Investment Purchase And Sale,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Sale Of Investment,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Purchase Of Investment,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Business Purchase And Sale,-741100000.0
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Purchase Of Business,-741100000.0
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net PPE Purchase And Sale,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Sale Of PPE,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Purchase Of PPE,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Operating Cash Flow,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Taxes Refund Paid,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Change In Working Capital,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Change In Other Current Liabilities,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Change In Other Current Assets,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Change In Payable,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Change In Inventory,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Change In Receivables,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Other Non Cash Items,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Stock Based Compensation,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Provisionand Write Offof Assets,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Deferred Tax,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Depreciation And Amortization,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Amortization Cash Flow,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Depreciation,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Gain Loss On Investment Securities,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Gain Loss On Sale Of PPE,
+HUHTAMAKI.NS,cashflow,2020-12-31 00:00:00,Net Income From Continuing Operations,

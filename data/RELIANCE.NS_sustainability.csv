@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+RELIANCE.NS,maxAge,86400
+RELIANCE.NS,totalEsg,41.04
+RELIANCE.NS,environmentScore,24.19
+RELIANCE.NS,socialScore,10.65
+RELIANCE.NS,governanceScore,6.2
+RELIANCE.NS,ratingYear,2023
+RELIANCE.NS,ratingMonth,9
+RELIANCE.NS,highestControversy,2.0
+RELIANCE.NS,peerCount,4
+RELIANCE.NS,esgPerformance,LEAD_PERF
+RELIANCE.NS,peerGroup,Refiners & Pipelines
+RELIANCE.NS,relatedControversy,"['Customer Incidents', 'Business Ethics Incidents']"
+RELIANCE.NS,peerEsgScorePerformance,"{'min': 21.06, 'avg': 30.79, 'max': 43.69}"
+RELIANCE.NS,peerGovernancePerformance,"{'min': 2.98, 'avg': 3.61, 'max': 4.54}"
+RELIANCE.NS,peerSocialPerformance,"{'min': 7.98, 'avg': 9.15, 'max': 11.01}"
+RELIANCE.NS,peerEnvironmentPerformance,"{'min': 10.1, 'avg': 13.729999999999999, 'max': 20.26}"
+RELIANCE.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.25, 'max': 3.0}"
+RELIANCE.NS,percentile,92.72
+RELIANCE.NS,environmentPercentile,
+RELIANCE.NS,socialPercentile,
+RELIANCE.NS,governancePercentile,
+RELIANCE.NS,adult,False
+RELIANCE.NS,alcoholic,False
+RELIANCE.NS,animalTesting,False
+RELIANCE.NS,catholic,True
+RELIANCE.NS,controversialWeapons,False
+RELIANCE.NS,smallArms,False
+RELIANCE.NS,furLeather,False
+RELIANCE.NS,gambling,False
+RELIANCE.NS,gmo,False
+RELIANCE.NS,militaryContract,False
+RELIANCE.NS,nuclear,False
+RELIANCE.NS,pesticides,False
+RELIANCE.NS,palmOil,False
+RELIANCE.NS,coal,False
+RELIANCE.NS,tobacco,False

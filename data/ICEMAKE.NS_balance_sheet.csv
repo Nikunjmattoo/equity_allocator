@@ -1,0 +1,386 @@
+symbol,statement_type,period_end,line_item,value
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,15779735.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,15779735.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,813611000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,859345000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,1222568000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,2057640000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,320340000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,1222568000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,41955000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,1240250000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,1718477000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,1237050000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,-3200000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,1240250000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,1082453000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,157797000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,157797000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,2440163000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,542383000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,6858000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,514724000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,36497000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,478227000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,1172000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,1897780000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,308213000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,344621000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,5458000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,339163000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,13401000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Payables,1103016000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,1484000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,1101532000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,3677213000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,1459094000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,30114000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,15325000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,24662000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,24662000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,17682000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,2520000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,15162000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,1371311000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,1371311000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,56880000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,1314431000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,2218120000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,132938000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,0.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Inventory,1080773000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,0.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,939585000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,64824000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,61045000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,3779000.0
+ICEMAKE.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,15779735.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,15779735.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,202081000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,272492000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,1026661000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,1294807000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,588320000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,1026661000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,19615000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,1041930000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,1277505000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,1040792000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,-1138000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,1041930000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,884133000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,692883000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,191250000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,157797000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,157797000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,1073006000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,260048000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,0.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,8760000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,251239000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,15664000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,235575000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,812958000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,2000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,21253000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,3951000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,17302000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,68367000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,10961000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Payables,604019000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,52769000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,61000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,8522000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,542667000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,2113798000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,712520000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,1000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,12032000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,15927000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,100000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,100000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,15269000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,107000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,15162000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,663253000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-267403000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,930656000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,176092000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,37763000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,273135000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,188287000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,255379000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,1401278000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,0.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,35477000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,65959000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Inventory,599054000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,1000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,129276000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,74533000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,395244000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,173000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,0.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,649818000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,50796000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,44760000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,50796000.0
+ICEMAKE.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,50796000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,15779735.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,15779735.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,16851000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,48571000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,795808000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,840938000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,510753000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,795808000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,18891000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,811258000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,836652000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,811258000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,0.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,811258000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,692325000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,462211000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,191250000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,157797000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,157797000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,778977000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,50826000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,1000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,959000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,11084000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,38732000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,13338000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,25394000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,728151000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,646738000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,9839000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,5553000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,4286000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,29505000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,4884000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Payables,544269000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,33644000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,45000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,3724000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,506856000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,1590235000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,351332000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,3000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,9923000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,13073000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,0.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,7743000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,15450000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,288000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,15162000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,309621000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-234091000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,543712000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,1385000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,35530000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,242919000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,175006000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,88872000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,1238904000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,163909000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,0.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,86634000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,41734000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Inventory,515559000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,83691000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,88051000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,343817000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,70000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,535562000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,59345000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,46516000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,12829000.0
+ICEMAKE.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,12829000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,15701219.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,15701219.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,83482000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,110245000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,600953000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,705214000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,325298000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,600953000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,21840000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,616809000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,648878000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,616809000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,616809000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,2211000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,272237000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,185349000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,157012000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,157012000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,633644000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,55768000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,7997000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,823000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,46898000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,14829000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,32069000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,823000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,577876000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,-1000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,63347000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,7011000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,56336000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,17617000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,4680000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Payables,349051000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,11894000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,25000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,0.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,337132000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,1250453000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,347279000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,2000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,9635000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,13413000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,6534000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,6534000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,15856000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,694000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,15162000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,306501000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-205256000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,511757000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,0.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,37788000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,219053000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,166044000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,88872000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,903174000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,45772000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,0.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,19691000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,41385000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Inventory,500519000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,120549000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,88961000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,291009000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,55000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,1800000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,336601000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4923000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,8632000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,4923000.0
+ICEMAKE.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,4923000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,220682000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,183192000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,681000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,681000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,1387000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,42929000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,21902000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-179972000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,210001000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,217391000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,10386000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,65906000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,162996000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,51092000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,186053000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,2222000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,4580000.0
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+ICEMAKE.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,4204000.0

@@ -1,0 +1,81 @@
+symbol,statement_type,period_end,line_item,value
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-62000.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,1000.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,2000.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-2000.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,6710000.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Depreciation,13571000.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+SETUINFRA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-1000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,-107508000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,53922000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-21670000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,15915000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,46664000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,-30749000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,48113000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-5809000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,53922000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,53922000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,53922000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,6976000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,878000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,5970000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,5970000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,128000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,21798000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-21670000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,-85838000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-2081000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,186659000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,-52697000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,154301000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,20526000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,60878000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,2964000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,4931000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,-7920000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,15244000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Depreciation,15244000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,527000.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+SETUINFRA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,-283196000.0

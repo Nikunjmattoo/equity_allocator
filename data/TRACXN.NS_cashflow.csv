@@ -1,0 +1,196 @@
+symbol,statement_type,period_end,line_item,value
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,141531000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,2592000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-1177000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,End Cash Position,36400000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,47781000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,227000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-11608000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,3020000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,428000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,2592000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,2592000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-157336000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,2321000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-158480000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,737466000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-895946000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-1177000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,0.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-1177000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,142708000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-12103000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,99572000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-11290000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,43831000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-304000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,64780000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-2321000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,46426000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1136000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Depreciation,1136000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-57880000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-64000.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+TRACXN.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,66219000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,112069000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,3564000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-400000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,End Cash Position,47781000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,26274000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-461000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,21968000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,3564000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,3564000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,3564000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-94065000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2883000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-96841000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,760459000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-857300000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-107000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,293000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-400000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,112469000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-26717000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,43336000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,13807000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,14866000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-3155000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,11731000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-2883000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,47664000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,628000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1701000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Depreciation,1701000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-40518000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,209000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,22000.0
+TRACXN.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,86829000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,148477000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-3124000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,End Cash Position,26274000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,31868000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,550000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-6144000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,0.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-157745000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,10247000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-165202000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,759398000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-924600000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-2790000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,334000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-3124000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,151601000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,17110000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,4184000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,5010000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,22245000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Change In Payable,2404000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-28945000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-13043000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,54111000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-4346000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1903000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Depreciation,1903000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-14520000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-686000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-48000.0
+TRACXN.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,99474000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,3964000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1622000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,End Cash Position,31869000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,18008000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-154000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,14014000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,0.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,0.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,0.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,8428000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,10576000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-526000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,664193000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-664719000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1622000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,0.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1622000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,5586000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-19599000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,50885000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,69409000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-1233000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-7509000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-19216000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-10576000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,32700000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,4043000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,1457000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Depreciation,1457000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-5475000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,460000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,169000.0
+TRACXN.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-48477000.0
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,1873770.0
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,1873770.0
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+TRACXN.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

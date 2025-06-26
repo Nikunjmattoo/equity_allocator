@@ -1,0 +1,265 @@
+symbol,statement_type,period_end,line_item,value
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,968484400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-2300000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1400297900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,1155775200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,75997300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-53838000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Interest Paid Supplemental Data,1407747200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Income Tax Paid Supplemental Data,199753400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,End Cash Position,2086031400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,111817100000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1387395200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,1539300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,697096900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,3347338700000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Cash Flow From Continuing Financing Activities,3347338700000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,3641400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Proceeds From Stock Option Exercised,84425400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-86617100000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-86617100000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,73697300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-2300000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,75997300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-22272600000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,222250100000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-244522700000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-1400297900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,1155775200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-3672564200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Cash Flow From Continuing Investing Activities,-3672564200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-767694600000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,3540580000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-4308274600000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,149800400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,149800400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-52304100000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,1533900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-53838000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,1022322400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Cash Flow From Continuing Operating Activities,1022322400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-228428400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,201319400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Working Capital,305750400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,64204000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,77812000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Payables And Accrued Expense,-158138100000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Accrued Expense,-171089900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Payable,12951800000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Account Payable,12951800000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-24104900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Changes In Account Receivables,-24104900000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,18611400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,20115800000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,-69571400000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,-57133200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Deferred Income Tax,-57133200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation Amortization Depletion,52348300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,52348300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,21201000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Amortization Of Intangibles,21201000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Depreciation,31147300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Operating Gains Losses,3979600000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-826700000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,5554300000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-748000000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,-73414200000.0
+HDFCBANK.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,627631900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,433580300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-558113600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,1022933100000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-43620300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Interest Paid Supplemental Data,745487800000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Income Tax Paid Supplemental Data,163674900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,End Cash Position,1387395200000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1122031100000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,7036100000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,258328000000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,4173910400000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Cash Flow From Continuing Financing Activities,4173910400000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,822700000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Proceeds From Stock Option Exercised,34158300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-86394300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-86394300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1000549400000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,535729900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,464819500000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-558113600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1022933100000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-4392783000000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Cash Flow From Continuing Investing Activities,-4392783000000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-563565000000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,1031731100000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1595296100000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-43193500000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,426800000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-43620300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,477200600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Cash Flow From Continuing Operating Activities,477200600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-156465900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Working Capital,-87892000000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-113657600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Payables And Accrued Expense,96479600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Accrued Expense,66588000000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Payable,29891600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Account Payable,29891600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-51395900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Changes In Account Receivables,-51395900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,4640800000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,14014600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,12280900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Deferred Income Tax,12280900000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation Amortization Depletion,23489700000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,23489700000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Amortization Of Intangibles,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Depreciation,23489700000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Operating Gains Losses,916400000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,720300000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,276700000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-80600000.0
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,
+HDFCBANK.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,496264400000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,554693800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-353325700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,722908900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-26324400000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Interest Paid Supplemental Data,579853800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Income Tax Paid Supplemental Data,148381600000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1122031100000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,930694700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,490500000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,190845900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,2912107500000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Cash Flow From Continuing Financing Activities,2912107500000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,691800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Proceeds From Stock Option Exercised,26097300000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-36239200000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-36239200000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,684319100000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,314735900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,369583200000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-353325700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,722908900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3302279800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Cash Flow From Continuing Investing Activities,-3302279800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-147838300000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,1588660400000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-1736498700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,0.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-26125300000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,199100000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-26324400000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,581018200000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Cash Flow From Continuing Operating Activities,581018200000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,58907300000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Working Capital,48845700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-26227600000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Payables And Accrued Expense,51930000000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Accrued Expense,47512200000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Payable,4417800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Account Payable,4417800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-15640800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Changes In Account Receivables,-15640800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,790700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,13874500000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-9887300000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Deferred Income Tax,-9887300000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation Amortization Depletion,16816900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,16816900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Amortization Of Intangibles,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Depreciation,16816900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Operating Gains Losses,-21559700000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-16745800000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-4813000000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-900000.0
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,
+HDFCBANK.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,386603000000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,903969700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-326285000000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,481989200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,-17806500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Interest Paid Supplemental Data,594390900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Income Tax Paid Supplemental Data,130214500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,End Cash Position,930694700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,611961000000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,-262200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,318995900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,1918369400000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Cash Flow From Continuing Financing Activities,1918369400000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,492400000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Proceeds From Stock Option Exercised,17601000000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-166600000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-166600000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,17679500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-138024700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,155704200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-326285000000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,481989200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,-2521149700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Cash Flow From Continuing Investing Activities,-2521149700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,-823803900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,2393476900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-3217280800000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,-17653700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,152800000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,-17806500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,921776200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Cash Flow From Continuing Operating Activities,921776200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,-130214500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,472346000000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Other Working Capital,388530500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,-1045500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,82993400000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Payables And Accrued Expense,16626700000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Accrued Expense,18700600000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-2073900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Account Payable,-2073900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,-15804600000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Changes In Account Receivables,-15804600000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,3416900000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,10603500000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Unrealized Gain Loss On Investment Securities,14853200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,-8267300000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Deferred Income Tax,-8267300000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Depreciation Amortization Depletion,13860200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,13860200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,0.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Amortization Of Intangibles,0.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Depreciation,13860200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Operating Gains Losses,-56298200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,-55925200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-356800000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,-16200000.0
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+HDFCBANK.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,326006400000.0

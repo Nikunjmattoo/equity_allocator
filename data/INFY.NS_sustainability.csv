@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+INFY.NS,maxAge,86400
+INFY.NS,totalEsg,13.08
+INFY.NS,environmentScore,1.99
+INFY.NS,socialScore,5.06
+INFY.NS,governanceScore,6.04
+INFY.NS,ratingYear,2023
+INFY.NS,ratingMonth,9
+INFY.NS,highestControversy,2.0
+INFY.NS,peerCount,8
+INFY.NS,esgPerformance,UNDER_PERF
+INFY.NS,peerGroup,Software & Services
+INFY.NS,relatedControversy,"['Employee Incidents', 'Society & Community Incidents', 'Business Ethics Incidents', 'Public Policy Incidents']"
+INFY.NS,peerEsgScorePerformance,"{'min': 13.89, 'avg': 21.07125, 'max': 49.81}"
+INFY.NS,peerGovernancePerformance,"{'min': 4.87, 'avg': 9.592499999999998, 'max': 34.36}"
+INFY.NS,peerSocialPerformance,"{'min': 6.22, 'avg': 8.75125, 'max': 14.17}"
+INFY.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 2.725, 'max': 4.84}"
+INFY.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.0, 'max': 5.0}"
+INFY.NS,percentile,6.86
+INFY.NS,environmentPercentile,
+INFY.NS,socialPercentile,
+INFY.NS,governancePercentile,
+INFY.NS,adult,False
+INFY.NS,alcoholic,False
+INFY.NS,animalTesting,False
+INFY.NS,catholic,False
+INFY.NS,controversialWeapons,False
+INFY.NS,smallArms,False
+INFY.NS,furLeather,False
+INFY.NS,gambling,False
+INFY.NS,gmo,False
+INFY.NS,militaryContract,False
+INFY.NS,nuclear,False
+INFY.NS,pesticides,False
+INFY.NS,palmOil,False
+INFY.NS,coal,False
+INFY.NS,tobacco,False

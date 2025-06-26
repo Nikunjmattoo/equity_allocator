@@ -1,0 +1,221 @@
+symbol,statement_type,period_end,line_item,value
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,277540000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-337960000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,203350000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,1380000000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-160780000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,1093600000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,-159080000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,360000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,1252320000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,1106420000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,500000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-53900000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,1380000000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,1380000000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-134610000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-89310000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-292660000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,203350000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-45300000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-45300000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,0.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-292420000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-17080000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,14330000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-244180000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-244180000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,76350000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment Properties,76350000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,25500000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,25500000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-9540000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-9540000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-143700000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,7540000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-151240000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,438320000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-24940000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,19300000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,7480000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-85030000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,123140000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,77450000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-103740000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,39210000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,21900000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,5330000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,150190000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Depreciation,150190000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-70270000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-15200000.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+LAXMIDENTL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,310200000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-66060000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-82120000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,142720000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-147570000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,-159080000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-10000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,-104140000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-1760000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-53170000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-26630000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,36290000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-49550000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,60600000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-9240000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-54150000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,44910000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,69840000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-27970000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,97810000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-108050000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-10000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,510000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment Properties,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,36290000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,36290000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-7800000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-7800000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-126700000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,13070000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-139770000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,81510000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-10350000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-155570000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,68520000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-70780000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-56660000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-22530000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-74120000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,48000000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,0.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,15700000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,119360000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,2970000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Depreciation,119360000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-5710000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-860000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,850000.0
+LAXMIDENTL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,69240000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,44580000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-34600000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,85970000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-99830000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,-104140000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,-138920000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,-1180000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,35960000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-14510000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,4510000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-40940000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,51370000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,50520000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,50520000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,850000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-34600000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,35450000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-93940000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,1620000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-3500000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-3500000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment Properties,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-10450000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-10450000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-84680000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4700000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-89380000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,144410000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-2640000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,39740000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,7970000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,12500000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-41350000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,52350000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-400000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,39280000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,12730000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,109940000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,1380000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Depreciation,108560000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-12900000.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+LAXMIDENTL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-45770000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-116060000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-99210000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,102150000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,15000000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-96110000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,-138920000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,-108750000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-370000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-29800000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-40270000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,15000000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-35670000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,15000000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,15000000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2940000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,31380000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,0.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,31380000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-28440000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-99210000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,70770000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,30420000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2250000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-300000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-300000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment Properties,0.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-2250000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-2250000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,18550000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,112410000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-93860000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-19950000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-150000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-90380000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,15760000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-25090000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,46890000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-64730000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-74710000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,33170000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,19190000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,83980000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,490000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Depreciation,83490000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-5400000.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+LAXMIDENTL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-161630000.0

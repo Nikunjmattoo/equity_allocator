@@ -1,0 +1,291 @@
+symbol,statement_type,period_end,line_item,value
+IWEL.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-4825400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-2129400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,9426100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-6204900000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,End Cash Position,210100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,121200000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,88900000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,2769400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,9100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-2639900000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Preferred Stock Issuance,866300000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Payments,0.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Preferred Stock Issuance,866300000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,8559800000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,8559800000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-3945800000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-1816400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-2129400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-2129400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-4060000000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,-2780400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,-13900000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,4486500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,17019000000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-12532500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,452500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,452500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,0.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-6204700000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,200000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-6204900000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,1379500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-64400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-8228300000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,3489500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,1290100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Change In Payable,4577500000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-1192600000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-16456100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,1470100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,247600000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-73400000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,1142600000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1823100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+IWEL.NS,cashflow,2025-03-31 00:00:00,Depreciation,1823100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-147100000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,71000000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-200000.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+IWEL.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4251200000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-9052900000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-400000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-3277200000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,4963658000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,525000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-7506400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,End Cash Position,121200000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IWEL.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,223500000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-102300000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1294300000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1100000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-3105800000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Preferred Stock Issuance,-400000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Payments,-400000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Preferred Stock Issuance,0.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,525000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,525000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,1685400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,4962600000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+IWEL.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,4963658000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-3277200000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-3277200000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+IWEL.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,2738500000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,19000000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,514400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,11039800000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,11067700000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-27900000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-1562400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+IWEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-1562400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-7272300000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,234100000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-7506400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-1546500000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-204900000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-6173800000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2171400000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,3072100000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-1262800000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1031100000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-4793100000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,2215600000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,0.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,2157600000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,464200000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1126900000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,72913000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Depreciation,1126900000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-29600000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,143300000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-438700000.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+IWEL.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,-912500000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-14907078000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-4795817000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,5093850000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,10340198000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-3879271000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,End Cash Position,223511000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+IWEL.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,672572000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-449061000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,7998738000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,164309000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-2803802000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Preferred Stock Issuance,2973436000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Payments,0.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Preferred Stock Issuance,2973436000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,7366762000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,7366762000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,298033000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-3124676000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-3124817000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,141000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,3422709000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-1671000000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,5093709000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,2580008000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,6183513000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,135901000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-277970000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,2473197000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-2751167000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,325100000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,325100000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-3786536000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,92735000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-3879271000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,-11027807000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,70885000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-8893229000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-8556421000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,227631000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-301404000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-1287927000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,1006620000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,3310839000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,
+IWEL.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-769928000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,141939000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1088840000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+IWEL.NS,cashflow,2023-03-31 00:00:00,Depreciation,1088840000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,12318000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,132307000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,28103000.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+IWEL.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,-7058322000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-5644720000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-953520000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,6222989000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1794605000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,End Cash Position,672572000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,2251000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1300213000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-629892000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,3336713000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,13000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1932756000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Preferred Stock Issuance,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Payments,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Preferred Stock Issuance,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,5269469000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,2709445000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,2709445000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,2560024000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-953520000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,3513544000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-116490000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,853400000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,30896000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,0.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-375138000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,91415000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-466553000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,1150689000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1776337000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,18268000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1794605000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-3850115000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-117086000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-3231005000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-2434945000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,1037652000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-6431824000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,2981412000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,1615220000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,2633064000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,1559783000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-1745631000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,930634000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+IWEL.NS,cashflow,2022-03-31 00:00:00,Depreciation,930634000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-1058317000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,97887000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,99378000.0
+IWEL.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,-3319707000.0
+IWEL.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,5068828000.0
+IWEL.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+IWEL.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,72980000.0
+IWEL.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Preferred Stock Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Payments,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Preferred Stock Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,5068828000.0
+IWEL.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+IWEL.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

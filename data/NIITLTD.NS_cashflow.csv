@@ -1,0 +1,281 @@
+symbol,statement_type,period_end,line_item,value
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-96680000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,24800000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-389680000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,End Cash Position,318920000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,388490000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,5980000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-75550000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-100440000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-6250000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-101310000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,-101310000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,24800000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,24800000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-268110000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,76530000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,200000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,39280000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,2815930000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-2776650000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-384120000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,5560000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-389680000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,293000000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,108360000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-76400000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-110360000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,64430000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Change In Payable,68650000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-110000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-121550000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-89390000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,36170000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,4400000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,232430000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Depreciation,232430000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-503990000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,280000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-2620000.0
+NIITLTD.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,586170000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-237190000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,21700000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-329580000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,End Cash Position,388490000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,487910000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,-19020000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-80400000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-226170000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-150000000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-7990000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-67380000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-67380000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,21700000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,21700000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,53380000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,79840000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,299670000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,1508670000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-1209000000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-326130000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3450000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-329580000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,92390000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-123960000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,24440000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-55900000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,122670000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Change In Payable,41400000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-3530000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-88010000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-66160000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,42920000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,5660000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,183500000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,105740000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Depreciation,183500000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-427020000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,760000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-1040000.0
+NIITLTD.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,457840000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-195990000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,60850000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-216730000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,End Cash Position,498320000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-2531180000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,3077170000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,3070000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-50740000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-337000000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-357850000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-11030000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,60850000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,60850000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,0.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,265520000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-23540000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,78990000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,398880000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,4132710000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-3733830000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-1590000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-1590000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-212350000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4380000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-216730000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,20740000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-159040000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,126530000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-36810000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-43920000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-9660000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,22330000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,200820000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-76100000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,71200000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,27120000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,164490000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,86060000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Depreciation,78430000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-247360000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-340000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-460000.0
+NIITLTD.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,142240000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,2614120000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,-2370000000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-185750000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,0.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,108510000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-263990000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,End Cash Position,3077170000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,1768600000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,19790000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1288780000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-3861370000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-567240000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-5570000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-734820000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-734820000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,-2261490000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,-2370000000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,108510000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-185750000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-185750000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-185750000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,0.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,2272040000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-5330000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,327770000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,3008440000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,7237830000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-4229390000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,-799730000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-799730000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-259110000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,4880000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-263990000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2878110000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-480600000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,234760000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,147010000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,219280000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Change In Payable,162000000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,12740000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-230650000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-196480000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,158150000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,18650000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,576650000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,391190000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Depreciation,185460000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-260150000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-6470000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-730000.0
+NIITLTD.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2834330000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-299310000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,53390000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,-16790000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,-279470000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,0.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,-547390000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,-301470000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,-245920000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-299310000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,53390000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,-38220000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,0.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,-38220000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-279860000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,376050000.0
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+NIITLTD.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

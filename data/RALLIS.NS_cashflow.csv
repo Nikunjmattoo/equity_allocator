@@ -1,0 +1,271 @@
+symbol,statement_type,period_end,line_item,value
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,2210000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-130000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,130000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-740000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,280000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,270000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,10000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-800000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-70000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-490000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,0.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-130000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,130000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,0.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-2140000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,10000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,0.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-1440000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,9170000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-10610000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,-60000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,-60000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-650000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,30000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-680000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,2950000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-550000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,340000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,230000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-170000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,-540000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,570000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,250000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,40000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,130000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,1200000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Depreciation,1200000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,-10000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-200000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,40000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-10000000.0
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of Business,
+RALLIS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,1870000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,1870000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-1080000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,70000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-820000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,270000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,440000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-170000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-1840000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-90000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-490000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-1010000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-1000000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-1070000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,70000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-10000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-10000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-1020000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,-13800000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,0.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-220000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,8760000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-8980000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-120000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-120000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-680000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,20000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-700000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,2690000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-600000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-100000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,1110000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-300000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,140000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-150000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-900000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,110000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,100000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,0.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,1140000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Depreciation,1140000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,30000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-70000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,10000000.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of Business,
+RALLIS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,1960000000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,289100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-3399600000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,3859700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1879100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,441600000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,104900000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,336700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-410400000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-94100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-584100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,460100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,500000000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-3359700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,3859700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-39900000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-39900000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1421100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,478200000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,37500000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-77400000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,11064200000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-11141600000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,0.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,0.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-185100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-185100000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-1675000000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,19000000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-1694000000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,2168200000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-494500000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-56700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,254400000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,523400000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-1676700000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1451400000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-609200000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,89800000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,81300000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,0.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,913600000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Depreciation,913600000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,30200000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-23900000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,28900000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,1600000.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of Business,0.0
+RALLIS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,1280700000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-191600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-84400000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,246600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-1850200000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,104900000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,90000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,907000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,14900000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-614400000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1700000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-18500000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-585100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,162200000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,200000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-46600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,246600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-37800000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-37800000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-1029300000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-95200000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,32000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,500000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,833000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,7483100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-6650100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,6100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,6100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,-6834000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-288700000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-288700000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-1517000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,44500000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-1561500000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,1658600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-682000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-749300000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-77600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-14100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,1551800000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-1746900000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-462500000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-166000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,38000000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,743100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Depreciation,743100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,38100000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-112400000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,23600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,24900000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of Business,27600000.0
+RALLIS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2224800000.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,733000.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,1641000.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-487800000.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,-428600000.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,0.0
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of Business,
+RALLIS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

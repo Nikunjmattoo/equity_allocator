@@ -1,0 +1,251 @@
+symbol,statement_type,period_end,line_item,value
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,95056000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-79504000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-5715000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,End Cash Position,407000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,793000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-386000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-96561000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-15885000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-79504000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-72784000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-72784000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-6720000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-6720000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-4596000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,598000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-5676000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,39000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-5715000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,100771000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-8571000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cfo,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,62582000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,2946000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-3651000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Change In Payable,17003000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,65510000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-38833000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,15287000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Deferred Tax,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,6022000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Depreciation,6022000.0
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LATTEYS.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,25614000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-32453000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2706000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,45673000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,49000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-38098000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,End Cash Position,793000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,706000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,87000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,28152000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,49000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-16623000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,49000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,49000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,42967000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,45673000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,45673000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-2706000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2706000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-33710000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,42000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,4233000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-38098000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-38098000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,5645000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-5754000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cfo,
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-39853000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,9750000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,11419000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-22274000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,-1755000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-38501000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,16581000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,14385000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Depreciation,14385000.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LATTEYS.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,20286000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,13315000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-4038000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,4897000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-19874000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,End Cash Position,706000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2061000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1355000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-13297000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-12946000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,859000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,4897000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,4897000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-4038000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-4038000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-21247000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,147000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-19826000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,48000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-19874000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,33189000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-7186000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cfo,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-2990000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,873000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,7309000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Change In Payable,8092000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,28500000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-48670000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,12799000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,12424000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Depreciation,12424000.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LATTEYS.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,18144000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,17932000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-8371000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2061000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,5071000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-3010000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-17729000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,-1000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-10836000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-6892000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-6892000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-11584000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,-364000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-2849000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-8371000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-8371000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,26303000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-2265000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cfo,-254000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-5334000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,2123000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-103000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Change In Payable,50106000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-25049000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-32411000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,11090000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-34000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,80000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,8149000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Depreciation,8149000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,773000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-1013000.0
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,
+LATTEYS.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,14098000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-0.01
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,600000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,1000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,0.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cfo,-439000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,34000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,-52000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,-177000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-409000.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+LATTEYS.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

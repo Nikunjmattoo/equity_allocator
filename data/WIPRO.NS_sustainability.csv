@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+WIPRO.NS,maxAge,86400
+WIPRO.NS,totalEsg,13.18
+WIPRO.NS,environmentScore,1.19
+WIPRO.NS,socialScore,6.04
+WIPRO.NS,governanceScore,5.94
+WIPRO.NS,ratingYear,2023
+WIPRO.NS,ratingMonth,9
+WIPRO.NS,highestControversy,2.0
+WIPRO.NS,peerCount,8
+WIPRO.NS,esgPerformance,UNDER_PERF
+WIPRO.NS,peerGroup,Software & Services
+WIPRO.NS,relatedControversy,"['Employee Incidents', 'Business Ethics Incidents']"
+WIPRO.NS,peerEsgScorePerformance,"{'min': 13.89, 'avg': 21.07125, 'max': 49.81}"
+WIPRO.NS,peerGovernancePerformance,"{'min': 4.87, 'avg': 9.592499999999998, 'max': 34.36}"
+WIPRO.NS,peerSocialPerformance,"{'min': 6.22, 'avg': 8.75125, 'max': 14.17}"
+WIPRO.NS,peerEnvironmentPerformance,"{'min': 0.5, 'avg': 2.725, 'max': 4.84}"
+WIPRO.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.0, 'max': 5.0}"
+WIPRO.NS,percentile,7.03
+WIPRO.NS,environmentPercentile,
+WIPRO.NS,socialPercentile,
+WIPRO.NS,governancePercentile,
+WIPRO.NS,adult,False
+WIPRO.NS,alcoholic,False
+WIPRO.NS,animalTesting,False
+WIPRO.NS,catholic,False
+WIPRO.NS,controversialWeapons,False
+WIPRO.NS,smallArms,False
+WIPRO.NS,furLeather,False
+WIPRO.NS,gambling,False
+WIPRO.NS,gmo,False
+WIPRO.NS,militaryContract,False
+WIPRO.NS,nuclear,False
+WIPRO.NS,pesticides,False
+WIPRO.NS,palmOil,False
+WIPRO.NS,coal,False
+WIPRO.NS,tobacco,False

@@ -1,0 +1,416 @@
+symbol,statement_type,period_end,line_item,value
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,194468890.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,194468890.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,630000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,16540000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,19050000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,8970000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,16540000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,620000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,19040000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,19050000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,19040000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,19040000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,18850000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,190000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,190000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,10700000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1020000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,10000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Revenue,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,60000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,510000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,500000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,10000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,440000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,9680000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,2270000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,120000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,120000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,0.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,120000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Payables,5440000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,30000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,5410000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,29740000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,11090000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,350000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,200000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,200000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Investment Properties,10000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,2500000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,540000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,1960000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,7050000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,7050000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,250000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,6800000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,18650000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,1200000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,0.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Inventory,7510000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Inventories,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Taxes Receivable,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,5410000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4530000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,4250000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,280000000.0
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+RALLIS.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,194468890.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,194468890.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,1337000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,15686400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,18310400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,7619700000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,15686400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,1321500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,18294900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,18305700000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,18294900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,18294900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,18100000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,13662900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,2544800000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,194500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,194500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,11739600000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1556400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,10000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,409100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Revenue,12400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,5700000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1129200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,1118400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,10800000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,410000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,10183200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,17100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,20000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,207800000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,203100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,4700000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,35700000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,114200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Payables,7830100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,1732400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,13300000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,86100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,5998300000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,30034500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,12231600000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,465200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,36100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,36100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Investment Properties,12000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,2608500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,650300000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,1958200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,8070200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-3998000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,12068200000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,190800000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,7880000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,7819900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,3610400000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,447100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,17802900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1050000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,25900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,222600000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Inventory,8079100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Inventories,214800000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,5653900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,259500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,1950900000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,791700000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Taxes Receivable,50800000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,5791300000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-475300000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,6266600000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2840600000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,2574100000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,266500000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,110000000.0
+RALLIS.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,156500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,194468890.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,194468890.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,596300000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,1367000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,14651600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,18338500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,6555600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,14651600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,329100000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,17300600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,17327200000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,17300600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,17300600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,17106100000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,12674200000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,2544800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,194500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,194500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,10676600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,788600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,14000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,415100000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Revenue,14000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,122900000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,236600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,210000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,26600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,415100000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,9888000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,1900000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,32600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,1130400000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,119100000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,1011300000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,30900000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,74300000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Payables,7322400000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,1309600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,12300000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,118000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,5882500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,27977200000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,11533600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,8500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,533700000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,31800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,31800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Investment Properties,1200000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,2649000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,690800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,1958200000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,7287200000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-3296600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,10583800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,1794000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,5501700000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,5612100000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,2736800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,440900000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,16443600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,778300000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,2700000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,40600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,211000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Inventory,7928900000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Inventories,188700000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,5395800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,290000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,2054400000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,493700000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Taxes Receivable,77400000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,4985800000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-371700000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,5357500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2703500000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,2261900000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,441600000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,350000000.0
+RALLIS.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,91600000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,194468890.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,194468890.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,472962000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,927420000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,14155413000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,17546028000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,7172851000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,14155413000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,347929000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,16966537000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,17004465000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,16966537000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,0.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,16966537000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,16772100000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,13187951000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,1694565000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,194471000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,194471000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,11613821000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,847174000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,700000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,378706000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Revenue,679000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,213349000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,254440000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,216512000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,37928000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,378706000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,10766647000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,13302000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,28406000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,672980000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,131417000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,541563000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,27191000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,79372000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Payables,8451545000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,838202000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,12977000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,75051000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,7525315000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,28580358000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,10640860000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-25663000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,613745000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,57452000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,57452000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Investment Properties,1199000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,2811124000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,852893000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,1958231000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,6195678000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-2795468000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,8991146000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,557296000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,5638300000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,5379860000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,2598700000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,455290000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,17939498000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,1270000000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,41382000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,44741000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,275824000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Inventory,9379919000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Inventories,215303000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,5926811000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,394835000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,2842970000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,566788000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Taxes Receivable,445809000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,4459370000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-292081000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,4751451000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,2725665000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,2619136000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,106529000.0
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,
+RALLIS.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,106529000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,313431000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,6860000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,12130350000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,1694565000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,268650000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Revenue,830000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,41127000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,26026000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,1186966000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,14644000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,-8077000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,410600000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Investment Properties,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-2457571000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,4276776000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,1965309000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,457485000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,48212000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,435789000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Inventories,181823000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,5269495000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,510210000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,1670453000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,547111000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Taxes Receivable,429962000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-308292000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,4371141000.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,0.0
+RALLIS.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,102680000.0

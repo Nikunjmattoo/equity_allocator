@@ -1,0 +1,411 @@
+symbol,statement_type,period_end,line_item,value
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,3758517.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,235320911.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,239079428.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Net Debt,12687800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,16094800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,20213000000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,35468100000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,-2846300000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,20213000000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,2648500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,22021800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,26230400000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,22021800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,22021800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,21543600000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Treasury Stock,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,478200000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,478200000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,26809200000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,7184400000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,45300000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,118500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,6479000000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,2270400000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt,4208600000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,541600000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,19624800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,474600000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,9615800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,378100000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Debt,9237700000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,100700000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Payables,8321100000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,30600000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,8290500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,48831000000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,32052500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,923500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,93900000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,15024500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,15024500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Joint Venturesat Cost,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Associatesat Cost,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,1808800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,879100000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,929700000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,14117700000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,14117700000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,648200000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,13469500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,16778500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,671100000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Hedging Assets Current,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Inventory,5807800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Work In Process,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,50000000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,8275300000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1974300000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,1215800000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,758500000.0
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+MINDACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,3798517.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,235280911.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,239079428.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,1961000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,5352000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,18184000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,23288000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,8771000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,18184000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,1870000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,19806000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,21173000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,19806000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,19806000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,64000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Treasury Stock,7000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,13055000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,5037000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,478000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,478000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,14584000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3560000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,58000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,133000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,2918000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,1551000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,1367000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,451000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,11024000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,14000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,31000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,2434000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,319000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,2115000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,93000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Payables,8174000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,1036000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,1000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,31300000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,7137000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,34390000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,14595000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,573000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,627000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,122000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,55000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,8000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,47000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,516000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Joint Venturesat Cost,467000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,49000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,1622000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,693000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,929000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,11077000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-6836000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,17913000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,576000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,10501100000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,11400000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,5056000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,881000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,19795000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,24000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Hedging Assets Current,
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,28000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,250000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,727000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Inventory,5270000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,1335000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Work In Process,378000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,3557000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,874000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,8044000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-43000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,8087000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4578000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,3057000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1521000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,930000000.0
+MINDACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,591000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,4027640.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,235051788.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,239079428.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,4447000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,7131000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,14296000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,21434000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,3145000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,14296000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,1605000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,15908000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,17624000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,15908000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,15908000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,97000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Treasury Stock,8000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,9163000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,5032000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,478000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,478000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,16335000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3646000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,41000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,152000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,3065000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,1349000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,1716000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,388000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,12689000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,2000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,21000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,4066000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,256000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,3810000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,119000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Payables,8212000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,955000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,1000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,20600000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,7256000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,32243000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,16409000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,1000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,550000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,225000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,4023000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,8000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,4015000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,496000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Joint Venturesat Cost,446000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,50000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,1612000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,683000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,929000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,9496000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-5792000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,15288000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,852000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,8644800000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,9680000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,4242000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,514000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,15834000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,49000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Hedging Assets Current,
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,0.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,245000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1086000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Inventory,5733000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,1288000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Work In Process,724000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,3721000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,938000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,6409000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-57000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,6466000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,1374000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,295000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1079000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,152000000.0
+MINDACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,927000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,4203640.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,234875788.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,239079428.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,3206000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,5060000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,11635000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,17215000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,5381000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,11635000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,1146000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,13301000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,14149000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,13301000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,13301000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,75000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Treasury Stock,8000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,6569000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,5028000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,478000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,478000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,12418000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2349000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,39000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,173000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,1818000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,970000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,848000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,319000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,10069000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,16000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,63000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,3242000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,176000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,3066000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,136000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Payables,6479000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,803000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,1000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,62700000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,5675000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,25719000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,10269000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,73800000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,351000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,48000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,72000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,8000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,64000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,595000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Joint Venturesat Cost,458000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,137000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,1666000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,737000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,929000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,7529000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-4649000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,12178000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,325000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,7203600000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,8057000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,3290000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,506000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,15450000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,45000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Hedging Assets Current,0.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,301000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,669000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Inventory,4789000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,1211000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Work In Process,545000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,3033000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,925000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,5688000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-76000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,5764000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,3033000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,2325000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,708000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,317000000.0
+MINDACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,391000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Treasury Stock,9000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,4795000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,5020000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,136000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,762000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,0.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,292000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,0.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,1790000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Joint Venturesat Cost,1673000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,117000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-3040000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,6179000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,2185000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,422000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Hedging Assets Current,10000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,146000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,606000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,1039000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Work In Process,676000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,2244000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-45000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,4465000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,146000000.0
+MINDACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,385000000.0

@@ -1,0 +1,37 @@
+symbol,esg_metric,value
+SUNPHARMA.NS,maxAge,86400
+SUNPHARMA.NS,totalEsg,31.6
+SUNPHARMA.NS,environmentScore,4.76
+SUNPHARMA.NS,socialScore,14.69
+SUNPHARMA.NS,governanceScore,12.15
+SUNPHARMA.NS,ratingYear,2023
+SUNPHARMA.NS,ratingMonth,9
+SUNPHARMA.NS,highestControversy,3.0
+SUNPHARMA.NS,peerCount,6
+SUNPHARMA.NS,esgPerformance,OUT_PERF
+SUNPHARMA.NS,peerGroup,Pharmaceuticals
+SUNPHARMA.NS,relatedControversy,['Customer Incidents']
+SUNPHARMA.NS,peerEsgScorePerformance,"{'min': 22.32, 'avg': 26.205, 'max': 30.22}"
+SUNPHARMA.NS,peerGovernancePerformance,"{'min': 6.74, 'avg': 8.768, 'max': 11.66}"
+SUNPHARMA.NS,peerSocialPerformance,"{'min': 12.69, 'avg': 15.458000000000002, 'max': 17.89}"
+SUNPHARMA.NS,peerEnvironmentPerformance,"{'min': 1.31, 'avg': 2.304, 'max': 3.41}"
+SUNPHARMA.NS,peerHighestControversyPerformance,"{'min': 1.0, 'avg': 3.0, 'max': 5.0}"
+SUNPHARMA.NS,percentile,74.41
+SUNPHARMA.NS,environmentPercentile,
+SUNPHARMA.NS,socialPercentile,
+SUNPHARMA.NS,governancePercentile,
+SUNPHARMA.NS,adult,False
+SUNPHARMA.NS,alcoholic,False
+SUNPHARMA.NS,animalTesting,True
+SUNPHARMA.NS,catholic,True
+SUNPHARMA.NS,controversialWeapons,False
+SUNPHARMA.NS,smallArms,False
+SUNPHARMA.NS,furLeather,False
+SUNPHARMA.NS,gambling,False
+SUNPHARMA.NS,gmo,False
+SUNPHARMA.NS,militaryContract,False
+SUNPHARMA.NS,nuclear,False
+SUNPHARMA.NS,pesticides,False
+SUNPHARMA.NS,palmOil,False
+SUNPHARMA.NS,coal,False
+SUNPHARMA.NS,tobacco,False

@@ -1,0 +1,256 @@
+symbol,statement_type,period_end,line_item,value
+BBTC.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,19455144000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-9133365000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,1570648000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-3319930000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,End Cash Position,2707899000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,7423139000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,-26607000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-4688633000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-18443172000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,1015600000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1891494000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-9966484000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-7562717000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-7562717000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-9133365000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,1570648000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-9020535000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,929000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,1576792000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,162501000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-9388365000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Investment Properties Purchase And Sale,-1174000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-20300000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-20300000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-2601523000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,718407000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-3319930000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,22775074000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-7947175000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-564607000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1707183000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-606856000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-1664934000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-512753000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,35686000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,3265035000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+BBTC.NS,cashflow,2025-03-31 00:00:00,Depreciation,3265035000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-988256000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,447046000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-38862000.0
+BBTC.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,29078984000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,13592381000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-46461599000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,2345956000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,
+BBTC.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-5760528000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,End Cash Position,7389639000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,2000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,5397709000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,272241000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,1719687000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-56475967000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,4790000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-3727204000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-8615883000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-8615883000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,
+BBTC.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-44115643000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-44115643000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-46461599000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,2345956000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,38842745000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,809000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,2616054000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,30784000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,31795572000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,
+BBTC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Investment Properties Purchase And Sale,131565000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,2041583000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,2041583000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-4058000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-2573417000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,3187111000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-5760528000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,19352909000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-8569443000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-1319355000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-441498000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,238980000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-1116837000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-109425000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,
+BBTC.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,238000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,3133593000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,40629000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Depreciation,3133593000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-289792000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-782286000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-23032000.0
+BBTC.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,27127516000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,17508049000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-7209500000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,11550819000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-7237062000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,End Cash Position,5397709000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,5897873000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,100600000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-600764000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-7051838000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,94600000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-4638914000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-6806404000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-6806404000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,4341319000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,4341319000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-7209500000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,11550819000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-18294037000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-1347961000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,2676844000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,4945000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-14816419000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,4101548000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-14432229000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-14500000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-14500000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-5903977000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,1333085000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-7237062000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,24745111000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-7980464000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,3088997000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Change In Payable,3286687000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,1656577000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-1854267000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,14182406000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,0.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,2973000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,2415327000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,
+BBTC.NS,cashflow,2023-03-31 00:00:00,Depreciation,2415327000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-425745000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,78433000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-152436000.0
+BBTC.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,13469850000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,8722241000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,30156590000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-5751446000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,End Cash Position,5513682000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BBTC.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,6033394000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,33055000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-552767000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,14941541000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,100.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-2331516000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-12835675000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-12835675000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,30156590000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,30156590000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,30156590000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-29967995000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,1197039000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,2676094000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,5599000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-28235599000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,2219122000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-30454721000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+BBTC.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-5611128000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,140318000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-5751446000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,14473687000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-7248037000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-1381190000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Change In Payable,2947490000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-2508871000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-1819809000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,93594000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,47800000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,4995000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,2148022000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,43511000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Depreciation,2148022000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-286669000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-104455000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-115450000.0
+BBTC.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,21305174000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,1031500000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+BBTC.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-14424247000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,1031500000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,1031500000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,1269801000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-8757537000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Investment Properties Purchase And Sale,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,189400000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,30009000.0
+BBTC.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+BBTC.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

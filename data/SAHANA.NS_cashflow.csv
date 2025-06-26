@@ -1,0 +1,149 @@
+symbol,statement_type,period_end,line_item,value
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,202602000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,78724000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,54275000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-140574000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,End Cash Position,259742000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,1069000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,258673000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,131635000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,-1364000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,54275000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,0.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,54275000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,78724000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,78724000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,78724000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-216138000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,1936000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-140574000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-140574000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,343176000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,48821000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,61301000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2322000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,8496000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Change In Payable,146987000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,6474000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-128161000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,1364000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Deferred Tax,
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,2703000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Depreciation,2703000.0
+SAHANA.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,230795000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,9288000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,-24762000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-2524000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,End Cash Position,-18614000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,981000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-19595000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-31186000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,-6424000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-6425000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,-24762000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,-24762000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-3555000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,2303000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,0.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,2539000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,2539000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,9288000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-26597000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-60861000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,-4486000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-26457000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Change In Payable,14502000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-47090000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-24028000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,6424000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Deferred Tax,-24907000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,1665000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Depreciation,1665000.0
+SAHANA.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,88657000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-2869000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,29417000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-3134000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,End Cash Position,-1662000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,80000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-1742000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1127000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-7224000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,29417000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,29417000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-21066000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-21066000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-3134000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-3134000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,265000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-19289000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,13038000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Change In Payable,32220000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-15523000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-53967000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,7224000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Deferred Tax,-5500000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,993000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Depreciation,993000.0
+SAHANA.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,19553000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,-6438000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,0.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,End Cash Position,-5526000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,1000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,394000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,-5921000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,517000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,-5821000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,0.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,0.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,6338000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,6338000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,0.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,0.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,-6438000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,0.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,-8678000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,896000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Change In Payable,-16526000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,638000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,5706000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,5821000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Deferred Tax,-583000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,368000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Depreciation,368000.0
+SAHANA.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,2241000.0

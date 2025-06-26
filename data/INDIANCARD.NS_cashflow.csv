@@ -1,0 +1,266 @@
+symbol,statement_type,period_end,line_item,value
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-331212000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-88298000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,0.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-157995000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,End Cash Position,404381000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,119636000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Effect Of Exchange Rate Changes,1700000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,283045000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,-118500000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-19323000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-216000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Common Stock Dividend Paid,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,0.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,0.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,-88298000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,-283000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,-283000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,-88015000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-88015000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,574762000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,1286000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,60295000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,2488000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,-190470000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,1024016000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,-1214486000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,801163000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,959158000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-157995000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure Reported,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-173217000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-31066000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-17535000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,-26227000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-9126000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Change In Payable,9925000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-7976000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,16607000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,-800533000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,472000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,49409000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Depreciation,49409000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-373287000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-509000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,-2113000.0
+INDIANCARD.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,998907000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-41737000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-962000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,46000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,0.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-57221000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,End Cash Position,119636000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,332301000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Effect Of Exchange Rate Changes,749000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-213414000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-21117000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,1000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-14872000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-1851000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Common Stock Dividend Paid,-1851000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,0.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,0.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-916000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,46000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,46000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,-962000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-962000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-207781000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,1025000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,27931000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,169000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,-180266000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,625128000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,-805394000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,0.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,0.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-56640000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,581000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-57221000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure Reported,-57221000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,15484000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,1591000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,51730000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,-2805000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-5143000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Change In Payable,16149000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,16600000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,24142000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-24874000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,15596000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,49392000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,55000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Depreciation,49392000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-158774000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,-102000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,5678000.0
+INDIANCARD.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,74614000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-28491000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-58051000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,End Cash Position,332301000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,1820397000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Effect Of Exchange Rate Changes,480000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1488576000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-308378000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-14048000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-294933000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Common Stock Dividend Paid,-294933000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,603000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,-72000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,675000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,-1209758000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,1006000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,28468000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,0.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,-1158313000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,582432000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-1740745000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-26881000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-26881000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-54038000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,4013000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-58051000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure Reported,-58051000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,29560000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-9853000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,18581000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,19616000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,1181000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Change In Payable,25739000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-11223000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-18716000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,8778000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-7716000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,49721000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,0.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Depreciation,49721000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-77336000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,8772000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-2214000.0
+INDIANCARD.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,39427000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-67006000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-66117000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,End Cash Position,1820397000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,199647000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Effect Of Exchange Rate Changes,-143000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,1620893000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-45931000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-13527000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-235000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Common Stock Dividend Paid,-235000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-31572000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-31259000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-313000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,1667713000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-294653000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,14372000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,183000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,-194477000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,-194477000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,2142288000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,2208405000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-66117000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure Reported,
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,-889000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-22511000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,-15651000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-12082000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Change In Payable,10111000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,16019000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-23581000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-2200005000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-4803000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,45248000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Depreciation,45248000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-33559000.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,0.0
+INDIANCARD.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,2212173000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,145016000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Effect Of Exchange Rate Changes,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,1000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Common Stock Dividend Paid,-238000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,145016000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,145016000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,0.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,0.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure Reported,-117297000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,25000.0
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+INDIANCARD.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

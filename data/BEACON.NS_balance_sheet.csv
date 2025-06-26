@@ -1,0 +1,249 @@
+symbol,statement_type,period_end,line_item,value
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Net Debt,
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,174925000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,191754000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,82243000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,174925000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,191754000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,191754000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,191754000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,191754000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,29336000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,20489000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,141929000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,141929000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,77902000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,3796000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,3797000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,74106000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,42771000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,19452000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Current Debt,
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,3924000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,40000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Payables,3584000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,34000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,3550000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,269656000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,113307000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,2000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,25934000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,1006000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,1006000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,1362000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,1362000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,16829000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,16829000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,7472000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-15709000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,23181000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,10045000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,13136000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,156349000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,124000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,9218000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,35871000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,33235000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-2239000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,35474000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,77901000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,21475000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,56426000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,40802000.0
+BEACON.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,15624000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Net Debt,
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,135718000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,140117000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,45202000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,135718000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,140117000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,140117000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,140117000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,140117000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,89430000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,20489000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,30198000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,30198000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,85313000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2498000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2498000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,82815000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,51099000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,15035000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Current Debt,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,3130000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,859000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Payables,3591000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,3591000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,225430000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,97412000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,22792000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,1006000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,1006000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,1191000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,1191000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,4399000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,4399000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,11096000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-10381000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,21477000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,8118000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,13359000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,128017000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,164000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,2697000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,1253000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,41615000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1272000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,42887000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,82288000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,76261000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,6027000.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,0.0
+BEACON.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,6027000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Net Debt,
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,101093000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,101654000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,40408000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,101093000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,101654000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,101654000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,101654000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,101654000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,50967000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,20489000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,30198000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,30198000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,66860000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,2201000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,-1000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,2202000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,64659000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,41019000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,12800000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Current Debt,
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,3480000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Payables,6582000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,6582000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,168514000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,63449000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,1000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,13106000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,1010000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,1010000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,1008000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,1008000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,561000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,561000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,11592000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-5011000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,16603000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,5809000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,7286000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,3508000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,105067000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,2288000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,747000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,33916000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1721000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,35637000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,68116000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,53986000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,14130000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,4567000.0
+BEACON.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,9563000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Net Debt,10896000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,20000000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,40297000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,61495000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,23011000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,40297000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,41495000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,61495000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,41495000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,41495000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,14809000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,461000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,26225000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,26225000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,45367000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,21682000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,1682000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,0.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,20000000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt,20000000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,23685000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,10462000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,5597000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Current Debt,
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,2486000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Payables,4891000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,4891000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,86862000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,40165000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,1000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,8132000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,65000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,575000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,575000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,809000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,809000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,1198000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,1198000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,4996000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-2379000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,7375000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,0.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,3971000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,3404000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,0.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,46696000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,1000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,2389000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,90000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,12800000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-938000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,13740000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,31416000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,22312000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,9104000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,4000000.0
+BEACON.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,5104000.0

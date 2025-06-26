@@ -1,0 +1,391 @@
+symbol,statement_type,period_end,line_item,value
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Treasury Shares Number,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Ordinary Shares Number,267771097.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Share Issued,267771097.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Debt,345300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Tangible Book Value,25353100000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Invested Capital,26645600000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Working Capital,7541100000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Net Tangible Assets,25353100000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Capital Lease Obligations,345300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Common Stock Equity,26645600000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Capitalization,26645600000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Equity Gross Minority Interest,26645600000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Minority Interest,0.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Stockholders Equity,26645600000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Equity Interest,26377800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Retained Earnings,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Additional Paid In Capital,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Capital Stock,267800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Common Stock,267800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Liabilities Net Minority Interest,2976700000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,1062000000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Liabilities,64600000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Liabilities,788200000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,201400000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Capital Lease Obligation,201400000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Provisions,7800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Liabilities,1914700000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Current Liabilities,283400000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Deferred Taxes Liabilities,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Debt And Capital Lease Obligation,143900000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Capital Lease Obligation,143900000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Provisions,1062800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Payables,243000000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Payable,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Dividends Payable,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Tax Payable,15300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Accounts Payable,227700000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Assets,29622300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Total Non Current Assets,20166500000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Non Current Assets,3955200000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Prepaid Assets,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Non Current Deferred Taxes Assets,394200000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Investmentin Financial Assets,2921300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Held To Maturity Securities,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Available For Sale Securities,2921300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Long Term Equity Investment,187400000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Investmentsin Associatesat Cost,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Goodwill And Other Intangible Assets,1292500000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Intangible Assets,5000000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Goodwill,1287500000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Net PPE,11305300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Accumulated Depreciation,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Gross PPE,11305300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Construction In Progress,2786200000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Properties,8519100000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Machinery Furniture Equipment,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Buildings And Improvements,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Land And Improvements,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Properties,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Current Assets,9455800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Current Assets,1356500000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Assets Held For Sale Current,2435900000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Restricted Cash,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Prepaid Assets,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Inventory,190700000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Finished Goods,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Raw Materials,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Receivables,607400000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Accounts Receivable,53500000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Gross Accounts Receivable,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,4811800000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Other Short Term Investments,3918300000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash And Cash Equivalents,893500000.0
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash Equivalents,
+DELTACORP.NS,balance_sheet,2025-03-31 00:00:00,Cash Financial,
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Treasury Shares Number,0.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Ordinary Shares Number,267771097.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Share Issued,267771097.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Debt,515100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Tangible Book Value,21198700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Invested Capital,25178100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Working Capital,6532100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Net Tangible Assets,21198700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Capital Lease Obligations,515100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Common Stock Equity,25178100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Capitalization,25178100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Equity Gross Minority Interest,25178100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Minority Interest,0.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Stockholders Equity,25178100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Equity Interest,339200000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Retained Earnings,10079200000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Additional Paid In Capital,12297800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Capital Stock,267800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Common Stock,267800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Liabilities Net Minority Interest,3478800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,918700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Liabilities,
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,44400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Liabilities,526800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,347500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Capital Lease Obligation,347500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Provisions,44400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Liabilities,2560100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Current Liabilities,433200000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Deferred Taxes Liabilities,57000000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Debt And Capital Lease Obligation,167600000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Capital Lease Obligation,167600000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,193700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Provisions,1083100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Payables,802300000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Payable,435800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Dividends Payable,12600000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Tax Payable,57000000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Accounts Payable,353900000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Assets,28656900000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Total Non Current Assets,19564700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Non Current Assets,3120500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Prepaid Assets,866700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Non Current Deferred Taxes Assets,105500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Investmentin Financial Assets,1130100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Held To Maturity Securities,51300000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Available For Sale Securities,1078800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Long Term Equity Investment,174700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Investmentsin Associatesat Cost,174700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Goodwill And Other Intangible Assets,3979400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Intangible Assets,74000000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Goodwill,3905400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Net PPE,13021300000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Accumulated Depreciation,-4159100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Gross PPE,17180400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Construction In Progress,4062500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Properties,584700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Machinery Furniture Equipment,4316500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Buildings And Improvements,5121000000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Land And Improvements,3095700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Properties,0.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Current Assets,9092200000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Current Assets,1448400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Assets Held For Sale Current,33300000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Restricted Cash,43200000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Prepaid Assets,1433900000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Inventory,186100000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Finished Goods,168700000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Raw Materials,17400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Receivables,666500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Accounts Receivable,102400000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-2900000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Gross Accounts Receivable,105300000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,6626800000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Other Short Term Investments,5357300000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash And Cash Equivalents,1269500000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash Equivalents,296000000.0
+DELTACORP.NS,balance_sheet,2024-03-31 00:00:00,Cash Financial,973500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Treasury Shares Number,
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Ordinary Shares Number,267595597.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Share Issued,267595597.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Debt,675100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Tangible Book Value,18189800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Invested Capital,22189900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Working Capital,8254700000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Net Tangible Assets,18189800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Capital Lease Obligations,675100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Common Stock Equity,22189900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Capitalization,22189900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Equity Gross Minority Interest,22210800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Minority Interest,20900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Stockholders Equity,22189900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Equity Interest,410800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Retained Earnings,7769200000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Additional Paid In Capital,12268100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Capital Stock,267600000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Common Stock,267600000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Liabilities Net Minority Interest,3257700000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,998900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Liabilities,
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,21000000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Liabilities,444100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,533800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Capital Lease Obligation,533800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Provisions,47300000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Liabilities,2258800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Current Liabilities,230500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Deferred Taxes Liabilities,18500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Debt And Capital Lease Obligation,141300000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Capital Lease Obligation,141300000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,140500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Provisions,1069200000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Payables,537700000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Payable,232700000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Dividends Payable,11900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Tax Payable,18500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Accounts Payable,293100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Assets,25468500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Total Non Current Assets,14955000000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Non Current Assets,1949200000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Prepaid Assets,611600000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Non Current Deferred Taxes Assets,104100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Investmentin Financial Assets,89100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Held To Maturity Securities,0.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Available For Sale Securities,89100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Long Term Equity Investment,164900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Investmentsin Associatesat Cost,164900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Goodwill And Other Intangible Assets,4000100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Intangible Assets,94300000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Goodwill,3905800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Net PPE,9711500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Accumulated Depreciation,-3891200000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Gross PPE,13602700000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Construction In Progress,1603800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Properties,575500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Machinery Furniture Equipment,4286800000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Buildings And Improvements,5263700000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Land And Improvements,1872900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Properties,0.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Current Assets,10513500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Current Assets,1249900000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Assets Held For Sale Current,49400000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Restricted Cash,41100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Prepaid Assets,1228100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Inventory,1934000000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Finished Goods,1909500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Raw Materials,24500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Receivables,460200000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Accounts Receivable,51600000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-400000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Gross Accounts Receivable,52000000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,6749100000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Other Short Term Investments,5503600000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash And Cash Equivalents,1245500000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash Equivalents,258200000.0
+DELTACORP.NS,balance_sheet,2023-03-31 00:00:00,Cash Financial,987300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Treasury Shares Number,
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Ordinary Shares Number,267257532.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Share Issued,267257532.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Debt,453300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Tangible Book Value,16184100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Invested Capital,20215200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Working Capital,7041300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Net Tangible Assets,16184100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Capital Lease Obligations,453300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Common Stock Equity,20215200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Capitalization,20215200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Equity Gross Minority Interest,20226800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Minority Interest,11600000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Stockholders Equity,20215200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Equity Interest,414400000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Retained Earnings,5467200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Additional Paid In Capital,12252900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Capital Stock,267300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Common Stock,267300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Liabilities Net Minority Interest,2700000000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,585800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Liabilities,
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,24900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Liabilities,162800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,398100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Capital Lease Obligation,398100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Provisions,24900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Liabilities,2114200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Current Liabilities,261000000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Deferred Taxes Liabilities,5500000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Debt And Capital Lease Obligation,55200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Capital Lease Obligation,55200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,127700000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Provisions,1039300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Payables,458500000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Payable,300300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Dividends Payable,10300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Tax Payable,257600000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Accounts Payable,147900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Assets,22926800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Total Non Current Assets,13771300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Non Current Assets,-8300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Prepaid Assets,133600000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Non Current Deferred Taxes Assets,238700000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Investmentin Financial Assets,214100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Held To Maturity Securities,0.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Available For Sale Securities,214100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Long Term Equity Investment,156800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Investmentsin Associatesat Cost,156800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Goodwill And Other Intangible Assets,4031100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Intangible Assets,125300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Goodwill,3905800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Net PPE,8744200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Accumulated Depreciation,-3429300000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Gross PPE,12173500000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Construction In Progress,802700000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Properties,1168000000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Machinery Furniture Equipment,4081500000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Buildings And Improvements,4237100000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Land And Improvements,1884200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Properties,0.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Current Assets,9155500000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Current Assets,314200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Assets Held For Sale Current,36200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Restricted Cash,66600000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Prepaid Assets,411900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Inventory,1451000000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Finished Goods,1427400000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Raw Materials,23600000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Receivables,158200000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Accounts Receivable,30800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-2000000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Gross Accounts Receivable,32800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,7000800000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Other Short Term Investments,6038900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash And Cash Equivalents,961900000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash Equivalents,222600000.0
+DELTACORP.NS,balance_sheet,2022-03-31 00:00:00,Cash Financial,739300000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Treasury Shares Number,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Ordinary Shares Number,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Share Issued,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Debt,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Tangible Book Value,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Invested Capital,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Working Capital,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Net Tangible Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Capital Lease Obligations,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Common Stock Equity,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Capitalization,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Equity Gross Minority Interest,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Minority Interest,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Stockholders Equity,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Equity Interest,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Retained Earnings,4984400000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Additional Paid In Capital,12209300000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Capital Stock,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Common Stock,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Liabilities Net Minority Interest,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Liabilities Net Minority Interest,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Liabilities,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Pension And Other Postretirement Benefit Plans,29000000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Liabilities,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Debt And Capital Lease Obligation,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Capital Lease Obligation,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Provisions,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Liabilities,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Current Liabilities,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Deferred Taxes Liabilities,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Debt And Capital Lease Obligation,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Capital Lease Obligation,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Pensionand Other Post Retirement Benefit Plans Current,74600000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Provisions,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Payables,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Payable,36200000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Dividends Payable,8800000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Tax Payable,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Accounts Payable,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Total Non Current Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Non Current Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Prepaid Assets,55400000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Non Current Deferred Taxes Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Investmentin Financial Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Held To Maturity Securities,103700000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Available For Sale Securities,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Long Term Equity Investment,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Investmentsin Associatesat Cost,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Goodwill And Other Intangible Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Intangible Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Goodwill,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Net PPE,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Accumulated Depreciation,-2974600000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Gross PPE,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Construction In Progress,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Properties,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Machinery Furniture Equipment,4047800000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Buildings And Improvements,4184100000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Land And Improvements,2092900000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Properties,0.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Current Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Current Assets,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Assets Held For Sale Current,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Restricted Cash,38800000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Prepaid Assets,595100000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Inventory,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Finished Goods,1133600000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Raw Materials,22000000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Receivables,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Accounts Receivable,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Allowance For Doubtful Accounts Receivable,-1900000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Gross Accounts Receivable,38600000.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash Cash Equivalents And Short Term Investments,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Other Short Term Investments,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash And Cash Equivalents,
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash Equivalents,0.0
+DELTACORP.NS,balance_sheet,2021-03-31 00:00:00,Cash Financial,597400000.0

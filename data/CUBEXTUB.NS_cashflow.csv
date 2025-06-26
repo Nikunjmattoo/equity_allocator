@@ -1,0 +1,166 @@
+symbol,statement_type,period_end,line_item,value
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-12449000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-4689000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,End Cash Position,18957000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,38300000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,-19343000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,13046000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-24788000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,37834000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,37834000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-24629000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,651000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,20716000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-4689000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-4689000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-7760000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-18262000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-91639000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Liabilities,136204000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,-30217000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Change In Payable,104683000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-161469000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-146413000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,4072000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,12124000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Depreciation,12124000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,376000.0
+CUBEXTUB.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,80794000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,23826000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-10517000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,End Cash Position,38300000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,8592000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,29708000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-17131000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-17131000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,0.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,0.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,12496000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,6432000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,17261000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-10517000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-10517000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,34343000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-16048000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-27562000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Liabilities,20921000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,-32049000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Change In Payable,7803000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,67299000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-89026000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,-130000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,13472000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Depreciation,13472000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-638000.0
+CUBEXTUB.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,52947000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,-6720000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-7922000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,End Cash Position,8592000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,10159000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,-1567000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-7449000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-7818000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,1680000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,1680000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,4680000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,14468000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,-7922000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-7922000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,1202000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-11971000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,-36795000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Liabilities,29312000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,-1118000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Change In Payable,-44655000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-49972000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,29413000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-5339000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,14074000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Depreciation,14074000.0
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,
+CUBEXTUB.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,41233000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-7087000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-459000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,11381000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-18902000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,End Cash Position,10159000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-1000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,10454000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-294000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,-7974000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,1000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-5802000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,-965000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,-965000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-459000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,11381000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4135000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,1000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,15061000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-18902000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-18902000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,11815000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-4120000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,-14485000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Liabilities,116313000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,-22372000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Change In Payable,-38501000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,16542000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-86528000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-8052000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,13790000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Depreciation,13790000.0
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,
+CUBEXTUB.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,24680000.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,-326000.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,0.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,3.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,1000.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,-326000.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,0.0
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Liabilities,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+CUBEXTUB.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,

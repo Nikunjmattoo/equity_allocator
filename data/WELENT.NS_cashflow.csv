@@ -1,0 +1,286 @@
+symbol,statement_type,period_end,line_item,value
+WELENT.NS,cashflow,2025-03-31 00:00:00,Free Cash Flow,-3250900000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Repayment Of Debt,-281800000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Debt,7510600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Issuance Of Capital Stock,17600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Capital Expenditure,-516000000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,End Cash Position,9737200000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Beginning Cash Position,7280200000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Changes In Cash,2457400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Financing Cash Flow,5358600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Other Financing Charges,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Interest Paid Cff,-1461700000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Cash Dividends Paid,-408800000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Common Stock Issuance,17600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Common Stock Payments,0.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Common Stock Issuance,17600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Issuance Payments Of Debt,7268100000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Short Term Debt Issuance,39300000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Payments,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Short Term Debt Issuance,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Long Term Debt Issuance,7228800000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Payments,-281800000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Long Term Debt Issuance,7510600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Investing Cash Flow,-166300000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Other Investing Changes,688500000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Interest Received Cfi,474300000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Dividends Received Cfi,5400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Investment Purchase And Sale,339400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Investment,339400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Investment,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Business Purchase And Sale,-1166700000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Sale Of Business,34000000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Business,-1200700000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Intangibles Purchase And Sale,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of Intangibles,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net PPE Purchase And Sale,-507200000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Sale Of PPE,8800000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Purchase Of PPE,-516000000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Operating Cash Flow,-2734900000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Taxes Refund Paid,-1377800000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Change In Working Capital,-6730500000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Change In Other Current Assets,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Change In Payable,1471900000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Change In Inventory,-60000000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Change In Receivables,-8142400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Other Non Cash Items,219100000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Stock Based Compensation,62400000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Provisionand Write Offof Assets,-3200000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Depreciation And Amortization,509000000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Amortization Cash Flow,
+WELENT.NS,cashflow,2025-03-31 00:00:00,Depreciation,509000000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Pension And Employee Benefit Expense,22100000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Investment Securities,-387500000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Gain Loss On Sale Of PPE,5600000.0
+WELENT.NS,cashflow,2025-03-31 00:00:00,Net Income From Continuing Operations,4902500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Free Cash Flow,-4150500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Repurchase Of Capital Stock,-3198500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Repayment Of Debt,-2842900000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Debt,2852300000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Issuance Of Capital Stock,11800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Capital Expenditure,-705700000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,End Cash Position,7280200000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,65500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Beginning Cash Position,16161300000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Changes In Cash,-8946600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Financing Cash Flow,-4863100000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Other Financing Charges,
+WELENT.NS,cashflow,2024-03-31 00:00:00,Interest Paid Cff,-1166000000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Cash Dividends Paid,-136400000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Common Stock Issuance,-3186700000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Common Stock Payments,-3198500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Common Stock Issuance,11800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Issuance Payments Of Debt,-323900000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Short Term Debt Issuance,-333300000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Payments,-254100000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Short Term Debt Issuance,49500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Long Term Debt Issuance,9400000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Payments,-2842900000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Long Term Debt Issuance,2852300000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Investing Cash Flow,-638700000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Other Investing Changes,416000000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Interest Received Cfi,562500000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Dividends Received Cfi,71200000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Investment Purchase And Sale,422800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Investment,422800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Investment,0.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Business Purchase And Sale,-1612900000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Sale Of Business,100000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Business,-1613000000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Intangibles Purchase And Sale,-2600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of Intangibles,-2600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net PPE Purchase And Sale,-498800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Sale Of PPE,206900000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Purchase Of PPE,-705700000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Operating Cash Flow,-3444800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Taxes Refund Paid,-1234200000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Change In Working Capital,-6972400000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Change In Other Current Assets,
+WELENT.NS,cashflow,2024-03-31 00:00:00,Change In Payable,-4551100000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Change In Inventory,225600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Change In Receivables,-2646900000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Other Non Cash Items,9600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Stock Based Compensation,8800000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Provisionand Write Offof Assets,429000000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Depreciation And Amortization,275600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Amortization Cash Flow,35300000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Depreciation,275600000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Pension And Employee Benefit Expense,23200000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Investment Securities,-449100000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,0.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Gain Loss On Sale Of PPE,-16400000.0
+WELENT.NS,cashflow,2024-03-31 00:00:00,Net Income From Continuing Operations,4491000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Free Cash Flow,1878000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Repurchase Of Capital Stock,0.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Repayment Of Debt,-3527000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Debt,3782400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Issuance Of Capital Stock,0.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Capital Expenditure,-1568700000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,End Cash Position,15994200000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,-918100000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Beginning Cash Position,2616400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Changes In Cash,14295900000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Financing Cash Flow,-2036800000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Other Financing Charges,100000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Interest Paid Cff,-897900000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Cash Dividends Paid,-1349800000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Common Stock Issuance,0.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Common Stock Payments,0.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Common Stock Issuance,0.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Issuance Payments Of Debt,255400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Short Term Debt Issuance,2282400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Payments,-250000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Short Term Debt Issuance,2532400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Long Term Debt Issuance,-2027000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Payments,-3277000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Long Term Debt Issuance,1250000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Investing Cash Flow,12886000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Other Investing Changes,-1071600000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Interest Received Cfi,618100000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Dividends Received Cfi,6100000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Investment Purchase And Sale,14092500000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Investment,14106000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Investment,-13500000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Business Purchase And Sale,-372000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Sale Of Business,
+WELENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Business,-372000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Intangibles Purchase And Sale,-1506000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of Intangibles,-1506000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net PPE Purchase And Sale,210500000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Sale Of PPE,273200000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Purchase Of PPE,-62700000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Operating Cash Flow,3446700000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Taxes Refund Paid,-768900000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Change In Working Capital,1097100000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Change In Other Current Assets,0.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Change In Payable,6167400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Change In Inventory,-383400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Change In Receivables,-4686900000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Other Non Cash Items,-5541700000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Stock Based Compensation,-40400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Provisionand Write Offof Assets,-249500000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Depreciation And Amortization,131000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Amortization Cash Flow,35100000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Depreciation,131000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Pension And Employee Benefit Expense,61000000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Investment Securities,-234400000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+WELENT.NS,cashflow,2023-03-31 00:00:00,Gain Loss On Sale Of PPE,-52600000.0
+WELENT.NS,cashflow,2023-03-31 00:00:00,Net Income From Continuing Operations,7976500000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Free Cash Flow,-1487600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Repurchase Of Capital Stock,
+WELENT.NS,cashflow,2022-03-31 00:00:00,Repayment Of Debt,-7421000000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Debt,10293700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Issuance Of Capital Stock,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Capital Expenditure,-4358300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,End Cash Position,2616400000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WELENT.NS,cashflow,2022-03-31 00:00:00,Beginning Cash Position,3369700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Changes In Cash,-753300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Financing Cash Flow,1246600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Other Financing Charges,100000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Interest Paid Cff,-1360800000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Cash Dividends Paid,-223400000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Common Stock Issuance,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Common Stock Payments,
+WELENT.NS,cashflow,2022-03-31 00:00:00,Common Stock Issuance,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Issuance Payments Of Debt,2872700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Short Term Debt Issuance,-894600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Payments,-894600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Short Term Debt Issuance,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Long Term Debt Issuance,3767300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Payments,-6526400000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Long Term Debt Issuance,10293700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Investing Cash Flow,-4870600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Other Investing Changes,-810500000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Interest Received Cfi,168300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Dividends Received Cfi,1300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Investment Purchase And Sale,11400000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Investment,11400000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Investment,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Business Purchase And Sale,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Sale Of Business,
+WELENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Business,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Intangibles Purchase And Sale,-4289700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of Intangibles,-4289700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net PPE Purchase And Sale,-43100000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Sale Of PPE,25500000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Purchase Of PPE,-68600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Operating Cash Flow,2870700000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Taxes Refund Paid,-338600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Change In Working Capital,1685200000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Change In Other Current Assets,0.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Change In Payable,6867600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Change In Inventory,-431800000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Change In Receivables,-4750600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Other Non Cash Items,-284600000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Stock Based Compensation,28500000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Provisionand Write Offof Assets,-2000000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Depreciation And Amortization,159300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Amortization Cash Flow,35200000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Depreciation,124100000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Pension And Employee Benefit Expense,13400000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Investment Securities,-35000000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+WELENT.NS,cashflow,2022-03-31 00:00:00,Gain Loss On Sale Of PPE,-11300000.0
+WELENT.NS,cashflow,2022-03-31 00:00:00,Net Income From Continuing Operations,1662600000.0
+WELENT.NS,cashflow,2021-03-31 00:00:00,Free Cash Flow,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Repurchase Of Capital Stock,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Repayment Of Debt,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Debt,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Issuance Of Capital Stock,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Capital Expenditure,
+WELENT.NS,cashflow,2021-03-31 00:00:00,End Cash Position,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Other Cash Adjustment Outside Changein Cash,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Beginning Cash Position,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Changes In Cash,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Financing Cash Flow,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Other Financing Charges,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Interest Paid Cff,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Cash Dividends Paid,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Common Stock Issuance,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Common Stock Payments,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Common Stock Issuance,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Issuance Payments Of Debt,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Short Term Debt Issuance,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Payments,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Short Term Debt Issuance,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Long Term Debt Issuance,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Payments,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Long Term Debt Issuance,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Investing Cash Flow,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Other Investing Changes,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Interest Received Cfi,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Dividends Received Cfi,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Investment Purchase And Sale,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Investment,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Investment,-664900000.0
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Business Purchase And Sale,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Sale Of Business,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Business,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Intangibles Purchase And Sale,-7455600000.0
+WELENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of Intangibles,-7455600000.0
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net PPE Purchase And Sale,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Sale Of PPE,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Purchase Of PPE,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Operating Cash Flow,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Taxes Refund Paid,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Change In Working Capital,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Change In Other Current Assets,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Change In Payable,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Change In Inventory,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Change In Receivables,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Other Non Cash Items,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Stock Based Compensation,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Provisionand Write Offof Assets,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Depreciation And Amortization,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Amortization Cash Flow,37300000.0
+WELENT.NS,cashflow,2021-03-31 00:00:00,Depreciation,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Pension And Employee Benefit Expense,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Investment Securities,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Foreign Currency Exchange Gain Loss,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Gain Loss On Sale Of PPE,
+WELENT.NS,cashflow,2021-03-31 00:00:00,Net Income From Continuing Operations,
